@@ -12,11 +12,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 12 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
 
 Stock prices, the prices of shares in companies, crashed in October 1929, and by 1933 about one of every four workers had no job. In Chicago and Pittsburgh, more than half of Black workers had no job in 1932, by later estimates. In 1935 members of Congress and President Franklin D. Roosevelt set up old-age pensions and unemployment insurance in the Social Security Act. The pensions were regular payments to people too old to work, and the insurance paid workers who had lost their jobs.
 
-**Farm and household workers.** The law did not include farmworkers and domestic workers, people who cleaned, cooked and cared for children in other people's homes. Most Black workers did those two jobs, and two accounts disagree about who made that choice. In 1944, with factories making goods for the Second World War, unemployment fell to 1.2 percent.
+**Farm and household workers.** The law did not include farmworkers and domestic workers, people who cleaned, cooked and cared for children in other people's homes. Most Black workers did those two jobs, so most of them could get neither payment. Two accounts disagree about who left these workers out. One points to Southern members of Congress, and the other to the Treasury Secretary, who asked for the change for reasons that had to do with collecting the tax.
+
+**War work.** Unemployment fell to 1.2 percent in 1944, when factories were making goods for the Second World War.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="henry-ford-economy" name="Henry Ford" movie="Henry Ford (American Experience, 2013)" kind="famous" status="verified" -->
@@ -42,13 +44,13 @@ Ford fought unions, the groups workers form to bargain with their employer, for 
 <!-- hb-story:end slug="henry-ford-economy" -->
 
 <!-- hb-zoom level="span" label="The crash and the Great Depression" -->
-The Dow Jones average, a number built from the stock prices of a group of large companies, fell by 89 percent between September 1929 and July 1932. It rose from 63 in August 1921 to 381 on September 3, 1929. Prices fell hard on Black Thursday, October 24, 1929, and again on Black Tuesday, October 29. By July 8, 1932, the Dow stood at 41.
+The Dow Jones average is a number built from the stock prices of a group of large companies. It climbed through most of the 1920s and reached 381 on September 3, 1929. Prices fell hard on Black Thursday, October 24, 1929, and again on Black Tuesday, October 29. By July 8, 1932, the Dow stood at 41, about 89 percent below its peak.
 
-The hard times of the 1930s are called the Great Depression. By 1933 about 25 percent of workers, one in four, had no job. Government officials and scholars made that estimate later, because nobody counted the jobless every month at the time.
+The hard times of the 1930s are called the Great Depression. By 1933 about 25 percent of workers, one in four, had no job, and about 9,000 of the country's 25,000 banks had failed and closed. Government officials and scholars made the jobless estimate later, because nobody counted the jobless every month at the time.
 
-**Output and prices.** GDP, the total value of all the goods and services made in the country in a year, fell from about 104 billion dollars in 1929 to about 56 billion dollars in 1933. Prices fell too: from October 1929 to April 1933, the prices of the things people bought every day dropped by about 27 percent.
+**Output and prices.** GDP, the total value of all the goods and services made in the country in a year, fell from about 104 billion dollars in 1929 to about 56 billion dollars in 1933. Part of that drop came only from lower prices: from October 1929 to April 1933, the prices of the things people bought every day fell by about 27 percent.
 
-Counted as the amount of goods and services, with the fall in prices taken out, output fell by about 30 percent. About 9,000 of the country's 25,000 banks failed and closed by 1933.
+Economists take the change in prices out of GDP to see how much less the country actually made. Counted that way, as real GDP, output fell by about 30 percent.
 
 Hungry people stood in breadlines, lines for free food. Some lived in shantytowns, groups of shacks, which people called Hoovervilles.
 <!-- /hb-zoom -->
@@ -67,11 +69,15 @@ Members of Congress later voted to pay the bonus over the veto of President Fran
 ### Benjamin Roth
 
 > **Who:** A lawyer in Youngstown, Ohio, who kept a diary of the Great Depression for more than ten years.
-> **When and where:** Youngstown, Ohio. He began the diary in June 1931.
+> **When and where:** Youngstown, Ohio. He began the diary in 1931.
 
-**For more than ten years, a lawyer wrote down what things cost.**
+**People sold their frozen bank savings for 50 cents on the dollar.**
 
-Benjamin Roth, a lawyer in Youngstown, Ohio, began a diary of the Depression in June 1931 and kept it for more than ten years. His diary records the banks that closed and the stocks that became worthless. It records prices, too, and what lawyers and workers earned.
+Benjamin Roth's diary records the banks that closed in Youngstown, the stocks that became worthless, prices, and what lawyers and workers earned. When the banks closed, people could not get their savings out. Even after the banks reopened, savers could take out only a small part. Roth wrote down how people with cash bought up these frozen bank accounts for 50 cents on the dollar, half of what was in them.
+
+When cash ran out, he wrote, people turned to barter, trading goods instead of paying money, and to scrip, paper that stood in for money.
+
+**The umbrella.** In 1931 Roth wrote that "banks are absolutely terrible in their insistence on payments of notes and mortgages," meaning that bankers demanded that borrowers pay back their loans. "It is the old story of lending you an umbrella when the sun is shining and then demanding it back when it rains."
 
 His son, Daniel B. Roth, and James Ledbetter edited the diary in 2009, and the publisher PublicAffairs printed it as a book, *The Great Depression: A Diary*.
 <!-- hb-story:end slug="benjamin-roth-economy" -->
@@ -81,7 +87,9 @@ Black workers lost their jobs first and at higher rates than white workers. Empl
 
 More than half of Black workers in Chicago and Pittsburgh had no job in 1932, History.com reports, drawing on the Library of Congress. About a quarter of white workers in Northern cities had none. In Atlanta in 1934, nearly 70 percent of Black workers had no job. These numbers are all later estimates, because nobody kept an official count by race.
 
-**Forced to Mexico.** Government officials and private employers forced people whose families came from Mexico to leave for Mexico, starting in 1929. In 2005 California's lawmakers found that about 400,000 American citizens and legal residents had been forced to go from California alone. They estimated that about two million people were forced out across the country, and that about 1.2 million of them had been born in the United States. Local officials sold some families' property to pay for sending them away.
+**Forced to Mexico.** Government officials and private employers forced people whose families came from Mexico to leave for Mexico, starting in 1929. Federal officials and the officials of local welfare agencies blamed Mexican immigrants for taking scarce jobs and for costing public money when they got relief, the aid given to people without work.
+
+California's lawmakers found in 2005 that about 400,000 American citizens and legal residents had been forced to go from California alone. They estimated that about two million people were forced out across the country, and that about 1.2 million of them had been born in the United States. Local officials sold some families' property to pay for sending them away.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The New Deal" -->
@@ -101,37 +109,39 @@ The Works Progress Administration, or WPA, ran from 1935 to 1943. About 8.5 mill
 > **When and where:** Secretary of Labor from 1933 to 1945. She lived from 1880 to 1965.
 > **Movie:** Summoned: Frances Perkins and the General Welfare (2020), a documentary about her.
 
-**She wanted farmworkers covered, but the law as passed left them out.**
+**Her committee wrote the plan for Social Security in under seven months.**
 
 As chair of the Committee on Economic Security, Frances Perkins led the planning of Social Security. She was Secretary of Labor from 1933 to 1945 and the first woman in a United States Cabinet, the group of the president's top officials.
 
 **The committee.** President Roosevelt set up the committee on June 29, 1934, and its members planned old-age pensions and unemployment insurance. They sent their report to Roosevelt on January 15, 1935, and he signed the Social Security Act on August 14, 1935.
 
-According to the historian Larry DeWitt, Perkins wanted farmworkers and domestic workers covered by the new law, and so did Harry Hopkins, the official in charge of aid to the jobless. Those workers were not in the law as it passed.
+According to the historian Larry DeWitt, Perkins wanted farmworkers and domestic workers covered by the new law, and so did Harry Hopkins, the official in charge of aid to the jobless.
 <!-- hb-story:end slug="frances-perkins-economy" -->
 
 <!-- hb-zoom level="span" label="Who was left out of Social Security" -->
-Farmworkers and domestic workers could not get old-age pensions or unemployment insurance under the Social Security Act of 1935. In 1930, 65 of every 100 Black workers did one of these two kinds of work. So about two-thirds of Black workers could get neither payment, and in the South the share was higher. Derrick Johnson, president of the NAACP, a civil rights group, gave these figures in 2020.
+Of every 100 Black workers in 1930, 65 were farmworkers or domestic workers, the two kinds of work the Social Security Act of 1935 did not include. So about two-thirds of Black workers could get neither an old-age pension nor unemployment insurance, and in the South the share was higher. The president of the NAACP, a civil rights group, gave these figures in 2020.
 
 **What Houston said.** Charles Hamilton Houston spoke for the NAACP at the hearings on the bill in 1935. He used the word Negro, the common word for Black people at that time. The bill, he said, would leave out "Negro sharecroppers and Negro cash tenants, who are just about at the bottom of the economic scale." Sharecroppers paid for the land they farmed with part of the crop, and cash tenants paid in money.
 
 Houston called the law "a sieve with the holes just big enough for the majority of Negroes to fall through," comparing it to a strainer full of holes.
 
-**Who made the choice.** Two accounts disagree about who made the choice to leave these workers out. Jon Dubin, in a 2024 article in a Stanford law journal, points to Southern members of Congress.
+**Who made the choice.** Two accounts disagree about who left these workers out. Jon Dubin, in a 2024 article in a Stanford law journal, points to Southern members of Congress. One of them, Representative Howard Smith of Virginia, argued for keeping Black sharecroppers and domestic workers dependent on their employers.
 
-Senator Harry Byrd of Virginia opposed a rule that payments be high enough for "decency and health." He said that rule "might serve as an entering wedge," a first step that opens the way to more, "for federal interference with the handling of the Negro question." Byrd did not want federal officials to have a say in how matters touching Black people were handled.
+Dubin also points to Senator Harry Byrd of Virginia, whose words show what Southern members feared from the bill. Byrd opposed a rule that payments be high enough for "decency and health." He said that rule "might serve as an entering wedge," a first step that opens the way to more, "for federal interference with the handling of the Negro question." Byrd did not want federal officials to have a say in how matters touching Black people were handled.
 
-Edwin Witte, executive director of the Committee on Economic Security, reported that Byrd's position was "supported by nearly all of the southern members of both committees," the two committees in Congress that worked on the bill. Representative Howard Smith of Virginia argued for keeping Black sharecroppers and domestic workers dependent on their employers.
+The executive director of Perkins's committee reported that Byrd's position was "supported by nearly all of the southern members of both committees," the two committees in Congress that worked on the bill.
 
 **The other account.** Larry DeWitt, a historian at the Social Security Administration, gave a different account in 2010. He found that Treasury Secretary Henry Morgenthau asked for the changes to the bill that left these workers out, for reasons that had to do with collecting the tax. DeWitt wrote that charges of racial bias, unfair treatment because of race, in the founding of Social Security did "not hold up under detailed scrutiny," meaning close study.
 
-**The changes.** Members of Congress changed the law in 1950 to cover farm and domestic workers who worked regularly for one employer, and in 1954 they covered the rest. Representative Smith opposed these changes too. Of eight House members who voted against them, six were Southern Democrats. Senators John Stennis of Mississippi and Harry Byrd also opposed them.
+**The changes.** Members of Congress changed the law in 1950 to cover farm and domestic workers who worked regularly for one employer, and in 1954 they covered the rest. Representative Smith opposed these changes too. Of eight House members who voted against them, six were Southern Democrats. In the Senate, Byrd opposed them, and so did a senator from Mississippi.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Farm payments and evicted sharecroppers" -->
 Federal farm payments in the 1930s went to landowners, and many sharecroppers lost their places on the land. The landowners are also called landlords, or planters.
 
-**Paid to grow less.** Members of Congress passed the Agricultural Adjustment Act in May 1933. Under it, officials of the Agricultural Adjustment Administration, or AAA, ran a farm program under Agriculture Secretary Henry Wallace, and they paid farmers to grow less. That year farmers plowed under about 10 million acres of growing cotton, turning the plants back into the soil. AAA officials bought about 6 million pigs and had them killed.
+**Paid to grow less.** Members of Congress passed the Agricultural Adjustment Act in May 1933. Under it, officials of the Agricultural Adjustment Administration, or AAA, ran a farm program under Agriculture Secretary Henry Wallace, and they paid farmers to grow less. Their aim was to raise farm prices: with less cotton and pork for sale, buyers would have to pay more for them.
+
+That year farmers plowed under about 10 million acres of growing cotton, turning the plants back into the soil. AAA officials bought about 6 million pigs and had them killed.
 
 **Who got the checks.** Under the AAA's cotton contracts of 1934 and 1935, officials paid landowners to take land out of cotton. Agriculture Secretary Henry Wallace "rented" about three-eighths of the country's cotton land in this way. Sharecroppers got only about 11 percent of the payments.
 
@@ -149,7 +159,14 @@ The justices of the Supreme Court ruled the Agricultural Adjustment Act unconsti
 <!-- hb-zoom level="span" label="War work ends mass unemployment" -->
 Factory workers made war goods during the Second World War, and unemployment fell from 14.6 percent in 1939 and 1940 to 1.2 percent in 1944. The figure for 1939 and 1940 was estimated later. The official yearly records begin in 1944, and 1.2 percent is the lowest rate in them.
 
-Workers in American factories built 299,230 military aircraft from January 1940 to August 1945. Real GDP, output counted with the changes in prices taken out, rose about 72 percent from 1940 to 1945. By 1945 the United States made about half of all the manufactured goods in the world.
+Workers in American factories built 299,230 military aircraft from January 1940 to August 1945. Real GDP rose about 72 percent from 1940 to 1945. By 1945 the United States made about half of all the manufactured goods in the world.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" label="By 1950" -->
+**If you remember one thing:** During the Great Depression, members of Congress set up the first national payments for people out of work or too old to work.
+**In 1929:** The federal government paid no unemployment insurance and no old-age pensions.
+**In 1950:** Old-age checks had gone out since 1940, and members of Congress changed the law to cover farm and domestic workers who worked regularly for one employer.
+**Next:** In 1956 a ship carried 58 shipping containers from Port Newark to Houston, and in 1985 three musicians played the first Farm Aid concert to raise money for farm families.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -159,7 +176,7 @@ Workers in American factories built 299,230 military aircraft from January 1940 
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 7 minutes**
 
-The income of the typical American family roughly doubled between 1947 and 1973, even after counting the rise in prices. Families who were poor, in the middle and rich all gained. In the 1970s prices and unemployment rose at the same time, and after June 1979, when factory jobs peaked at 19.6 million, their number fell.
+The income of the typical American family roughly doubled between 1947 and 1973, counted with the rise in prices taken out. Families who were poor, in the middle and rich all gained. In the 1970s prices and unemployment rose at the same time, and after June 1979, when factory jobs peaked at 19.6 million, their number fell.
 
 **Mills and farms.** About 50,000 people in the Mahoning Valley around Youngstown, Ohio, lost jobs in steel and related work within about five years of 1977. The owners of about 300,000 farms could not repay their loans in the 1980s. By the 2000s, more than 80 of every 100 jobs outside farming were in services, in places such as stores, offices, hospitals and schools. The country went 120 months in a row without a downturn from March 1991 to March 2001.
 <!-- /hb-zoom -->
@@ -198,13 +215,13 @@ A shrinking share of American workers had jobs in manufacturing, making goods in
 > **Who:** A Youngstown steelworker who proposed that the workers and the town buy their closed mill and reopen it.
 > **When and where:** Youngstown, Ohio, 1977 to 1979.
 
-**Dickey's group needed about 100 million dollars in federal loan guarantees.**
+**The mill stayed closed after federal officials said no in 1979.**
 
-After the Campbell Works closed, Gerald Dickey proposed that the steelworkers and the people of Youngstown buy the mill and reopen it. From 1976 to 1979 he was the recording secretary, the keeper of the written record of meetings, of Local 1462, a branch of the United Steelworkers union.
+After the Campbell Works closed, Gerald Dickey proposed that the steelworkers and the people of Youngstown buy the mill and reopen it. To buy it, they needed about 100 million dollars in federal loan guarantees, the government's promise to repay the loans if the borrowers could not. From 1976 to 1979 Dickey was the recording secretary, the keeper of the written record of meetings, of Local 1462, a branch of the United Steelworkers union.
 
 **The coalition.** Church leaders led the Ecumenical Coalition of the Mahoning Valley, a group that brought together people of different churches, and its members took up Dickey's plan.
 
-Those guarantees would have been the government's promise to repay the loans if the borrowers could not. Officials in President Carter's government first signaled that they supported the guarantees. In 1979 officials of the Economic Development Administration, a federal agency, turned the guarantees down, and the mill stayed closed. Accounts differ a little on when officials first signaled support, and all of them agree on the refusal and the closing.
+**The answer.** Officials in President Carter's government first signaled that they supported the guarantees. In 1979 officials of the Economic Development Administration, a federal agency, turned the guarantees down, and the mill stayed closed. Accounts differ a little on when officials first signaled support, and all of them agree on the refusal and the closing.
 
 Dickey and the coalition spread the idea of workers owning their own workplaces among unions and their members.
 <!-- hb-story:end slug="gerald-dickey-economy" -->
@@ -214,9 +231,11 @@ The owners of about 300,000 farms defaulted in the 1980s, which means they could
 
 **Borrowing.** Farmers sold more crops abroad in the 1970s, planted more of their land and borrowed at low rates of interest, the extra money a borrower pays a lender for a loan. They borrowed against the value of their land.
 
-**Rates and an embargo.** Then officials of the Federal Reserve, the country's central bank, which sets interest rates for other banks, raised interest rates under their chairman, Paul Volcker. On January 4, 1980, President Jimmy Carter stopped many sales of American farm goods to the Soviet Union, a large country ruled from Moscow and the main rival of the United States, after Soviet troops invaded Afghanistan. With that order Carter canceled contracts for about 17 million metric tons of wheat, corn and soybeans (a metric ton is about 2,205 pounds).
+**Higher rates.** Then officials of the Federal Reserve, the country's central bank, which sets interest rates for other banks, raised interest rates to bring down inflation, which passed 13 percent in 1979 and 1980. Under their chairman, Paul Volcker, the rate they set for banks passed 20 percent in 1981. Every new loan now cost farmers more than the cheap loans of the 1970s.
 
-Under this grain embargo, farmers lost some sales abroad, and exports fell. In parts of the Midwest, farmland lost up to 60 percent of its value from 1981 to 1986. Farm debt reached about 215 billion dollars by 1984, double the debt of 1978.
+**The grain embargo.** After Soviet troops invaded Afghanistan, President Jimmy Carter stopped many sales of American farm goods to the Soviet Union, the main rival of the United States. With his order of January 4, 1980, he canceled contracts for about 17 million metric tons of wheat, corn and soybeans (a metric ton is about 2,205 pounds). Farmers lost those sales abroad, and exports fell.
+
+With loans costing more and fewer crops sold abroad, the land that farmers had borrowed against lost value. In parts of the Midwest, farmland lost up to 60 percent of its value from 1981 to 1986. Farm debt reached about 215 billion dollars by 1984, double the debt of 1978.
 
 **Farm Aid.** Willie Nelson, John Mellencamp and Neil Young played the first Farm Aid concert at Memorial Stadium in Champaign, Illinois, on September 22, 1985. About 80,000 people came, and the three musicians raised more than 7 million dollars for farm families.
 <!-- /hb-zoom -->
@@ -238,11 +257,11 @@ The NASDAQ index, a single number built from the stock prices of many companies,
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 Three recessions have come since 2000, stretches of months when output falls and people lose their jobs. The longest ran from December 2007 to June 2009, after home prices crashed. In that crash lenders foreclosed on homes, taking them because the borrowers could not keep up the loan payments. They foreclosed on Black and Latino families at higher rates than on white families.
 
-**Where things stand.** The unemployment rate was 4.1 percent in August 2026, and about 86 of every 100 jobs outside farming were in services. From April to June 2026, the richest tenth of households held 68.9 percent of all household wealth, and the poorer half held 2.3 percent.
+**Where things stand.** The unemployment rate was 4.1 percent in August 2026, and about 86 of every 100 jobs outside farming were in services. From April to June 2026, the richest tenth of households held about 69 of every 100 dollars of household wealth, and the poorer half held about 2.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The dot-com crash" -->
@@ -256,29 +275,29 @@ The Great Recession, from December 2007 to June 2009, began with a crash in home
 
 **The rescue.** Members of Congress passed a rescue plan for financial firms in October 2008, the Troubled Asset Relief Program, or TARP, worth up to 700 billion dollars. Treasury officials paid out about 443 billion dollars under it, and the firms that got the money paid most of it back.
 
-Employers cut about 8.7 million jobs in the Great Recession, and unemployment peaked at 10.0 percent in October 2009. Lenders foreclosed on about 3.8 million homes from 2007 to 2010. Estimates for the whole crisis run from 7.7 million to 10 million homes.
+Employers cut about 8.7 million jobs in the Great Recession, and unemployment peaked at 10.0 percent in October 2009. Lenders foreclosed on about 3.8 million homes from 2007 to 2010, and they kept taking homes for years after. Counting those later years, estimates for the whole crisis run from 7.7 million to 10 million homes.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who lost homes and wealth" -->
 Black and Latino homeowners lost their homes at higher rates than white homeowners, and they lost more of their wealth. Latino and Hispanic both name Americans whose families came from Spanish-speaking countries, and African American is another name for Black Americans.
 
-**The foreclosure counts.** The Center for Responsible Lending, a research group that campaigns on lending, studied people who took out home loans from 2005 to 2008. By 2010, lenders had foreclosed on about 8 percent of the African American borrowers and 8 percent of the Latino borrowers, against 4.5 percent of non-Hispanic white borrowers.
-
-Counting all homeowners, 17 percent of Latino homeowners and 11 percent of African American homeowners had lost a home or were close to losing one, against 7 percent of white homeowners. White families still made up about 56 percent of all completed foreclosures, because there were more white borrowers.
+**The foreclosure counts.** The Center for Responsible Lending, a research group that campaigns on lending, studied the people who took out home loans from 2005 to 2008. By 2010, lenders had foreclosed on about 8 percent of the African American borrowers in that group and 8 percent of the Latino borrowers, against 4.5 percent of the non-Hispanic white borrowers. Because there were more white borrowers, white families still lost more than half of all the homes that lenders took.
 
 **Countrywide.** Lawyers at the Justice Department said that from 2004 to 2008, Countrywide Financial, a mortgage lender, charged at least 200,000 qualified Black and Latino borrowers higher fees and rates or steered them into subprime loans, loans with higher interest rates meant for borrowers that lenders think are more likely to fall behind.
 
 Bank of America had bought Countrywide, and in December 2011 its officers agreed to pay 335 million dollars in a settlement, an agreement to pay money to end a legal case. It was the largest settlement up to that time in a case about lenders treating borrowers unfairly because of their race.
 
-**Wells Fargo.** The Justice Department's lawyers said Wells Fargo charged Black and Latino borrowers higher rates and fees, and steered some into subprime loans when they qualified for regular ones. The lawyers reviewed 2.7 million loans made from 2004 to 2009 and said at least 34,000 borrowers in 36 states and Washington, D.C., were treated this way.
+**Wells Fargo.** The Justice Department's lawyers said Wells Fargo charged Black and Latino borrowers higher rates and fees, and steered some into subprime loans when they qualified for regular ones. The lawyers said at least 34,000 borrowers were treated this way from 2004 to 2009.
 
 Officers of the bank agreed on July 12, 2012, to pay at least 175 million dollars. Of that, 125 million dollars went to borrowers, and 50 million dollars went to help with down payments, the part of a home's price that the buyer pays at the start.
 
 Assistant Attorney General Tom Perez said that a Black borrower in the Chicago area with one kind of Wells Fargo loan paid on average 2,937 dollars more than a similar white borrower. Wells Fargo's officers denied that the bank discriminated, treating people unfairly because of their race, and said they settled to avoid a fight in court.
 
-**What families lost.** Researchers at the Pew Research Center used surveys by the Census Bureau to report in 2011 on wealth from 2005 to 2009, counting wealth, or net worth, as what a household owns minus what it owes. With inflation taken out, the median wealth of Hispanic households fell 66 percent. For Black households it fell 53 percent, and for white households 16 percent.
+**What families lost.** Researchers at the Pew Research Center reported in 2011 on wealth, or net worth, what a household owns minus what it owes. From 2005 to 2009, with the rise in prices taken out, the wealth of the typical Hispanic household fell 66 percent. For the typical Black household it fell 53 percent, and for the typical white household 16 percent.
 
-The typical white household had 113,149 dollars in wealth in 2009, 20 times as much as the typical Black household, with 5,677 dollars, and 18 times as much as the typical Hispanic household, with 6,325 dollars. These were the largest gaps since government officials began collecting the numbers in 1984. About 35 percent of Black households and 31 percent of Hispanic households owned nothing or owed more than they owned, against 15 percent of white households.
+The typical white household had 113,149 dollars in wealth in 2009. That was 20 times as much as the typical Black household had, and 18 times as much as the typical Hispanic household had. These were the largest gaps since government officials began collecting the numbers in 1984.
+
+About 35 of every 100 Black households and 31 of every 100 Hispanic households owned nothing or owed more than they owned, against 15 of every 100 white households.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="ed-neufeldt-economy" name="Ed Neufeldt" movie="" kind="ordinary" status="verified" -->
@@ -315,21 +334,17 @@ Economists disagree about the causes. Some blame breakdowns during the pandemic 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The economy in 2026" -->
-The unemployment rate was 4.1 percent in August 2026, the same as in July. That was about 7.0 million people. Employers added 162,000 jobs that month. Unemployment was 3.7 percent for white workers, 6.0 percent for Black workers, 4.8 percent for Hispanic workers and 3.2 percent for Asian workers. The Bureau of Labor Statistics released these figures on September 4, 2026.
+**Who holds the wealth.** In 2026 the richest tenth of American households held most of the country's wealth, and the poorer half held almost none of it. Economists at the Federal Reserve, the country's central bank, keep the count. Of every 100 dollars of household wealth from April to June 2026, the richest 10 percent of households held about 69 dollars, the next 40 percent held about 29, and the poorer half held about 2.
 
-Consumer prices rose 3.4 percent in the 12 months to August 2026. Leaving out food and energy, they rose 2.4 percent. Energy prices rose 16.3 percent, and food prices rose 2.7 percent. The Bureau of Labor Statistics released these figures on September 11, 2026.
+The same economists also divide the wealth by race. Households they count as white held about 82 of every 100 dollars, Black households about 3, and Hispanic households about 2.
 
-Real GDP grew 2.1 percent in 2025, according to the Bureau of Economic Analysis, the government office that measures the country's output. From April to June 2026, real GDP grew at a yearly rate of 1.5 percent, by the bureau's estimate of August 26, 2026. As of September 2026, the National Bureau of Economic Research had announced no recession since the two months in 2020.
-
-**Who holds the wealth.** Economists at the Federal Reserve, the country's central bank, publish figures on who holds the country's wealth. From April to June 2026, American households held about 185.7 trillion dollars in net worth. The richest 10 percent of households held 68.9 percent of it, and within that group the richest one household in every thousand held 15.0 percent.
-
-The next 40 percent of households held 28.8 percent. The poorer half of all households together held 2.3 percent, less than a sixth of the share held by the richest one household in every thousand. Households that Federal Reserve economists count as white held 82.4 percent of household wealth, Black households 3.2 percent and Hispanic households 2.4 percent.
+**Jobs and prices.** The unemployment rate was 4.1 percent in August 2026, about 7.0 million people. It was 6.0 percent for Black workers, 4.8 percent for Hispanic workers, 3.7 percent for white workers and 3.2 percent for Asian workers. Consumer prices rose 3.4 percent in the 12 months to August 2026. As of September 2026, the National Bureau of Economic Research had announced no recession since the two months in 2020.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - How did slavery make money for people far from any plantation? Bankers in London, Amsterdam and New York sold bonds backed by mortgages on enslaved people, Northern companies insured their lives, and Boston mill owners spun the cotton that enslaved people grew. Rhode Island merchants sent out ships that carried more than 100,000 Africans into slavery.
-- What happened to ordinary families when a boom turned into a crash? Judges jailed debtors in 1819, creditors sold enslaved families apart in 1837, one worker in four had no job by 1933, and lenders took about 3.8 million homes from 2007 to 2010. In the 1930s and after 2007, Black families lost jobs and homes at higher rates than white families.
+- What happened to ordinary families when a boom turned into a crash? Judges jailed debtors in 1819, creditors sold enslaved families apart in 1837, one worker in four had no job by 1933, and lenders took 7.7 million to 10 million homes in the crisis that began in 2007. In the 1930s and after 2007, Black families lost jobs and homes at higher rates than white families.
 - When did the national government start helping people who lost their jobs? In the 1930s. Before 1933 the federal government paid no unemployment insurance or old-age pensions, and members of Congress set up both in the Social Security Act of 1935, though farm and domestic workers had to wait until 1950 and 1954.
 
 **What changed:** People here went from trading by barter, with no money at all, to working for wages, and by 2026 about 86 of every 100 jobs outside farming were in services.

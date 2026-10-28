@@ -383,3 +383,66 @@ Filed by the director after the parallel run. Full sourced text is in `research/
   reached the West Indies, bringing the total death toll to 108." "(A 109th captive, one of the four 'likely lads'
   requested by the Brown brothers, died en route to Providence.)" 19 + 68 + 20 = 107, not the report's 108; the
   report does not explain the difference. Prose gives every count and says so.
+
+### PATCH 2026-10-27 (T-724 review fix, R09): facts for the reader-review fixes
+
+- **Era 3, Bacon's Rebellion: whom the rebels fought, and why the planters feared them.** "Bacon attracted a large
+  following who, like him, wanted to kill or drive out every Indian in Virginia." Governor William Berkeley opposed
+  attacking friendly nations; when he denied Bacon a commission, Bacon led his followers anyway, and at the fort of the
+  Occaneechees, "a friendly tribe," Bacon's men killed the captives the Occaneechees brought and "then turned to their
+  'allies' and opened fire." Berkeley "declared Bacon a rebel and charged him with treason." Each leader "promised
+  freedom to slaves and servants who would join their cause." "In September of 1676, Bacon and his men set Jamestown
+  on fire." British forces arrested "scores of committed rebels, white and black." "Bacon's Rebellion demonstrated that
+  poor whites and poor blacks could be united in a cause. This was a great fear of the ruling class -- what would
+  prevent the poor from uniting to fight them? This fear hastened the transition to racial slavery." (PBS, *Africans in
+  America*, Part 1, Resource Bank, "Bacon's Rebellion," https://www.pbs.org/wgbh/aia/part1/1p274.html , read
+  2026-10-27.) Bacon "burned Jamestown to the ground on September 19, 1676" (NPS, Historic Jamestowne, "Bacon's
+  Rebellion," https://www.nps.gov/jame/learn/historyculture/bacons-rebellion.htm , read 2026-10-27). Encyclopedia
+  Virginia, "Bacon's Rebellion (1676-1677)" (read 2026-10-27): Bacon "led 'volunteers' against some of Virginia's
+  closest Indian allies," which "led to a civil war pitting Bacon's followers against Berkeley loyalists"; late in the
+  fighting the holdouts included "servants and slaves who did not wish to return to servitude"; "After Bacon's
+  Rebellion the planter elite consolidated its power over the colony."
+- **Era 5, what each side gave in the dinner bargain of June 1790.** National Archives, *Prologue* blog, "The
+  Compromise of 1790" (May 31, 2015, read 2026-10-27): "Madison agreed not to block assumption of state debt and
+  convince enough southern members to support it." "In exchange, Congress would first pass legislation locating the
+  capital city on the Potomac," after "a 10-year temporary move to Philadelphia." American Battlefield Trust,
+  "Compromise of 1790" (read 2026-10-27): Madison "would remain passive rather than actively opposing it" and "would
+  convince some of his fellow southern congressmen to support it"; Hamilton "would garner northern support for the
+  Potomac River capital location." (Founders Online's note to the Madison papers says only Jefferson left a detailed
+  account of the dinner, and that the Pennsylvania-Virginia understanding on the capital was worked out before it. The
+  prose keeps to the terms both sources above give.)
+- **Era 8, why officials paid farmers to grow less** (copied from `research/research-food-farming.md`, era 8, "New Deal
+  farm programs"): "The Agricultural Adjustment Act (May 1933) paid farmers to cut production to raise prices: about 10
+  million acres of already-planted cotton were plowed under in 1933, and about 6 million pigs were bought and
+  slaughtered, while people stood in breadlines." (Britannica "Agricultural Adjustment Act"; Living New Deal; USDA FNS
+  "A Short History of SNAP"; as cited in that bank.)
+- **Era 8, the reasons officials gave for the removals to Mexico.** "Both local welfare agencies and the federal
+  government blamed Mexican aliens for taking scarce jobs from workers in the United States and for draining public
+  resources by being on relief rolls." (*Encyclopedia of Race, Ethnicity, and Society*, SAGE, "Repatriation of Mexican
+  Americans," https://sk.sagepub.com/ency/edvol/embed/ethnicity/chpt/repatriation-mexican-americans , read
+  2026-10-27.) EBSCO Research Starters, "Mexican Deportations (1931)" (read 2026-10-27): the repatriation policy of
+  Secretary of Labor William N. Doak, under President Hoover, was meant to "send idle Mexican workers back to their
+  homeland, save social welfare agencies money, and produce jobs for white Americans."
+- **Era 8, Benjamin Roth's diary: what it records, in his words.** Joe Nocera, "The View From Inside a Depression,"
+  *New York Times*, Talking Business column, October 2009 (reprinted by History News Network,
+  https://historynewsnetwork.org/article/118685 , read 2026-10-27): "Banks are absolutely terrible in their insistence
+  on payments of notes and mortgages," Roth "wrote in 1931. 'It is the old story of lending you an umbrella when the sun
+  is shining and then demanding it back when it rains.'" Nocera: Roth "points out that even after the banks reopen,
+  customers aren't allowed to withdraw more than a small fraction of their savings. He explains how entrepreneurs with
+  money buy up people's frozen passbook accounts for 50 cents on the dollar and how barter and scrip come to replace the
+  money people no longer have." He "is constantly noting the prices of the blue chips of his day." **When the diary
+  began, sources differ:** Nocera says Roth "decided to start a diary" in January 1931; search summaries date the first
+  entry June 5, 1931 (Minneapolis *Star Tribune* review) and July 5, 1931 (Youngstown *Vindicator*, September 27, 2009),
+  neither opened; the publisher's pages (Hachette, NetGalley, read 2026-10-27) say only "1931". The bank's earlier
+  "June 1931" line rests on the publisher description, which no longer gives a month. Prose says "1931".
+- **Era 10, what the larger foreclosure count covers.** CoreLogic, *U.S. Residential Foreclosure Crisis: Ten Years
+  Later* (March 2017): "Since the beginning of 2007, there have been approximately 7.8 million completed foreclosures
+  nationally"; "Beginning in Q2 2004 when homeownership rates peaked, there have been approximately 8.6 million homes
+  lost to foreclosure." (American Land Title Association news summary, March 30, 2017, read 2026-10-27; Calculated
+  Risk, March 24, 2017, headline "CoreLogic: Between 2007–2016, Nearly 7.8 Million Homes Lost to Foreclosure", read
+  2026-10-27.) So the whole-crisis estimates of 7.7 to 10 million (`home-family` bank) take in the years after 2010, to
+  about 2016, where the 3.8 million counts 2007 to 2010 only.
+- **Era 5, the *Sally* (prose note).** The prose now gives every stage count (19 before sailing, the woman left for
+  dead, 68 on the crossing with four of them in the first week, 20 after landing, one on the way to Providence) and the
+  report's own total, "at least 109," and no longer discusses the report's arithmetic (reader review R09). The T-640
+  record above stands.

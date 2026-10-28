@@ -1,5 +1,9 @@
 ## Glossary
 
+- panic: a time when fear spreads, many people rush to take their money out of the banks at once, and businesses close (Before 1500)
+- crash: a sudden fall in prices, of stocks or of homes (Before 1500)
+- depression: a long stretch of hard times, lasting years, when businesses close and many people lose their work (Before 1500)
+- recession: a shorter stretch of hard times, measured in months, when output falls and people lose their jobs (Before 1500)
 - economy: the ways people have of making, sharing and trading the things they need (Before 1500)
 - barter: swapping one good for another (Before 1500)
 - archaeologist: a scientist who studies the past from the things people left behind (Before 1500)
@@ -57,7 +61,6 @@
 - treason: the crime of making war against your own country (1750 to 1800)
 - pardon: setting aside a person's punishment (1750 to 1800)
 - market revolution: the change from families growing and making most of what they used to growing crops and making goods to sell, and buying what they needed (1800 to 1850)
-- panic: a time when many people rush to get their money out at once and businesses close (1800 to 1850)
 - peninsula: a point of land with water on three sides (1800 to 1850)
 - geologist: a scientist who studies rocks (1800 to 1850)
 - King Cotton: the name for cotton, the most valuable American export, grown by enslaved people (1800 to 1850)
@@ -67,13 +70,13 @@
 - census takers: the government workers who count every person in the country (1800 to 1850)
 - mortgage: a loan in which the borrower promises property to the lender (1800 to 1850)
 - bond: a paper promise to repay a loan with interest (1800 to 1850)
+- back a loan or a bond: to promise to pay the lender or the buyer if the borrower cannot (1800 to 1850)
 - collateral: property a borrower promises to hand over if the loan is not repaid (1800 to 1850)
 - insurance policy: a written deal in which the buyer pays a fee and the company pays out money when something happens, such as a death (1800 to 1850)
 - reparations: payments made to make up for a wrong (1800 to 1850)
 - negro cloth: a cheap, rough cloth Northern mills made and sold to planters to clothe the people they enslaved, named with the word white Americans of that time used for Black people (1800 to 1850)
 - lash: a whip (1800 to 1850)
 - loom: a machine that weaves thread into cloth (1800 to 1850)
-- depression: a long stretch of hard times, when businesses close and many people lose their work (1800 to 1850)
 - call in loans: ask borrowers to pay back money right away (1800 to 1850)
 - debtors' prison: a jail where a judge could lock up a borrower who could not pay, with no set date for release (1800 to 1850)
 - pauper: a person too poor to feed themselves without help (1800 to 1850)
@@ -149,12 +152,13 @@
 - lynch: to kill by a mob (1900 to 1950)
 - AAA purge: the firing, in February 1935, of the farm-program lawyers who ruled that landlords had to keep the same tenants (1900 to 1950)
 - unconstitutional: against the Constitution (1900 to 1950)
-- real GDP: output counted with the changes in prices taken out (1900 to 1950)
+- real GDP: GDP counted with the change in prices taken out, to show how much the country actually made (1900 to 1950)
+- relief: the aid given to people without work (1900 to 1950)
+- scrip: paper that stood in for money (1900 to 1950)
 - median: the one in the middle, with half above and half below (1950 to 2000)
 - inflation: a general rise in prices, so that each dollar buys less than before (1950 to 2000)
 - Great Compression: the sharp narrowing of the gap between high and low wages in the 1940s that lasted into the 1970s (1950 to 2000)
 - compress: to squeeze together (1950 to 2000)
-- back a loan: to promise to repay the lender if the borrower cannot (1950 to 2000)
 - purchasing power: how much people can buy with their money (1950 to 2000)
 - Council of Economic Advisers: a group of economists who advise the president (1950 to 2000)
 - slump: a time when business falls off (1950 to 2000)
@@ -175,7 +179,6 @@
 - expansion: a stretch of growth without a downturn (1950 to 2000)
 - budget surplus: a year when federal tax money coming in is more than federal spending (1950 to 2000)
 - NASDAQ: an index, a single number built from the stock prices of many companies, among them many technology companies (1950 to 2000)
-- recession: a stretch of months when output falls and people lose their jobs (2000 to Today)
 - foreclosure: a lender taking a home because the borrower cannot keep up the loan payments (2000 to Today)
 - dot-com bubble: the boom and crash in technology stocks from about 1995 to 2002, named after companies that did business on the internet (2000 to Today)
 - bubble: a time when prices climb far above what things are worth and then fall (2000 to Today)
@@ -195,7 +198,6 @@
 - pandemic: a disease that spreads around the world (2000 to Today)
 - yearly rate: how far output would fall in a full year at the speed it was falling (2000 to Today)
 - supply chains: the chains of factories, ships and trucks that bring goods to stores (2000 to Today)
-- Bureau of Economic Analysis: the government office that measures the country's output (2000 to Today)
 
 ## People
 
@@ -249,5 +251,5 @@
 ## Questions
 
 - Q: How did slavery make money for people far from any plantation? A: Bankers in London, Amsterdam and New York sold bonds backed by mortgages on enslaved people, Northern companies insured their lives, and Boston mill owners spun the cotton that enslaved people grew. Rhode Island merchants sent out ships that carried more than 100,000 Africans into slavery.
-- Q: What happened to ordinary families when a boom turned into a crash? A: Judges jailed debtors in 1819, creditors sold enslaved families apart in 1837, one worker in four had no job by 1933, and lenders took about 3.8 million homes from 2007 to 2010. In the 1930s and after 2007, Black families lost jobs and homes at higher rates than white families.
+- Q: What happened to ordinary families when a boom turned into a crash? A: Judges jailed debtors in 1819, creditors sold enslaved families apart in 1837, one worker in four had no job by 1933, and lenders took 7.7 million to 10 million homes in the crisis that began in 2007. In the 1930s and after 2007, Black families lost jobs and homes at higher rates than white families.
 - Q: When did the national government start helping people who lost their jobs? A: In the 1930s. Before 1933 the federal government paid no unemployment insurance or old-age pensions, and members of Congress set up both in the Social Security Act of 1935, though farm and domestic workers had to wait until 1950 and 1954.

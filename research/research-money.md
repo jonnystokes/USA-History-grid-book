@@ -423,3 +423,42 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `marketplace` (2026-09-27, T-310)
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
 - `work-workers` and `money`: West Virginia Mine Wars Museum's "debt bondage" description of scrip. research-marketplace.md, era 08 PATCH (T-310).
+
+### PATCH 2026-10-27 (T-724 review fix, R09): facts for the reader-review fixes
+
+- **Era 4, South Carolina's public land bank, 1712 (links the colony's paper money to loans on land).** New Jersey
+  State Archives, Collection Guide CGLLO001, Gloucester County Loan Office, "Institutional History" (opened as PDF,
+  https://nj.gov/state/archives/guides/cgllo001.pdf , read 2026-10-27): "Private land banks had been tried in the
+  colonies in the late 1600s, and public land banks had been established more recently in South Carolina (1712),
+  Massachusetts (1714) and Rhode Island (1715)." The same guide describes a land bank as "paper money backed by property
+  mortgages." The terms (about 32,000 of a 52,000-pound issue lent for 12 years on mortgages of land; "the first land
+  office loan emission ... offering a twelve year repayment plan") come only from search summaries of Eric P. Newman's
+  catalog text (Newman Numismatic Portal, "Early Paper Money of America / South Carolina / 1712 June 7 Act") and the
+  University of Notre Dame's "Introduction to Land Office Loans"; neither page would open (connection refused, host not
+  found). Prose uses only the opened line: in 1712 South Carolina's lawmakers set up a public land bank that lent paper
+  money on mortgages of land. No source found ties the land bank to loans on enslaved people; the loans on enslaved
+  people in the prose stay the private chattel mortgages from Butler (above).
+- **Era 6, the Treaty of Detroit price (prose fix).** The AADL's own figures do not divide out: $57,717.32 over
+  5,611,532 acres is about 1.0 cent an acre, against its "as little as 1.2 cents per acre" (the Nottawaseppi band's
+  roughly 1.2 cents comes from the Huron Potawatomi's own payment). Prose now drops the per-acre figure and gives the
+  total paid against the AADL's estimated value of $6,400,000 (less than 1 dollar in every 100), with both acreages.
+- **Era 7, the Freedman's Bank: what the examiner found, and the building.** OCC, "The Freedman's Savings Bank: Good
+  Intentions Were Not Enough; A Noble Experiment Goes Awry" (opened 2026-10-27,
+  https://www.occ.treas.gov/about/who-we-are/history/1863-1865/1863-1865-freedmans-savings-bank.html ): "In February
+  1873 and 1874, OCC examiner Charles Meigs reported on the growing precariousness of the bank's position." "It built
+  a splendid headquarters in Washington, D.C." It "had cost more than $200,000 to build and furnish, a dubious expense
+  for an institution that, within a few years of its founding, was already experiencing problems."
+- **Era 7, how 62 percent repaid fits with half paid nothing.** The bank's line above: the commissioners "paid five
+  dividends that returned 62 percent of what was owed," and only 29,996 of 61,131 eligible depositors turned in their
+  passbooks. A liquidation dividend is paid on each claim presented, so the depositors who came forward got back 62
+  cents on the dollar and those who never did got nothing. (Reading of the Prologue and OCC figures; no new source.)
+- **Era 8, Lydia Lobsiger's deposit.** FDIC, "90 Years of the FDIC" timeline (opened 2026-10-27,
+  https://www.fdic.gov/90years ): "Lydia Lobsiger is the first depositor to receive an FDIC payment which restores her
+  life savings of $1,250." The page dates the first claim payments to July 5, 1934 (the bank's check date, July 3, 1934,
+  is from FDIC's *The First Fifty Years*; both can stand: check dated July 3, payments made July 5).
+- **Era 9, why the thrifts lost money when rates rose.** Kenneth J. Robinson, "Savings and Loan Crisis," Federal
+  Reserve History (opened 2026-10-27, https://www.federalreservehistory.org/essays/savings-and-loan-crisis ): the
+  rates they "could pay on deposits were set by the federal government" and "were substantially below what could be
+  earned elsewhere, leading savers to withdraw their funds." "The rates they had to pay to attract deposits rose
+  sharply, but the amount they earned on long-term fixed-rate mortgages didn't change." "When interest rates rose, these
+  mortgages lost a considerable amount of value."

@@ -18,7 +18,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 The Federal Reserve and deposit insurance, the two protections Americans still have for their savings, both began in these fifty years. Members of Congress and two presidents set them up.
 
-The Federal Reserve, a bank for the nation's banks, came in 1913, six years after the Panic of 1907. Deposit insurance, a government promise to pay savers back if their bank fails, came in 1933, after thousands of banks had failed. Lawmakers meant both to stop bank runs, when many people rush to take their money out of a bank at once.
+The Federal Reserve, a bank for the nation's banks, came in 1913, six years after the Panic of 1907. Deposit insurance, a government promise to pay savers back if their bank fails, became law in 1933 and began on January 1, 1934, after thousands of banks had failed. Lawmakers meant both to stop bank runs, when many people rush to take their money out of a bank at once.
 
 What stood behind the dollar changed too. In the Gold Standard Act of March 14, 1900, members of Congress made gold the only metal behind the dollar, at $20.67 an ounce. After that, silver was no longer a standard in law. In 1933 President Franklin Roosevelt ordered Americans to turn in their gold coins. From 1934 on, a dollar in an American's hand was paper that could not be traded for gold.
 <!-- /hb-zoom -->
@@ -37,13 +37,13 @@ So many depositors demanded their money from the Knickerbocker Trust Company on 
 > **Who:** A New York banker who ran the rescue in the Panic of 1907 from his own library.
 > **When and where:** New York City, October and November 1907.
 
-**He had the doors locked until the bankers put up $25 million.**
+**Locked in his library, the bankers pledged their own $25 million.**
 
 J.P. Morgan was 70 years old when he took charge of stopping the Panic of 1907. He worked from his private library at 36th Street and Madison Avenue in New York City.
 
 Under Morgan's rescue, teams of examiners went through the books of the trust companies and decided which ones were sound enough to save. Officials of the Treasury, the government department in charge of its money, deposited $25 million of the government's money with Morgan's group of banks. Morgan also got the presidents of banks and trust companies to promise money to shared rescue funds.
 
-**The locked room.** Morgan gathered the presidents of the trust companies in his library on the night of November 2 to 3, 1907, and had the doors locked. He kept them in the room until they agreed to put up $25 million to save the weakest trusts. They signed the deal near 5 in the morning.
+**The locked room.** Morgan gathered the presidents of the trust companies in his library on the night of November 2 to 3, 1907, and had the doors locked. He kept them in the room until they agreed to put up $25 million of their own, separate from the Treasury's $25 million, to save the weakest trusts. They signed the deal near 5 in the morning.
 
 In the account told by the Morgan Library & Museum and others, Morgan kept the key in his pocket. Memoirs differ on who held the key and on the exact hour, but not on the locked doors. The museum's exhibition on the panic describes the meeting.
 
@@ -87,27 +87,25 @@ Greenwood's residents rebuilt the district. Members of the National Negro Busine
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="1930 to 1933: the runs, the holiday and deposit insurance" -->
-More than 9,000 American banks failed from 1930 to 1933, and their depositors lost about $1.34 billion. Federal deposit insurance did not begin until 1934, so the losses fell on the depositors.
+More than one American bank in three failed from 1930 to 1933, and their depositors lost about $1.34 billion. Federal deposit insurance did not begin until 1934, so the losses fell on the depositors.
 
-Banks had failed at a rate of more than 600 a year even in the 1920s, mostly small banks in farm country. The count grew after 1929. Later records of the Federal Deposit Insurance Corporation, or FDIC, the government agency that insures bank deposits, list the failures year by year.
-
-**The count.** The FDIC's records list 1,350 banks that suspended in 1930, meaning they closed their doors or stopped paying depositors. They list 2,293 in 1931, 1,453 in 1932 and 4,000 in 1933, which makes 9,096 in all. A fact sheet from the Franklin D. Roosevelt Presidential Library gives the number as about 9,000 of the country's 25,000 banks, more than one bank in three. By an estimate on the history website ushistory.org, about nine million savings accounts had been lost by March 1933.
+**The count.** Banks had failed at a rate of more than 600 a year even in the 1920s, mostly small banks in farm country. The count grew after 1929. The records of the Federal Deposit Insurance Corporation, or FDIC, the government agency that insures bank deposits, list 9,096 banks that suspended from 1930 to 1933, meaning they closed their doors or stopped paying depositors. The country had about 25,000 banks. By one estimate, about nine million savings accounts had been lost by March 1933.
 
 The Bank of United States in New York City failed on December 11, 1930, the largest bank failure in the country up to then. It had about 400,000 depositors. Many were immigrants who worked in the clothing factories, and small savers in the Bronx and Brooklyn.
 
-A history published by the FDIC in 1998 states that Federal Reserve officials "did little to ease the liquidity problems of banks," meaning the banks' lack of cash on hand to pay depositors. Most of the banks that failed in 1930 had not joined the Federal Reserve system, and its officials felt no responsibility for them.
+A history published by the FDIC in 1998 states that officials of the Federal Reserve, the bank for the nation's banks, "did little to ease the liquidity problems of banks," meaning the banks' lack of cash on hand to pay depositors. Most of the banks that failed in 1930 had not joined the Federal Reserve system, and its officials felt no responsibility for them.
 
-The governor of Michigan closed every bank in the state on February 14, 1933, for eight days. That left 900,000 depositors unable to reach their money. Runs then spread from state to state.
+The governor of Michigan closed every bank in the state on February 14, 1933, for eight days. That left 900,000 depositors unable to reach their money. Runs, when many people rush to take their money out of a bank at once, then spread from state to state.
 
 Franklin Roosevelt became president in March 1933. On March 6, two days after he took office, he closed every bank in the country, and this was called the bank holiday. On March 9 members of Congress passed the Emergency Banking Act.
 
 **The fireside chat.** On the night of Sunday, March 12, Roosevelt gave the first of his radio talks called fireside chats, and about 60 million people listened. He explained in simple terms how banks work, and he said money was safer in a reopened bank than under the mattress. Banks reopened from March 13 to 15, after federal officials reviewed them. When they opened, people put in more money than they took out.
 
-**The gold.** Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
+**Deposit insurance.** Members of Congress created the Federal Deposit Insurance Corporation in the Banking Act of June 16, 1933. Its insurance began on January 1, 1934, and covered each depositor up to $2,500. In July 1934 the limit rose to $5,000. If an insured bank failed, its depositors would be paid back from the insurance fund, up to the limit. With that promise, depositors no longer had a reason to rush to the bank to get their money out first.
+
+**The gold.** In the same months, Roosevelt and members of Congress took gold out of Americans' hands. Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
 
 Members of Congress moved all the gold the country used as money to the Treasury in the Gold Reserve Act of January 30, 1934. They set a new price of $35 an ounce. From then on, Americans could not trade their dollars for gold. Foreign governments still could.
-
-**Deposit insurance.** Members of Congress created the Federal Deposit Insurance Corporation in the Banking Act of June 16, 1933, between those two gold measures. Its insurance began on January 1, 1934, and covered each depositor up to $2,500. In July 1934 the limit rose to $5,000. If an insured bank failed, its depositors would be paid back from the insurance fund, up to the limit. With that promise, depositors no longer had a reason to rush to the bank to get their money out first.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="lydia-lobsiger" name="Lydia Lobsiger" movie="" kind="ordinary" status="verified" -->
@@ -118,11 +116,11 @@ Members of Congress moved all the gold the country used as money to the Treasury
 
 **A check for $1,250, dated July 3, 1934.**
 
-Lydia Lobsiger received the first federal deposit insurance check ever paid.
+Lydia Lobsiger received the first federal deposit insurance check ever paid. She was about 64 years old, and the $1,250 was her life savings, by the FDIC's own history.
 
-Her bank was the Fond du Lac State Bank of East Peoria, Illinois, and it failed in the spring of 1934. It was the first bank with FDIC insurance to fail, only a few months after the insurance began on January 1, 1934.
+Her bank was the Fond du Lac State Bank of East Peoria, Illinois, and it failed in the spring of 1934. It was the first bank with FDIC insurance to fail, a few months after the insurance began.
 
-Depositors in failed banks had lost about $1.34 billion from 1930 to 1933, before the insurance began. When Lobsiger's bank failed, reporters at newspapers across the country wrote that a depositor with a small account had not lost her savings.
+When Lobsiger's bank failed, reporters at newspapers across the country wrote that a depositor with a small account had not lost her savings.
 <!-- hb-story:end slug="lydia-lobsiger" -->
 
 <!-- hb-zoom level="span" label="War bonds" -->
@@ -228,19 +226,19 @@ Volcker announced a new policy on Saturday night, October 6, 1979. He and the ot
 
 In the recession of 1981 and 1982, a time when business shrank and people lost jobs, unemployment reached 10.8 percent, the highest since the 1930s. Farmers drove tractors to the Federal Reserve's building in protest. Home builders in debt mailed sawed-off pieces of two-by-four lumber to the Federal Reserve.
 
-Inflation fell from 13.5 percent in 1980 to 3.2 percent in 1983. Prices next rose as fast as they had in late 1981 in the 12 months to June 2022, when they rose 9.1 percent.
+Inflation fell from 13.5 percent in 1980 to 3.2 percent in 1983.
 <!-- hb-story:end slug="paul-volcker" -->
 
 <!-- hb-zoom level="span" label="The savings and loan crisis" -->
 Federal officials closed 747 failed savings and loans from 1989 to 1995. These were businesses, also called thrifts, that took in people's savings and made long-term home loans at fixed interest rates. Kenneth Robinson, writing for the Federal Reserve's history website, estimates that taxpayers paid as much as $124 billion of the cost.
 
-When interest rates climbed in the late 1970s and early 1980s, the thrifts lost money. Under Regulation Q, thrifts could not pay savers the rates they could get elsewhere, and the old fixed-rate home loans they held lost value.
+When interest rates climbed in the late 1970s and early 1980s, the thrifts lost money in two ways. Under Regulation Q, federal officials kept the interest thrifts could pay on savings far below what savers could earn elsewhere, so savers took their money out. And the thrifts' old home loans kept paying the low fixed rates of years before, while the rates the thrifts had to pay to attract savers' money rose sharply.
 
 **Riskier loans.** In the Garn-St Germain Act of 1982, members of Congress let thrifts make new kinds of loans beyond home mortgages. Many of those loans carried more risk. By 1983 closing the thrifts that could not pay their debts would have cost about $25 billion. Their insurance fund, the Federal Savings and Loan Insurance Corporation, or FSLIC, held only $6 billion.
 
 Members of Congress closed the FSLIC in a 1989 law and moved thrift deposit insurance to the FDIC. They also created the Resolution Trust Corporation to shut down failed thrifts. By the end of 1995 its officials had closed the 747 savings and loans, which together held more than $407 billion in loans and other property. Savers with insured accounts were paid in full.
 
-Banks failed in the same years. In 1984 federal officials rescued Continental Illinois National Bank, which held $45 billion in loans and other property, instead of letting it fail. FDIC records list 120 failed insured banks in 1985, 145 in 1986, 203 in 1987 and 280 in 1988.
+Banks failed in the same years. In 1984 federal officials rescued Continental Illinois National Bank, which held $45 billion in loans and other property, instead of letting it fail. FDIC records list 748 failed insured banks from 1985 through 1988.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -248,7 +246,7 @@ Banks failed in the same years. In 1984 federal officials rescued Continental Il
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 Most Americans pay with cards today, and the runs came back where deposit insurance did not reach. Cards made up 65 percent of payments in 2024, according to the Federal Reserve's yearly payment diary. Cash was used for 14 percent of payments in 2025.
 
@@ -264,11 +262,11 @@ According to a study in the *Journal of Financial Crises*, published by Yale Uni
 
 Treasury officials announced a guarantee for money market funds on September 19, 2008. President George W. Bush approved it, and Treasury Secretary Henry Paulson put up to $50 billion of the Treasury's Exchange Stabilization Fund behind it. The guarantee worked like deposit insurance, set up within a week, and the run stopped.
 
-**The trial.** Later, officials of the Securities and Exchange Commission charged Bruce Bent and his son with fraud over the Reserve Primary Fund's collapse. On November 12, 2012, a jury cleared them of the fraud charges. The same jury found the son, Bruce Bent II, responsible on one charge of carelessness, which the law calls negligence. The jurors also found the two companies named in the case, Reserve Management and Resrv Partners, responsible on other charges, Reuters reported.
-
 Banks failed too. According to a history the FDIC published in 2017, 489 insured banks failed from 2008 through 2013. Their failures cost the deposit insurance fund about $73 billion.
 
 IndyMac failed on July 11, 2008, with losses of about $12 billion, the most costly failure in the FDIC's history. Washington Mutual, which held $307 billion in loans and other property, failed on September 25, 2008, the largest bank failure in the country's history. Members of Congress raised the deposit insurance limit from $100,000 to $250,000 on October 3, 2008, and made it permanent in 2010.
+
+**The trial.** Officials of the Securities and Exchange Commission later charged Bruce Bent and his son with fraud over the Reserve Primary Fund's collapse. In 2012 a jury cleared both of fraud and found the son careless, which the law calls negligence, on one charge.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Money issued by nobody" -->

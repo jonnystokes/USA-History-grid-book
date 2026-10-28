@@ -18,9 +18,11 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **Much of this country's wealth came from work that people were forced to do for little or no pay, and in crash after crash, the poorest families lost the most.**
 
-The census of 1860 lists Mayer Lehman, a merchant in Montgomery, Alabama, as the owner of seven enslaved people. He and his brothers, Henry and Emanuel, took cotton grown by enslaved people as payment for the goods they sold, and then they began trading cotton. Their company was called Lehman Brothers. On September 15, 2008, the same company failed, owing about 619 billion dollars. It was the largest bankruptcy, the court case of a company that cannot pay its debts, in the country's history.
+The census of 1860 lists Mayer Lehman, a merchant in Montgomery, Alabama, as the owner of seven enslaved people. He and his brothers, Henry and Emanuel, took cotton grown by enslaved people as payment for the goods they sold, and then they began trading cotton. Their company, Lehman Brothers, failed on September 15, 2008, owing about 619 billion dollars. It was the largest bankruptcy, the court case of a company that cannot pay its debts, in the country's history.
 
 This chapter follows how people here made a living, from Native trade before 1500 to the jobs of 2026. They made it first mostly by farming, then more and more in mines, mills and factories, and by 2026 mostly in services: stores, offices, hospitals and schools. Two things come back in era after era. One is who did the work and who kept the money: servants, enslaved people, convicts and sharecroppers did much of it for little or nothing. The other is the crash: the panics of 1819, 1837, 1857, 1873 and 1893, the Great Depression of the 1930s and the crash of 2008. In each one, watch who lost a job, a farm or a home.
+
+**Four words for hard times.** In a panic, fear spreads, many people rush to take their money out of the banks at once, and businesses close. A crash is a sudden fall in prices, of stocks or of homes. A depression is the long stretch of hard times that can follow, lasting years. A recession is a shorter one, measured in months.
 
 **Three questions this chapter answers**
 - How did slavery make money for people far from any plantation?
@@ -107,9 +109,7 @@ Indentured servants did the tobacco work for most of the 1600s. Each servant's c
 
 **The terms.** Adults usually served four to seven years, and children sometimes served much longer. At the end of the term, the master owed the servant "freedom dues." Depending on the contract and the colony, these could be land, tools, clothes or farm animals.
 
-**How many.** Servants were about three out of every four people who came to the Chesapeake colonies between 1630 and 1680, about 50,000 people in all. Of about 120,000 English people who moved to Virginia and Maryland in the 1600s, about 90,000 came as servants. These counts are estimates made from ship records and court records.
-
-For all the British colonies, the historian Abbot Emerson Smith estimated that one-half to two-thirds of the white people who moved there from the 1630s to the Revolution came as indentured servants.
+**How many.** Of about 120,000 English people who moved to Virginia and Maryland in the 1600s, about 90,000 came as servants, three out of every four. These are historians' estimates from ship records and court records.
 
 **The headright.** Planters gained from each servant in two ways. Under Virginia's headright rule, whoever paid for a person's passage, the cost of the ocean trip, received 50 acres of land for that person. So a planter who paid a servant's passage got the servant's years of work and 50 acres as well. The large tobacco planters built their estates, their large holdings of land, this way.
 <!-- /hb-zoom -->
@@ -133,7 +133,9 @@ About 300 Africans lived in Virginia by 1650, next to about 4,000 white servants
 
 **The first law.** Under a law of March 1661, an English servant who ran away together with Africans had to serve extra time for the Africans' missing time as well as his own. Judges punished runaway servants by adding years to their terms. But the law's words said the Africans were "incapable of makeing satisfaction by addition of time." Judges could add no years to their time, because they were already held for life.
 
-Servants and enslaved Africans fought on the same side in Bacon's Rebellion of 1676 and 1677, an armed uprising in Virginia. After it, the planters who ruled Virginia passed new laws. Historians at the College of Charleston describe the purpose of those laws as "to harden Virginia's racial caste system," a system that sorts people at birth into ranks they can never leave.
+Servants and enslaved Africans fought on the same side in Bacon's Rebellion of 1676 and 1677, an armed uprising in Virginia. Nathaniel Bacon led colonists who wanted to kill or drive out every Native person in Virginia. When the governor, William Berkeley, tried to stop him, Bacon's men turned on the governor and burned Jamestown in September 1676.
+
+The rebellion showed that poor white and Black people could unite, and the planters who ruled Virginia feared it would happen again. After it, the planters passed new laws. Historians at the College of Charleston describe the purpose of those laws as "to harden Virginia's racial caste system," a system that sorts people at birth into ranks they can never leave.
 
 **The slave code.** Members of Virginia's assembly gathered the colony's slave laws into one slave code in 1705. Under it, enslaved people were property, and being baptized, going through the church ceremony that makes a person a Christian, did not free anyone. A master who killed an enslaved person while "correcting" them faced no punishment.
 
@@ -157,7 +159,9 @@ English leaders followed an idea called mercantilism, the belief that colonies e
 <!-- hb-zoom level="era" -->
 **Era 4 of 10 · 1700 to 1750 · about 6 minutes**
 
-Much of the colonies' wealth, most of all in the South, came from the work of enslaved people, who were paid nothing. By 1774 free colonists earned more on average than the people of England. The economic historians Peter Lindert and Jeffrey Williamson published that finding in 2016. They also found that income among free colonists was spread more evenly than in any other place they could measure at that time. From 1718, British judges also sent about 50,000 convicts across the ocean to be sold as laborers.
+Much of the colonies' wealth, most of all in the South, came from the work of enslaved people, who were paid nothing. Free colonists were doing well. By 1774 they earned more on average than the people of England, the economic historians Peter Lindert and Jeffrey Williamson found. Among free colonists only, income was spread more evenly than in any other place the two could measure at that time. In the rice country of South Carolina, though, the wealth from rice stayed with a small group of white planters.
+
+**Convicts for sale.** From 1718, British judges sent about 50,000 convicts across the ocean to be sold as laborers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What the colonies sold" -->
@@ -230,11 +234,11 @@ Americans paid for the Revolution with paper money and debt. In 1790 the new nat
 <!-- hb-zoom level="span" label="The Browns and the slave ship Sally" -->
 Four merchant brothers of Providence, Rhode Island, sent their ship *Sally* to West Africa to buy people in 1764. They were Nicholas, John, Joseph and Moses Brown. The ship carried 17,274 gallons of rum, along with chains, guns and shackles, metal rings locked around a person's wrists or ankles. By that year Rhode Island had about 30 rum distilleries, places where rum was made, and 22 of them were in Newport. The distillers made the rum from molasses shipped from the Caribbean.
 
-**The voyage.** The captain, Esek Hopkins, bought 196 Africans, and at least 109 of them died. Hopkins kept the ship on the African coast for more than nine months while he bought them. The captives died from disease and starvation, by killing themselves, and in an uprising.
+**The voyage.** The captain, Esek Hopkins, bought 196 Africans, and at least 109 of them died, by the count in Brown University's report. Hopkins kept the ship on the African coast for more than nine months while he bought them. The captives died from disease and starvation, by killing themselves, and in an uprising.
 
-Nineteen died before the ship left Africa. They included several children and a woman who hanged herself below deck. On the day the ship sailed, another woman was "left for dead," in the words of Brown University's report, and the report does not say who left her or what became of her. Four more, a woman and three children, died in the first week at sea.
+Nineteen died before the ship left Africa. They included several children and a woman who hanged herself below deck. On the day the ship sailed, another woman was "left for dead," in the words of the report, which does not say who left her or what became of her.
 
-Sixty-eight people died during the whole crossing, and 20 more died soon after the ship reached the West Indies. One more captive died on the way to the Brown brothers in Providence. The report's stage counts of 19, 68 and 20 add up to 107, but it gives the total at that point as 108 and does not explain the difference. With the death on the way to Providence, the historians who wrote the report count at least 109 deaths among the 196.
+Sixty-eight people died during the crossing. Four of them, a woman and three children, died in the first week at sea. Twenty more died soon after the ship reached the West Indies, and one more died on the way to the Brown brothers in Providence.
 
 **The uprising.** When the captives rose up, Hopkins's crew fired on them. Hopkins wrote in his account book: "Slaves Rose on us was obliged fire on them and Destroyed 8 and Several more wounded badly." By "Destroyed 8" he meant that his crew killed eight people. The survivors were so sick that buyers paid only £5 for some of them.
 
@@ -260,7 +264,9 @@ Alexander Hamilton planned how the new United States would pay the debts of the 
 
 **Paying in full.** Hamilton proposed that the national government pay every debt in full and take over the states' war debts, a step called assumption. The people who were owed money would then look to the new government to be paid, and they would want it to last so that they got their money. Paying in full would also build the government's credit, the trust lenders have that a borrower will pay back what it borrows.
 
-**The dinner.** Assumption did not have enough votes to pass in the House of Representatives in June 1790. Thomas Jefferson invited Hamilton and James Madison to dinner, and the three men made a deal. After it, members of Congress voted assumption through, and they placed the country's permanent capital on the Potomac River.
+**The dinner.** Assumption did not have enough votes to pass in the House of Representatives in June 1790. Thomas Jefferson invited Hamilton and James Madison, a member of the House from Virginia, to dinner, and the three men made a deal.
+
+**The deal.** Madison agreed to stop blocking assumption and to win over enough Southern members to pass it. In return, Hamilton agreed to find Northern votes for putting the country's permanent capital on the Potomac River, where Washington, D.C., stands today. Members of Congress passed both: first the capital on the Potomac, then assumption.
 
 **Factories.** Hamilton's Report on Manufactures is dated December 5, 1791. In it he laid out a plan to grow American manufacturing, the making of goods in workshops and mills, with tariffs (taxes on goods brought in from other countries) and subsidies (money paid to help a business grow). Members of Congress never brought the plan to a vote.
 

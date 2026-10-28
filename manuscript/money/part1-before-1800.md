@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 17 of 37 · Money · 10 eras · about 75 minutes**
+**Chapter 17 of 37 · Money · 10 eras · about 70 minutes**
 
 **Most American money since 1690 has been a written promise to pay, and when the people who made the promise could not keep it, the people holding the money took the loss.**
 
@@ -34,13 +34,11 @@ This chapter follows money from the shells and copper traded before 1500 to bitc
 <!-- hb-zoom level="era" -->
 **Era 1 of 10 · Before 1500 · about 1 minute**
 
-People in this land lived without money of any kind before 1500. Nobody here had coins, paper bills, banks or prices. People got what they needed by barter, trading one thing straight for another. Neighbors gave each other gifts and owed each other duties, and so did whole nations.
-
-People carried some goods hundreds of miles along rivers and trails. Shells came from the Gulf coast and copper from Lake Superior. Obsidian, a black volcanic glass that can be chipped into sharp blades, came from the West.
+Wampum, beads made from shell, later passed as money between colonists and Native traders. Before 1500, though, nobody in this land used money of any kind: there were no coins, paper bills, banks or prices. People got what they needed by barter, trading one thing straight for another, and by gifts, and Chapter 16 tells how they carried shells, copper and obsidian, a volcanic glass, hundreds of miles.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Was wampum money?" -->
-Wampum, beads made from shell, was not money before Europeans came. People used it to keep records, to make agreements between nations, in ceremonies and as gifts.
+Wampum was not money before Europeans came. People used it to keep records, to make agreements between nations, in ceremonies and as gifts.
 
 The white beads came from the shells of whelks, large sea snails. The purple-black beads came from the shells of quahogs, hard-shelled clams of the Atlantic coast. People strung the beads on cords or wove them into belts.
 
@@ -72,7 +70,7 @@ Across the Andes, disease killed far more Native people than work in the mines d
 
 Traders carried the piece of eight from South America to Europe, and across the Pacific Ocean to Asia. Writers on the history of money, among them Alejandra Irigoin and Bridget Millmore, call it the first money used around the whole world.
 
-Almost none of that silver reached this land. Some did reach St. Augustine, in Florida, where Spanish soldiers were posted. Pedro Menéndez de Avilés founded the town in September 1565 at Seloy, a Timucua village, in the homeland of the Timucua-speaking peoples. The soldiers there were paid from Spanish colonial funds, in the coin of a foreign empire.
+Almost none of that silver reached this land. Some did reach St. Augustine, the Spanish military post in Florida that Chapter 16 describes. Pedro Menéndez de Avilés had founded it in September 1565 at Seloy, a Timucua village. Its soldiers were paid from Spanish colonial funds, in the coin of a foreign empire.
 
 Later, Thomas Jefferson and members of Congress based the United States dollar on the piece of eight. Until February 21, 1857, Spanish coins were legal tender in the United States: the law said people had to accept them to pay a debt. The piece of eight was divided into eight parts called bits, so two bits made a quarter of a dollar. Americans still call a quarter "two bits."
 <!-- /hb-zoom -->
@@ -82,7 +80,7 @@ Later, Thomas Jefferson and members of Congress based the United States dollar o
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 5 minutes**
+**Era 3 of 10 · The 1600s · about 4 minutes**
 
 English colonists never had enough coins, so they paid each other in goods and then began to make money of their own. Little English coin reached the colonies. Colonists spent what they did get on goods shipped in from overseas, and those coins went back across the ocean. To trade with each other, they paid in tobacco, corn, beaver skins and wampum. Massachusetts leaders opened a mint without England's permission. In 1690 they began printing paper money.
 <!-- /hb-zoom -->
@@ -94,9 +92,7 @@ English money was counted in pence, shillings and pounds. Twelve pence made a sh
 
 Virginia lawmakers set a value on tobacco so it could be used as money from the 1620s, and in 1642 they made it legal tender. People in Virginia, Maryland and North Carolina paid with tobacco through much of the colonial period. In the northern colonies, beaver pelts and corn passed as money too.
 
-New England colonists used wampum for small payments, though the nations that made it had not used it as money before colonists came. Members of the Massachusetts General Court, the colony's lawmakers, voted on November 15, 1637, to accept wampum at 6 beads a penny, for sums under 12 pence.
-
-The lawmakers changed the rate thirteen years later, on October 18, 1650, to 8 white beads or 4 black beads a penny. They made wampum legal tender for debts up to 40 shillings, but not for taxes. They canceled that law on May 22, 1661.
+New England colonists used wampum for small payments, though the nations that made it had not used it as money before colonists came. Members of the Massachusetts General Court, the colony's lawmakers, accepted wampum for small sums from 1637, made it legal tender for small debts in 1650 and canceled that law in 1661.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The pine-tree shilling, 1652" -->
@@ -127,13 +123,11 @@ A story says Hull gave his daughter Hannah her weight in pine-tree shillings as 
 <!-- hb-story:end slug="john-hull" -->
 
 <!-- hb-zoom level="span" label="The first government paper money, 1690" -->
-Soldiers from Massachusetts attacked the French city of Quebec, in Canada, in 1690, during King William's War. The attack failed. When the soldiers came home, the colony's treasury held too few coins to pay them. According to accounts from the time, the troops were close to mutiny, an uprising against their officers.
-
-Massachusetts lawmakers decided to pay the soldiers in paper, and they began voting on it in December 1690. The paper bills were called bills of credit, and the first ones totaled 40,000 pounds. Each bill stated that the colony's treasurer would accept it "in all Public payments" and that it could later be exchanged for coins.
+The soldiers in the chapter's opening were paid in paper bills called bills of credit, and the first ones, voted from December 1690, totaled 40,000 pounds. The soldiers had come home from a failed attack on the French city of Quebec, in Canada, during King William's War. According to accounts from the time, the unpaid troops were close to mutiny, an uprising against their officers.
 
 These bills were the first paper money printed by any government in Europe or the lands Europeans had settled. China had used paper money centuries earlier.
 
-People took the bills and passed them from hand to hand. By 1714 Massachusetts lawmakers had put out 240,000 pounds in paper money. By 1718 lawmakers in the other New England colonies were printing their own.
+**The paper spreads.** By 1714 Massachusetts lawmakers had put out 240,000 pounds in paper money. By 1718 lawmakers in the other New England colonies were printing their own.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -150,6 +144,8 @@ Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In
 
 <!-- hb-zoom level="span" label="Paper that held its value and paper that lost it" -->
 Economists at the Federal Reserve Bank of Cleveland, who study how money and trade work, compared the paper money of the colonies. In Pennsylvania, New York and New Jersey, lawmakers printed limited amounts, and the bills held their value. In New England and the Carolinas, lawmakers printed large amounts. Prices counted in paper money rose there, and each bill was worth less silver than before.
+
+**South Carolina's paper.** Lawmakers there began printing paper money in 1703, when 1.5 South Carolina pounds were worth one English pound. By the late 1720s it took about 7.
 
 In Virginia, people began to pass paper receipts for tobacco as money. Virginia lawmakers set up public warehouses for tobacco, with government inspectors, in the 1720s and 1730s. A planter, a farmer who grew tobacco to sell, brought his tobacco to a warehouse. An inspector checked it, and it stayed in the warehouse. The inspector then wrote a receipt, called a tobacco note, for the inspected tobacco. People passed tobacco notes from hand to hand as money.
 <!-- /hb-zoom -->
@@ -175,11 +171,9 @@ Colonial bills carried the words "To Counterfeit is Death." Under colonial laws,
 <!-- hb-story:end slug="benjamin-franklin-money" -->
 
 <!-- hb-zoom level="span" label="Paper money lent against land and people" -->
-In colonial South Carolina, enslavers borrowed money by pledging the people they enslaved as security, something a borrower promises to hand over if a loan is not paid back. The colony had no banks, and its paper money lost most of its value between 1703 and the late 1720s.
+South Carolina's lawmakers lent some of the colony's paper money out on land. In 1712 they set up a public land bank, through which officials lent paper money to people who pledged their land as security, something a borrower promises to hand over if a loan is not paid back.
 
-South Carolina's colonial lawmakers began printing paper money in 1703. At first, 1.5 South Carolina pounds were worth one English pound. By the late 1720s it took about 7 South Carolina pounds to equal one English pound.
-
-With no banks, people borrowed through private agreements. One kind was a bond, a written promise to pay back a loan. Another was a mortgage, a loan in which the borrower pledges property as security, so the lender can take that property if the borrower does not pay.
+People also borrowed from one another through private agreements. One kind was a bond, a written promise to pay back a loan. Another was a mortgage, a loan in which the borrower pledges property as security, so the lender can take that property if the borrower does not pay.
 
 A mortgage could be on land, or on movable property, called chattel. In these loan papers, enslavers and lenders listed enslaved people as chattel. So when an enslaver did not pay, the lender could take the people he had pledged.
 
@@ -207,15 +201,15 @@ A second Currency Act followed thirteen years later. On April 19, 1764, members 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Not worth a Continental" -->
-Members of the Continental Congress, the men from the thirteen colonies who led the Revolution, had no power to tax. From June 1775 they paid for the war by printing paper money, called Continental currency. In all, they put out $241,552,780 in Continental bills.
+People working for the British side printed fake Continental bills on purpose, so that the real bills would lose their value faster. Continental bills were the paper money that members of the Continental Congress, the men from the thirteen colonies who led the Revolution, printed from June 1775 to pay for the war. In all, they put out $241,552,780 in Continental bills, and Chapter 16 tells how fast the bills lost their value.
 
-People working for the British side printed fake Continental bills on purpose, so that the real bills would lose their value faster. Most of this faking was done in New York City, which the British army held for most of the war. Someone placed an advertisement in the *New York Gazette* of April 14, 1777, asking people going into the other colonies to take fake bills with them.
+**Made in New York.** Most of the British faking was done in New York City, which the British army held for most of the war. Someone placed an advertisement in the *New York Gazette* of April 14, 1777, asking people going into the other colonies to take fake bills with them.
 
 **The general's letter.** General Henry Clinton, the British commander, wrote about the plan in January 1780. His letter went to Lord George Germain, the official in London in charge of the American colonies. Stuart Hatfield, writing about the British faking in the *Journal of the American Revolution* in 2015, calls that letter the clearest sign that British leaders approved the plan.
 
-In Philadelphia, one silver dollar was worth about 4 paper dollars at the end of 1777. At the end of 1778 it was worth about 8. By 1781 a silver dollar was worth about 100 paper dollars, and people stopped using the paper. In North Carolina the rate reached 210 paper dollars to one silver dollar.
+People had stopped using the paper by 1781. In North Carolina it took 210 paper dollars to buy what one silver dollar bought.
 
-Continental bills with about $226 million printed on them ended up worthless. Counted in silver, the loss was about $40 million. Whoever was holding the bills as they lost value lost that money, and most of them were ordinary people. Americans began to call anything worthless "not worth a Continental." By the late 1800s people in Britain were using the saying too.
+Continental bills with about $226 million printed on them ended up worthless. Counted in silver, the loss was about $40 million. Whoever was holding the bills as they lost value lost that money, and most of them were ordinary people. The saying "not worth a Continental" comes from these bills, and by the late 1800s people in Britain were using it too.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Counterfeiting was a hanging crime" -->

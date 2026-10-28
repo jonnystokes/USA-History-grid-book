@@ -1,7 +1,7 @@
 ## Glossary
 
 - barter: trading one thing straight for another (Before 1500)
-- obsidian: a black volcanic glass that can be chipped into sharp blades (Before 1500)
+- obsidian: a volcanic glass (Before 1500)
 - wampum: beads made from shell (Before 1500)
 - whelks: large sea snails (Before 1500)
 - quahogs: hard-shelled clams of the Atlantic coast (Before 1500)
@@ -29,18 +29,19 @@
 - bills of credit: the paper money Massachusetts lawmakers printed from 1690 (The 1600s)
 - economists: people who study how money and trade work (1700 to 1750)
 - tobacco note: a receipt for inspected tobacco, passed from hand to hand as money (1700 to 1750)
-- planter: a farmer who grew tobacco to sell (1700 to 1750); in Louisiana, the enslavers who ran large farms (1800 to 1850)
+- planter: a farmer who grew tobacco to sell (1700 to 1750), and in Louisiana, the enslavers who ran large farms (1800 to 1850)
 - pamphlet: a short printed booklet (1700 to 1750)
 - counterfeiters: people who make fake money (1700 to 1750)
 - nature printing: printing the shapes of real leaves on bills to stop counterfeiters (1700 to 1750)
 - security: something a borrower promises to hand over if a loan is not paid back (1700 to 1750)
-- bond: a written promise to pay back a loan (1700 to 1750); a paper promise to repay a loan with interest (1800 to 1850)
+- public land bank: a public office through which colonial officials lent paper money to people who pledged their land as security (1700 to 1750)
+- bond: a written promise to pay back a loan (1700 to 1750), and later a paper promise to repay a loan with interest (1800 to 1850)
 - mortgage: a loan in which the borrower pledges property as security, so the lender can take that property if the borrower does not pay (1700 to 1750)
 - chattel: movable property (1700 to 1750)
 - slave broker: a dealer in enslaved people (1700 to 1750)
 - Register of Deeds: the county office that keeps records of land (1700 to 1750)
 - Continental Congress: the men from the thirteen colonies who led the Revolution (1750 to 1800)
-- Continental currency: the paper money members of the Continental Congress printed to pay for the war (1750 to 1800)
+- Continental bills: the paper money members of the Continental Congress printed from June 1775 to pay for the war (1750 to 1800)
 - engraver: a man who cuts designs into metal plates for printing (1750 to 1800)
 - armorer: a man who makes and repairs weapons (1750 to 1800)
 - cropping: cutting off part or all of each ear (1750 to 1800)
@@ -85,7 +86,6 @@
 - crucify: to put someone to death by nailing them to a cross (1850 to 1900)
 - gold standard: a dollar backed by gold alone (1850 to 1900)
 - delegates: the party members sent to a convention (1850 to 1900)
-- electoral votes: each state's votes for president, set by its seats in Congress, with more than half needed to win (1850 to 1900)
 - Federal Reserve: a bank for the nation's banks, the central bank of the United States (1900 to 1950)
 - trust company: a kind of bank that took people's deposits and managed their money (1900 to 1950)
 - central bank: a bank that holds other banks' cash and lends to them in a crisis (1900 to 1950)
@@ -146,7 +146,7 @@
 - Emanuel Ninger: sign painter who drew fake money by hand and was caught when his ink ran on a wet bar in 1896 (1850 to 1900)
 - William Jennings Bryan: former congressman from Nebraska who became the Democratic candidate for president in 1896 with his "cross of gold" speech for silver (1850 to 1900)
 - J.P. Morgan: New York banker who ran the rescue in the Panic of 1907 from his own library (1900 to 1950)
-- Lydia Lobsiger: the first depositor paid back by federal deposit insurance, with a $1,250 check dated July 3, 1934 (1900 to 1950)
+- Lydia Lobsiger: the first depositor paid back by federal deposit insurance, with a $1,250 check, her life savings, dated July 3, 1934 (1900 to 1950)
 - Bruce Bent and Henry Brown: two men who set up the first money market fund, the Reserve Fund (1950 to 2000)
 - Paul Volcker: chairman of the Federal Reserve who stopped the Great Inflation by letting interest rates rise past 20 percent (1950 to 2000)
 - Laszlo Hanyecz: programmer who made the first recorded purchase with bitcoin, two pizzas for 10,000 coins (2000 to Today)
@@ -159,7 +159,7 @@
 - January 1, 1934: federal deposit insurance begins
 - August 15, 1971: President Nixon ends the dollar's last tie to gold
 - 1652: Massachusetts lawmakers set up a mint in Boston without asking anyone in England
-- 1781: in Philadelphia a silver dollar is worth about 100 Continental paper dollars, and people stop using the paper
+- 1781: people stop using the Continental paper dollars
 - April 2, 1792: the Coinage Act sets up the United States Mint in Philadelphia
 - July 10, 1832: Jackson vetoes a new charter for the Second Bank of the United States
 - May 10, 1837: New York City's banks stop paying out gold and silver for their notes and deposits
