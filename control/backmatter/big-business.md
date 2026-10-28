@@ -1,7 +1,7 @@
 ## Glossary
 
 - corporation: a company that goes on after its first owners are gone, one the law treats as one body (Before 1500)
-- archaeologists: the scientists who dig up and study what people left behind (Before 1500)
+- pence: pennies, 12 to the shilling (Before 1500)
 - charter: the written grant from a government that creates a company and lists its rights (The 1500s)
 - joint-stock company: a company with many owners at once, each holding shares (The 1500s)
 - shares: parts of the ownership of a company (The 1500s)
@@ -14,8 +14,6 @@
 - Privy Council: the English king's inner council (The 1600s)
 - headright: the Virginia Company's plan that gave 50 acres of land for each person whose trip to Virginia someone paid for (The 1600s)
 - quitrent: a small yearly rent on land (The 1600s)
-- obliged: bound by duty (The 1600s)
-- subjects: the people a king rules (The 1600s)
 - States General: the lawmaking assembly of the Netherlands (The 1600s)
 - Tropic of Cancer: a line on maps north of the equator (The 1600s)
 - guilder: a Dutch coin (The 1600s)
@@ -39,7 +37,6 @@
 - Acadians: French-speaking Catholic farm families of Nova Scotia (1700 to 1750)
 - insurance company: a company that takes a regular fee from people and pays them back after a loss such as a fire (1750 to 1800)
 - toll road: a road that people paid a fee to use (1750 to 1800)
-- pence: pennies, 12 to the shilling (1750 to 1800)
 - commercial bank: a bank that keeps people's money safe and lends money to merchants and businesses (1750 to 1800)
 - Continental Congress: the leaders from the 13 states who ran the country during the Revolution (1750 to 1800)
 - petition: a written request signed by many people (1750 to 1800)
@@ -92,6 +89,7 @@
 - in restraint of trade: blocking free buying and selling between the states (1850 to 1900)
 - monopolize: to become the only seller of something (1850 to 1900)
 - depression: a long time when many businesses fail and many people lose their jobs (1850 to 1900)
+- sleeping car: a railroad car with beds (1850 to 1900)
 - boycott of Pullman cars: railroad workers refusing to handle trains that carried them (1850 to 1900)
 - injunction: a court order that tells people to stop doing something and lets judges jail anyone who breaks it (1850 to 1900)
 - merger: two or more companies joining into one (1900 to 1950)
@@ -114,6 +112,7 @@
 - Surgeon General: the head of the federal public health service (1900 to 1950)
 - excessive force: far more force than was needed (1900 to 1950)
 - annex: to take over (1900 to 1950)
+- minister (to a country): a government's representative in another country (1900 to 1950)
 - prime contract: a contract made directly between the government and a company (1900 to 1950)
 - vice versa: the other way around (1950 to 2000)
 - military-industrial complex: the ties between the armed forces and the companies that made their weapons (1950 to 2000)
@@ -208,4 +207,4 @@
 
 - Q: How did a few companies come to control whole industries? A: Their owners made secret deals with railroads, bought out rivals and joined companies into trusts and mergers. By 1880 Standard Oil refined 90 to 95 percent of the country's oil.
 - Q: What did owners do when their workers went on strike? A: They locked workers out and hired armed guards, and officials sent soldiers and court orders. At Homestead in 1892 Frick's Pinkerton men fought the steelworkers, and at Ludlow in 1914 soldiers paid by the mine owners burned the strikers' tent camp.
-- Q: Did breaking up a giant company ever work? A: Judges ordered Standard Oil split up in 1911, and AT&T gave up its local telephone companies in 1984. But Rockefeller was three times as rich by 1913, the order to split Microsoft was thrown out in 2001, and judges in 2025 and 2026 would not make Google sell off parts of its business.
+- Q: Did breaking up a giant company ever work? A: Not clearly. Judges split Standard Oil into 34 companies in 1911, yet Rockefeller was three times as rich by 1913. AT&T gave up its local telephone companies in 1984 in a deal most newspapers called a win for AT&T, the order to split Microsoft was thrown out in 2001, and judges in 2025 and 2026 would not make Google sell off parts of its business.

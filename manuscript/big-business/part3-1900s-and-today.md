@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 The biggest companies the country had yet seen took shape in these years, and presidents and judges began to break some of them apart. Between 1895 and 1904 owners and bankers joined more than 1,800 manufacturing firms into 157 large corporations. The largest, US Steel, issued more than a billion dollars in stock, shares sold to investors, in 1901.
 
@@ -30,11 +30,11 @@ Lamoreaux writes that "there was nothing natural or inevitable," nothing certain
 
 **US Steel.** The banker J. P. Morgan put US Steel together as a corporation in New Jersey in February 1901. He bought Carnegie Steel for Andrew Carnegie's asking price of $480 million. Other companies went in with it, among them makers of steel, pipe and bridges and the Lake Superior Consolidated Iron Mines, whose ore came from Ojibwe land in Minnesota. Charles M. Schwab was president from 1901 to 1903, and Elbert H. Gary was chairman from 1901 to 1927.
 
-**A billion dollars in stock.** US Steel was the first company in the world with more than a billion dollars in stock. It issued stock with a stated value of about $1.4 billion, and accounts give figures from $1.403 billion to $1.466 billion.
+**A billion dollars in stock.** US Steel was the first company in the world with more than a billion dollars in stock. It issued stock with a stated value of about $1.4 billion.
 
-Government investigators at the federal Bureau of Corporations put the real value of what the company owned at about $682 million, about half the stock issued. So about half of the stock was watered stock, stock issued for more than the property behind it. When the shares first traded in 1901, buyers valued them at about $765 million in all, according to the financial data firm Finaeon. The market value of the stock did not pass $1 billion until 1916.
+Government investigators at the federal Bureau of Corporations put the real value of what the company owned at about $682 million, about half the stock issued. So about half of the stock was watered stock, stock issued for more than the property behind it.
 
-**Two-thirds of the steel.** US Steel made about two-thirds of all the steel in the United States at the start: 65.7 percent in 1901 by Kenneth Warren's count in his book *Big Steel*, and 67 percent in 1902 by another count. EBSCO's reference entry gives a lower figure for the start, 44.8 percent, which no other count matches. In 1902 the company employed 168,000 people. By 1911 its share had fallen to between 40 and 50 percent, depending on who counts.
+**Two-thirds of the steel.** US Steel made about two-thirds of all the steel in the United States at the start. In 1902 the company employed 168,000 people. By 1911 its share had fallen to less than half.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="jp-morgan" name="J.P. Morgan" movie="" kind="famous" status="verified" -->
@@ -69,6 +69,8 @@ Her *History of the Standard Oil Company* came out in 19 parts in *McClure's* ma
 **The widow's plant.** In one part, Tarbell told the story of a Cleveland widow, Mrs. Backus, who sold her late husband's plant for making oil for machines to Rockefeller in 1878. Tarbell wrote that he paid her next to nothing. Rockefeller's biographer Ron Chernow tells it differently: the plant was out of date, the widow asked for as much as $200,000, and Rockefeller paid $79,000, including $10,000 added on top. The two accounts of that sale do not agree.
 
 Chernow does call Rockefeller's buyouts of his Cleveland rivals in 1872 "one of the most shameful episodes in his career." Rockefeller called Tarbell "That poisonous woman." He told his advisers, "Not a word about that misguided woman."
+
+**What came of it.** Her series made many Americans furious with Standard Oil. Smithsonian magazine writes that this public fury is credited with the company's breakup. The breakup came after the justices of the Supreme Court ruled against Standard Oil in 1911.
 <!-- hb-story:end slug="ida-tarbell-big-business" -->
 
 <!-- hb-story:start slug="theodore-roosevelt-big-business" name="Theodore Roosevelt" movie="TR: The Story of Theodore Roosevelt (American Experience, 1996)" kind="famous" status="verified" -->
@@ -82,9 +84,9 @@ Chernow does call Rockefeller's buyouts of his Cleveland rivals in 1872 "one of 
 
 Theodore Roosevelt is known as the trust-buster, but the president after him had his lawyers bring more antitrust suits. Roosevelt's Justice Department lawyers sued the Northern Securities Company, J. P. Morgan and James J. Hill's railroad holding company, in 1902 under the Sherman Act, the federal law of 1890 against deals that block trade.
 
-**The ruling.** The justices of the Supreme Court ruled 5 to 4 for the government on March 14, 1904, and upheld the order to break the company up. Justice John M. Harlan wrote for the majority. Justice Oliver Wendell Holmes disagreed, writing, "Great cases like hard cases make bad law."
+**The ruling.** The justices of the Supreme Court ruled 5 to 4 for the government on March 14, 1904, and upheld the order to break the company up. Justice John M. Harlan wrote for the majority. Justice Oliver Wendell Holmes disagreed, writing, "Great cases like hard cases make bad law." He meant that a case the whole country is excited about stirs up feelings that can bend the judges' thinking.
 
-**Who brought more.** Roosevelt's lawyers brought 44 antitrust suits in seven and a half years. William Howard Taft, the next president, had his lawyers bring more in four years, 75 by one count and 99 by another. Taft's lawyers sued US Steel in 1911, and Roosevelt then accused Taft of being unable to tell the good trusts from the bad ones.
+**Who brought more.** Roosevelt's lawyers brought 44 antitrust suits in seven and a half years. William Howard Taft, the next president, had his lawyers bring more in four years, at least 75. Taft's lawyers sued US Steel in 1911, and Roosevelt then accused Taft of being unable to tell the good trusts from the bad ones.
 <!-- hb-story:end slug="theodore-roosevelt-big-business" -->
 
 <!-- hb-zoom level="span" label="Standard Oil and American Tobacco are broken up, 1911" -->
@@ -132,7 +134,7 @@ Berle and Means also found that the ownership of these companies was split among
 <!-- hb-zoom level="span" label="The Securities and Exchange Commission, 1934" -->
 After the stock market crash of 1929, members of Congress passed a law that required companies selling stock to report their finances to the public. President Franklin D. Roosevelt signed it, the Securities Exchange Act, on June 6, 1934. Under it, the members of a new Securities and Exchange Commission, or SEC, watched over the stock markets. The yearly and quarterly reports that such companies still file with the SEC began with this law.
 
-**The fox and the hen house.** Roosevelt made Joseph P. Kennedy the first chairman of the SEC in the summer of 1934, in June or on July 1 by different accounts. Kennedy had made money in the stock market using the same practices the new law banned, and he had given, lent and raised money for Roosevelt's 1932 campaign.
+**The fox and the hen house.** Roosevelt made Joseph P. Kennedy the first chairman of the SEC in the summer of 1934. Kennedy had made money in the stock market using the same practices the new law banned, and he had given, lent and raised money for Roosevelt's 1932 campaign.
 
 Newspaper writers said the choice was "like putting the fox in the hen house." In private, Roosevelt answered, "set a thief to catch a thief." Both sayings meant the same thing: Roosevelt had put a man who had used those practices in charge of stopping them. Kennedy resigned in September 1935.
 <!-- /hb-zoom -->
@@ -146,11 +148,15 @@ At the plant, 264 Chicago police threw tear gas at the marchers, fired their gun
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hawaii's Big Five" -->
-Five companies in Hawaii, known as the Big Five, controlled about 94 percent of the islands' sugar crop by 1920, by the count of the historian Carol MacLennan. They were C. Brewer and Company, Theo H. Davies and Company, H. Hackfeld and Company, Castle and Cooke, and Alexander and Baldwin.
+Five companies in Hawaii, known as the Big Five, controlled about 94 percent of the islands' sugar crop by 1920, by the count of the historian Carol MacLennan. Two of them were Castle and Cooke and Alexander and Baldwin.
 
 The same people sat on the boards of several of the firms, and together they controlled shipping, banking and stores in the islands. Four of the firms together owned nearly three-quarters of the Matson shipping line, which carried 80 percent of the cargo between the mainland and Hawaii.
 
-**The overthrow.** Members of a group called the Committee of Safety had organized the overthrow of the Hawaiian Kingdom earlier, in 1893, and pressed for the United States to annex the islands, or take them over. Some children of Big Five partners were members of that committee. The Big Five's plantations stood on the land of Native Hawaiians, the Kanaka Maoli. From 1893 into the 1950s, the owners of the Big Five dominated Hawaii's economy and government.
+**The overthrow.** Hawaii was a kingdom with its own rulers until 1893. On January 17 of that year, a group of mostly American businessmen calling themselves the Committee of Safety moved against Queen Liliʻuokalani. John L. Stevens, the United States minister to Hawaii, was the American government's representative there. He had 162 US sailors and Marines brought ashore from a warship.
+
+The queen's soldiers and police did not fight. She gave up her power under protest, to the United States rather than to the committee. Chapter 23, America and the World, tells the overthrow in full.
+
+Some children of Big Five partners were members of the Committee of Safety, which then pressed for the United States to annex the islands, or take them over. The Big Five's plantations stood on the land of Native Hawaiians, the Kanaka Maoli. From 1893 into the 1950s, the owners of the Big Five dominated Hawaii's economy and government.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="War contracts, 1940 to 1944" -->
@@ -170,7 +176,7 @@ Federal officials also paid for new factories and rented them to private compani
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
 
 Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had about a million in the early 1980s. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
 
@@ -180,7 +186,7 @@ Companies grew so large in these years that General Motors had 618,365 workers i
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="General Motors" -->
-General Motors was the country's largest car maker in the 1950s, and in 1953 it sold more to the armed forces than any other company. It sold 54 percent of new cars in 1954, by the Associated Press's count. The encyclopedia Britannica lists GM at 40 to 45 percent of all car sales through the 1950s and 1960s.
+General Motors was the country's largest car maker in the 1950s, and in 1953 it sold more to the armed forces than any other company. In 1954 it sold about half of all new cars in the country, 54 percent by the Associated Press's count.
 
 **A billion dollars.** In 1955 GM became the first company to earn more than a billion dollars in profit in one year. In the first three quarters of that year alone it made $912,887,537 in profit. *TIME* magazine wrote, "Never before in history has one corporation made so much in so short a time." GM's workforce in the United States peaked at 618,365 in 1979, which made it the largest private employer in the country, according to an Associated Press timeline.
 
@@ -200,7 +206,7 @@ By the military-industrial complex he meant the ties between the armed forces an
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What was a conglomerate?" -->
-A conglomerate was one company that owned many businesses that had nothing to do with each other. Harold Geneen ran the company ITT from 1959 to 1977, and in those years ITT bought between 250 and 350 companies, depending on the count, in more than 80 countries. They included the Sheraton hotel chain, Avis car rental, the Hartford insurance company and Continental Baking, the maker of Wonder Bread.
+A conglomerate was one company that owned many businesses that had nothing to do with each other. Harold Geneen ran the company ITT from 1959 to 1977, and in those years ITT bought more than 250 companies in more than 80 countries. They included the Sheraton hotel chain, Avis car rental, the Hartford insurance company and Continental Baking, the maker of Wonder Bread.
 
 ITT's yearly sales grew from about $700 million to $17 billion, and it became the eleventh-largest corporation in the country. Geneen believed that good managers could make a success of any business.
 
@@ -216,11 +222,13 @@ President Richard Nixon nominated Powell to the Supreme Court on October 21, 197
 
 **The Business Roundtable.** Three groups of company heads joined to form the Business Roundtable on October 13, 1972. Its founders included John D. Harper of Alcoa and Roger Blough, the retired head of US Steel. They set out to fight the growing power of unions, especially construction unions.
 
-**Offices and lobbyists.** Company heads opened offices in Washington and hired lobbyists. Corporations with public affairs offices in Washington went from 100 in 1968 to more than 500 in 1978.
+**Offices and lobbyists.** Company heads opened offices in Washington, and by 1978 more than 500 corporations had one. They also hired lobbyists to persuade lawmakers. Firms with registered lobbyists went from 175 in 1971 to 2,445 in 1982, about 14 times as many.
 
-Firms with registered lobbyists went from 175 in 1971 to 2,445 in 1982, about 14 times as many. Companies also set up political action committees, or PACs, groups that collect money and give it to candidates. Officials of the Federal Election Commission counted 89 company PACs at the end of 1974, 294 in May 1976 and 1,206 at the end of 1980.
+**Money for candidates.** Companies also set up political action committees, or PACs, groups that collect money and give it to candidates. Officials of the Federal Election Commission counted 89 company PACs at the end of 1974 and 1,206 at the end of 1980, more than 13 times as many.
 
-**Rules removed.** Members of Congress voted from 1978 to 1980 to remove federal rules on three industries. President Jimmy Carter signed each law: for airlines on October 24, 1978, for banks on March 31, 1980, and for trucking on July 1, 1980.
+**Rules removed.** In the same years, members of Congress voted to take federal rules off three industries, and President Jimmy Carter signed each law. The airline law of 1978 began ending federal officials' control over which routes airlines flew and what they charged, and the federal board that had set them closed in 1984.
+
+The banking law of 1980 ended, over six years, the limits on the interest banks could pay savers. The trucking law of 1980 let trucking companies set many of their own prices and made it easier for new companies to start. Each law took power over prices from federal officials and gave it to the companies.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What did the companies say when their products hurt people?" -->
@@ -236,21 +244,29 @@ In it, the companies' leaders disputed new scientific studies that linked smokin
 
 **Asbestos.** Asbestos is a mineral that separates into thin, strong fibers, and builders used it to fireproof and insulate buildings. When people breathe asbestos fibers in, the fibers can stay in the lungs for years. They scar the lungs and can cause asbestosis, a lung disease that brings shortness of breath, coughing and lasting lung damage. They can also cause mesothelioma, a cancer of the thin linings of the chest and belly. The illness can take 10 to 40 years or more to show.
 
-Johns-Manville was once the largest maker of asbestos products in the country. In 1981 it faced 9,300 lawsuits brought by 12,800 people who sued over illness from asbestos. Its leaders filed for bankruptcy, a court process for a company that cannot pay its debts, in August 1982. Under the filing, all the injury lawsuits against the company were put on hold. By the end of 1988, more than 12,600 claims, almost $500 million in all, had been paid from a fund set up in the bankruptcy to pay for injuries.
+Johns-Manville was once the largest maker of asbestos products in the country. Andrew Hansen began working at a shipyard in 1940, tearing old insulation out of ships and putting new insulation in. Most of it was made by Johns-Manville and contained asbestos. In 1978, at 65, he was found to have asbestosis and mesothelioma, and he died 13 months later. His widow sued the company.
+
+**What the company knew.** Dr. Kenneth Smith, Johns-Manville's medical director until 1966, gave sworn testimony in the case. He said that in the 1940s he had told the company's leaders about the danger asbestos posed to insulation workers and had urged warnings on its insulation products, and that they did not act on his advice.
+
+Johns-Manville's lawyers answered that the company began putting warnings on its products in 1964, as soon as science proved a link between its products and asbestosis. The jury found for Hansen's widow, and in 1984 a federal appeals court upheld that finding against the company.
+
+By 1981, while her case was still in the courts, Johns-Manville faced 9,300 lawsuits brought by 12,800 people who sued over illness from asbestos. Its leaders filed for bankruptcy, a court process for a company that cannot pay its debts, in August 1982. Under the filing, all the injury lawsuits against the company were put on hold. By the end of 1988, more than 12,600 claims, almost $500 million in all, had been paid from a fund set up in the bankruptcy to pay for injuries.
 
 **Bhopal.** More than 40 tons of a poison gas called methyl isocyanate leaked from a pesticide plant in Bhopal, India, a factory that made poisons to kill insects, on December 3, 1984. Union Carbide India Limited, part of the American company Union Carbide, ran the plant.
 
-Union Carbide's leaders had first planned to close the plant, which was losing money. Instead they cut many jobs, including maintenance engineers, to run it for less, according to a report by France's environment ministry. The same report states that the plant's senior managers ordered the cleaning of pipes on December 2, 1984, pipes that led to a machine meant to clean escaping gas. A broken valve let about a ton of the cleaning water into a tank of the gas, according to a 2005 medical review by Edward Broughton.
+**How it happened.** Union Carbide's leaders had planned to close the plant, which was losing money. Instead they cut many jobs to run it for less, among them maintenance engineers. In June 1984 the unit that kept the gas cold was shut down, to cut the plant's use of electricity by 18 percent. Weeks before the leak, the machine meant to clean escaping gas was turned off too: on October 23 by the date in a report by France's environment ministry, or three weeks before by a 2005 medical review.
 
-The gas-cleaning machine had been turned off before the leak. Broughton's review says three weeks before, and the French report dates it to October 23, 1984, about six weeks before. The French report also states that the plant's cooling unit had been shut down since June 1984 to cut its use of electricity by 18 percent. Neither report names the people who turned off the machine or shut down the cooling unit.
+On December 2, 1984, the plant's senior managers ordered some pipes cleaned with water. A broken valve let about a ton of that water into a tank holding 40 tons of the gas, and on December 3 the gas escaped into the air. Neither report names the people who turned off the gas-cleaning machine or shut down the cooling unit.
 
-**What the gas did.** The gas damaged people's eyes, causing redness and sores, and it filled their lungs with fluid. It killed about 2,000 people in the first hours, according to Britain's Health and Safety Executive, a government safety agency. Broughton's review gives about 3,800 dead at once, and 15,000 to 20,000 early deaths reported over the next twenty years.
+**What the gas did.** The gas damaged people's eyes, causing redness and sores, and it filled their lungs with fluid. It killed about 2,000 people in the first hours, according to Britain's Health and Safety Executive, a government safety agency. The 2005 medical review, by Edward Broughton, gives about 3,800 dead at once, and 15,000 to 20,000 early deaths reported over the next twenty years.
 
 At first Union Carbide's leaders tried to keep the company free of legal blame. Later they said the company accepted "moral responsibility," and the company paid $470 million to the government of India.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Bell System is split, 1984" -->
-AT&T's Bell System held about $150 billion in property and employed about a million people in the early 1980s. Justice Department lawyers had sued AT&T in 1974. In January 1982 AT&T's leaders and the Justice Department's lawyers agreed that AT&T would give up its local telephone companies. Judge Harold H. Greene approved the deal with changes, and the case was closed on August 24, 1982.
+AT&T's Bell System held about $150 billion in property and employed about a million people in the early 1980s. Justice Department lawyers had sued AT&T in 1974. In January 1982 AT&T's leaders and the Justice Department's lawyers agreed that AT&T would give up its local telephone companies.
+
+In return, a 1956 court order that had kept AT&T out of the computer business was lifted, and most newspapers reported the deal as a win for AT&T. Judge Harold H. Greene approved the deal with changes, and the case was closed on August 24, 1982.
 
 **The Baby Bells.** The local companies became seven regional companies, called the Baby Bells, on January 1, 1984. AT&T kept its long-distance service, its research center, Bell Labs, and its equipment maker, Western Electric. It kept $34 billion of the $149.5 billion in property it had held the day before, less than a quarter, and it had 636,000 fewer workers.
 <!-- /hb-zoom -->
@@ -292,7 +308,9 @@ Walmart was 30 percent of Vlasic's business. Young says shoppers who used to buy
 
 **The threat.** Young says Vlasic's managers asked to raise the price. He remembers the Walmart buyers' answer: "If you do that, all the other products of yours we buy, we'll stop buying." He called it "a clear threat." Hunn remembers the buyers saying, "We want the $2.97 gallon of pickles. If you don't do it, we'll see if someone else might."
 
-Later, Walmart's buyers let Vlasic shrink the jar to just over half a gallon, at $2.79. Vlasic filed for bankruptcy in January 2001. Everyone involved agrees the gallon jar was not a main cause of that failure.
+Later, Walmart's buyers let Vlasic shrink the jar to just over half a gallon, at $2.79. Vlasic filed for bankruptcy in January 2001, though everyone involved agrees that the gallon jar was not a main cause.
+
+**Why this story is here:** A buyer as large as Walmart could name its price, even a price that left the seller almost nothing.
 <!-- hb-story:end slug="steve-young-vlasic" -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
@@ -306,9 +324,9 @@ Later, Walmart's buyers let Vlasic shrink the jar to just over half a gallon, at
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 13 minutes**
 
-Three American companies, Nvidia, Apple and Alphabet, were each worth more than $4 trillion in September 2026. In the same years government lawyers took four of the largest technology companies to court over monopoly power. Walmart employed about 1.6 million people in the United States in 2026, by its own count, about 2.6 times General Motors' American workforce at its peak in 1979.
+Three American companies, Nvidia, Apple and Alphabet, the company that owns Google, were each worth more than $4 trillion in September 2026. In the same years government lawyers took four of the largest technology companies to court over monopoly power. Walmart employed about 1.6 million people in the United States in 2026, by its own count, about 2.6 times General Motors' American workforce at its peak in 1979.
 
 **Fraud and a rescue.** A federal jury convicted Enron's former chief executives of fraud in 2006. Purdue Pharma, the maker of the pain pill OxyContin, pleaded guilty to federal crimes in 2007 and again in 2020. Lehman Brothers failed in 2008, and members of Congress set aside $700 billion that year to rescue banks and other companies.
 
@@ -326,9 +344,11 @@ Amazon's yearly report to the government for 2025 states that it employed about 
 <!-- hb-zoom level="span" label="Fraud and harm at the top" -->
 Judges and juries found that leaders of several large companies of these years had deceived the public, and Purdue Pharma's leaders admitted it in guilty pleas.
 
-**Enron.** Enron, an energy company in Houston, Texas, filed for bankruptcy on December 2, 2001. Its workers had much of their retirement savings in Enron stock. At the end of 2000, 62 percent of the money in the company's retirement plan was in its own shares, according to the Congressional Research Service, which does research for Congress. The shares fell from more than $80 each in January 2001 to less than 70 cents in January 2002, less than a hundredth of their old price.
+**Enron.** Enron, an energy company in Houston, Texas, filed for bankruptcy on December 2, 2001. Its workers had much of their retirement savings in Enron stock. At the end of 2000, 62 percent of the money in the company's retirement plan was in its own shares, according to the Congressional Research Service, which does research for Congress.
 
-A lawsuit claimed that Enron had blocked its workers from moving their retirement money out of Enron stock while the price fell. A federal jury in Houston convicted Enron's former chief executives, Kenneth L. Lay and Jeffrey K. Skilling, on May 25, 2006, according to the Justice Department. The jury found them guilty of conspiracy, planning a crime together with others, and of fraud, lying or cheating to get money.
+The shares fell from more than $80 each in January 2001 to less than 70 cents in January 2002, less than a hundredth of their old price. A lawsuit claimed that Enron had blocked its workers from moving their retirement money out of Enron stock while the price fell.
+
+A federal jury in Houston convicted Enron's former chief executives, Kenneth L. Lay and Jeffrey K. Skilling, on May 25, 2006. The jury found them guilty of conspiracy, planning a crime together with others, and of fraud, lying or cheating to get money. According to the Justice Department, the two men had lied to investors and others to make Enron look healthy, as if it were growing steadily and had no large debts or losses. Their lies pushed up the price of Enron's stock.
 
 **Tobacco in court.** Federal Judge Gladys Kessler ruled on August 17, 2006, that the major tobacco companies had broken the federal racketeering law, the law against running a business through a pattern of fraud. She found that the companies had "defrauded the American people by lying for decades about the health risks of smoking and their marketing to children."
 
@@ -356,7 +376,7 @@ Investigators later looked into whether Lehman's executives, Fuld among them, ha
 
 **The rescue.** Members of Congress passed the Emergency Economic Stabilization Act on October 3, 2008. It allowed up to $700 billion to rescue banks and other companies. Federal officials paid out $443.5 billion in all, and most of it was paid back. Auditors at the Government Accountability Office, which checks federal spending for Congress, put the final cost at $31.1 billion in December 2023.
 
-The money put into banks under the Capital Purchase Program earned a profit of $16.3 billion. The rescue of the insurance company AIG cost $15.2 billion, the loans to car makers cost $12.1 billion and the housing programs cost $31.4 billion. The car loans began with $13.4 billion that President George W. Bush announced in December 2008.
+Some parts of the rescue made money, and others lost it. The money put into banks under the Capital Purchase Program earned a profit of $16.3 billion. The rescue of the insurance company AIG, the loans to car makers and the housing programs all cost money, and the housing programs cost the most. The car loans began with $13.4 billion that President George W. Bush announced in December 2008.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Antitrust returns" -->
@@ -387,9 +407,11 @@ Lina Khan argued that the judges and officials who enforce antitrust law had sto
 
 **Her argument.** She wrote that those judges and officials had come to judge competition mainly by whether prices went up. In her view, that test missed the power Amazon's leaders built by accepting losses while the company spread into selling, delivery, publishing and cloud computing, renting out computer storage and computing power over the internet. They could use the company's place in one business to gain in another.
 
+**The diapers.** Her article gave an example. In 2009 Amazon's leaders wanted to buy Quidsi, the company that ran the website Diapers.com, and Quidsi's owners said no. Amazon then cut its prices for diapers and other baby goods by up to 30 percent. Quidsi's executives worked out that Amazon was on track to lose $100 million in three months on diapers alone. Amazon bought Quidsi the next year, and by February 2012 it had cut the discounts it gave parents from 30 percent to 20 percent, she wrote.
+
 **At the FTC.** Members of the Senate confirmed her to the Federal Trade Commission by a vote of 69 to 28 on June 15, 2021. President Joe Biden chose her as the commission's chair, and she was sworn in the same day. At 32 she was the youngest chair in the agency's history, according to CNBC. Under her, FTC lawyers sued Amazon in 2023 and carried on the case against Meta.
 
-**Her critics.** Robert D. Atkinson and Michael R. Ward of the Information Technology and Innovation Foundation, a research group funded partly by technology companies, argued in a 2023 report that her 2017 article misread how online markets work. Khan served as chair until January 20, 2025, and she left the commission on January 31, 2025. FTC lawyers lost the Meta case at trial in November 2025.
+**Her critics.** Robert D. Atkinson and Michael R. Ward of the Information Technology and Innovation Foundation, a research group funded partly by technology companies, argued in a 2023 report that her 2017 article misread how online markets work. Khan served as chair until January 20, 2025.
 <!-- hb-story:end slug="lina-khan" -->
 
 <!-- hb-zoom level="span" label="Corporate money in politics" -->
@@ -412,7 +434,7 @@ Some companies now pay people for work without hiring them as employees. Ride an
 **The three questions, answered**
 - How did a few companies come to control whole industries? Their owners made secret deals with railroads, bought out rivals and joined companies into trusts and mergers. By 1880 Standard Oil refined 90 to 95 percent of the country's oil.
 - What did owners do when their workers went on strike? They locked workers out and hired armed guards, and officials sent soldiers and court orders. At Homestead in 1892 Frick's Pinkerton men fought the steelworkers, and at Ludlow in 1914 soldiers paid by the mine owners burned the strikers' tent camp.
-- Did breaking up a giant company ever work? Judges ordered Standard Oil split up in 1911, and AT&T gave up its local telephone companies in 1984. But Rockefeller was three times as rich by 1913, the order to split Microsoft was thrown out in 2001, and judges in 2025 and 2026 would not make Google sell off parts of its business.
+- Did breaking up a giant company ever work? Not clearly. Judges split Standard Oil into 34 companies in 1911, yet Rockefeller was three times as rich by 1913. AT&T gave up its local telephone companies in 1984 in a deal most newspapers called a win for AT&T, the order to split Microsoft was thrown out in 2001, and judges in 2025 and 2026 would not make Google sell off parts of its business.
 
 **What changed:** In 1500 no company existed in this land, and by 2026 three American companies were each worth more than $4 trillion.
 

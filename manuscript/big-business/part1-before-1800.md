@@ -14,13 +14,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 19 of 37 · Big Business and Its Power · 10 eras · about 90 minutes**
+**Chapter 19 of 37 · Big Business and Its Power · 10 eras · about 95 minutes**
 
 **From the Virginia Company of 1606 to the trillion-dollar companies of 2026, the biggest businesses here kept getting bigger, and at every step people fought over how much power their owners should have.**
 
 Members of a protest group called the Sons of Liberty smashed open 340 chests of tea with axes on December 16, 1773, and dumped the tea into Boston Harbor. The tea belonged to a company, the East India Company of London. British lawmakers had just let the company's agents sell its tea straight to the colonies, more cheaply than colonial merchants could. In February 1774 the company's directors sent a bill for the tea to the British minister in charge of the colonies. It came to 9,659 pounds, 6 shillings and 4 pence.
 
-This chapter describes the biggest companies of each era, from the London investors behind Jamestown to the technology companies in court in 2026. Watch where each company's power came from. At first it came from a government's written permission. Later it came from secret deals with railroads and from buying up rivals until a few owners ran whole industries. Watch, too, who pushed back: kings and lawmakers who took that permission away, workers who went on strike, a reporter named Ida Tarbell, and presidents and judges who split companies apart. The owners of some of these companies made money from shipping enslaved people. Others kept selling products after the people who made or used them died.
+This chapter describes the biggest companies of each era, from the London investors behind Jamestown to the technology companies in court in 2026. It follows where each company's power came from. At first it came from a government's written permission. Later it came from secret deals with railroads and from buying up rivals until a few owners ran whole industries. People pushed back. Kings and lawmakers took that permission away, workers went on strike, the reporter Ida Tarbell dug through the records, and presidents and judges split companies apart. The owners of some companies made money from shipping enslaved people. Others kept selling leaded gasoline after workers who made its additive died, and cigarettes after studies linked smoking to lung cancer.
 
 **Three questions this chapter answers**
 - How did a few companies come to control whole industries?
@@ -36,7 +36,7 @@ This chapter describes the biggest companies of each era, from the London invest
 
 No company existed in this land before 1500, no business owned by a group of people who put money into it and shared what it earned. Starting a corporation, a company that goes on after its first owners are gone, took a written grant from a government.
 
-Native nations traded goods over long distances. Archaeologists, the scientists who dig up and study what people left behind, have found copper from Lake Superior, shells from the Gulf of Mexico and turquoise from the Southwest hundreds of miles from their sources. People at Cahokia, in what is now Illinois, traded stone hoe blades that have turned up more than 400 miles away. The traders belonged to many different nations, and none of them ran that trade as a company whose owners each held a part of it.
+Native nations traded goods over hundreds of miles, and Chapter 18, Marketplace and Consumer Life, tells that trade. The traders belonged to many different nations, and none of them ran the trade as a company whose owners each held a part of it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -105,9 +105,7 @@ The investors of the Virginia Company elected Sir Edwin Sandys their treasurer, 
 
 To draw settlers, Sandys and the company's officers used a plan called the headright. They promised 50 acres of land for each person whose trip to Virginia someone paid for. The payer got the land, whether he paid for his own trip or for another person's. The settler then paid the company a quitrent, a small yearly rent on the land, of one shilling a year. The land handed out this way was Powhatan land.
 
-Sandys and the officers shipped 3,570 more men, women and children to Virginia from 1619 to 1622. Of the 4,270 people counted in the colony in those years, only 1,240 were still alive at the end.
-
-The historian Edmund S. Morgan studied these years in a book published in 1975. Encyclopedia Virginia's history of the company sums up what Morgan and later scholars showed: any responsible king "would have been obliged (bound by duty) to stop the reckless shipment of his subjects (the people he ruled) to their deaths." The king at the time, James I, took the company's charter away in 1624.
+**Who could have stopped it.** The historian Edmund S. Morgan studied these years in a book published in 1975. He and later scholars have shown that a responsible king would have stopped the company from recklessly shipping his people to their deaths, Encyclopedia Virginia's history of the company states. King James I did not stop the shipments while they went on, from 1619 to 1622. He took the company's charter away in 1624.
 <!-- hb-story:end slug="edwin-sandys" -->
 
 <!-- hb-zoom level="span" label="The Dutch West India Company" -->
@@ -174,7 +172,7 @@ Apthorp placed advertisements in the *Boston Gazette* in the 1730s and 1740s for
 > **Who:** The Boston merchant whose firm rented out the ships that carried the Acadians away from their homeland in 1755.
 > **When and where:** Boston, from about 1724 until his death in 1764.
 
-**Ships from his firm were rebuilt to hold two people a ton.**
+**His firm's ships, rebuilt like slave ships, carried away Acadian families.**
 
 Thomas Hancock built one of the largest fortunes in New England, and part of his firm's business was carrying people whom British officials had forced from their homes. He started out at 13 or 14 as a bookseller's apprentice in Boston, learning the trade.
 
@@ -186,7 +184,7 @@ Thomas Hancock built one of the largest fortunes in New England, and part of his
 
 Lawrence and Shirley hired about 24 sailing ships from the firm of Apthorp and Hancock to carry the Acadians away. The partners charged 40 to 48 pounds a month for each ship, and the governors also paid a fixed fee for each person carried. In Boston the ships were rebuilt inside to hold two people for every ton of cargo the ship could carry, and some held 300 to 500 people. The historian Mark Peterson writes that they were "fitted out in the manner of slave ships."
 
-The ships carried the Acadians to British colonies along the Atlantic coast, among them Maryland and South Carolina. They were in poor condition. On board, Acadians went without enough food, caught diseases and died. The ships carried no passenger lists, so no record shows which Acadians died at sea or how many.
+The ships carried the Acadians to British colonies along the Atlantic coast, among them Maryland and South Carolina. The ships were in poor condition. On board, Acadians went without enough food, caught diseases and died. The ships carried no passenger lists, so no record shows which Acadians died at sea or how many.
 
 Hancock made his nephew, John Hancock, his equal partner in 1763. Thomas Hancock died of a stroke on August 1, 1764, as he entered the council chamber in Boston. He left property and money worth about 70,000 pounds.
 <!-- hb-story:end slug="thomas-hancock" -->
@@ -196,7 +194,7 @@ Hancock made his nephew, John Hancock, his equal partner in 1763. Thomas Hancock
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 6 minutes**
 
 Colonists in Boston destroyed tea in 1773 that belonged to the East India Company of London. British lawmakers had just given that company the right to sell its tea straight to the colonies. After independence, American lawmakers began chartering companies of their own.
 
@@ -210,11 +208,9 @@ The tea belonged to the East India Company of London, the company chartered in 1
 
 The Act contained no new tax. The tax on tea that members of Parliament had set in 1767 still had to be paid on the company's tea. But the company's agents could sell tea more cheaply than colonial merchants could, so the merchants who sold tea in the colonies lost business.
 
-**The Boston Tea Party.** Ships carrying the company's tea reached Boston in late 1773. Thomas Hutchinson, the royal governor of Massachusetts, refused to let the three ships, the *Beaver*, the *Dartmouth* and the *Eleanor*, leave the harbor until they had unloaded. Members of a protest group called the Sons of Liberty boarded the ships on December 16, 1773, some of them dressed as Mohawk men. They smashed open 340 chests of tea with axes and dumped them into Boston Harbor.
+**The three ships.** Ships carrying the company's tea reached Boston in late 1773. Thomas Hutchinson, the royal governor of Massachusetts, refused to let the three ships, the *Beaver*, the *Dartmouth* and the *Eleanor*, leave the harbor until they had unloaded.
 
-The tea weighed more than 92,000 pounds, about 46 tons. Many accounts say 342 chests, but the company's own papers say 340.
-
-**The bill.** The company's directors sent a bill to the Earl of Dartmouth, the British lord in charge of the American colonies, in February 1774. They asked to be paid back for the tea. The bill came to 9,659 pounds, 6 shillings and 4 pence, with 12 pence to the shilling.
+On December 16, 1773, members of the Sons of Liberty, a protest group, boarded the ships. Some of them were dressed as Mohawk men. They dumped all of the tea into the harbor, more than 92,000 pounds of it, about 46 tons. The company's directors later asked the British government to pay them back for it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Americans start chartering companies" -->
@@ -253,6 +249,6 @@ Morris paid $100,000. Federal officials held the money and put it into shares of
 
 **Prison.** Morris and Nicholson together owed their creditors, the people they had borrowed from, about $12 million by 1797. Officers arrested Morris at his home in February 1798 and took him to the Prune Street debtors' apartment, next to the Walnut Street Prison in Philadelphia. He was held there about three and a half years because he could not pay his debts.
 
-Members of Congress passed a bankruptcy law in 1800. Under it, a court could divide what a person owned among the people he owed and free him from the rest of the debt. Accounts differ about whether Morris's time in prison helped get that law passed. He was released under it in August or October 1801. The three officials who handled his case found that he himself owed $2,948,711.11.
+Members of Congress passed a bankruptcy law in 1800. Under it, a court could divide what a person owned among the people he owed and free him from the rest of the debt. Accounts differ about whether Morris's time in prison helped get that law passed. He was released under it in 1801. The three officials who handled his case found that he himself owed $2,948,711.11.
 <!-- hb-story:end slug="robert-morris" -->
 <!-- hb-time:end id="1750-1800" -->

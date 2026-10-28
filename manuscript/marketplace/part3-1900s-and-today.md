@@ -10,7 +10,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 13 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
 
 Chain stores spread across the country, and the biggest grocery chain, the A&P, grew from about 200 stores in 1900 to about 15,000 by 1930. Grocers began letting customers take goods off the shelves themselves, and families bought cars and radios on monthly payments. Sellers began paying radio and television stations to air their advertisements. Coal companies paid miners in their own money, which only the company store accepted at full value. During the Second World War, shoppers needed ration stamps as well as money to buy many foods.
 <!-- /hb-zoom -->
@@ -18,9 +18,9 @@ Chain stores spread across the country, and the biggest grocery chain, the A&P, 
 <!-- hb-zoom level="span" label="The chain store at full size" -->
 The A&P had 1,600 stores by 1915. By 1930 it had about 15,000 stores and sold $2.9 billion worth of goods a year. That made it the world's largest retailer, a business that sells goods to the people who use them. The A&P was the largest grocery seller in the United States from 1915 to 1975.
 
-**The lunch counter.** Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only. Years later, on February 1, 1960, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
+**The lunch counter.** Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only, and the rule was still in force in 1960. On February 1 of that year, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
 
-Hundreds of people joined their protest over the next six months. On July 25, 1960, the manager of the lunch counter picked three Black workers from the store's kitchen. He told them to get dressed, walk around the store like customers and then sit at the counter. One of them, Geneva Tisdale, ordered an egg-salad sandwich. In Tisdale's own telling, the three of them were chosen as the first Black people to eat at that counter.
+Hundreds of people joined their protest over the next six months. On July 25, 1960, the staff of the Greensboro counter began serving Black customers. By the account of Geneva Tisdale, who worked in the store's kitchen, the manager of the lunch counter picked her and two other Black kitchen workers to be the first. He told them to get dressed, walk around the store like customers and then sit at the counter. Tisdale ordered an egg-salad sandwich. Chapter 25, Rights Movements, tells the sit-ins in full.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="frank-woolworth" name="F. W. Woolworth" movie="" kind="famous" status="verified" -->
@@ -39,7 +39,7 @@ The new F. W. Woolworth Company started with 596 stores and $65 million in capit
 <!-- hb-story:end slug="frank-woolworth" -->
 
 <!-- hb-zoom level="span" label="Who first let shoppers serve themselves?" -->
-Clarence Saunders started self-service shopping when he opened the first Piggly Wiggly store at 79 Jefferson Street in Memphis, Tennessee, on September 6, 1916. His customers picked goods off the shelves themselves instead of asking a clerk to fetch them. Some accounts state the opening date as September 11.
+Clarence Saunders started self-service shopping when he opened the first Piggly Wiggly store at 79 Jefferson Street in Memphis, Tennessee, on September 6, 1916, by most accounts. His customers picked goods off the shelves themselves instead of asking a clerk to fetch them.
 
 **The turnstile.** Customers came in through a turnstile, a gate with turning arms that lets one person through at a time. Then they had to follow a single fenced path past every shelf in the store before they reached the place where they paid.
 
@@ -60,9 +60,15 @@ By the account of the Smithsonian, the national museum in Washington, King Kulle
 
 Clarence Saunders built Piggly Wiggly into a chain of 1,268 stores and then lost it in a fight over its stock. By 1923 the stores sold $100 million worth of groceries a year, and Piggly Wiggly was the third-largest grocery business in the country. Saunders had put the company's stock up for sale on the New York Stock Exchange, a market where people buy and sell shares, small pieces of ownership in a company.
 
-The Tennessee Encyclopedia and writers on the history of money and business describe the fight this way. In early 1923, some Piggly Wiggly stores in New York that other owners ran under the Piggly Wiggly name failed. Traders then began selling Piggly Wiggly stock short, a bet that a stock's price will fall: the trader sells borrowed shares and plans to buy them back later at a lower price.
+Writers on the history of money and business describe the fight this way. In early 1923, some Piggly Wiggly stores in New York that other owners ran under the Piggly Wiggly name failed. Traders then began selling Piggly Wiggly stock short. Selling short is a bet that a stock's price will fall. The trader sells shares he has borrowed, and later he must buy the same number of shares to give back. If the price has fallen by then, he buys them for less than he sold them for.
 
-Saunders fought back. He borrowed about $10 million from bankers in the South, added his own money and kept buying shares. In the end he held orders for 196,000 of the 200,000 shares that existed. Then the men who ran the Stock Exchange stopped trading in the stock and gave the short sellers more time to pay. Within months Saunders was bankrupt, which means he could not pay his debts, and he was out of the company.
+Saunders fought back. He borrowed about $10 million from bankers in the South, added his own money and kept buying shares. In the end he held orders for 196,000 of the 200,000 shares that existed.
+
+**Why he still lost.** Many of the shares Saunders bought came from the short sellers, who now had to hand them over. Saunders held almost every share, so if they had to buy from him, he could name the price.
+
+Then the men who ran the Stock Exchange stopped trading in the stock. They gave the short sellers five days to hand over the shares, instead of the usual one day. In those five days, shares poured in from distant places, and the short sellers used them to pay what they owed.
+
+Saunders still owed the bankers, and a payment of $2.5 million on his loan was due on September 1, 1923. He did not have the money. In August he gave up the company and handed what he owned to the people he owed. He was bankrupt, which means he could not pay his debts.
 
 He started again with a new chain called the "Clarence Saunders, Sole Owner of My Name" stores. They did well until the 1930s, when they failed during the Great Depression, the years of hard times that began in 1929. Later he built the Keedoozle, a grocery store that worked like a vending machine. It never made a profit. Saunders died on October 15, 1953.
 <!-- hb-story:end slug="clarence-saunders" -->
@@ -102,13 +108,15 @@ No television station could sell advertising until officials of the Federal Comm
 
 **Nine dollars for ten seconds.** The first commercial under the new licenses ran on WNBT in New York on July 1, 1941, before a Brooklyn Dodgers baseball game against the Philadelphia Phillies. For about ten seconds it showed the face of a Bulova watch over a map of the United States, while a voice said, "America runs on Bulova time." It cost Bulova $9: $4 for the air time and $5 in station charges. There were about 4,000 television sets in the New York area at the time.
 
-Mary Frances Gerety wrote advertisements at N. W. Ayer & Son, the advertising agency. For the diamond company De Beers, she wrote the slogan "A Diamond Is Forever." Accounts of the slogan state its date as 1947 or 1949. In 1999 the editors of the magazine *Ad Age* named it the most memorable slogan of the 1900s.
+Mary Frances Gerety wrote advertisements at N. W. Ayer & Son, the advertising agency. For the diamond company De Beers, she wrote the slogan "A Diamond Is Forever" in the late 1940s. In 1999 the editors of the magazine *Ad Age* named it the most memorable slogan of the 1900s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Shopping under rationing" -->
 Officials of the US government's Office of Price Administration rationed many goods during the Second World War, limiting how much of each one a person could buy. Sugar, meat, cheese, fats, shoes, gasoline and processed foods, foods that were canned, dried or frozen, were among them. At the start, each person could buy 26 pounds of sugar a year, about 8 ounces a week. Every person in the country, babies included, got a ration book full of stamps.
 
-War Ration Book Two came into use on March 1, 1943. Its blue stamps bought processed foods, and its red stamps bought meat, cheese, fats and oils. Each person got 48 blue points and 64 red points a month, so a family of four had 192 blue points a month for processed food. Every cut of almost every kind of meat had its own point value.
+War Ration Book Two came into use on March 1, 1943. Its blue stamps bought processed foods, and its red stamps bought meat, cheese, fats and oils. Each stamp was worth a number of points, such as 8, 5, 2 or 1, and every food had a price in points as well as in money. In a cartoon the US government made to teach the system, a shopper's string beans cost 3 blue points.
+
+Each person got 48 blue points and 64 red points a month, so a family of four had 192 blue points a month for processed food. Every cut of almost every kind of meat had its own point value.
 
 At the store a shopper paid with stamps and with money together. The price could not go above the ceiling price, the highest price government officials allowed. Point values changed often. Newspaper editors printed them, radio announcers read them out and members of local ration boards posted them. By the end of the war, more than 100,000 volunteers were running the program through about 5,600 local boards.
 <!-- /hb-zoom -->
@@ -125,11 +133,11 @@ Emilia Lundberg, who was born in Göteborg, Sweden, in 1894, fed six children on
 
 She raised the children on workmen's compensation, money paid to a worker's family after the worker is hurt or killed on the job, of $100 a month. The rent was $35 a month. Her oldest daughter, 16, moved to night school and took a job keeping accounts for $12 a week. Donald packed and delivered groceries at a store after school and on Saturdays for $5 a week.
 
-**At the store.** Before the war, the family ate a roast on Sunday after church and potatoes and macaroni the rest of the week. Under rationing, everyone in the family had a ration book with stamps for meat and other goods, and they took the books to the store and bought what the stamps allowed. The ration was counted for each person, so a large family got more in all than a small one.
+**At the store.** Rationing changed little at the family's table. Before the war, they ate a roast on Sunday after church and potatoes and macaroni the rest of the week. Under rationing, they still bought meat only for Sunday and ate macaroni, spaghetti and mashed potatoes the rest of the week.
 
-They bought meat for Sunday and ate macaroni, spaghetti and mashed potatoes the rest of the week. Shoes were rationed too. Each child had one good pair for school and one pair of sneakers for play.
+Everyone in the family had a ration book with stamps for meat and other goods, and they took the books to the store and bought what the stamps allowed. The ration was counted for each person, so a large family got more in all than a small one. Shoes were rationed too. Each child had one good pair for school and one pair of sneakers for play.
 
-Emilia had a 1933 Plymouth car. Donald remembered the family's gasoline ration as about a gallon and a half. When they told the ration board they were driving to visit his older brother, a soldier at Camp Kilmer in New Jersey, they got a coupon for about two more gallons. Donald described all of this in an interview for the Rutgers Oral History Archives in 2008, about 65 years later.
+Emilia had a 1933 Plymouth car. Donald remembered the family's gasoline ration as about a gallon and a half, but he did not say whether that was for a week or a month. When they told the ration board they were driving to visit his older brother, a soldier at Camp Kilmer in New Jersey, they got a coupon for about two more gallons. Donald described all of this in an interview for the Rutgers Oral History Archives in 2008, about 65 years later.
 <!-- hb-story:end slug="emilia-lundberg" -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
@@ -201,15 +209,17 @@ Kmart grew out of the S. S. Kresge chain of five-and-dime stores, which sold sma
 
 Sam Walton built Walmart, spelled Wal-Mart at first, by opening discount stores in small towns. The heads of the large chains had judged those towns too small to bother with. Before 1962 Walton ran Ben Franklin variety stores in Arkansas, which sold many kinds of small, cheap goods. He bought goods in huge amounts and priced them below the stores nearby. Walmart became the largest retailer in the United States and the largest private employer, which means it had more workers than any other company.
 
-Economists have measured what happened to shoppers and to towns when Walmart stores opened. Jerry Hausman of MIT and Ephraim Leibtag of the US Department of Agriculture reported in 2007 that shoppers gained a great deal from Walmart's low prices, most of all households with lower incomes.
+Economists have measured what happened to shoppers and to towns when Walmart stores opened. Two economists, one at MIT and one at the US Department of Agriculture, reported in 2007 that shoppers gained a great deal from Walmart's low prices, most of all households with lower incomes.
 
-**Jobs and sales.** David Neumark, Junfu Zhang and Stephen Ciccarella reported in 2008 that when a Walmart opened, the county around it lost about 150 retail jobs, or 2.7 percent. By their count, each Walmart worker replaced about 1.4 workers at other stores.
+**Jobs and sales.** Three other economists reported in 2008 that when a Walmart opened, the county around it lost about 150 retail jobs, or 2.7 percent. By their count, each Walmart worker replaced about 1.4 workers at other stores.
 
-Kenneth Stone, an economist at Iowa State University, has studied Walmart in Iowa since 1988. In a 2012 study, Stone and a co-author found that retail sales in Iowa towns with fewer than 2,500 people fell 30 percent, about $1.5 billion, in the years after Walmart stores opened in Iowa. In towns of 3,000 to 20,000 people that got a Walmart, total retail sales rose.
+**Small towns.** Kenneth Stone, an economist at Iowa State University, has studied Walmart in Iowa since 1988. In a 2012 study, he and a co-author followed 28 Iowa towns of 3,000 to 20,000 people for 15 years after each got a Walmart. Total retail sales in those towns rose, but most of the gain went to Walmart, and other stores in town that sold the same things lost sales.
+
+None of the study's Walmart towns had fewer than 3,000 people. In Iowa's smallest towns, under 2,500 people, retail sales fell 30 percent, about $1.5 billion, in the years after Walmart came to the state. In those years, shopping in Iowa moved to the bigger cities and to the Walmart towns, where people from nearby towns now came to shop.
 <!-- hb-story:end slug="sam-walton" -->
 
 <!-- hb-zoom level="span" label="The franchise" -->
-Roy Allen bought a recipe for root beer in 1919. In 1924, or 1925 by some accounts, he began selling A&W franchises: the right for other people to run a business under the A&W name, following his rules. Writers on the history of franchising often call A&W the first successful food franchise. J. Willard Marriott was one of its early franchise owners.
+Roy Allen bought a recipe for root beer in 1919. In 1924, by most accounts, he began selling A&W franchises: the right for other people to run a business under the A&W name, following his rules. Writers on the history of franchising often call A&W the first successful food franchise. J. Willard Marriott was one of its early franchise owners.
 
 The Howard Johnson's restaurant business sold its first franchise to Reginald Sprague in 1935. By the end of 1936 there were 41 Howard Johnson's restaurants. By 1939 there were 107, with about $10.5 million in sales.
 <!-- /hb-zoom -->
@@ -234,17 +244,17 @@ Sharon Buchanan was the cashier at the first sale ever made with a barcode scann
 <!-- hb-zoom level="span" label="Stamps, television selling and the end of the big catalog" -->
 **Green Stamps.** About 80 percent of American households collected S&H Green Stamps in the 1960s and 1970s. These trading stamps were small stamps that shoppers got with purchases at grocery stores, gas stations and other stores. Shoppers pasted them into books and traded full books for goods at a Green Stamps store or from a catalog. In the 1960s more S&H stamps were printed than US postage stamps, and about 35 million S&H catalogs went out each year.
 
-The Home Shopping Network began with a radio station. In 1977 a company that advertised on Lowell "Bud" Paxson's radio station paid him in electric can openers instead of money. The station's host, Bob Circosta, sold them on the air for $9.95 each. In 1982 Paxson and Roy Speer started the Home Shopping Club on cable television in Pinellas County, Florida, and it went national on July 1, 1985.
+**Shopping on television.** The Home Shopping Network began with a radio station. In 1977 a company that advertised on Lowell "Bud" Paxson's radio station paid him in electric can openers instead of money. The station's host, Bob Circosta, sold them on the air for $9.95 each. In 1982 Paxson and Roy Speer started the Home Shopping Club on cable television in Pinellas County, Florida, and it went national on July 1, 1985.
 
 Joe Segel founded QVC, another shopping channel, in 1986. It first went on the air that November, and the first thing it sold was a radio made to be used in the shower.
 
-**The last Sears catalog.** Sears officials announced on January 25, 1993, that they were closing the company's catalog business, cutting 50,000 jobs and closing 113 stores. The last general catalog went out that spring. News reports stated that the catalog was 97 years old. Other accounts state 101 or 105 years, because their writers count from different starting dates.
+**The last Sears catalog.** Sears officials announced on January 25, 1993, that they were closing the company's catalog business, cutting 50,000 jobs and closing 113 stores. The last general catalog went out that spring. The catalog had run for about a hundred years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Buying on a computer begins" -->
 Jeff Bezos filed papers to start a company called Cadabra, Inc., on July 5, 1994, working from a rented house with a garage in Bellevue, Washington. The company became Amazon. Amazon.com opened for orders on July 16, 1995. The first book it sold was *Fluid Concepts and Creative Analogies*, by Douglas Hofstadter. In its first week it took in about $12,000 in book orders.
 
-Pierre Omidyar started a website called AuctionWeb, where people sold goods at auction to whoever offered the most money. He started it over Labor Day weekend, on September 3, 1995. It later became eBay. The first thing sold on it went for $14.83. According to eBay, it was a broken laser pointer. According to some other accounts, it was a broken printer.
+Pierre Omidyar started a website called AuctionWeb, where people sold goods at auction to whoever offered the most money. He started it over Labor Day weekend, on September 3, 1995. It later became eBay. The first thing sold on it went for $14.83. By eBay's account, it was a broken laser pointer.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -252,9 +262,9 @@ Pierre Omidyar started a website called AuctionWeb, where people sold goods at a
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
-About one dollar in six of all American retail spending went to online sales from April to June 2026, by the count of the US Census Bureau. Since 2005, members of Amazon Prime have paid a yearly fee for two-day shipping. Drivers carry the orders to people's doors, including on days of summer heat. Sellers now buy the right to show advertisements to one person at a time, chosen from records of what that person has done online.
+About one dollar in six of all American retail spending went to online sales from April to June 2026, by the count of the US Census Bureau. Since 2005, members of Amazon Prime have paid a fee for two-day shipping. Drivers carry the orders to people's doors, including on days of summer heat. Sellers now buy the right to show advertisements to one person at a time, chosen from records of what that person has done online.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How much shopping is online?" -->
@@ -276,19 +286,17 @@ Jeff Bezos was a vice president at D. E. Shaw, an investment company in New York
 
 He and his wife, MacKenzie Bezos, moved from Manhattan to the Seattle area. They chose it because software engineers lived and worked there, at Microsoft and the University of Washington, and because of its taxes. Bezos studied which product would sell best online, and he chose books. Music and DVDs were the next goods Amazon added.
 
-**Prime.** Amazon Prime began on February 2, 2005. According to Amazon's announcement, members paid $79 a year and got two-day shipping on their orders at no extra charge. By 2021, more than 200 million people around the world were members. In 2026 a year of Prime in the United States cost $139, or $14.99 a month, the same as since February 2022, according to the shopping news site dealnews.
+**Prime.** When Amazon Prime began on February 2, 2005, members paid $79 a year and got two-day shipping on their orders at no extra charge, according to Amazon's announcement. By 2021, more than 200 million people around the world were members. In 2026 Prime in the United States cost $139 for members who paid once a year, or $14.99 a month for members who paid monthly, about $180 over a year. Those prices had not changed since February 2022, according to the shopping news site dealnews.
 
-**The workers.** Senate committee staff, drivers and union representatives have complained about how Amazon treats the people who pack and deliver its orders. In December 2024, the staff of a Senate committee led by Senator Bernie Sanders reported that in 2023 Amazon had recorded more than 30 percent more injuries at its warehouses than the average for the warehouse industry.
-
-Amazon ended its contract with a delivery company in June 2023, two months after the company's drivers joined a union, a group that workers form to bargain together with their employer. Teamsters representatives and the company's owner said Amazon was punishing the drivers for it. Amazon's representatives said the contract ended over safety violations and missed insurance payments.
+**The workers.** Senate committee staff, drivers and union representatives have complained about how Amazon treats the people who pack and deliver its orders. A Senate committee's staff counted more injuries in Amazon's warehouses than in other warehouses. In 2023 Amazon ended its contract with one delivery company soon after the company's drivers joined a union, a group that workers form to bargain together with their employer. Amazon's representatives said the contract ended for other reasons.
 <!-- hb-story:end slug="jeff-bezos" -->
 
 <!-- hb-zoom level="span" label="Malls empty out" -->
 As shoppers moved online or to newer outdoor shopping centers, the anchor department stores of many malls closed. Anchor stores are the big stores that draw shoppers to the smaller shops around them, and the smaller shops that had depended on the department stores' crowds lost customers. Mall owners could not find new stores to fill the empty space. Owners and builders have turned some empty malls into apartments, clinics, colleges and warehouses.
 
-Researchers at Coresight Research, a company that studies stores, count store closings every year. They counted 7,325 store closings in the United States in 2024 and later raised that count to 8,825. They had predicted about 15,000 closings for 2025. Their count for 2025, published in January 2026, was 8,270 closings and 5,270 openings.
+**How empty.** Nobody keeps an official government count of malls, and the private counts disagree, because people define a mall in different ways. In 2017, Green Street Advisors, a company that grades malls for investors, sorted them by how well they were doing. The more than 300 malls it gave its lowest grades were only about 72 percent full, while the best malls were about 95 percent full. In the weakest malls, more than a quarter of the space stood empty.
 
-Nobody keeps an official government count of malls, and the private counts disagree, because people define a mall in different ways. One industry count lists about 700 enclosed malls in 2023. A broader count, which includes open-air shopping centers, lists about 1,150 for 2024.
+Across the whole country, researchers at Coresight Research, a company that studies stores, counted about 3,000 more stores closing than opening in 2025.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Advertising aimed at one person" -->
@@ -359,9 +367,9 @@ Amazon's representatives told NPR that its vans had working air conditioning and
 
 Amazon ended its contract with the company in June 2023. Teamsters representatives and the company's owner said Amazon was punishing the drivers for joining a union. Amazon's representatives said Amazon ended the contract over safety violations and missed insurance payments by the company. The drivers went on strike, stopping work as a protest.
 
-Lawyers for the National Labor Relations Board, the government office that enforces labor law, brought a case against Amazon over the drivers. The case turned on whether Amazon was a joint employer of the drivers, a company that shares an employer's legal duties toward workers another company hired.
+**What the drivers got.** Lawyers for the National Labor Relations Board, the government office that enforces labor law, brought a case against Amazon. They argued that Amazon was the drivers' employer too, even though another company had hired them. In April 2026 they settled the case with Amazon, agreeing on terms that ended it. Turner and the other drivers, about 84 of them, were each to get two weeks of pay, about $250,000 in all.
 
-Lawyers for the board settled the case with Amazon in April 2026, agreeing on terms that ended it. Each of the roughly 84 drivers who worked there from April to June 2023 would get two weeks of pay, about $250,000 in all. Under the settlement, Amazon did not admit that it was the drivers' employer. In late May 2026, G. Rebekah Ramirez, a judge who hears labor cases for the board, approved the settlement. Teamsters representatives objected and asked to appeal.
+Under the settlement, Amazon did not admit that it had been the drivers' employer. A judge approved the settlement in May 2026, and the Teamsters asked to appeal. The news stories about the case do not say what Turner did after the strike.
 <!-- hb-story:end slug="renica-turner" -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
