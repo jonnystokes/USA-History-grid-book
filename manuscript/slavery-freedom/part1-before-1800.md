@@ -323,10 +323,12 @@ Twelve years after she landed, she was a published poet. Her book, *Poems on Var
 She married John Peters in 1778. She died poor in 1784, at about 31 years old.
 <!-- hb-story:end slug="phillis-wheatley-slavery-freedom" -->
 
+<!-- hb-zoom level="span" label="Crispus Attucks, 1770" -->
+Crispus Attucks was the first person British soldiers killed in the Boston Massacre. The soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. Attucks was a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
+<!-- /hb-zoom -->
+
 <!-- hb-zoom level="span" label="Two promises of freedom in the Revolution" -->
 Both sides in the Revolution promised freedom to some of the enslaved men who would fight for them. Neither side kept that promise to all of them.
-
-**Before any promise.** A Black man died in the quarrel with Britain years before either side promised anything. British soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. People call it the Boston Massacre. The first person killed was Crispus Attucks, a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
 
 **Lord Dunmore's promise.** Virginia's royal governor, Lord Dunmore, made a promise on November 7, 1775, to the men enslaved by Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800.
 
