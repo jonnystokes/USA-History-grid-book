@@ -943,6 +943,10 @@ def back_target(what, section, m, c):
         base = re.sub(r"\s*\([^()]*\)\s*$", "", name).strip() or name
         hg = handoff_glossary(c["slug"])
         o = era_order(hg.get(name.lower(), "") or hg.get(base.lower(), ""))
+        yr = re.search(r"\((\d{4})\)\s*$", name)        # "Treaty of Paris (1898)": the era that has the year
+        if yr:
+            o = next((k for k in sorted(c["era_low"]) if base.lower() in c["era_low"][k]
+                      and yr.group(1) in c["era_txt"][k]), None) or o
         if o not in c["era_ids"]:
             o = None
             for variant in (base, base.replace("-", ""), base.replace("-", " ")):    # "feeble-minded"
