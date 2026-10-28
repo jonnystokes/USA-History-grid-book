@@ -34,7 +34,7 @@ Charles Burton was the superintendent for the Hopi and the Navajo. The historian
 
 The Ghost Dance was the religion that spread across the Plains reservations in 1889 and 1890, and a give-away dance is a gathering at which people give gifts, such as horses, to others. By early December 1916 Stinchecum had held back the money of about ninety people.
 
-Stinchecum sent the Indian Office, the federal office in charge of Native affairs, a list of 109 names in January 1917. Among them were Humming Bird, Kiowa Bill, Henry Poolaw, George Mopope, White Horse, Silver Horn, Max Frizzlehead and Kiowa Jim Tongkeamha. To get their money, they had to sign a sworn paper promising not to dance.
+Stinchecum sent the Indian Office, the federal office in charge of Native affairs, a list of 109 names in January 1917. Among them were Humming Bird, George Mopope and Silver Horn. To get their money, they had to sign a sworn paper promising not to dance.
 
 Eleven horses were given away at a Fourth of July dance near Anadarko in 1921. Stinchecum accused nine Kiowa men of "the reckless giving away of property" and held their money until they signed a promise never to do it again. By early November only three of the nine had signed.
 
@@ -86,7 +86,7 @@ The first people at the meetings were Black washerwomen, maids and laborers. Lat
 
 **He learned the teaching sitting in a hallway outside the classroom.**
 
-William J. Seymour learned the Pentecostal teaching while sitting in a hallway, because under Texas law a Black student could not sit in a classroom with white students. His parents, Simon and Phyllis Seymour, had both been enslaved.
+William J. Seymour's parents, Simon and Phyllis Seymour, had both been enslaved.
 
 **Houston, 1905.** In Houston in 1905 he asked to study at a Bible school run by a preacher named Charles Fox Parham. Under Texas law, Black and white students could not sit in the same classroom, so Parham had Seymour sit in the hallway and listen to the lectures through the doorway. There Seymour learned the teaching that speaking in tongues is the proof that the Holy Spirit has filled a person.
 
@@ -149,6 +149,8 @@ Bryan had written a closing speech, but both sides gave up their closing speeche
 **The scientists' statements.** The defense could not put its expert witnesses in front of the jury, so the defense lawyer Arthur Garfield Hays read their written statements into the record. Kirtley F. Mather led the geology department at Harvard and had graduated from Denison University, a Baptist college. He wrote: "Evolution is not a power, nor a force. It is a process, a method. God is a power, a force."
 
 The zoologist Maynard M. Metcalf, a scientist who studied animals, wrote: "There is no conflict, no least degree of conflict, between the Bible and the fact of evolution." In the same sentence he went on to call the word-for-word reading of the Bible childish and "insulting, both to God and to human intelligence."
+
+**The verdict.** The jury found Scopes guilty, and he was fined $100. In 1927 the judges who heard his appeal threw out the verdict on a technicality, a small point about how the case was handled. Chapter 20, Government, Law, and Politics, describes the case in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Laws against teaching evolution, 1921 to 1929" -->
@@ -207,7 +209,7 @@ Justice Robert Jackson wrote that "no official, high or petty, can prescribe wha
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
-**If you remember one thing:** Pentecostal worship began at Azusa Street, Catholics, Jews, Witnesses and Native dancers were attacked or punished for their faith, and the Supreme Court began to protect the right to believe.
+**If you remember one thing:** People who were attacked or punished for their faith began to win their cases in the Supreme Court.
 - 1906: speaking in tongues begins at a house on Bonnie Brae Street in Los Angeles.
 - 1925: the justices strike down Oregon's law to close its Catholic and other private schools.
 - 1943: the justices rule that schools cannot force Witness children to salute the flag.
@@ -365,7 +367,7 @@ No justice voted to keep the law. They did not all agree on the reasons, and Jus
 
 **Creation science.** Louisiana's lawmakers passed a different kind of law. It stated that a public school that taught evolution also had to teach "creation science," and a school that taught creation science also had to teach evolution. Creation science was the teaching that a supernatural being created humankind. The people who sued to stop the law included Louisiana parents, Louisiana teachers and religious leaders.
 
-Religious groups stood on both sides. Groups may send the Court a friend-of-the-court brief, a written argument from people who are not in the case. The Catholic League for Religious and Civil Rights, the Christian Legal Society and Concerned Women for America sent briefs asking the justices to keep the law. The New York Committee for Public Education and Religious Liberty sent one asking them to strike it down. The Rabbinical Alliance of America sent its own brief, and so did a group led by the Reverend Bill McLean.
+Religious groups stood on both sides. Groups may send the Court a friend-of-the-court brief, a written argument from people who are not in the case. Three groups, among them the Catholic League for Religious and Civil Rights and the Christian Legal Society, sent briefs asking the justices to keep the law. The New York Committee for Public Education and Religious Liberty sent one asking them to strike it down.
 
 The justices struck the law down by 7 votes to 2 on June 19, 1987, in *Edwards v. Aguillard*. They held that "the preeminent purpose of the Louisiana Legislature was clearly to advance the religious viewpoint that a supernatural being created humankind." The justices meant that Louisiana's lawmakers passed the law mainly to promote one religious belief.
 
@@ -446,7 +448,7 @@ Doody was 17 at the time. His first conviction was thrown out because federal ap
 
 **Church fires.** People set fire to churches across the country in the middle of the 1990s. Members of Congress passed the Church Arson Prevention Act on July 3, 1996, arson being the crime of setting a fire on purpose. They wrote that fires set at places of worship had increased, "especially in the context of places of religious worship that serve predominantly African-American congregations," which means mostly Black congregations.
 
-Agents of a federal task force from the Justice and Treasury departments counted 297 arsons, bombings or attempted bombings at houses of worship in 1996, 209 in 1997, 165 in 1998 and 140 in 1999. Between January 1995 and August 2000 they arrested 431 suspects, and courts found 305 people guilty in connection with 224 of the arsons and bombings.
+Agents of a federal task force from the Justice and Treasury departments counted 297 arsons, bombings or attempted bombings at houses of worship in 1996. The count fell every year after that, to 140 in 1999. Between January 1995 and August 2000 the agents arrested 431 suspects, and courts found 305 people guilty.
 
 Jay Scott Ballinger pleaded guilty on July 11, 2000, to setting fire to 26 churches in eight states between 1994 and 1999.
 <!-- /hb-zoom -->
@@ -478,7 +480,7 @@ Danforth also reported that an FBI agent had fired three tear-gas rounds of a ki
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** The justices drew the lines for religion in public schools, members of Congress declared that Native Americans could practice their own religions, and men kept bombing and burning Black churches.
+**If you remember one thing:** Families of many faiths, and some of none, won Supreme Court cases that ended official prayer and Bible reading in public schools.
 **One number:** about 145, the attacks on Black churches across the South from about 1954 to 1970 that one research team has mapped.
 **Next:** After 2000 a smaller share of Americans belonged to a congregation, and gunmen killed worshippers in a Sikh gurdwara, in churches and in a synagogue.
 <!-- /hb-zoom -->
@@ -490,7 +492,7 @@ Danforth also reported that an FBI agent had fired three tear-gas rounds of a ki
 <!-- hb-zoom level="era" -->
 **Era 10 of 10 · 2000 to Today · about 29 minutes**
 
-Fewer Americans have belonged to a congregation since 2000. In a survey taken in 2023 and 2024, 29 percent of American adults said they had no religion, up from 16 percent in 2007. People attacked worshippers inside gurdwaras, Sikh houses of worship, and inside churches and synagogues, and killed them where they prayed.
+Fewer Americans have belonged to a congregation since 2000. In a survey taken in 2023 and 2024, 29 percent of American adults said they had no religion, up from 16 percent in 2007. People attacked worshippers inside gurdwaras, the houses of worship of the Sikh religion, and inside churches and synagogues, and killed them where they prayed.
 
 **Abuse and courts.** Records made public in these years showed that more than 10,000 people had told Catholic officials that priests sexually abused them as children. A grand jury in Pennsylvania, a group of citizens who hear evidence gathered by prosecutors, found that church leaders in six dioceses, the regions led by bishops, had hidden the abuse there.
 
@@ -498,13 +500,13 @@ A report on the Southern Baptist Convention found that its leaders had pushed ba
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How many people say they have no religion" -->
-Researchers at the Pew Research Center, a private polling organization, asked 36,908 American adults about their religion between July 17, 2023, and March 4, 2024. Pew published the results on February 26, 2025.
+Twenty-nine percent of American adults, more than one in four, said they had no religion when researchers at the Pew Research Center, a private polling organization, asked 36,908 of them in 2023 and 2024. In Pew's study of 2007 the share was 16 percent. This group, often called the "nones," includes atheists, agnostics and people who answer "nothing in particular."
 
-Sixty-two percent said they were Christian, compared with 71 percent in Pew's study of 2014 and 78 percent in 2007. Twenty-nine percent said they had no religion, compared with 23 percent in 2014 and 16 percent in 2007. That is more than one adult in four. This group, often called the "nones," includes atheists, agnostics and people who answer "nothing in particular."
+Sixty-two percent said they were Christian, down from 78 percent in 2007. Fewer than two adults in a hundred said they were Jewish, and about one in a hundred each said they were Muslim, Buddhist or Hindu. Pew's own report states that the fall in the Christian share had slowed and may have stopped, because it had stayed about the same for four or five years.
 
-In the same 2023 to 2024 study, 1.7 percent of adults said they were Jewish, 1.2 percent Muslim, 1.1 percent Buddhist and 0.9 percent Hindu. Pew's own report states that the fall in the Christian share had slowed and may have stopped, because it had stayed about the same for four or five years.
+**Gallup's question.** Gallup's pollsters ask a different question: whether people belong to a church, synagogue or mosque. In 2020, for the first time since Gallup began asking in 1937, fewer than half said yes. The share was 47 percent, down from 70 percent in 1999.
 
-**Gallup's question.** Gallup's pollsters ask a different question: whether people belong to a church, synagogue or mosque. Seventy percent said they did in 1999. Fifty percent said so in 2018 and 47 percent in 2020, the first time since Gallup began asking in 1937 that fewer than half said yes. Gallup published those figures in March 2021. In the years 2018 to 2020, 66 percent of Americans born before 1946 belonged to a congregation, compared with 36 percent of those born between 1981 and 1996.
+Older Americans belonged far more often than younger ones. In the years 2018 to 2020, about two in three Americans born before 1946 belonged to a congregation, against a little more than one in three of those born between 1981 and 1996.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Killed where they were worshipping, 2001 to 2025" -->
@@ -512,7 +514,7 @@ FBI officials count the crimes that police report as motivated by hatred of a gr
 
 **Oak Creek, 2012.** A white supremacist, a person who believes white people are better than others and should rule over them, walked into the gurdwara at Oak Creek, Wisconsin, on Sunday morning, August 5, 2012. He carried a loaded gun, and he killed six people. Paramjit Kaur was sitting for morning prayers when he shot her. The others killed were Sita Singh, Ranjit Singh, Prakash Singh, Suvegh Singh Khattra and Satwant Singh Kaleka, the gurdwara's president, who was killed fighting the gunman.
 
-Santokh Singh and Punjab Singh were shot. In 2022 Senator Tammy Baldwin of Wisconsin introduced a resolution in the United States Senate that counts Punjab Singh as the seventh person killed. The resolution also names Lieutenant Brian Murphy, a police officer who was shot 15 times at close range.
+Santokh Singh and Punjab Singh were shot and lived through the attack, but Punjab Singh later died of his wounds. In 2022 Senator Tammy Baldwin of Wisconsin introduced a resolution in the United States Senate that counts him as the seventh person killed. The resolution also names Lieutenant Brian Murphy, a police officer who was shot 15 times at close range.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="harpreet-singh-saini" name="Harpreet Singh Saini" movie="" kind="ordinary" status="verified" -->
@@ -525,9 +527,9 @@ Santokh Singh and Punjab Singh were shot. In 2022 Senator Tammy Baldwin of Wisco
 
 Harpreet Singh Saini asked the United States Senate to count crimes against Sikhs, forty-five days after a gunman killed his mother at prayer. His parents brought him and his brother, Kamaljit, from India to the United States in 2004, when he was ten. "Like many other immigrants," he said, "they wanted us to have a better life, a better education."
 
-On Sunday, August 5, 2012, a white supremacist carrying a loaded gun walked into their gurdwara at Oak Creek, Wisconsin. He killed Harpreet's mother, Paramjit Kaur, while she sat for morning prayers. He also killed five men, all of whom wore turbans, as Harpreet does.
+His mother was Paramjit Kaur, the woman shot at morning prayers in the Oak Creek gurdwara. The five men killed with her all wore turbans, as Harpreet does.
 
-**The last rotis.** Two days later Harpreet and his brother ate the last rotis, a kind of flatbread, that their mother had made from scratch the night before she died. He said that with the last bite he understood it was the last food made by her hands that they would ever eat. He had just started college, and she was not there to send him off.
+**The last rotis.** Two days after the shooting, Harpreet and his brother ate the last rotis, a kind of flatbread, that their mother had made from scratch the night before she died. He said that with the last bite he understood it was the last food made by her hands that they would ever eat. He had just started college, and she was not there to send him off.
 
 **Before the Senate.** On September 19, 2012, he testified before a subcommittee of the United States Senate. He said: "I want to tell the gunman who took her from me: You may have been full of hate, but my mother was full of love."
 
@@ -591,7 +593,7 @@ Most of the accused priests were said to have done more than one of these things
 
 The dioceses and religious orders reported that they had already paid $472 million for victims, for treating priests and for lawyers, and 14 percent of them gave no figure.
 
-**Accusations after 2004.** Accusations kept coming after the report. The Center for Applied Research in the Apostolate at Georgetown University counts the accusations made since 2004 by the years in which the abuse is said to have happened. It counts 4,216 for the ten years of the 1960s. For five-year spans it counts 2,813 for 1970 to 1974, 2,712 for 1975 to 1979, 2,113 for 1980 to 1984 and 266 for 1995 to 1999. For the three years 2020 to 2022 it counts 36.
+**Accusations after 2004.** People kept coming forward after the report, and most of them told of abuse from decades before. Researchers at the Center for Applied Research in the Apostolate at Georgetown University sort the accusations made since 2004 by the years in which the abuse is said to have happened. They count 4,216 for the ten years of the 1960s, 2,813 for just the five years from 1970 to 1974, and 36 for the three years from 2020 to 2022.
 
 These are accusations made years afterward. They are not a count of everything that happened in each period, and one priest can be accused by more than one person.
 
@@ -733,7 +735,7 @@ Fifty-three percent said that wanting to give religious instruction was an impor
 - How did Americans stop paying taxes to support churches? Baptists and James Madison defeated a new church tax in Virginia, where Jefferson's religious freedom law passed in 1786. Massachusetts ended the last state church tax in 1833.
 - How long did US officials treat Native ceremonies as crimes? For ninety-five years, from Hiram Price's rules of 1883 until members of Congress passed the American Indian Religious Freedom Act in 1978.
 
-**What changed:** The chapter begins with rulers who decided how everyone worshipped and ends with courts that protect each person's choice, while worshippers are still attacked for their faith.
+**What changed:** In the 1600s officials in New Mexico and Massachusetts punished people for how they worshipped, and later Americans fought for freedom of worship in court, sometimes winning and sometimes losing.
 
 **Five dates to keep**
 - August 10, 1680: Po'pay leads the Pueblo rising in New Mexico.

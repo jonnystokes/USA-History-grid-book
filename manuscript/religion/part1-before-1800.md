@@ -20,14 +20,14 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 A statue of a Pueblo man named Po'pay stands in the US Capitol in Washington. New Mexico gave it to the National Statuary Hall Collection in 2005. The sculptor, Cliff Fragua of Jemez Pueblo, carved scars on its back. In 1675 Spanish officials had Po'pay whipped in public for taking part in Pueblo ceremonies. Five years later he led the rising that drove the Spanish out of New Mexico for twelve years.
 
-This chapter follows faith in America from the sun posts at Cahokia to the shootings in churches, synagogues and a Sikh temple in this century. First, watch who was punished for the way they worshipped, and who did the punishing: Quakers hanged in Boston, Catholic churches burned in Philadelphia, Latter-day Saints shot in Missouri, Native dancers made to go without their food rations, Black churches bombed. Then watch who pushed back: Baptists against the church tax, Witness families against the flag salute, a Sikh son asking the Senate to count the crime that killed his mother. Revivals run through the chapter too, and the Baptists and Methodists who backed them grew into the largest churches in the country.
+This chapter follows faith in America from the sun posts at Cahokia to the shootings of worshippers at prayer in this century. First, watch who was punished for the way they worshipped, and who did the punishing: Quakers hanged in Boston, Catholic churches burned in Philadelphia, Native dancers whose food was cut off, Black churches bombed. Then watch the people who pushed back, from Baptists who organized against the church tax to families who took their cases to the Supreme Court. Revivals, meetings meant to stir people to a stronger faith, run through the chapter too. By the early 1800s the Presbyterians, Baptists and Methodists who backed them were the largest Protestant churches in the country.
 
 **Three questions this chapter answers**
 - Why did colonists who crossed the ocean to worship freely punish other people for their faith?
 - How did Americans stop paying taxes to support churches?
 - How long did US officials treat Native ceremonies as crimes?
 
-**Five minutes?** Read "Quakers punished in Massachusetts" in The 1600s.
+**Five minutes?** Read the Mary Dyer story in The 1600s, "How Virginia ended its church tax" in 1750 to 1800, and "Hiram Price's rules against ceremonies, 1883" in 1850 to 1900.
 **Can skip:** "Three more colleges with church backing", "Laws against teaching evolution, 1921 to 1929", "Worship on a screen", "Teaching religion at home". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -90,7 +90,7 @@ Franciscan friars built missions, churches they ran inside Native towns, among t
 <!-- hb-zoom level="span" label="The missions in Florida and Georgia" -->
 Luis Cáncer de Barbastro, a Dominican friar from Spain, argued that friars should bring Native people to Christianity without soldiers. He had come to the Caribbean in 1518. King Charles V of Spain gave him a written order to try it in Florida, and he sailed from Havana, Cuba, in early June 1549. On June 26 he went ashore near Tampa Bay to greet a group of Tocobaga people, and they killed him. The Tocobaga left no account of why.
 
-The Jesuits began missionary work in Florida in 1568. They did not succeed, and they left in 1571. The first Franciscan friars reached St. Augustine in 1573 and made a short try among the Guale in 1574 and 1575. A new group of friars arrived from Spain in 1587, and then the friars began building missions up the coast into what is now Georgia.
+The Jesuits tried missionary work in Florida from 1568 to 1571 and left without success. Franciscan friars came next. After a new group of them arrived from Spain in 1587, they began building missions up the coast into what is now Georgia.
 
 San Pedro de Mocama, on the coast of what is now Georgia, was the first successful mission there. By the end of 1595 the friars had missions in at least five main towns of the Guale people, who spoke a Muskogee language.
 
@@ -110,17 +110,15 @@ Of the others, Menéndez wrote to the king of Spain on October 15, 1565: "I had 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Guale, 1597" -->
-Guale people killed five Franciscans and destroyed their missions in the autumn of 1597. The five were Pedro de Corpa at Tolomato, Blas Rodríguez at Tupiqui, Miguel de Auñón and Antonio de Badajoz at the town of Guale, and Francisco de Beráscola at Asao. Badajoz was a lay brother, a member of the order who was not a priest. A sixth friar, Francisco de Ávila, was held captive and freed in 1598.
+Guale people killed five Franciscan friars and destroyed their missions in the autumn of 1597. One of the five was Blas Rodríguez, the friar at the town of Tupiqui. A sixth friar was held captive and freed in 1598.
 
 **Not known:** which Guale people killed the friars, and why.
 
 The historians J. Michael Francis and Kathleen Kole translated the earliest Spanish records of the uprising and published them in 2011. They wrote that those two questions cannot "be answered with any certainty." Older retellings name a young leader and give a reason. In the earliest records, only two of the seven witnesses named that young man at all, and neither said he alone ordered the killings.
 
-**The governor's revenge.** Gonzalo Méndez de Canzo, the governor of Florida, led soldiers into Guale country himself. On October 27 some people at Ospo shot arrows at his party, and he burned the town and its storehouses. He burned Sapala on November 2. On November 4 he ordered every house at Tolomato burned.
+**The governor's revenge.** Gonzalo Méndez de Canzo, the Spanish governor of Florida, led soldiers into Guale country himself. On October 27 people at the town of Ospo shot arrows at his men. Over the next ten days the governor and his officer Alonso Díaz burned Ospo and four more Guale towns, with their houses and storehouses, some of them full of corn. The governor could not capture anyone, so he ordered his men to destroy the corn fields and other crops as well. The records describe the burning and give no count of Guale people killed.
 
-His officer Alonso Díaz burned the houses and storehouses at Asao and Talaje on November 6. At Asao, Díaz found the storehouses full of corn and other goods. Méndez could not capture anyone, so he ordered his men to destroy the corn fields and other crops as well. The records describe the burning and give no count of Guale people killed.
-
-**Lucas.** Méndez took seven young Guale captives in July 1598. Francis and Kole describe them as boys. One was Lucas, the son of don Felipe, the chief of Tupiqui. Spanish officials questioned Lucas a second time on July 27, now under the threat of torture, and he confessed that he had been there when Blas Rodríguez was killed. They sentenced him to death on July 28. He was hanged at St. Augustine on July 29, 1598, and the records do not name the man who hanged him.
+**Lucas.** The governor took seven young Guale captives in July 1598. Francis and Kole describe them as boys. One was Lucas, the son of don Felipe, the chief of Tupiqui. Spanish officials questioned Lucas a second time on July 27, now under the threat of torture, and he confessed that he had been there when Blas Rodríguez was killed. They sentenced him to death on July 28. He was hanged at St. Augustine on July 29, 1598, and the records do not name the man who hanged him.
 
 Lucas was the only Guale person the Spanish officially charged and punished for the uprising. Spanish officials divided the other six boys among themselves as personal servants. The boys were captives and had to do forced labor for the men who held them. The Spanish left the northern missions empty until 1604.
 <!-- /hb-zoom -->
@@ -163,7 +161,7 @@ The Franciscans set up their first *doctrina* at Nombre de Dios after 1587. Staf
 <!-- hb-zoom level="era" -->
 **Era 3 of 10 · The 1600s · about 25 minutes**
 
-English Protestants founded several colonies in the 1600s so that they could worship in their own way, and in some of those colonies the leaders punished people who worshipped differently. The Puritans ran Massachusetts. They were English Protestants who wanted to clear the Church of England of what they saw as Catholic leftovers. Their leaders had the ears of Quakers cut off and hanged four Quakers, members of a Protestant group begun in England in 1652, in Boston.
+English Protestants founded several colonies in the 1600s so that they could worship in their own way, and in some of those colonies the leaders punished people who worshipped differently. The Puritans ran Massachusetts. They were English Protestants who wanted to clear the Church of England of what they saw as Catholic leftovers. Among the people they punished were Quakers, members of a Protestant group begun in England in 1652. Puritan leaders had the ears of some Quakers cut off, and they hanged four Quakers in Boston.
 
 Other colonies set other rules. Maryland's lawmakers protected worship for Christians in a law of 1649, and the same law ordered death for anyone who denied the Trinity, the Christian belief that God is three persons in one. Roger Williams in Rhode Island let people of every faith live as neighbors with equal rights. William Penn wrote freedom of worship into Pennsylvania's Frame of Government, his plan for running the colony.
 
@@ -191,13 +189,13 @@ It was the land of the Massachusett people, who called it Mushauwomuk, "the boat
 
 The Pilgrims who landed at Plymouth in 1620 were a different group. They had left the Church of England completely and formed churches of their own. The Puritans believed the Church of England was a true church that needed to be fixed.
 
-**Joining a church.** In Massachusetts a person could not simply join a church. At first, only men and women who had gone through a conversion experience, a moment when a person feels that God has changed him or her, could become members. Each new member also had to convince the other members that it was real. The colonists pointed to the Bible as the authority for many of their criminal laws.
+**Joining a church.** In Massachusetts a person could not simply join a church. At first, only men and women who had gone through a conversion experience, a moment when a person feels that God has changed him or her, could become members. Each new member also had to convince the other members that it was real.
 
-Richard Mather and two other ministers turned the Psalms of the Bible into verses that church members could sing, and Stephen Daye printed their work at Cambridge, Massachusetts, in 1640. It is called the *Bay Psalm Book*, and it was the first book printed in the English colonies of North America. Eleven copies still exist.
+**The Bay Psalm Book.** Richard Mather and two other ministers turned the Psalms of the Bible into verses that church members could sing. Stephen Daye printed their book at Cambridge, Massachusetts, in 1640, and it was the first book printed in the English colonies of North America. Eleven copies still exist.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Reading for God" -->
-New England children were taught to read for a religious reason. In 1642 the men of the Massachusetts General Court, the colony's lawmakers, ordered parents and masters to teach their children and apprentices, young people learning a trade from a master, to read. The law required them to learn enough "to read the English tongue" and to know the colony's "Capital Lawes," the laws that set death as the punishment for a crime.
+New England children were taught to read for a religious reason. In 1642 the men of the Massachusetts General Court, the colony's lawmakers, ordered parents and masters to teach their children and apprentices, young people learning a trade from a master, to read. The law required them to learn enough "to read the English tongue" and to know the colony's "Capital Lawes," the laws that set death as the punishment for a crime. The colonists pointed to the Bible as the authority for many of their criminal laws.
 
 **The Old Deluder Satan Act.** A second law, in 1647, ordered towns of 50 households to hire someone to teach reading and writing. Towns of 100 families had to set up a grammar school, a school that prepared young people for "the university," which meant Harvard College. The law's opening words state that it is "one of the chief projects of that old deluder Satan to keep men from the knowledge of the Scriptures."
 
@@ -243,9 +241,7 @@ Christopher Holder, John Copeland and John Rous were Quakers who came back. The 
 
 The county treasurer, Edmond Batter, looked for a ship's captain to carry them to Barbados. The captain he found refused. He asked, "will ye offer to make Slaves of so harmless Creatures?" Batter sent the children home, and the order to sell them was never carried out.
 
-**Death for coming back.** The lawmakers set the punishment of death on October 19, 1658, for any Quaker who came back after being banished, which means ordered out of a place and forbidden to return. Between 1659 and 1661 the colony's officials hanged four Quakers in Boston under that law. The governor, John Endecott, sentenced three of them.
-
-William Robinson was a merchant from London, and Marmaduke Stephenson was a farm worker from Yorkshire. Officials hanged them together on October 27, 1659. They hanged Mary Dyer on June 1, 1660, and William Leddra on March 14, 1661.
+**Death for coming back.** The lawmakers set the punishment of death on October 19, 1658, for any Quaker who came back after being banished, which means ordered out of a place and forbidden to return. Between 1659 and 1661 the colony's officials hanged four Quakers in Boston under that law: William Robinson and Marmaduke Stephenson in 1659, Mary Dyer in 1660 and William Leddra in 1661. The governor, John Endecott, sentenced three of them. The story of Mary Dyer, after this section, describes the first three hangings.
 
 King Charles II ordered the Massachusetts lawmakers to stop punishing Quakers on September 9, 1661, after Quakers in England pressed him. By 1677 Quakers could hold their meetings openly in Massachusetts.
 
@@ -262,13 +258,11 @@ Virginia's lawmakers passed their own laws against Quakers from 1659, including 
 
 **She stood on the ladder with the rope around her neck.**
 
-Massachusetts officials hanged Mary Dyer on Boston Common on June 1, 1660, because she was a Quaker who had come back to the colony after they ordered her out.
-
 Her first trouble with the Massachusetts leaders came when she supported Anne Hutchinson, a Boston woman who was banished for her religious teaching. In 1638 the Massachusetts leaders forced Dyer and her family out, and they moved to Rhode Island. In the 1650s, in England, she became a Quaker.
 
 She came back to New England to spread Quaker beliefs. The Massachusetts officials arrested her and banished her three times. In the spring of 1657 her husband, William Dyer, got her out of the Boston jail by confronting Governor John Endecott. Endecott let her go on the condition that she never return.
 
-**The first sentence.** She returned anyway, and in October 1659 Endecott sentenced her to death along with two Quaker men, William Robinson and Marmaduke Stephenson. He told them they would "be hanged until you are dead." On October 27, 1659, the officials led all three to the gallows and made Dyer watch the two men hanged. She stood on the ladder with the rope around her neck.
+**The first sentence.** She returned anyway, and in October 1659 Endecott sentenced her to death along with two Quaker men, William Robinson, a merchant from London, and Marmaduke Stephenson, a farm worker from Yorkshire. He told them they would "be hanged until you are dead." On October 27, 1659, the officials led all three to the gallows and made Dyer watch the two men hanged. She stood on the ladder with the rope around her neck.
 
 Then the officials announced a reprieve, which called off her hanging. Endecott had agreed to it the day before. The officials sent her out of the colony.
 
@@ -352,9 +346,9 @@ At her trial she said that God had spoken to her directly, by "an immediate reve
 
 The church's charges said she had "rather been a Husband than a Wife and a preacher than a Hearer." The same charge went on: "and a Magistrate than a Subject," an official who governs or judges rather than a person who is governed.
 
-**Her death.** In the spring of 1638 she moved to Aquidneck Island in what became Rhode Island and founded the town of Portsmouth. After her husband died, she moved in 1642 to land on Long Island Sound that the Dutch claimed.
+**Her death.** In the spring of 1638 she moved to Aquidneck Island in what became Rhode Island and founded the town of Portsmouth. After her husband died, she moved in 1642 to land on Long Island Sound that the Dutch claimed for their colony.
 
-Soldiers of the Dutch governor, Willem Kieft, killed at least eighty, and perhaps as many as 120, Munsee people in one night in February 1643. War followed. In August or September 1643, during that war, Siwanoy people attacked her home. They killed her and several of her children. One daughter survived.
+A war broke out there the next year. In February 1643 soldiers of the Dutch governor, Willem Kieft, killed at least eighty, and perhaps as many as 120, Munsee people in one night, and that killing began the war. In August or September 1643, during that war, Siwanoy people attacked her home. They killed her and several of her children. One daughter survived.
 <!-- hb-story:end slug="anne-hutchinson-religion" -->
 
 <!-- hb-zoom level="span" label="Baptism and slavery in Virginia, 1667" -->
@@ -368,21 +362,21 @@ Alonso de Posada, the head of the Franciscan missionaries from 1656 to 1665, for
 
 **Whippings and hangings.** Will Hansen and Analú María López, who work at the Newberry Library, a research library in Chicago, write that missionaries almost certainly whipped Native people who did not take part in Christian services. Spanish investigations in New Mexico between 1620 and 1680 recorded many cases of missionaries punishing Native people severely. According to the Architect of the Capitol's account of Po'pay, Pueblo people "found practicing their religion were tortured and sometimes executed."
 
-Juan Francisco Treviño, the Spanish governor, ordered the arrest of 47 Pueblo medicine men in 1675 for sorcery, using magic to cause harm. Spanish officials sentenced four of them to be hanged. Three were hanged, and the fourth killed himself. Spanish officials whipped the others in public and put them in prison. The records do not name the men who did the hanging and the whipping.
+Juan Francisco Treviño, the Spanish governor, ordered the arrest of 47 Pueblo medicine men in 1675. The charge was sorcery, using magic to cause harm, which is what Spanish officials called the medicine men's ceremonies. Spanish officials sentenced four of them to be hanged. Three were hanged, and the fourth killed himself. Spanish officials whipped the others in public and put them in prison. The records do not name the men who did the hanging and the whipping.
 
 **Po'pay.** One of the men whipped was Po'pay, of Ohkay Owingeh, also called San Juan Pueblo. He was born about 1630, and his name means "ripe squash" in the Tewa language. He was a farmer and a member of a medicine society, and his work was healing and the spiritual life of his people. Spanish officials had him flogged in public. Flogging is beating a person on the back with a whip. The whip leaves wounds that heal into scars.
 
 When Pueblo leaders heard about the arrests, they sent armed men to Santa Fe, where the prisoners were held. Many Spanish soldiers were away at the time, so Treviño gave in and released the prisoners. Po'pay was one of them.
 
-**The rising.** The Pueblo nations rose against the Spanish on August 10, 1680. Po'pay led the rising, and he planned it from Taos Pueblo. The leaders had set it for August 13.
+**The rising.** Po'pay led a rising of the Pueblo nations against the Spanish in 1680, and he planned it from Taos Pueblo. The leaders set it for August 13 and sent runners to the pueblos with knotted cords. Chapter 2, Native Nations, describes the rising in full, including what the knots meant.
 
-The Spanish captured two of the runners who were carrying knotted cords to the pueblos on August 9. They were Pedro Omtua and Nicolás Catua of Tesuque Pueblo. Spanish officials tortured them to make them explain the cords, and later hanged them. The records do not name the men who did it. So the rising began three days earlier than planned.
+On August 9 the Spanish captured two of the runners, Pedro Omtua and Nicolás Catua of Tesuque Pueblo. Spanish officials tortured them to make them explain the cords, and later hanged them. The records do not name the men who did it. With two of their runners in Spanish hands, the Pueblo leaders began the rising three days early, on August 10, 1680.
 
 The Pueblo fighters killed about 400 people, including 21 of the 33 Spanish priests in New Mexico, and burned mission churches across the province. The Pueblo nations kept the Spanish out of New Mexico for twelve years.
 
 The Pueblo nations run their own museum, the Indian Pueblo Cultural Center. Its account of those eighty years of Spanish rule states that "the Pueblo people suffered violence, cruelty, and hunger." It lists "exploitation of labor and resources," and "harassment and persecution for practicing long-held religious traditions that are interwoven in daily life." That means the Spanish forced Pueblo people to work for them, took what they had, and troubled and punished them again and again for keeping their own religion.
 
-**The statue.** In 2005 a statue of Po'pay, given by the state of New Mexico, was placed in the National Statuary Hall Collection in the United States Capitol. Po'pay was the first person in that collection who was born on land that became the United States.
+**The statue.** In 2005 a statue of Po'pay, given by the state of New Mexico, was placed in the National Statuary Hall Collection in the United States Capitol. Of all the people in that collection who were born on land that later became the United States, Po'pay was born the earliest.
 
 No picture or written description of Po'pay survives, so the face is the sculptor's own work. The sculptor, Cliff Fragua of Jemez Pueblo, wrote: "On his back are the scars that remain from the whipping he received for his participation and faith in the Pueblo ceremonies and religion."
 <!-- /hb-zoom -->
@@ -428,7 +422,7 @@ Many Apalachee were unhappy with the forced labor the Spanish demanded, which in
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New Lights and Old Lights" -->
-Church members argued over the revival, and many churches divided into two sides. Congregationalists were members of the churches the Puritans had founded in New England. Among them, the people who supported the revival were called New Lights. Among the Presbyterians, another family of Protestant churches, they were called the New Side. The people who opposed the revival were the Old Lights and the Old Side.
+Church members argued over the revival, and many churches divided into two sides. People who supported the revival were called New Lights, and people who opposed it were called Old Lights. Those were the names among the Congregationalists, the members of the churches the Puritans had founded in New England. Among the Presbyterians, another family of Protestant churches, the two sides were called the New Side and the Old Side.
 
 The revival had ended in New England by the middle of the 1740s. Preachers carried it south, where it started revivals that went on into the 1800s. The Presbyterians, Baptists and Methodists had backed the revival, and by the early 1800s they were the largest Protestant churches in the country. According to the Library of Congress, the Anglicans, the Quakers and the Congregationalists "were left behind."
 
@@ -438,11 +432,11 @@ Drawings of New York City from 1690, 1730 and 1771 show the churches multiplying
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A college founded by revival supporters" -->
-Only graduates of Harvard or Yale could become Presbyterian ministers in the colonies in these years. Under that rule, the young men taught by William Tennent could not become Presbyterian ministers.
+Only graduates of Harvard or Yale could become Presbyterian ministers in the colonies in these years. Under that rule, the young men taught by William Tennent could not become Presbyterian ministers, so revival supporters set out to found new colleges.
 
-Tennent was a Presbyterian minister, born in Ireland and educated in Edinburgh, Scotland. From 1726 until he died in 1745 he ran a school at Neshaminy, in Bucks County, Pennsylvania. People called it the Log College, because it was a log house about twenty feet long and almost as wide. He taught his students ancient languages and the Bible. Several of them became revival preachers, including his four sons.
+Tennent was a Presbyterian minister, born in Ireland and educated in Edinburgh, Scotland. From 1726 until he died in 1745 he ran a school at Neshaminy, in Bucks County, Pennsylvania. People called it the Log College, because it was a log house about twenty feet long and almost as wide. He taught his students ancient languages and the Bible. Several of them became revival preachers anyway, among them his four sons.
 
-**Princeton.** A group of New Lights planned a college in New Jersey in early 1746 to train young men for the ministry. On October 22, 1746, John Hamilton, the acting governor of New Jersey, granted a charter for the College of New Jersey. It is now Princeton University, and Princeton's own historians call its founding "a direct outgrowth" of the Great Awakening. Six months after the charter, three Log College graduates became trustees, the men in charge of running the college: Samuel Blair, Gilbert Tennent and William Tennent Jr.
+**Princeton.** A group of New Lights planned a college in New Jersey in early 1746 to train young men for the ministry. On October 22, 1746, John Hamilton, the acting governor of New Jersey, granted a charter for the College of New Jersey. It is now Princeton University, and Princeton's own historians call its founding "a direct outgrowth" of the Great Awakening. Six months after the charter, three Log College graduates became trustees, the men in charge of running the college. They were Samuel Blair and two of Tennent's sons, Gilbert Tennent and William Tennent Jr.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Should enslaved people be taught Christianity?" -->
@@ -531,8 +525,8 @@ The jury took less than fifteen minutes to find him guilty. New York officials h
 
 <!-- hb-zoom level="era" label="By 1750" -->
 **If you remember one thing:** Traveling preachers set off the Great Awakening, and the argument over their new birth split churches into New Lights and Old Lights.
-- In 1690: a drawing of New York City shows no church steeples on the skyline.
-- In 1771: a drawing of the same city shows eighteen.
+- In 1739: George Whitefield begins the preaching tour of the colonies that was the high point of the Great Awakening.
+- In 1746: New Lights who backed the revival get a charter for a college of their own, now Princeton.
 **Next:** After 1750 Americans argued over whether anyone should be taxed to pay for a church, and Black Americans born into slavery founded churches of their own.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
@@ -655,7 +649,9 @@ Absalom Jones was the first priest of African descent in the United States. He w
 
 He bought his freedom in 1784. In 1787 he and Richard Allen started the Free African Society, which worked to end slavery and helped widows, orphans and poor people. In 1792, with help from local Quakers and Episcopalians, Jones and Allen set up the First African Church in Philadelphia.
 
-**St. Thomas.** After the walkout from St. George's, Jones led the congregation into the Episcopal Church. On October 17, 1794, the congregation was formally received into the Episcopal Diocese of Pennsylvania, the group of churches under that state's bishop, as the African Episcopal Church of St. Thomas. Jones was ordained a deacon, a minister one rank below a priest, in 1795. Bishop William White ordained him a priest when he was fifty-six. The Episcopal Church's own archives give the year as 1802, and Delaware's state historical marker gives 1804.
+**St. Thomas.** After the walkout from St. George's, Jones and Allen went separate ways. Jones led the congregation into the Episcopal Church, while Allen stayed a Methodist and opened Bethel Church in 1794. On October 17, 1794, Jones's congregation was formally received into the Episcopal Diocese of Pennsylvania, the group of churches under that state's bishop, as the African Episcopal Church of St. Thomas. Jones was ordained a deacon, a minister one rank below a priest, in 1795.
+
+Bishop William White, a different man from the William White who walked out of St. George's, ordained Jones, then fifty-six, a priest. The Episcopal Church's own archives give the year as 1802, and Delaware's state historical marker gives 1804.
 
 Jones also started a day school, a Female Benevolent Society and an African Friendly Society. In 1800 he sent a petition, a written request, to Congress about slavery. He died in 1818.
 <!-- hb-story:end slug="absalom-jones" -->
@@ -673,9 +669,7 @@ Spanish soldiers and Franciscan friars began building missions in Alta Californi
 
 Father Junípero Serra led the Franciscans. He was born in 1713 at Petra, on the island of Mallorca, and he had worked as a missionary in Mexico for seventeen years. He founded Mission San Carlos Borromeo at Monterey in 1770 and lived there until he died in 1784. By the end of 1800 the Franciscans had founded eighteen missions. By 1823 there were twenty-one.
 
-**Whose land.** About 310,000 Native people lived in California in 1769. Each mission was built in the homeland of a people with its own government and language.
-
-Mission San Diego stood on Kumeyaay land and San Luis Rey on Payómkawichum land. San Juan Capistrano was on Acjachemen land, San Gabriel on Tongva land, and San Fernando on Tataviam land. Santa Bárbara, San Buenaventura, La Purísima and San Luis Obispo were on Chumash land. San Antonio and San Miguel were on Salinan land, and Soledad was on Esselen land. Six missions around Monterey Bay and San Francisco Bay were built on the lands of different Ohlone peoples.
+**Whose land.** About 310,000 Native people lived in California in 1769. Each mission was built in the homeland of a people with its own government and language. By 1800 the missions stood on the lands of more than a dozen peoples, among them the Kumeyaay at San Diego, the Tongva at San Gabriel, the Chumash at Santa Bárbara and La Purísima, and different Ohlone peoples around Monterey Bay and San Francisco Bay.
 
 **Baptism and force.** Serra's writings describe a plan to baptize young children first. He expected the children to learn Spanish and translate for their parents. Edward Ketchum, a tribal historian, has said that once a child was baptized, the child was the "property" of the church.
 
@@ -716,17 +710,17 @@ After the attack, Spanish soldiers took violent revenge. They went through the v
 
 Toypurina was a Tongva woman from the village of Japchivit who had never been baptized. She had influence and standing in her community, and writers often call her a shaman, a religious or spiritual leader. In October 1785 she helped plan an attack on Mission San Gabriel. Soldiers at the mission were warned, and they arrested twenty-one of the rebels before the attack began.
 
-**The plan.** The plan started with Nicolás José, a baptized Tongva man from the village of Sibapet. He had lost a son and two wives. He asked Toypurina to call together the leaders of the other villages. Temejasaquichí, the leader of the village of Juvit, carried her message into the mission. People from the mission and from up to eight Tongva villages joined the plan.
+**The plan.** The plan started with Nicolás José, a baptized Tongva man. He had lost a son and two wives. He asked Toypurina to call together the leaders of the other villages. One of those village leaders carried her message into the mission. People from the mission and from up to eight Tongva villages joined the plan.
 
 When they were questioned, Nicolás José and Toypurina gave their reasons. Nicolás José said that the ban on dancing kept him from holding the ceremonies of mourning for the dead. Toypurina said she was angry with the Spanish settlers. She was also angry with the Native people who had moved to the mission, which stood on her land.
 
-All of the leaders were held in jail for two and a half years. Then Temejasaquichí and Alijivit, the leader of the village of Jajamovit, were freed with a warning. Spanish officials exiled Nicolás José and Toypurina, sending them away from their homes.
+All of the leaders were held in jail for two and a half years. Then Spanish officials freed two of the village leaders with a warning. They exiled Nicolás José and Toypurina, sending them away from their homes.
 
 **Not known:** the year of her birth and the rest of her life. The records of the plot do not give them.
 <!-- hb-story:end slug="toypurina" -->
 
 <!-- hb-zoom level="era" label="By 1800" -->
-**If you remember one thing:** Virginia's lawmakers voted down a new church tax and the First Amendment kept Congress from setting up a national church, while Black Christians in Savannah and Philadelphia founded churches of their own.
+**If you remember one thing:** Americans argued over whether anyone should be taxed to support a church, and in Virginia the side against church taxes won.
 **One number:** 59,538 Native deaths recorded at the California missions from 1769 to 1834, against 85,840 baptisms. That is about seven deaths for every ten baptisms, and the real count of deaths is higher.
 **Next:** After 1800 revivals spread across the whole country, and Protestant mobs turned on Catholics and Latter-day Saints.
 <!-- /hb-zoom -->
