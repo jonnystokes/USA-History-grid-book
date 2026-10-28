@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" label="Chapter opening" -->
 **Chapter 30 of 37 · School and Education · 10 eras · about 230 minutes**
 
-**School in America grew from a reading lesson for a few children into a right for every child, and at every step the adults in charge decided which children could come in and what could be done to them there.**
+**School in America grew from a reading lesson for a few children into a right for every child. At every step, the adults in charge decided which children could come in and what could be done to them there.**
 
 On the grounds of Colonial Williamsburg, in Virginia, stands the oldest surviving schoolhouse for Black children in the United States. From 1760 to 1765, enslaved and free Black children as young as three learned to read in it. The men who ran the London charity that paid their teacher, Ann Wager, wanted them taught that slavery was God's will. In 1774 one of her former pupils, Isaac Bee, ran away. The man who claimed to own him warned in a newspaper that Isaac could read. The building was moved to Colonial Williamsburg on February 10, 2023.
 
@@ -44,13 +44,15 @@ This teaching by the spoken word, called oral tradition, never stopped. A teachi
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Memory in place of writing: wampum" -->
-No writing system was in use in this land before 1500. The first one made for a language spoken in what is now the United States was the Cherokee syllabary of 1821, a set of written signs in which each sign stands for one syllable. Without writing, people kept their nation's agreements and history in their memories, in speech, and in objects made to help them remember. Some people were trained to hold those memories and recite them.
+No writing system was in use in this land before 1500. Without writing, people kept their nation's agreements and history in their memories, in speech, and in objects made to help them remember. Some people were trained to hold those memories and recite them.
+
+Later, Spanish priests and English ministers wrote some Native languages down in the letters of their own alphabet. The first writing system invented for a language spoken in what is now the United States was the Cherokee syllabary of 1821, made by Sequoyah, a Cherokee man. It is a set of written signs in which each sign stands for one syllable.
 
 **The belts.** The Haudenosaunee Confederacy is a union of five nations: the Seneca, Cayuga, Onondaga, Oneida and Mohawk. Its people record agreements and history in wampum, beads cut from the white and purple parts of clam shells, strung on strings or woven into belts. The Onondaga Nation says it was made the Wampum Keeper, the nation that looks after the belts, when the five nations joined under the Great Law of Peace.
 
 **How a belt holds a record.** In the Onondaga Nation's own account, "The speaker puts the words of the agreement into the wampum as the strings or belts are woven together." After that, "each speaker thereafter uses the wampum to remember the initial agreement and the history that has happened to date." The Onondaga call the belts "our living history." A speaker had to hold the agreement in memory and recite it, with the belt as the reminder.
 
-**Disputed:** when the Great Law of Peace was agreed. Haudenosaunee oral tradition places the founding between about 1000 and 1400. Accounts based on written records put it at about 1450, and some put it in the late 1100s. No record settles it.
+**Disputed:** when the Great Law of Peace was agreed. Haudenosaunee oral tradition places it between about 1000 and 1400, and some scholars argue for the late 1100s, inside that range. Accounts based on written records put it at about 1450. No record settles it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="No names survive" -->
@@ -66,15 +68,15 @@ No writing system was in use in this land before 1500. The first one made for a 
 
 Spanish priests did the only European teaching in this land in the 1500s. They taught at their missions, settlements where they worked at conversion, the changing of a person's religion, to make Native people Catholic. At some missions they taught reading too.
 
-The missions stood in Florida, for a few months of 1570 and 1571 in Virginia, and at the very end of the century in New Mexico. No schoolhouse stood anywhere in this land. Outside the missions, Native children went on learning from their families by the spoken word.
+The missions stood in Florida and, from 1598, in New Mexico. For a few months of 1570 and 1571, Spanish priests also ran one in Virginia. No schoolhouse stood anywhere in this land. Outside the missions, Native children went on learning from their families by the spoken word.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Mission teaching in Florida" -->
-**St. Augustine.** Pedro Menéndez de Avilés and about 800 Spanish colonists came to the Timucua town of a chief named Seloy in September 1565. The group included 26 women and an unknown number of enslaved Africans. They made their first settlement in Seloy's town and used his council house as their first fort. That settlement became St. Augustine. The Florida Museum of Natural History's account does not say what happened to Seloy's people afterward.
+Father Francisco Pareja taught Native people to read at a Spanish mission in Florida. He wrote of his own pupils: "many Indian men and women have learned to read in less than six months, and they write letters to one another in their own language." His mission, San Juan del Puerto, was one of the largest. It stood on Fort George Island among the Mocama, a coastal people who spoke Timucua.
 
-Spanish priests began trying to convert Native people in Florida within a few years. By the 1580s, friars of the Franciscan order, Catholic men who had promised to live in poverty, had missions across Florida. One of the largest, San Juan del Puerto, stood on Fort George Island among the Mocama, a coastal people who spoke Timucua. The National Park Service's history of the mission states only that it began "sometime in the 1570s."
+At a mission the friars, Catholic men of the Franciscan order who had promised to live in poverty, taught Catholic doctrine, meaning the beliefs of the church. They also taught European customs, farming, and reading and writing, in Spanish and in Timucua, the local language.
 
-At a mission the friars taught Catholic doctrine, meaning the beliefs of the church, along with European customs, farming, and reading and writing. They taught in Spanish and in Timucua, the local language. Father Francisco Pareja, the friar who did the teaching at San Juan del Puerto, wrote of his own pupils: "many Indian men and women have learned to read in less than six months, and they write letters to one another in their own language."
+**How the missions began.** Pedro Menéndez de Avilés and about 800 Spanish colonists, among them an unknown number of enslaved Africans, settled in the Timucua town of a chief named Seloy in September 1565, and the settlement became St. Augustine. Spanish priests began trying to convert Native people in Florida within a few years, and by the 1580s the Franciscans had missions across Florida. The National Park Service's history of San Juan del Puerto states only that it began "sometime in the 1570s."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New Mexico, 1598" -->
@@ -89,9 +91,11 @@ Juan de Oñate led a Spanish expedition of colonists to the upper Rio Grande in 
 
 **He left home at about seventeen and came back nine years later.**
 
-He sailed from the Chesapeake on a Spanish ship in late June 1561. Whether he went willingly or was kidnapped is disputed, and the record does not settle it. Spanish captains of the time regularly captured boys and young men to serve as interpreters, people who translate between two languages. He came from the Powhatan chiefdoms, groups of towns each led by a chief, perhaps from a Paspahegh, Kiskiack or Kecoughtan family. The record does not show which.
+**Why this story is here:** he is the one person of the 1500s whose schooling by Europeans is recorded by name and date. No pupil of a mission school in Florida or New Mexico is known by name.
 
-**Spain and Mexico.** He reached Seville on September 9, 1561, was in Madrid by the end of October, and met King Philip II. In 1562 he sailed to Mexico. He fell so ill there that he was close to death, and he was baptized in Mexico City, the Christian ceremony of joining the church. He took the name of the viceroy of New Spain, the king's ruler in Mexico: Don Luís de Velasco.
+He sailed from the Chesapeake on a Spanish ship in late June 1561. Whether he went willingly or was kidnapped is disputed, and the record does not settle it. Spanish captains of the time regularly captured boys and young men to serve as interpreters, people who translate between two languages. He came from the Powhatan chiefdoms, groups of towns each led by a chief.
+
+**Spain and Mexico.** He reached Seville in September 1561, met King Philip II in Madrid that autumn, and sailed to Mexico in 1562. He fell so ill there that he was close to death, and he was baptized in Mexico City, the Christian ceremony of joining the church. He took the name of the viceroy of New Spain, the king's ruler in Mexico: Don Luís de Velasco.
 
 **The promise.** He studied in Seville with the Jesuits, an order of Catholic priests, from 1566 to 1570. No surviving record says what they taught him. He promised Father Juan Bautista de Segura, the Jesuit leader in Florida, that many people in his homeland would become Christians, and Segura planned a mission on that promise.
 
@@ -102,8 +106,6 @@ Paquiquineo landed on the James River with Segura's party in September 1570, and
 **What the soldiers did.** Menéndez, the founder of St. Augustine and now the Spanish governor of Florida, sent soldiers to the James River in August 1572. They captured some of Paquiquineo's people in a fight and hanged several of them from the yardarms of their ship, the wooden beams that cross the masts.
 
 One of the hanged men wore around his neck a paten, the metal dish the priests used in the Mass, their main church service. The Spanish records do not give the names of the men the soldiers hanged. The Powhatan people handed Alonso de Olmos back. The soldiers did not find Paquiquineo, and no European record mentions him again.
-
-**Why this story is here:** he is the one person of the 1500s whose schooling by Europeans is recorded by name and date. No pupil of a mission school in Florida or New Mexico is known by name.
 <!-- hb-story:end slug="paquiquineo-don-luis" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -111,7 +113,7 @@ One of the hanged men wore around his neck a paten, the metal dish the priests u
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 12 minutes**
+**Era 3 of 10 · The 1600s · about 11 minutes**
 
 English colonists in Massachusetts made teaching children to read a duty under law, and the men who wrote the laws gave a religious reason: every child had to be able to read the Bible. Schooling was not free. Parents or masters paid the teacher, and the Latin schools took only boys.
 
@@ -121,7 +123,7 @@ Outside New England, children learned at home, as apprentices, or at a few schoo
 <!-- hb-zoom level="span" label="Boston Latin School, 1635" -->
 Boston Latin School opened on April 23, 1635, and it is still open. It is the oldest public school in the country, which means a school that a town or a state runs for its children.
 
-**Whose land.** Boston stood on the Shawmut peninsula, which the Massachusett people called Mushauwomuk, "the boat landing place." It was part of the land of the Massachusett nation, whose chief sachem, or leader, was Chickataubut. An epidemic, a disease that spreads fast through a population, swept the region between 1616 and 1618. By the West End Museum's count, it killed about 75,000 of the region's 100,000 people, three in every four. John Winthrop and about 1,000 English settlers arrived on the peninsula in 1630.
+**Whose land.** Boston stood on the Shawmut peninsula, part of the land of the Massachusett nation, who called it Mushauwomuk, "the boat landing place." Between 1616 and 1618 an epidemic, a disease that spreads fast through a population, killed about three of every four people in the region, by the West End Museum's count. John Winthrop and about 1,000 English settlers arrived on the peninsula in 1630.
 
 **The first schoolmaster.** Boston's townsmen met on April 13, 1635, and agreed to ask Philemon Pormort to teach. The town record states that he "shall be intreated (asked) to become scholemaster for the teaching and nourtering (bringing up) of children with us." It gives the date as "the second month," which was April, because the English year then began on March 25. The first classes met in Pormort's own house, and the boys learned Latin and Greek.
 
@@ -141,7 +143,7 @@ A town whose men did not obey had to pay 5 pounds, in English money, every year 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The New England Primer" -->
-The English printer Benjamin Harris made *The New England Primer*, a first reading book, for buyers in the colonies sometime between 1687 and 1690. Those dates come from the American Antiquarian Society. The records of the first printing are lost, so the Society has only advertisements by printers and booksellers to go on, and the first of them is one Harris placed in 1690. No copy printed before 1727 is known to survive. The Society holds a copy of that 1727 edition.
+The English printer Benjamin Harris made *The New England Primer*, a first reading book, for buyers in the colonies by 1690. No copy printed before 1727 is known to survive, and the American Antiquarian Society holds a copy of that 1727 edition.
 
 The book mixed lessons in reading, spelling and religious rules for behavior. Each letter of the alphabet had a small woodcut, a picture printed from a carved block of wood. After the alphabet, the 1727 edition tells the teacher, "let him learn these and such like Sentences by Heart." Children were expected to memorize the sentences and recite them.
 <!-- /hb-zoom -->
@@ -164,17 +166,15 @@ Cotton Mather had been one of his pupils. He preached at Cheever's funeral and c
 <!-- hb-zoom level="span" label="Beaten at school: John Barnard" -->
 The rod was standard equipment in a schoolroom of the 1600s, and one of Cheever's pupils wrote down what it was like. John Barnard was born in Boston on November 6, 1681. He was seven when he was sent to Cheever's school, in the spring of 1689. He left after a few weeks, came back about a year and a half later, and stayed until he entered Harvard at fifteen.
 
-Cheever told Barnard openly that he played too much and kept his classmates from their lessons. "If any of them cannot perform their duty," Cheever said, "I shall correct you for it." In the words of that time, to correct a child meant to beat him.
+Cheever told Barnard openly that he played too much and kept his classmates from their lessons. "If any of them cannot perform their duty," Cheever said, "I shall correct you for it." In the words of that time, to correct a child meant to beat him. Cheever was warning Barnard that he would be beaten whenever a classmate failed.
 
-**The other boy.** When one classmate did not know his lesson, "our master beat me," Barnard wrote. The other boy saw this and neglected his book on purpose, "for which I was still corrected, and that for several days." Barnard beat that boy after school, and the boy never came back.
+**Beaten for a classmate.** Then one classmate did not know his lesson, and "our master beat me," Barnard wrote. The classmate saw this and neglected his book on purpose, "for which I was still corrected, and that for several days." Barnard beat the classmate after school, and the classmate never came to school again.
 
 Barnard wrote that he was "often beaten for my play." Once Cheever set the class to turn Aesop's fables, a set of old animal stories, into Latin verse. Barnard could not do it. Cheever beat him for it "two or three days going," until Barnard told him he had tried his hardest, and then Cheever stopped asking it of him.
 
 **Not known:** what Cheever hit him with, or how many times. Barnard does not say. He wrote his account as an old man, in the late 1760s, and it was printed in 1836.
 
-**Spare the rod.** The saying "spare the rod and spoil the child" is not in the Bible, though it comes close to one verse. Proverbs 13:24 says that whoever spares the rod hates their children, and the words "spoil the child" are not in it. Ælfric of Eynsham, an English monk who lived from about 950 to about 1010, wrote the oldest known English version: "He who spareth (spares) his rod hateth (hates) his child."
-
-The wording people use now comes from a comic poem, *Hudibras*, by Samuel Butler: "Then spare the Rod, and spill the Child." Later speakers changed "spill" to "spoil." Accounts give 1662, 1663 and 1664 for the part of the poem with that line.
+**Spare the rod.** The saying "spare the rod and spoil the child" is not in the Bible, though Proverbs 13:24 comes close: it says that whoever spares the rod hates their children. The wording people use now comes from a comic poem of the 1660s by the English writer Samuel Butler.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Natick's school, and Deer Island" -->
@@ -182,7 +182,7 @@ The English minister John Eliot and a group of Native leaders founded Natick, in
 
 Eliot printed schoolbooks in the Massachusett language: a catechism in 1653, which is a list of religious questions and answers that a pupil learns by heart, and an *Indian Primer* in 1669. In each of them the reading lessons were also lessons in Christian belief.
 
-**Deer Island.** War began in 1675 between the English colonists of New England and a group of Native nations led by Metacom, a sachem of the Wampanoag. The English called him King Philip, so they called it King Philip's War. On October 13, 1675, the men who governed the Massachusetts colony ordered the Christian Native people of the praying towns taken to Deer Island in Boston Harbor and held there as prisoners.
+**Deer Island.** War began in 1675 between the English colonists of New England and a group of Native nations led by Metacom, a sachem, or leader, of the Wampanoag. The English called him King Philip, so they called it King Philip's War. On October 13, 1675, the men who governed the Massachusetts colony ordered the Christian Native people of the praying towns taken to Deer Island in Boston Harbor and held there as prisoners.
 
 Colonists set up the prison camp, starting with the people of Natick. The surviving accounts do not name the men who voted for the order. The National Park Service's page on the island states that about 500 to 1,100 people were held there that winter, most of them women and children.
 
@@ -194,7 +194,7 @@ An unknown number of people were smuggled off the island and sold into slavery i
 <!-- hb-zoom level="span" label="Harvard, the Indian College, and the people Harvard men enslaved" -->
 Harvard's charter of 1650, the official paper from the colony's government that created the college, promised "the education of the English and Indian youth of this Country." A building called the Indian College stood in Harvard Yard from 1655. Accounts differ on when it came down: 1695 by Harvard Magazine's account, 1698 by that of Harvard's Native American Program. A printing press kept inside it printed the first Bible published in North America, in 1663, in the Algonquian language.
 
-Only a handful of Native students came to the Indian College. Caleb Cheeshahteaumuck graduated in 1665. His classmate Joel Iacoomes drowned in a shipwreck just before the graduation ceremony. Two more students died of disease before they finished, and one left to become a sailor.
+Only a handful of Native students came to the Indian College, and Caleb Cheeshahteaumuck, who graduated in 1665, was the only one of his time who finished. His classmate Joel Iacoomes drowned in a shipwreck just before the graduation ceremony. Two more students died of disease before they finished, and one left to become a sailor.
 
 **The people Harvard men enslaved.** Harvard's leaders and staff enslaved people. In April 2022 a Harvard committee led by Tomiko Brown-Nagin reported records of "at least 79 people who were enslaved by Harvard presidents, overseers, and faculty and staff members" before slavery was outlawed in Massachusetts in 1783, the overseers being the men on one of Harvard's governing boards.
 
@@ -209,13 +209,9 @@ A woman named Jane was enslaved by the college steward, Andrew Bordman, the man 
 
 **One letter in Latin is all he left in his own words.**
 
-Caleb Cheeshahteaumuck was the first Native American to graduate from Harvard, in 1665. He came from a Wampanoag community on Martha's Vineyard, an island off the coast of Massachusetts.
-
-His letter is addressed to the English donors who paid for the Indian College. It begins "Honoratissimi benefactores," Latin for "most honored benefactors," the people who gave the money. It is often described as the earliest surviving writing by a Native person on this continent.
+Caleb Cheeshahteaumuck came from a Wampanoag community on Martha's Vineyard, an island off the coast of Massachusetts. His letter is addressed to the English donors who paid for the Indian College. It begins "Honoratissimi benefactores," Latin for "most honored benefactors," the people who gave the money. It is often described as the earliest surviving writing by a Native person on this continent.
 
 He died in 1666, within a year of graduating, of a disease people then called consumption. One account says he died at Watertown, Massachusetts, at about twenty. Martha's Vineyard Magazine states that the disease was "presumably" tuberculosis, a disease of the lungs, which means the writer judged it likely. No record from his time names the disease that way.
-
-Of the Native students who came to the Indian College in his time, he was the only one who finished.
 <!-- hb-story:end slug="caleb-cheeshahteaumuck" -->
 
 <!-- hb-zoom level="span" label="Timucua in print" -->
@@ -249,9 +245,7 @@ Section 45 of the act gives its reason: "the having of slaves taught to write, o
 
 The teacher owed the fine, not the pupil. Under another section of the act, a person could collect the fine by suing the teacher in court. Half the money went to the colony and the other half to whoever reported or sued, which gave anyone a reason to watch for a teacher and turn the teacher in.
 
-**Why writing.** Under the act, teaching writing was a crime and teaching reading was not, and the act gives only "great inconveniences" as its reason. An enslaver's own words, from later in the century, show one danger enslavers saw.
-
-A person who could write could forge, or fake, a pass, the note from an enslaver that let an enslaved person travel, and escape with it. In 1774 Lewis Burwell advertised for Isaac Bee, a young man who had run away from him, and warned that he "may easily get some One to forge a Pass for him."
+**Why writing.** Under the act, teaching writing was a crime and teaching reading was not, and the act gives only "great inconveniences" as its reason. Enslavers feared forged passes. A pass was the note from an enslaver that let an enslaved person travel, and a person who could write could forge, or fake, one and escape with it. One enslaver's newspaper advertisement of 1774, for a young man who had run away, warns that someone might forge a pass for him.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Harry and Andrew's school in Charleston" -->
@@ -287,9 +281,9 @@ These were charity schools. A society in London paid the teacher so that pupils 
 <!-- hb-zoom level="span" label="How many people could read and write" -->
 Nobody surveyed how many colonists could read. Historians such as Kenneth Lockridge count signatures instead, on wills, the papers saying who gets a person's belongings after death, and on deeds, the papers showing who owns land. A person who could write signed a name. A person who could not made a mark, such as an X. The method undercounts readers, because many children were taught to read and never taught to write, which was common for girls.
 
-**Men.** Lockridge counted men's signatures in New England. About 60 percent of white men could sign their names between 1650 and 1670. About 85 percent could sign between 1758 and 1762, and about 90 percent between 1787 and 1795.
+**Men.** Lockridge counted men's signatures in New England. Between 1650 and 1670 about 60 of every 100 white men could sign their names, and between 1787 and 1795 about 90 of every 100 could.
 
-**Women.** Lockridge's counts, and later counts built on his method, cover women too, sorted by the years the women were born. Of women born between 1650 and 1669, 27 percent could sign. The share rose to 48 percent for women born between 1690 and 1709, and 81 percent for women born between 1730 and 1749. More people could sign in New England and the middle colonies than in the South, and more in towns than in the countryside.
+**Women.** Lockridge's counts, and later counts built on his method, cover women too. Of women born in the 1650s and 1660s, about 27 of every 100 could sign. Of women born in the 1730s and 1740s, about 81 of every 100 could. More people could sign in New England and the middle colonies than in the South, and more in towns than in the countryside.
 
 **Enslaved people.** An article in Encyclopedia Virginia estimates that by 1775 as many as 5 percent of enslaved people in Virginia could read, one in twenty. The enslavers' own advertisements give one check on that number. Between 1736 and 1776 enslavers placed about 1,000 advertisements in the *Virginia Gazette*, a newspaper, to hunt for people who had run away. Fifty-five of them said the person could read or write.
 <!-- /hb-zoom -->
@@ -355,7 +349,7 @@ One evening in the autumn of 1771 Dock did not come home from school at the usua
 
 The men who founded the United States argued that the new country needed schools, and they mostly did not pay for them. Thomas Jefferson wrote a plan for public schools in Virginia, and Virginia's lawmakers never passed it. The new schools of these fifty years included private academies, the first school for girls with a charter from a government, church charity schools, and a charity school and a college meant for Native students.
 
-At a charity school in Williamsburg, Virginia, Black children learned to read. The men who ran the London charity that paid for it wanted them taught that slavery was God's will.
+At a charity school in Williamsburg, Virginia, enslaved and free Black children learned to read, and their schoolhouse still stands.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Jefferson's plan, and who was left out" -->
@@ -401,15 +395,15 @@ Sarah Pierce took up an argument made after the Revolution: that mothers gave ch
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Williamsburg Bray School, 1760 to 1774" -->
-Enslaved and free Black children in Williamsburg, Virginia, learned to read at a charity school from 1760 to 1774, and the men who paid for it meant to teach them to accept slavery as God's will. The Associates of Dr. Bray, a church charity in London, set up the school on Benjamin Franklin's advice. Thomas Dawson, the president of the College of William & Mary, backed it. One teacher, Ann Wager, taught there for all fourteen years.
+Enslaved and free Black children in Williamsburg, Virginia, learned to read at a charity school from 1760 to 1774, and the men who paid for it meant to teach them to accept slavery as God's will. William & Mary's own account states that the school's "faith-based curriculum justified slavery," the curriculum being the set of lessons the school taught.
+
+The Associates of Dr. Bray, a church charity in London, set up the school on Benjamin Franklin's advice. Thomas Dawson, the president of the College of William & Mary, backed it. One teacher, Ann Wager, taught there for all fourteen years.
 
 The pupils were three to ten years old, and thirty or more might crowd into the room on an ordinary day. They learned to spell and to read aloud clearly. They worked up through *The Child's First Book*, the Psalms, which are the songs of the Bible, the New Testament, the Book of Common Prayer, which was the Church of England's prayer book, and the Bible.
 
 Lessons began with the pupils reciting from memory the Apostles' Creed, a short statement of Christian belief, the Lord's Prayer and the catechism. Girls were also taught to sew.
 
 **How many pupils.** The count is not settled. Colonial Williamsburg's history of the school states that "hundreds of students attended." William & Mary's Bray School Lab states 300 to 400, and an Encyclopedia Virginia article states about 200. The names of more than 80 pupils survive on three school lists, from 1762, 1765 and 1769. One of them is a child named Locust, sent by the Armistead family, who enslaved people near Williamsburg.
-
-William & Mary's own account states that the school's "faith-based curriculum justified slavery." The curriculum, the set of lessons the school taught, was built on religious belief, and it taught that slavery was right. From those same lessons, the children learned to read.
 
 The school closed in 1774, when Ann Wager died. A second Bray school, at Fredericksburg, Virginia, ran from 1765 to about 1769 under the merchant Fielding Lewis, with 40 to 50 pupils. It closed because fewer pupils came and local enslavers opposed it.
 
@@ -421,18 +415,16 @@ The house was moved to Colonial Williamsburg on February 10, 2023. William & Mar
 <!-- hb-story:start slug="ann-wager" name="Ann Wager" movie="" kind="ordinary" status="verified" -->
 ### Ann Wager
 
-> **Who:** The only teacher the Williamsburg Bray School ever had. The men who ran the charity that paid her wanted Black children taught to read and taught that slavery was God's will.
+> **Who:** The only teacher the Williamsburg Bray School ever had, and the teacher of a boy who later ran away from the man who claimed to own him.
 > **When and where:** Williamsburg, Virginia, 1760 to 1774.
 
 **She earned 20 pounds a year, about a skilled worker's pay.**
 
-Ann Wager taught every class the Williamsburg Bray School ever held. Her husband, William Wager, died in 1748, and she began teaching to support herself. She was born in about 1716, so she was about 44 when the Bray School opened.
+Ann Wager's husband, William Wager, died in 1748, and she began teaching to support herself. She was born in about 1716, so she was about 44 when the Bray School opened.
 
-She was the school's only teacher from its first year. Her rent was paid on top of her 20 pounds. Colonial Williamsburg's history of the school describes that pay as "roughly equivalent to a journeyman worker's yearly wage," the wage of a skilled worker who had finished an apprenticeship. She taught at the school until she died on August 20, 1774, and the school closed with her death.
+Her rent was paid on top of her 20 pounds a year. Colonial Williamsburg's history of the school describes that pay as "roughly equivalent to a journeyman worker's yearly wage," the wage of a skilled worker who had finished an apprenticeship. She died on August 20, 1774.
 
-Her pupils were enslaved and free Black children of Williamsburg. She taught them to spell, to read aloud, and to recite prayers and the catechism. The men who ran the charity in London wanted the children taught that being enslaved was God's plan for them. The children came out of her lessons able to read.
-
-**Isaac Bee.** One of her pupils on the 1765 list was a boy named Isaac Bee. In the summer of 1774, at eighteen or nineteen, he ran away from Lewis Burwell, the man who claimed to own him. Burwell placed an advertisement in the *Virginia Gazette* that September. He wrote that Isaac Bee believed he had a right to be free, because his father was a free man.
+**Isaac Bee.** One of her pupils on the 1765 list was Isaac Bee, the runaway named in the chapter opening. In the summer of 1774, at eighteen or nineteen, he ran away from Lewis Burwell, the man who claimed to own him. Burwell placed an advertisement in the *Virginia Gazette* that September. He wrote that Isaac Bee believed he had a right to be free, because his father was a free man.
 
 Burwell offered a reward of 40 shillings, a shilling being one twentieth of a pound, for Isaac Bee's return. He warned that Isaac Bee could read, and that "he may easily get some One to forge a Pass for him." Bray School researchers at William & Mary matched the runaway to the pupil on the 1765 list.
 
@@ -467,7 +459,7 @@ Noah Webster wrote the spelling book that American children learned from for mor
 
 He taught school in Glastonbury, Hartford and West Hartford, and in 1782 in Goshen, New York. He believed the new country needed its own schoolbooks and one settled way of spelling to hold it together.
 
-**The Blue-Backed Speller.** He published the first part of *A Grammatical Institute of the English Language* in 1783, and people called it the Blue-Backed Speller. In it Webster kept most spellings as they were. He used, every time, many spelling changes that earlier dictionaries had used only some of the time.
+**The Blue-Backed Speller.** He published the first part of *A Grammatical Institute of the English Language* in 1783, and people called it the Blue-Backed Speller. In it Webster kept most spellings as they were. Earlier dictionaries had used some newer spellings only part of the time, and Webster used them every time.
 
 Families and schools used the speller from 1783 into the early 1900s. By one estimate it had sold 15 million copies by 1837 and about 60 million by 1890. Other estimates run as high as 100 million copies in all. Nobody kept an exact count.
 <!-- hb-story:end slug="noah-webster" -->

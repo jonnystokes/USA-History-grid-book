@@ -37,7 +37,6 @@
 - birch rods: thin sticks, or bundles of twigs, cut from a birch tree and used to beat children (The 1600s)
 - correct: in the words of that time, to beat a child (The 1600s)
 - Aesop's fables: a set of old animal stories (The 1600s)
-- spareth, hateth: spares, hates (The 1600s)
 - praying towns: towns set up for Native people who had become Christians (The 1600s)
 - catechism: a list of religious questions and answers that a pupil learns by heart (The 1600s)
 - internment: imprisonment in a camp (The 1600s)
@@ -150,9 +149,8 @@
 - pneumonia: an infection of the lungs (1850 to 1900)
 - rations: set amounts of food handed out at the reservations (1850 to 1900)
 - solitary confinement: locking a child alone in a room (1850 to 1900)
-- flogging: beating a person with a whip or a rod (1850 to 1900)
+- flogging: beating a person hard, again and again (1850 to 1900)
 - cuffing: hitting with an open hand (1850 to 1900)
-- national monument: a place the federal government keeps for its history (1850 to 1900)
 - sexual abuse: forcing sexual acts on a child (1850 to 1900)
 - Quaker missionaries: people sent out by the Quaker church to spread its faith (1850 to 1900)
 - shingled: cut short (1850 to 1900)
@@ -251,6 +249,7 @@
 - principal (of a loan): the money borrowed, not counting interest (2000 to Today)
 - default: going 270 days, about nine months, without making a payment on time on a loan (2000 to Today)
 - cabinet: the group of the president's top officials who each run a department (2000 to Today)
+- national monument: a place the federal government keeps for its history (2000 to Today)
 - school book ban: in PEN America's use, any removal of a book, or any limit on reading it, because of what is in it (2000 to Today)
 - sexual orientation: which sex a person is attracted to (2000 to Today)
 - gender identity: a person's own sense of being a boy or a girl, a man or a woman (2000 to Today)
@@ -322,6 +321,6 @@
 
 ## Questions
 
-- Q: When did school become free, and required, for every child? A: Horace Mann argued for free schools paid for by taxes from 1837, Massachusetts lawmakers made school a legal duty in 1852, and every state had done the same by 1918. Disabled children won the right to a free public school only in 1975.
-- Q: Which children were kept out of school, and how did they get in? A: Lawmakers barred enslaved people from learning to read, and officials turned away or separated Black, Chinese, Mexican American and disabled children. Their families got them in through the courts, from the Mendez case in 1946 and Brown in 1954 to the Mills case in 1972, and through the federal law of 1975.
+- Q: When did school become free, and required, for every child? A: It came in steps, not on one date. Horace Mann argued for free schools paid for by taxes from 1837, and Massachusetts lawmakers made school a legal duty in 1852. Every state had done the same by 1918, and disabled children won the right to a free public school only in 1975.
+- Q: Which children were kept out of school, and how did they get in? A: Lawmakers barred enslaved people from learning to read, and officials separated Black, Chinese and Mexican American children, turned disabled children away and took Native children far from home. Judges first backed keeping them out or apart, in Sarah Roberts's case in 1850, Plessy in 1896 and Martha Lum's case in 1927. Later judges let them in, from the Mendez case in 1946 and Brown in 1954 to the Mills case in 1972, and in 1975 members of Congress passed a law for disabled children and a law that let Native nations run their own schools.
 - Q: Is it still lawful for a teacher to hit a child? A: Yes, in 15 states in 2026. The justices of the Supreme Court ruled in 1977 that the Constitution's ban on cruel and unusual punishment does not cover paddling at school, so state lawmakers have banned it one state at a time.

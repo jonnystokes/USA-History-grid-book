@@ -24,27 +24,21 @@ In Southern counties, officials paid for Black children's schools at a fraction 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Finishing high school becomes ordinary" -->
-The federal government's own figures show how fast the high schools filled. In the school year 1899 to 1900, the whole country had 95,000 high school graduates, 6.4 for every 100 young people aged seventeen. In 1919 to 1920 there were 311,000, or 16.8 for every 100. In 1939 to 1940 there were 1,221,000, or 50.8 for every 100, about half.
-
-The number of pupils in the high school grades rose the same way. In 1900 to 1901 about 650,000 were enrolled, about 11 in every 100 young people aged 14 to 17. By 1939 to 1940 there were about 7 million, about 71 in every 100.
+The high schools filled fast, by the federal government's own figures. In the school year 1899 to 1900, about 6 of every 100 young people aged seventeen graduated from high school. Forty years later, about half did.
 
 **The Depression years.** The biggest jump came in the 1930s, during the Great Depression, when by 1933 about one worker in four had no job. Graduates rose from 29 for every 100 seventeen-year-olds in 1929 to 1930 to nearly 51 ten years later. Many teenagers stayed in school partly because there were no jobs to leave school for.
 
-During the Second World War the number fell back. In 1943 to 1944, 63 of every 100 young people aged 14 to 17 were enrolled, down from 71, because many older pupils left for wartime jobs.
+During the Second World War the share of teenagers in school fell back, because many older pupils left for wartime jobs. Girls finished high school more often than boys in every decade of this era.
 
-Girls finished high school more often than boys in every decade of this era. In 1939 to 1940, 643,000 girls graduated and 579,000 boys.
-
-The school year grew only a little longer. The average school term was 144 days in 1899 to 1900 and 178 days in 1949 to 1950. The number of days a child actually came changed far more. The average pupil attended 99 days in 1899 to 1900 and 158 days in 1949 to 1950.
+Children also came to school on far more days. By 1949 to 1950 the average school term was 178 days, and the average pupil came on 158 of them, against 99 days in 1899 to 1900.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The one-room school closes" -->
 Members of local school boards closed one-room schools district by district in these years. They could close a small school only if its children had a way to reach a bigger one. School buses carried the children past the small school near their homes to a bigger school farther away.
 
-Federal officials began counting one-teacher schools in 1929 to 1930, when there were 149,282 of them. By 1949 to 1950 there were 59,652. The federal count gives no number for the years before that. Local histories and popular accounts give a figure of about 200,000 one-room schools at the peak, an estimate and not a count.
+Federal officials began counting one-teacher schools in 1929 to 1930, when there were about 149,000 of them. By 1949 to 1950 there were about 60,000, fewer than half as many. Local histories and popular accounts give a figure of about 200,000 one-room schools at the peak, but that is an estimate and not a count. The number of school districts fell too, by about 35,000 in the twelve years before 1950.
 
-The number of school districts fell too. There were 119,001 districts in 1937 to 1938 and 83,718 in 1949 to 1950, so about 35,000 districts were gone in twelve years.
-
-More and more children rode to school. In 1929 to 1930, tax money paid to carry 1,902,826 pupils, 8.9 percent of the children in school on an average day. In 1949 to 1950 it paid to carry 6,947,384, or 31.2 percent. By 1950 nearly a third of the country's schoolchildren rode to school.
+The buses carried more and more of the children. By 1950 tax money paid for nearly a third of the country's schoolchildren to ride to school, up from about 9 of every 100 in 1930.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="mamie-garvin-fields" name="Mamie Garvin Fields" movie="" kind="ordinary" status="verified" -->
@@ -55,11 +49,9 @@ More and more children rode to school. In 1929 to 1930, tax money paid to carry 
 
 **At twenty she took charge of a one-room school near Sumter.**
 
-Mamie Garvin Fields took her first teaching job in 1908, at Pine Wood, a one-room school near Sumter, South Carolina. She taught in one-teacher and two-teacher schools for Black children in rural South Carolina.
+Mamie Garvin Fields took her first teaching job in 1908, at Pine Wood, a one-room school near Sumter, South Carolina. She taught in one-teacher and two-teacher schools for Black children in rural South Carolina, and she kept teaching for about thirty-five years.
 
-She grew up in Charleston and went to the Robert Gould Shaw Memorial School there. She won a scholarship from her church to the high school department of Claflin College in Orangeburg, and she stayed on at Claflin for college.
-
-She came back to Charleston in 1909, one of the first Black teachers hired for the county's public schools. She taught at Humbert Wood Elementary School and at Miller Hill School on Johns Island, where she was the principal for two years. After a short time in Boston, she went back to teaching in 1926 at the Society Corner School on James Island. She retired in 1943.
+She grew up in Charleston and won a scholarship from her church to Claflin College in Orangeburg, first to its high school department and then to the college. In 1909 she came back to Charleston as one of the first Black teachers the county hired for its public schools. She was a principal for two years on Johns Island, and she retired in 1943.
 
 **Grown-ups too.** She ran classes for adults on James Island and Johns Island in the early 1920s. During the Depression she started the first vacation Bible school for migrant workers in Charleston, farm workers who move from place to place to follow the harvests. From 1958 to 1964 she was president of the South Carolina Federation of Colored Women's Clubs, "colored" being a word then used for Black people.
 
@@ -79,7 +71,7 @@ Every state had a law by 1918 that required children to go to school. As fewer c
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A school prayer case in Nebraska, 1902" -->
-A court fight over religious teaching in a public school began at the Freeman School in Nebraska, the one-room brick school near Beatrice. In 1898 Daniel Freeman sued over religious teaching at the school. Freeman was the first person to file a claim for free land under the Homestead Act. On October 9, 1902, the justices of the Nebraska Supreme Court ruled in his favor. That was forty-five years before federal courts began to apply the Constitution's ban on an official religion to the states.
+A court fight over religious teaching in a public school began at the Freeman School in Nebraska, the one-room brick school near Beatrice. Daniel Freeman, the first person to file a claim for free land under the Homestead Act, sued in 1898 over the religious teaching there. On October 9, 1902, the justices of the Nebraska Supreme Court ruled in his favor. That was sixty years before the justices of the US Supreme Court ruled that public school staff anywhere in the country could not lead official prayers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who could hit a child, city by city" -->
@@ -101,15 +93,13 @@ Each city's rules said who could hit a child and when. Only San Francisco's name
 <!-- hb-zoom level="span" label="Carlisle's last years: a beating, a petition and a hearing" -->
 A Pottawatomie student named Julia Hardin told a committee of Congress under oath in February 1914 how a staff member at the Carlisle boarding school had beaten her. The hearings began with a petition. Gus Welch, an Ojibwe student, gathered more than 200 students' signatures asking the Commissioner of Indian Affairs to look into wrongdoing by the school's leaders and its athletic department.
 
-**The hearings.** Members of a joint committee of Congress came to the school without warning and held public hearings on the campus for a week. An inspector from the Indian Office, Edward B. Linnen, worked with them. They asked about the laundry, a shortage of flour, and the money the school earned from its football team.
-
-By Linnen's figures, the athletic fund had made $223,789.83 more than it spent from 1907 to 1913. The school's leaders had spent that money on five buildings, including a separate dormitory, a building where students sleep, for the athletes. Superintendent Moses Friedman was accused of charging twice for train tickets.
+**The hearings.** Members of a joint committee of Congress came to the school without warning and held public hearings on the campus for a week. An inspector from the Indian Office, Edward B. Linnen, worked with them. They asked about everything from the laundry to the football team's money, and they heard testimony that the coach, Glenn "Pop" Warner, had used that money for his own gain.
 
 **Julia Hardin.** She testified on February 7, 1914. She was 18, an orphan from Shawnee, Oklahoma, and a student in the business department, where she studied law, shorthand and typing. Every month she had received the mark "excellent" for her behavior.
 
 She told the committee what had happened on the second day of one June. Under the school's outing program, staff sent students to live with white families and work for them. The outing agent had asked her if she wanted to go and told her, "Come and sign." Julia had answered, "Wait until I get a trunk and some clothes."
 
-A note from the office of the matron, the woman on the staff in charge of the girls, told her she had to leave the next morning. The matron sent her to Superintendent Friedman, and Friedman sent her back to the matron.
+A note from the office of the matron, the woman on the staff in charge of the girls, told her she had to leave the next morning. The matron sent her to the superintendent, Moses Friedman, and Friedman sent her back to the matron.
 
 **The beating.** Then Claude Stauffer, the school's music teacher and band leader, told her to sign a check for her train fare. She refused until her clothes were ready. He slapped her across the face with his hand and told her, "I am going to give you a sound thrashing, and I will stand the responsibility."
 
@@ -123,7 +113,7 @@ When Stauffer said again that he would take the responsibility, Ridenour said, "
 
 The next morning she went to Mr. and Mrs. Crawford in Merchantville, New Jersey. For three months she did their washing, scrubbing, housecleaning and cooking, for $6 a month, and she paid her own train fare of $3.79. Someone at the school had sent the family a report that she had caused trouble, and she was never told who sent it. When she arrived, the woman of the house told her, "Julia, we will have to go rather hard on you." The family treated her well after that, she said.
 
-She told the committee that Stauffer had whipped several boys from his band in the guardhouse, and she named one of them, Robert Nash. She had seen Ridenour and another staff member, Miss Knight, whip a young woman named Rose Whipper and lock her up. After the hearings, officials suspended Stauffer. He was not fired, but his job was abolished. The football coach, Glenn "Pop" Warner, left Carlisle.
+She told the committee that Stauffer had whipped several boys from his band in the guardhouse, and she named one of them, Robert Nash. She had seen Ridenour and another staff member, Miss Knight, whip a young woman named Rose Whipper and lock her up. After the hearings, officials suspended Stauffer. He was not fired, but his job was abolished. Warner left Carlisle.
 
 **The end of Carlisle.** Officials handed Carlisle over to the War Department on September 1, 1918, and Army officers made it a hospital for the First World War. Federal officials moved the 279 children still at the school to other federal boarding schools.
 <!-- /hb-zoom -->
@@ -156,7 +146,7 @@ He earned a Ph.D., the highest degree a university gives, at Johns Hopkins Unive
 
 The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
 
-He published *The School and Society* in 1899, and it became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
+*The School and Society* became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
 
 His wife, Alice Chipman Dewey, resigned as principal of the school on April 5, 1904, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
 <!-- hb-story:end slug="john-dewey" -->
@@ -222,9 +212,9 @@ Mississippi's own leaders had said otherwise when the war began. On January 9, 1
 
 By the end of the 1930s, officials in many states bought textbooks for every child. Every pupil in a state then read the same account of the Civil War, because all the books came from the state's approved list. Some of the science books stated that races could be ranked.
 
-**The Scopes trial.** John Scopes, a Tennessee science teacher, was found guilty in 1925 and fined $100 for teaching evolution, the scientific account of how living things change over many generations. He taught from *A Civic Biology*, a high school book by George William Hunter, first printed in 1914 and approved by the state. The trial was about its pages on evolution.
+**The Scopes trial.** John Scopes, a Tennessee science teacher, was found guilty in 1925 and fined $100 for teaching evolution, the scientific account of how living things change over many generations. He taught from *A Civic Biology*, a high school book by George William Hunter, first printed in 1914 and approved by the state. The trial was about the book's pages on evolution, and no one at the trial was charged over its pages on race and on people it called feeble-minded.
 
-The same book listed five races and called "the civilized white inhabitants of Europe and America" "the highest type of all." About families it called feeble-minded and criminal, it states: "If such people were lower animals, we would probably kill them off to prevent them from spreading." The book states that such people should be kept apart in asylums, places where people were locked away, and kept from marrying. No one at the trial was charged over those pages.
+The book listed five races and called "the civilized white inhabitants of Europe and America" "the highest type of all." About families it called feeble-minded and criminal, it states: "If such people were lower animals, we would probably kill them off to prevent them from spreading." It states that such people should be kept apart in asylums, places where people were locked away, and kept from marrying.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What the labels were used for: Carrie Buck" -->
@@ -238,13 +228,17 @@ Virginia's lawmakers passed a law on March 20, 1924, that let state officials st
 
 **The test case.** Dr. Albert S. Priddy, who ran the Colony, picked her to be the first case under the new law, so that the courts would decide whether the law was allowed. Priddy died in 1925, and Dr. John H. Bell took over the Colony and the case. On May 2, 1927, in *Buck v. Bell*, eight of the nine justices of the Supreme Court ruled for Virginia. Justice Butler voted against the ruling and wrote nothing.
 
-Justice Oliver Wendell Holmes Jr. wrote for the others. He began, "It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility," and ended the sentence, "society can prevent those who are manifestly unfit from continuing their kind." He went on: "The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes." Then he wrote, "Three generations of imbeciles are enough."
+Justice Oliver Wendell Holmes Jr. wrote for the others. He began, "It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility," and ended the sentence, "society can prevent those who are manifestly unfit from continuing their kind."
 
-Compulsory vaccination, a law that made people get a shot against a disease, was his comparison. If a state could force people to take a shot, he was saying, it could also force an operation that stopped a woman from ever having children.
+In plain words, he wrote that the state did not have to wait until the children of people it judged unfit committed crimes and were executed, or starved. It could stop such people from having children at all.
+
+He went on: "The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes." Compulsory vaccination, a law that made people get a shot against a disease, was his comparison. If a state could force people to take a shot, he was saying, it could also force an operation that stopped a woman from ever having children.
+
+Then he wrote, "Three generations of imbeciles are enough." He counted Carrie Buck as the second of the three generations and her daughter, Vivian, as the third.
 
 **The operation.** Dr. John H. Bell, who ran the Colony and whose name is on the case, operated on her on October 19, 1927. The operation is called a salpingectomy. He cut a piece out of each of her two Fallopian tubes, the tubes that carry an egg from the ovary to the womb. After that, no egg could reach her womb, and she could never become pregnant again. The operation cannot be undone. She was twenty-one.
 
-The third generation Holmes meant was Vivian. In April 1931 Vivian was on the honor roll at Venable Elementary School in Charlottesville. She died of an infection of the intestines in July 1932, at eight. Officials in Virginia sterilized about 8,300 people between 1927 and 1972. The law stayed in force until April 1974. The justices of the Supreme Court have never overruled *Buck v. Bell*.
+In April 1931 Vivian, the child Holmes had counted among the imbeciles, was on the honor roll at Venable Elementary School in Charlottesville. She died of an infection of the intestines in July 1932, at eight. Officials in Virginia sterilized about 8,300 people between 1927 and 1972. The law stayed in force until April 1974. The justices of the Supreme Court have never overruled *Buck v. Bell*.
 
 **By 1927:** The justices of the Supreme Court had let Virginia sterilize Carrie Buck, thrown out Robert Meyer's conviction for teaching in German, and struck down Oregon's law against private schools. In Tennessee a teacher had been convicted for teaching evolution.
 <!-- /hb-zoom -->
@@ -269,8 +263,6 @@ The school's trustees, the board in charge of it, had ordered her out because sh
 In Texas, Minerva Delgado and twenty other Mexican American parents sued the Bastrop school district and three others on June 15, 1948. Their lawyer was Gustavo C. Garcia. Judge Ben H. Rice ordered the separation ended by September 1949. His ruling still allowed a school to put first graders in a separate class if a test found that they spoke little English.
 
 By the end of the era, more children of every group were in school. In 1900, 54 of every 100 white children aged 5 to 19 were enrolled, and 31 of every 100 children the government counted as Black and other races. By 1950 the numbers were 79 and 75. The gap in who went to school had nearly closed, but in the South county officials still kept Black and white children in separate schools and still spent less on the Black ones.
-
-**By 1948:** Black families had raised their share of more than 5,000 Rosenwald buildings, and judges in California and Texas had ordered Mexican American children let into the schools officials had kept them out of. Southern county officials still spent far less on each Black child than on each white child.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The boarding schools at their largest" -->
@@ -286,7 +278,7 @@ Officials could force parents to send their children. Under a law of February 14
 
 The report names the main diseases among Native people as tuberculosis, a lung disease that spreads by coughing and had no cure in the 1920s, and trachoma, an eye infection. Repeated trachoma infection scars the inside of the eyelid until the lashes turn inward and scrape the eye, and without treatment it blinds people. At the school at Fort Defiance, Arizona, which was set up for children with trachoma, "milk is not part of the normal diet."
 
-The dormitories held far more children than they were built for. The report states that they were "crowded materially beyond their capacities," and "the supply of soap and towels has been inadequate."
+The dormitories, the buildings where the children slept, held far more children than they were built for. The report states that they were "crowded materially beyond their capacities," and "the supply of soap and towels has been inadequate."
 
 **The children's work.** The children's work paid for part of the cost of running the schools. "The boarding schools are frankly supported in part by the labor of the students," the report states. Pupils above the fourth grade worked half the day and went to class the other half. Its authors asked whether much of that work, "notably the work in the machine laundries," would be against the child labor laws of many states.
 
@@ -306,9 +298,9 @@ Tidwell let him go back to the hospital later that month. The doctor testified t
 
 A parent, Eugene Perank, told the senators through an interpreter what children had told him: "they have whipped them with a stick." He went on, "throw them down and whip them." He took his own children out of the school. The children who were whipped at Uintah are not named in the record.
 
-John Collier, who led the American Indian Defense Association, charged "widespread brutality" at government boarding schools in May 1930. He persuaded senators to look into "flogging and other forms of excessive punishment," flogging meaning beating a person with a whip or a rod. His charges centered on the Phoenix Indian School in Arizona, whose leaders were accused of "whippings, beatings, and even death."
+John Collier, who led the American Indian Defense Association, charged "widespread brutality" at government boarding schools in May 1930. He persuaded senators to look into "flogging and other forms of excessive punishment," flogging meaning beating a person hard, again and again. His charges centered on the Phoenix Indian School in Arizona, whose leaders were accused of "whippings, beatings, and even death."
 
-Officials read the Meriam Report in 1928, and the boarding schools stayed open. In 2024 officials of the US Department of the Interior counted at least 973 children who died at the 417 federal boarding schools between 1819 and 1969, and their report states that the real number is higher. That count covers the whole life of the system and is not broken down by decade.
+Officials read the Meriam Report in 1928, and the boarding schools stayed open. The federal count of the children who died at the schools, finished in 2024 and described under 2000 to Today, covers the whole life of the system and is not broken down by decade.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Teaching: colleges for teachers, and the marriage bar" -->
@@ -322,9 +314,9 @@ Teachers' pay rose over the fifty years. On average, a teacher earned $325 a yea
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A school explosion: New London, Texas, 1937" -->
-The school in New London, Texas, exploded on March 18, 1937, and the blast killed about 298 of the 500 students and 40 teachers inside. Early that year the members of the school board had canceled the school's contract for natural gas. To save money, they had plumbers connect the school to a gasoline company's pipe of leftover gas, and that gas had no smell.
+Members of the school board in New London, Texas, canceled the school's contract for natural gas early in 1937. To save money, they had plumbers connect the school to a gasoline company's pipe of leftover gas, which had no smell. On March 18, 1937, the gas exploded. About 540 people were in the building, 500 students and 40 teachers, and about 298 of them died.
 
-No school official was found responsible, and more than seventy lawsuits failed. Texas lawmakers then passed a law requiring companies to add a smell to gas.
+No school official was found responsible, and more than seventy lawsuits failed. Texas lawmakers then passed a law requiring companies to add a smell to gas. Chapter 27, Disasters, describes the explosion in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="School behind a fence: the Japanese American camps" -->
@@ -339,6 +331,8 @@ At Manzanar, in California, more than 2,300 children arrived from over 200 schoo
 At Poston the people held there made about 750,000 adobe bricks, bricks of mud and straw dried in the sun, and built three school campuses. Elementary classes averaged 48 pupils to one teacher. Of the 100 teachers hired to come to Poston, 70 arrived, and by December 55 were still there.
 
 Four Munemitsu children, Seiko, Saylo, Akiko and Kazuko, had gone to school in Westminster, California, until 1942. Then they were held at Poston. While they were there, the Mendez family leased and worked the Munemitsu family's farm in Westminster, and staff at a Westminster school turned the Mendez children away.
+
+**By 1945:** The Indian boarding schools were still open years after the Meriam Report, and Southern county officials still spent far less on each Black child than on each white child. Most school boards had dropped their rule against married women teachers.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="sylvia-mendez" name="Sylvia Mendez" movie="" kind="ordinary" status="verified" -->
@@ -347,7 +341,7 @@ Four Munemitsu children, Seiko, Saylo, Akiko and Kazuko, had gone to school in W
 > **Who:** Turned away from a California school at eight, she was one of about 5,000 children in her father's lawsuit, and the families won.
 > **When and where:** Westminster, California, 1944 to 1947.
 
-**The staff took her cousins and turned her away.**
+**The staff enrolled her cousins and turned her away.**
 
 Sylvia Mendez was eight years old when staff at a school in Westminster, California, refused to enroll her, and her father went to court over it. Her family had moved from Santa Ana to a farm in Westminster in 1944. They leased it from the Munemitsus, a Japanese American family whom federal officials had forced into a camp.
 
@@ -373,7 +367,7 @@ Veterans made up 49 percent of the students admitted to colleges in 1947, the la
 
 The colleges open to him were separate Black colleges with a limited number of places. Many Black veterans had gone to the Southern schools for Black children, where officials spent far less on each child, and many had not been taught enough there to be ready for college. Many could not get into a college.
 
-The number of Black college students still rose sharply. Medgar Evers volunteered for the Army in 1942. Later he used the G.I. Bill to enroll at Alcorn A&M College in Lorman, Mississippi, a public college for Black students.
+The number of Black college students still rose sharply. Medgar Evers was one of the Black veterans who got in. He had volunteered for the Army in 1942, and later he used the G.I. Bill to enroll at Alcorn A&M College in Lorman, Mississippi, a public college for Black students. In 1962 he helped James Meredith become the first Black student at the University of Mississippi.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
@@ -387,7 +381,7 @@ The number of Black college students still rose sharply. Medgar Evers volunteere
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 52 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 51 minutes**
 
 Judges and lawmakers opened the public schools to children who had been kept out or kept apart, and officials in many places spent years fighting them. The justices of the Supreme Court ruled in 1954 that separate public schools for Black and white children broke the Constitution. For the next ten years almost every Black child in the South still went to an all-Black school.
 
@@ -403,7 +397,9 @@ All nine justices of the Supreme Court ruled on May 17, 1954, in *Brown v. Board
 
 Ten years after *Brown*, one study estimated that 99 of every 100 Black children in the South were in schools with no white children. A team led by James Coleman made a national count in the school year 1965 to 1966, as the Civil Rights Act of 1964 required. Across the country, 65 of every 100 Black pupils were in schools that were more than 90 percent Black, and 80 of every 100 white pupils were in schools more than 90 percent white.
 
-The city figures for elementary schools in the same survey record the South. In Mobile, Alabama, every Black child was in a school more than 90 percent Black. The figure was 99 in every 100 in Birmingham and in Jackson, Mississippi, 97 in Atlanta, and 96 in New Orleans and in Charlotte. Of the Southern cities counted, the lowest was Kansas City, Missouri, at 69.
+The city figures for elementary schools in the same survey record the South. In Mobile, Alabama, every Black child was in a school more than 90 percent Black, and in Charlotte, North Carolina, 96 of every 100 were.
+
+The classrooms of the South changed later. By the mid-1980s, about 43 of every 100 Black students in the South went to schools where most of the students were white. That was the highest share in a count by researchers at the University of California, Los Angeles, that reaches back to 1968.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Little Rock: a year inside Central High, and a year with no high school" -->
@@ -439,15 +435,15 @@ Eisenhower called it "an emergency undertaking to be terminated after four years
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Virginia closes its schools" -->
-Officials in Virginia closed public schools in five places rather than let Black children into white schools, and in Prince Edward County they kept the public schools shut for five years. In late February 1956, Senator Harry F. Byrd called for "massive resistance" against *Brown*, a campaign by Virginia's leaders to block it. Virginia's lawmakers, under Governor Thomas B. Stanley, then passed a law under which the governor would close any school that federal judges ordered to take Black pupils.
+Officials in Virginia made the same choice as Faubus. They closed public schools in five places rather than let Black children into white schools, and in Prince Edward County they kept the public schools shut for five years. In late February 1956, Senator Harry F. Byrd called for "massive resistance" against *Brown*, a campaign by Virginia's leaders to block it. Virginia's lawmakers, under Governor Thomas B. Stanley, then passed a law under which the governor would close any school that federal judges ordered to take Black pupils.
 
 Governor J. Lindsay Almond Jr. used that law in September 1958. He closed nine schools in Front Royal, Charlottesville and Norfolk and locked out about 12,000 to 13,000 students. On January 19, 1959, judges of a state court and of a federal court both ruled that the closings broke the Constitution. The state's own scholarship program names five places that closed schools to avoid desegregation: Arlington, Charlottesville, Norfolk, Warren County and Prince Edward County. All but Prince Edward reopened within months.
 
 **Prince Edward County.** Barbara Johns, who was 16, had led the Black students of Robert Russa Moton High School in Farmville out of their school on April 23, 1951, to protest its condition. Their case became one of the five cases the justices decided together as *Brown*.
 
-Local leaders spent years getting ready to keep the county's schools separate. From 1954, J. Barrye Wall, the editor of the *Farmville Herald*, and Robert Crawford, a laundry owner and former school board chairman, built a group called the Defenders of State Sovereignty and Individual Liberties.
+Local leaders spent years getting ready to keep the county's schools separate. From 1954, J. Barrye Wall, the editor of the *Farmville Herald*, and Robert Crawford, a laundry owner, built a group called the Defenders of State Sovereignty and Individual Liberties.
 
-Hours after the second *Brown* ruling, on May 31, 1955, the county supervisors, the officials who ran the county, passed a motion by Supervisor John Bruce to give the schools only the legal minimum of $150,000, a fraction of what they needed. On June 7, 1955, at a meeting in Longwood College, 1,250 people voted, against 25, for a plan by Mayor W. C. Fitzpatrick. It set up a private fund to pay white teachers if the public schools closed.
+Hours after the second *Brown* ruling, on May 31, 1955, the county supervisors, the officials who ran the county, voted the schools only the legal minimum of $150,000, a fraction of what they needed. A week later about 1,250 people at a public meeting voted for a private fund to pay white teachers if the public schools closed.
 
 Judges of two courts ordered the county to integrate its schools on May 1, 1959, and the supervisors then voted to stop paying for public schools at all. Accounts of that vote differ: two date it June 26, 1959, and a third gives June 2. The schools did not open that September. Roy Pearson of Farmville organized private schools for the white children, who went to Prince Edward Academy, a new private school, paid for partly by tuition grants from the state.
 
@@ -540,7 +536,7 @@ Title IX states that "no person in the United States shall, on the basis of sex,
 <!-- hb-zoom level="span" label="College for millions, and borrowing to pay for it" -->
 Over these fifty years, going to college changed from something a few Americans did to something millions did, and by the end most graduates had borrowed money to pay for it.
 
-In the fall of 1950, 2,281,298 people were enrolled in American colleges and universities. In 1960 there were 3,639,847, and in 1970 there were 8,580,887. In 2000 there were 15,312,289, about seven times as many as in 1950.
+In the fall of 1950, about 2.3 million people were enrolled in American colleges and universities. By 1970 there were about 8.6 million, and by 2000 about 15.3 million, about seven times as many as in 1950.
 
 **The 1965 law.** Federal money paid for much of the growth. Federal loans for students began under the 1958 defense education law. President Johnson signed the Higher Education Act on November 8, 1965, at Southwest Texas State College in San Marcos, Texas.
 
@@ -548,7 +544,7 @@ Under the law, students in need could get grants, money that does not have to be
 
 In the same speech he spoke of the year he had taught at the Welhausen Mexican School in Cotulla, Texas, for $125 a month. "I shall never forget the faces of the boys and the girls in that little Welhausen Mexican School," he said. "And I remember even yet the pain of realizing and knowing then," he went on, "that college was closed to practically every one of those children because they were too poor."
 
-**The cost.** College cost rose faster than other prices. Measured in dollars of the same value, a year at a public four-year college, with tuition, fees, a room and meals, cost about $7,745 in 1963 to 1964 and about $12,572 in 1999 to 2000. At private four-year colleges the cost rose from about $15,093 to about $31,509, more than double.
+**The cost.** College cost rose faster than other prices. Measured in dollars of the same value, a year at a public four-year college, with tuition, fees, a room and meals, cost about $7,700 in 1963 to 1964 and about $12,600 in 1999 to 2000. At private four-year colleges the cost rose from about $15,100 to about $31,500, more than double.
 
 More students borrowed. Of the people who finished a four-year degree in 1992 to 1993, 49 in every 100 had borrowed, an average of $12,100. Of those who finished in 1999 to 2000, 65 in every 100 had borrowed, an average of $19,300. Among students from the richest families, the share who borrowed roughly doubled, from 24 to 46 in every 100.
 <!-- /hb-zoom -->
@@ -614,19 +610,15 @@ In 16 states surveyed in 1969, about 85 of every 100 Native children in foster c
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Punished for speaking Spanish" -->
-In much of the Southwest, school staff punished Mexican American children for speaking Spanish, and in 1972 a federal commission printed how. The U.S. Commission on Civil Rights published *The Excluded Student* in May 1972. It covered schools in Arizona, California, Colorado, New Mexico and Texas with many Mexican American pupils. Of about 5,800 schools, about a third had rules that discouraged children from speaking Spanish in class, and about 15 in every 100 discouraged it on the playground too.
-
-The rule was most common in Texas. Two-thirds of the Texas schools surveyed had rules that discouraged Spanish in class, at least twice the rate of most other states. In California fewer than a fifth did. The rule was also most common in poor neighborhoods. In 5 of every 10 schools serving poor barrios, or Mexican American neighborhoods, there was a "No Spanish" rule in class. In schools serving rich families, about 15 in every 100 had one.
-
-The commission's staff asked schools how they enforced the rule. In 48 of every 100, staff were asked to correct children who spoke Spanish, and in 12 of every 100 they were required to. In 7 of every 100, staff encouraged other children to correct them. In 3 of every 100, school staff said they punished children who kept speaking Spanish.
-
-**Hit for speaking Spanish.** No principal admitted hitting a child for it, but witnesses at the commission's hearing in San Antonio in December 1968 said children were hit. At that hearing a principal from El Paso testified that children caught speaking Spanish were sent to a Spanish detention class for an hour after school. The report includes a copy of the slip used to send a child there.
+In much of the Southwest, school staff punished Mexican American children for speaking Spanish, and in 1972 a federal commission printed how. At the U.S. Commission on Civil Rights' hearing in San Antonio in December 1968, a principal from El Paso testified that children caught speaking Spanish were sent to a Spanish detention class for an hour after school. The commission's report, *The Excluded Student*, includes a copy of the slip used to send a child there. No principal admitted hitting a child for speaking Spanish, but witnesses at the hearing said children were hit.
 
 **The children's own words.** A class of Mexican American seventh graders in Texas wrote about their elementary schools in October 1964. A Texas teacher, Alonzo Perales, sent the essays to the commission, and the report does not name the children.
 
 One wrote: "If we speak Spanish we had to pay 5 cents to the teacher or we had to stay after school." "In the first through the fourth grade," another wrote, "if the teacher caught us talking Spanish we would have to stand on the 'black square' for an hour or so."
 
 A third had to "write three pages saying, 'I must not speak Spanish in school'." "In the sixth grade," a fourth wrote, "they kept a record of which if we spoke Spanish they would take it down and charge us a penny for every Spanish word." The same child went on: "If we spoke more than one thousand words our parents would have to come to school and talk with the principal."
+
+**How common the rule was.** The commission surveyed about 5,800 schools with many Mexican American pupils in Arizona, California, Colorado, New Mexico and Texas, and about a third had rules that discouraged children from speaking Spanish in class. The rule was most common in Texas, where two-thirds of the schools surveyed had one, and in schools serving poor barrios, or Mexican American neighborhoods, where half did.
 
 **The law in Texas.** Texas law had required teaching in English only since 1918. In October 1970 a Mexican American teacher in Crystal City, Texas, was charged with a crime for teaching a high school history class in Spanish, and the charge was later dropped. On June 3, 1973, Governor Dolph Briscoe signed a law that ended the English-only rule, 55 years after it began.
 
@@ -668,11 +660,9 @@ The historian Michael Fuquay found that the academies got books, supplies, sport
 
 William J. Simmons led the Mississippi Private School Association and took the minutes of its board meeting on January 23, 1971. They record the board's decision that its schools would stay members "until such a time as they accept a Negro student or faculty member," Negro being the usual word for Black people at the time. At that point, the minutes say, a school would be asked to leave the association.
 
-**Catholic schools.** Catholic schools shrank in the same years. Their enrollment was highest in the school year 1964 to 1965, when 5,601,000 children attended 13,249 Catholic schools. By 1990 to 1991 there were 2,475,439 pupils, so in 26 years the number of pupils fell by more than half. The number of schools fell from its high point of 13,292, in 1965 to 1966, to 8,587.
+**Catholic schools.** Catholic schools shrank in the same years. Their enrollment was highest in the school year 1964 to 1965, when 5,601,000 children attended 13,249 Catholic schools. By 1990 to 1991 there were about 2.5 million pupils, fewer than half as many, in 8,587 schools.
 
-**Charter schools.** The charter school came last: a public school run by its own board under an agreement, called a charter, instead of by the school district. Minnesota's lawmakers passed the country's first charter school law in 1991, and Governor Arne Carlson signed it. The charter bill had failed in the state House in 1989, in 1990 and earlier in 1991, so lawmakers put it into a larger bill that paid for the state's schools and cut it back.
-
-Under the cut-back law, only school districts could grant a charter, and the state could have only eight charter schools. It passed the House by one vote. The first charter went to Bluffview Montessori in Winona in December 1991. The first charter school to open was City Academy in St. Paul, founded by Milo Cutter, in the fall of 1992. In 1993 the lawmakers raised the limit from eight schools to twenty.
+**Charter schools.** The charter school came last: a public school run by its own board under an agreement, called a charter, instead of by the school district. Minnesota's lawmakers passed the country's first charter school law in 1991, after the idea had failed three times in the state House, and it passed the House by one vote. The law allowed only eight charter schools. The first to open was City Academy in St. Paul, founded by Milo Cutter, in the fall of 1992.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Disabled children get a right to school" -->
@@ -682,19 +672,19 @@ Until 1975 the officials of an American public school could refuse to take a dis
 
 Janice King was thirteen, with weakness down one side of her body. She had been refused a place since she was old enough for school, because there was no program for her, and she had never been to school either.
 
-Jerome James was twelve and, in the court's words, "totally excluded from public school." Duane Blacksheare had been put out of Giddings Elementary School in October 1967, in the third grade, as a "behavior problem," and he was out of school for about four years. Steven Gaston had been out of Taylor Elementary since September 1969.
+Michael Williams, 16, had epilepsy, the brain disease that causes seizures, sudden bursts of activity in the brain that can make a person shake or pass out. He had been out of the Sharpe Health School since October 1969.
 
-Michael Williams, 16, had epilepsy, the brain disease that causes seizures, sudden bursts of activity in the brain that can make a person shake or pass out. He had been out of the Sharpe Health School since October 1969. The seventh child was Peter Mills.
+The other four had been put out of school or kept out, some of them for years, and two of them had been called "behavior problems." One of the four was Peter Mills, whose name is on the case.
 
-The counts in the case did not agree, and the court's opinion lists all of them. The families said about 22,000 children in the city had disabilities and perhaps 18,000 of them were getting no special teaching. School board members said they were teaching at least 3,880. The city's own report for 1971 stated that an estimated 12,340 disabled children would not be served in the coming school year.
+The counts in the case did not agree. The families said perhaps 18,000 disabled children in the city were getting no special teaching, and the city's own report for 1971 estimated that 12,340 would not be served in the coming school year.
 
 **The 1975 law.** President Gerald Ford signed the Education for All Handicapped Children Act on November 29, 1975. Under it, every disabled child in every state had the right to a free public education suited to that child.
 
-The number of children in special education had begun to rise before the law. It went from 356,000 in 1947 to 1948, 1.5 of every 100 pupils, to 2,677,000 in 1969 to 1970, 5.9 of every 100. After the law, it reached 3,692,000 in 1976 to 1977 and 4,641,000 in 1989 to 1990, more than 1 child in 9. More than half of the rise in the number of children came before the law. After 1975, schooling was their right under federal law.
+Special education grew before the law as well as after it. The share of pupils in special education rose from 1.5 of every 100 in 1947 to 1948 to 5.9 of every 100 in 1969 to 1970, before the law, and to more than 11 of every 100, more than 1 child in 9, by 1989 to 1990. More than half of the rise in the number of children came before the law. After 1975, schooling was their right under federal law.
 
-The groups children were sorted into changed too. The federal count had no group for children with learning disabilities until 1976 to 1977, when it counted 796,000 of them. By 1989 to 1990 it counted 2,050,000, nearly half of all children in special education. Over the same years, the number the government counted as "mentally retarded," its word then for children it judged to learn much more slowly than others, fell from 830,000 in 1969 to 1970 to 548,000 in 1989 to 1990.
+The groups children were sorted into changed too. The federal count had no group for children with learning disabilities until 1976 to 1977, and by 1989 to 1990 that group held nearly half of all children in special education. In the twenty years after 1969 to 1970, the number the government counted as "mentally retarded," its word then for children it judged to learn much more slowly than others, fell by about a third.
 
-**By 1990:** Every disabled child had a right under federal law to a free public education suited to that child, and more than 1 child in 9 was in special education. The country had more than 1,000 magnet schools, and Catholic schools had lost more than half their pupils since 1965.
+**By 1991:** Every disabled child had a right under federal law to a free public education suited to that child, and more than 1 child in 9 was in special education. The country had more than 2,400 magnet schools, and Catholic schools had lost more than half their pupils since 1965.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="peter-mills-education" name="Peter Mills" movie="" kind="ordinary" status="verified" -->
@@ -709,7 +699,7 @@ Peter Mills was put out of Brent Elementary School in Washington, D.C., on March
 
 He was a ward of the District of Columbia, which means the city government was legally responsible for him. In the court's words, he was "excluded from any publicly-supported education," and he stayed that way.
 
-**The case.** Lawyers filed a case for him and six other children who had been shut out of Washington's schools on September 24, 1971. It was called *Mills v. Board of Education of the District of Columbia*. Part of the school board's answer was that it did not have the money to teach them.
+**The case.** The lawyers filed it on September 24, 1971, as *Mills v. Board of Education of the District of Columbia*. Part of the school board's answer was that it did not have the money to teach the seven children.
 
 **The ruling.** Judge Joseph C. Waddy decided the case on August 1, 1972. He ruled that the District had to give a publicly supported education to every child of school age, whatever the child's disability, and that lack of money was no excuse. He wrote that if there was not enough money for everything, it had to be spent "in such a manner that no child is entirely excluded from a publicly supported education."
 
@@ -780,7 +770,7 @@ The case took them to court nine times over about ten years. In 2008 Mark DeJong
 <!-- hb-story:end slug="dejonge-family-homeschool" -->
 
 <!-- hb-zoom level="span" label="A Nation at Risk, 1983" -->
-Members of a federal commission published a report in April 1983 that stated American schools were failing. The argument about testing and school standards in the next era began with this report. Secretary of Education T. H. Bell had set up the National Commission on Excellence in Education, led by David P. Gardner, on August 26, 1981. After 18 months its members published *A Nation at Risk*.
+Members of a federal commission published a report in April 1983 that stated American schools were failing. The modern argument over school standards began with this report. Secretary of Education T. H. Bell had set up the National Commission on Excellence in Education, led by David P. Gardner, on August 26, 1981. After 18 months its members published *A Nation at Risk*.
 
 **Its best-known sentences.** The report compares weak schooling to an attack by an enemy country. "If an unfriendly foreign power had attempted to impose on America the mediocre educational performance that exists today," it states, "we might well have viewed it as an act of war. As it stands, we have allowed this to happen to ourselves." It states that the foundations of American schooling were "being eroded by a rising tide of mediocrity," meaning work that is only average or poor.
 
@@ -812,7 +802,7 @@ The one-room school nearly disappeared in these years. The federal count of one-
 <!-- hb-zoom level="era" label="By 2000" -->
 **If you remember one thing:** Judges and lawmakers opened public schools to Black children, disabled children and children who did not speak English in these fifty years, and each change took years of fighting.
 **One question left open:** Would the schools stay desegregated? The share of Southern Black students in mostly white schools was at its highest, about 43 percent, in the mid-1980s. The next era gives the answer.
-**Next:** After 2000 the fights were over testing, over which school a child attended, and over what children could read.
+**Next:** After 2000, members of Congress made every state test every child in reading and math each year.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -820,9 +810,9 @@ The one-room school nearly disappeared in these years. The federal count of one-
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 38 minutes**
+**Era 10 of 10 · 2000 to Today · about 37 minutes**
 
-The arguments over American schooling after 2000 were about which school a child attended, what was taught there and how learning was measured. A federal law signed in 2002 ordered every state to test every child in reading and math each year from third grade to eighth, and the yearly tests began in the school year 2005 to 2006. More families chose charter schools, private schools paid for with state money, or teaching at home.
+The arguments over American schooling after 2000 were about which school a child attended, what was taught there and how learning was measured. Under a federal law signed in 2002, every state had to test every child in reading and math each year from third grade to eighth, and the yearly tests began in the school year 2005 to 2006. More families chose charter schools, private schools paid for with state money, or teaching at home.
 
 State and local officials closed the school buildings in the spring of 2020 because of the coronavirus pandemic, a disease spreading around the world, and children were taught over the internet for the rest of that school year.
 
@@ -874,15 +864,13 @@ Researchers who studied one program, Louisiana's vouchers, found different thing
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Teaching at home: the 2020 jump" -->
-The share of children taught at home rose in this era and jumped in 2020. The federal survey of homeschooling counted 1.7 percent of children aged 5 to 17 taught at home in 1999 and 3.4 percent in 2012. In 2019 it was 2.8 percent, about 1.5 million children, and another 1.2 percent were in full-time online school.
+The share of children taught at home rose in this era and about doubled after 2020. The federal survey of homeschooling counted 1.7 percent of children aged 5 to 17 taught at home in 1999 and 2.8 percent in 2019, about 1.5 million children.
 
-Parents gave reasons in the 2019 survey. For 80 in every 100 homeschooled children, a parent named worry about the school environment. For 75 in every 100, a parent wanted to give moral teaching, and for 75 in every 100, a parent wanted more family life together. For 73 in every 100, a parent was unhappy with the teaching at other schools.
+In the 2019 survey, the reason parents gave most often was worry about the school environment, named for 80 of every 100 homeschooled children. Moral teaching and more family life together came next, at 75 each.
 
-**2020.** Census Bureau staff asked households the same question twice in 2020, after the school buildings closed. Between April 23 and May 5, 5.4 percent of households with school-age children said they were homeschooling, and between September 30 and October 12, 11.1 percent did. Among Black households it went from 3.3 percent to 16.1 percent. The Census Bureau published those figures in March 2021. Its staff worded the question so that children taking public school lessons over a screen were not counted.
+**2020.** Census Bureau staff asked households the same question twice in 2020, after the school buildings closed. In late April and early May, 5.4 percent of households with school-age children said they were homeschooling, and by early October 11.1 percent did. Among Black households it went from 3.3 percent to 16.1 percent. The staff worded the question so that children taking public school lessons over a screen were not counted.
 
-Most of the rise stayed after the schools reopened. The researchers Genevieve Smith and Angela R. Watson studied the Census Bureau's surveys from September 2022 to August 2023. They found 5.82 percent of school-age children reported as homeschooled in the school year 2022 to 2023, 10.06 percent in private schools and 84.12 percent in public schools.
-
-They wrote that education experts had predicted the number would fall once schools reopened, and it did not. The figure was about twice what it had been before 2020. It was highest in Alaska, at 12.6 percent, and lowest in Rhode Island, at 2.9 percent.
+Most of the rise stayed after the schools reopened. The researchers Genevieve Smith and Angela R. Watson studied the Census Bureau's surveys from September 2022 to August 2023 and found 5.82 percent of school-age children homeschooled, about twice the share before 2020. They wrote that education experts had predicted the number would fall once schools reopened, and it did not. It was highest in Alaska, at 12.6 percent, and lowest in Rhode Island, at 2.9 percent.
 
 **The rules.** Lawmakers in each state make their own rules for homeschooling, and the rules range from almost none to many. The Coalition for Responsible Home Education, a group that argues for more checks on homeschooling, counted the rules in March 2026.
 
@@ -900,13 +888,11 @@ The largest group, 32 in every 100, had specific learning disabilities, such as 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How separate the schools are now" -->
-About 1 American student in 7 went to a school in the school year 2020 to 2021 where at least 90 of every 100 students were of one race or ethnic group. The Government Accountability Office, the office that checks federal programs for Congress, counted this in a report released in July 2022. More than a third of students, about 18.5 million, went to schools where at least 75 of every 100 students were of one race or ethnic group. That report covers only 2014 to 2021.
+The schools of the South did not stay as desegregated as they had become by the 1980s. Researchers at the Civil Rights Project at the University of California, Los Angeles, count the Black students in the South who go to schools where most of the students are white. That share was highest, about 43 of every 100, in the mid-1980s. By 2021 it was about 16 of every 100, by their report of April 2024.
 
-Researchers at the Civil Rights Project at the University of California, Los Angeles, measure a longer stretch. In a report of April 2024, they counted schools where 90 to 100 of every 100 students were not white. In 1988, 7.4 percent of American public schools were like that. In 2021, 19.8 percent were. In 2021, 78 of every 100 students in those schools were poor. Their series starts in 1988, so it cannot be compared with the years before.
+Across the whole country, more schools had almost no white students. The same researchers counted schools where 90 to 100 of every 100 students were not white. In 1988, 7.4 percent of American public schools were like that, and in 2021, 19.8 percent were. In 2021, 78 of every 100 students in those schools were poor.
 
-**The South.** The same researchers measured the South further back. In a 2017 report they counted Black students in the South who went to schools where 90 to 100 of every 100 students were not white. The share fell from nearly 80 percent to 23 percent during the years of desegregation, and it was back up to 35.8 percent in 2014. The share of Southern Black students in schools that were mostly white was highest, about 43 percent, in the mid-1980s. By 2021 it was about 16 percent.
-
-The students themselves had changed. In 1968, 80.7 of every 100 American public school students were white, 14.7 were Black and 4.7 were Latino. In 2021, 45.3 were white, 14.9 were Black and 28.2 were Latino.
+The students themselves had changed. In 1968, about 81 of every 100 American public school students were white. In 2021, about 45 were white, and about 28 were Latino.
 
 In New Orleans, the McDonogh No. 19 school building, where Leona Tate, Gail Etienne and Tessie Prevost walked in with federal marshals on November 14, 1960, reopened on May 4, 2022, as the Tate, Etienne and Prevost Center.
 <!-- /hb-zoom -->
@@ -927,8 +913,6 @@ In Missouri, by the count of Jon Turner of Missouri State University, 105 distri
 California's lawmakers wrote a start time into law, and the governor approved it on October 13, 2019. Under Senate Bill 328, middle schools may begin no earlier than 8:00 a.m. and high schools no earlier than 8:30 a.m. Schools had to change by July 1, 2022, or, where a teachers' contract in force on January 1, 2020, ended later, when that contract ended. The law does not apply to rural districts.
 
 Florida's lawmakers passed a similar law in 2023, to begin in 2026. District officials said they did not have enough buses or drivers to do it. On March 27, 2025, Florida senators voted for Senate Bill 296 with no votes against. Under the bill, the requirement ended, and any district that kept early start times had to file a report on what stood in the way. Governor Ron DeSantis signed it on May 21, 2025.
-
-Staff at nearly every public school gave a tablet or other device to any pupil who needed one by 2021. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In September 2021, 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The paddle and the suspension" -->
@@ -940,19 +924,19 @@ Federal officials count the children who are hit, in a survey that every public 
 
 Almost all the reported cases were in eight states, most of them in the South. Mississippi had the highest rate in the country and Arkansas the second highest. Officials posted the next survey, for 2023 to 2024, in September 2026, about eight months late. They posted it as raw data files with no national totals, so as of September 2026, 2021 to 2022 was the newest national count.
 
-The same survey shows which children were hit. White boys were 23 of every 100 public school students and 47 of every 100 children hit. Black boys were 8 of every 100 students and 20 of every 100 children hit. American Indian and Alaska Native boys were fewer than 1 of every 100 students and 2 of every 100 children hit. Girls of every group were hit less often than their share of students.
+The same survey records which children were hit: boys far out of proportion to their numbers, and girls of every group less often than their share of students. White boys were 23 of every 100 public school students and 47 of every 100 children hit. Black boys were 8 of every 100 students and 20 of every 100 children hit, and American Indian and Alaska Native boys, fewer than 1 of every 100 students, were 2 of every 100 children hit.
 
-**Suspensions.** School staff suspend children, keeping them out of class for a set number of days in a separate room at school or at home, far more often than they paddle them. In 2021 to 2022, about 2.3 million children, 5 percent of public school students, were suspended at least once inside school, and about 2.4 million at least once out of school.
+**Suspensions.** School staff suspend children, keeping them out of class for a set number of days in a separate room at school or at home, far more often than they paddle them. In 2021 to 2022, about 2.3 million children, 5 percent of public school students, were suspended at least once inside school, and about 2.4 million at least once out of school. Districts also reported about 220,000 children to the police. Even in public preschools, out of 1.4 million children, about 2,700 were suspended out of school and about 370 were expelled, which means put out of the school altogether.
 
-Black boys were 8 of every 100 students. They were 18 of every 100 children suspended in school, 22 of every 100 suspended out of school and 21 of every 100 expelled, which means put out of the school altogether. The federal report states that "Black boys were disciplined at higher rates, compared to boys of other races."
+School staff punished Black children and disabled children far out of proportion to their numbers. The federal report states that "Black boys were disciplined at higher rates, compared to boys of other races." The survey records each group's share of all students and its share of the children punished:
 
-Black girls were 7 of every 100 students and 13 of every 100 children suspended out of school. Children with disabilities were 17 of every 100 students and 29 of every 100 suspended out of school.
+- Black boys were 8 of every 100 students and 22 of every 100 children suspended out of school.
+- Children with disabilities were 17 of every 100 students and 29 of every 100 suspended out of school.
+- Black children were 15 of every 100 students and 33 of every 100 children arrested at school.
+- Black children were 18 of every 100 preschool children and 38 of every 100 preschool children suspended.
+- Preschool children with disabilities were 23 of every 100 preschool children and 74 of every 100 of those expelled.
 
-School officials also call the police. In 2021 to 2022 districts reported about 220,000 children to the police, and about 17 of every 100 of those reports ended in an arrest at school. Black children were 15 of every 100 students, 28 of every 100 children reported to the police and 33 of every 100 children arrested at school.
-
-School staff suspended and expelled even preschool children. In 2021 to 2022, out of 1.4 million children in public preschool, about 2,700 were suspended out of school and about 370 were expelled. Black children were 18 of every 100 preschool children and 38 of every 100 of those suspended. Preschool children with disabilities were 23 of every 100 preschool children and 74 of every 100 of those expelled.
-
-**By 2022:** About 1 student in 7 went to a school where at least 90 of every 100 students were of one race or ethnic group, and school staff still hit about 24,500 children a year as a punishment.
+**By 2024:** About 15 of every 100 public school students received special education. In the newest counts, from 2021 and 2022, about 16 of every 100 Black students in the South went to mostly white schools, and school staff hit about 24,500 children in a year as a punishment.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Shootings at school" -->
@@ -992,7 +976,7 @@ State and local officials closed nearly every school building in the country in 
 
 Reporters at Education Week tracked the closures from March 6 to May 15, 2020. By their count, at the peak at least 55.1 million students were shut out of 124,000 public and private school buildings. Nearly every state's officials ordered or advised that schools stay closed until the end of the school year.
 
-Teachers taught over the internet, and not every child had a computer at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer.
+Teachers taught over the internet, and not every child had a computer at home. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer. By September 2021, staff at 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="tabatha-rosproy-2020-teaching" name="Tabatha Rosproy" movie="" kind="ordinary" status="verified" -->
@@ -1055,13 +1039,11 @@ Federal officials investigated the government's own Indian boarding schools betw
 
 Her order asked for a report on the government's records of the schools, "with an emphasis on cemeteries or potential burial sites." Her department's announcement said the order followed news from Canada. There, leaders of the Tk'emlúps te Secwepemc First Nation had reported 215 unmarked graves at the former Kamloops Indian Residential School.
 
-**The reports.** Investigators published a first report in May 2022 and a final report in July 2024, under Bryan Newland, the Assistant Secretary for Indian Affairs. The final report counted 417 federal boarding schools between 1819 and 1969 and at least 973 children who died at them. It named 18,624 children who had attended, and investigators found burial sites at 65 of the schools.
-
-The first report lists the punishments staff used: locking children alone in a room and keeping food from them, flogging, whipping, slapping and cuffing them, and sometimes making older children punish younger ones.
+**The reports.** Investigators published a first report in May 2022 and a final report in July 2024, under Bryan Newland, the Assistant Secretary for Indian Affairs. The final report counted 417 federal Indian boarding schools between 1819 and 1969 and at least 973 children who died at them, and it states that the real number of deaths is higher. Investigators found 74 burial sites at 65 of the schools. They named 18,624 children who had attended, and the report states that this list is incomplete. The punishments listed in the first report, from solitary confinement to flogging, are set out under 1850 to 1900.
 
 **The apology.** Biden spoke at the Gila Crossing Community School in the Gila River Indian Community in Arizona on October 25, 2024, and Haaland introduced him. "I formally apologize today as President of the United States of America for what we did," he said. He also said, "After 150 years, the government eventually stopped the program but never formally apologized."
 
-By a proclamation of December 9, 2024, a formal written order from the president, he made about 24.5 acres of the old Carlisle Indian Industrial School grounds in Pennsylvania into a national monument. The proclamation states that "nearly 1,000 Native youths died in schools across the system, but the actual number of lives lost is likely much higher."
+By a proclamation of December 9, 2024, a formal written order from the president, he made about 24.5 acres of the old Carlisle Indian Industrial School grounds in Pennsylvania into a national monument, a place the federal government keeps for its history. The proclamation states that "nearly 1,000 Native youths died in schools across the system, but the actual number of lives lost is likely much higher."
 
 Members of Congress proposed a commission to study the boarding schools. Senator Lisa Murkowski introduced her bill on February 26, 2025, and Representative Tom Cole introduced his on February 3, 2026. By September 2026 neither the Senate nor the House had voted to pass either one.
 
@@ -1107,7 +1089,7 @@ In June 2026 officials announced that the office for special education would mov
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By today" -->
-**If you remember one thing:** Americans argued less after 2000 over whether children could go to school and more over which school, what it taught and how to measure what children learned.
+**If you remember one thing:** After 2000 more families left the local public school for charter schools, private schools and teaching at home, while the schools of the South grew more separate again.
 - 2002: President Bush signs the law under which every child in grades 3 to 8 is tested each year.
 - 2020: State and local officials close nearly every school building in the country.
 - 2024: Federal investigators count at least 973 children who died at the government's Indian boarding schools, and President Biden apologizes.
@@ -1116,8 +1098,8 @@ In June 2026 officials announced that the office for special education would mov
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- When did school become free, and required, for every child? Horace Mann argued for free schools paid for by taxes from 1837, Massachusetts lawmakers made school a legal duty in 1852, and every state had done the same by 1918. Disabled children won the right to a free public school only in 1975.
-- Which children were kept out of school, and how did they get in? Lawmakers barred enslaved people from learning to read, and officials turned away or separated Black, Chinese, Mexican American and disabled children. Their families got them in through the courts, from the Mendez case in 1946 and *Brown* in 1954 to the *Mills* case in 1972, and through the federal law of 1975.
+- When did school become free, and required, for every child? It came in steps, not on one date. Horace Mann argued for free schools paid for by taxes from 1837, and Massachusetts lawmakers made school a legal duty in 1852. Every state had done the same by 1918, and disabled children won the right to a free public school only in 1975.
+- Which children were kept out of school, and how did they get in? Lawmakers barred enslaved people from learning to read, and officials separated Black, Chinese and Mexican American children, turned disabled children away and took Native children far from home. Judges first backed keeping them out or apart, in Sarah Roberts's case in 1850, *Plessy* in 1896 and Martha Lum's case in 1927. Later judges let them in, from the Mendez case in 1946 and *Brown* in 1954 to the *Mills* case in 1972, and in 1975 members of Congress passed a law for disabled children and a law that let Native nations run their own schools.
 - Is it still lawful for a teacher to hit a child? Yes, in 15 states in 2026. The justices of the Supreme Court ruled in 1977 that the Constitution's ban on cruel and unusual punishment does not cover paddling at school, so state lawmakers have banned it one state at a time.
 
 **What changed:** Native children learned from their elders before 1500, Massachusetts children had to be taught to read the Bible from 1642, and by 1975 every child in the country, disabled children included, had a right to a free public school.
