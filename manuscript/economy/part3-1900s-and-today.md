@@ -82,7 +82,7 @@ When cash ran out, he wrote, people turned to barter, trading goods instead of p
 His son, Daniel B. Roth, and James Ledbetter edited the diary in 2009, and the publisher PublicAffairs printed it as a book, *The Great Depression: A Diary*.
 <!-- hb-story:end slug="benjamin-roth-economy" -->
 
-<!-- hb-zoom level="span" label="Last hired, first fired" -->
+<!-- hb-zoom level="span" label="Pushed out when jobs ran short" -->
 Black workers lost their jobs first and at higher rates than white workers. Employers hired Black workers last and fired them first, a pattern called "last hired, first fired." By 1932 nearly half of all Black Americans had no work, according to the National Museum of African American History and Culture.
 
 More than half of Black workers in Chicago and Pittsburgh had no job in 1932, History.com reports, drawing on the Library of Congress. About a quarter of white workers in Northern cities had none. In Atlanta in 1934, nearly 70 percent of Black workers had no job. These numbers are all later estimates, because nobody kept an official count by race.

@@ -102,10 +102,6 @@ Franklin Roosevelt became president in March 1933. On March 6, two days after he
 **The fireside chat.** On the night of Sunday, March 12, Roosevelt gave the first of his radio talks called fireside chats, and about 60 million people listened. He explained in simple terms how banks work, and he said money was safer in a reopened bank than under the mattress. Banks reopened from March 13 to 15, after federal officials reviewed them. When they opened, people put in more money than they took out.
 
 **Deposit insurance.** Members of Congress created the Federal Deposit Insurance Corporation in the Banking Act of June 16, 1933. Its insurance began on January 1, 1934, and covered each depositor up to $2,500. In July 1934 the limit rose to $5,000. If an insured bank failed, its depositors would be paid back from the insurance fund, up to the limit. With that promise, depositors no longer had a reason to rush to the bank to get their money out first.
-
-**The gold.** In the same months, Roosevelt and members of Congress took gold out of Americans' hands. Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
-
-Members of Congress moved all the gold the country used as money to the Treasury in the Gold Reserve Act of January 30, 1934. They set a new price of $35 an ounce. From then on, Americans could not trade their dollars for gold. Foreign governments still could.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="lydia-lobsiger" name="Lydia Lobsiger" movie="" kind="ordinary" status="verified" -->
@@ -122,6 +118,12 @@ Her bank was the Fond du Lac State Bank of East Peoria, Illinois, and it failed 
 
 When Lobsiger's bank failed, reporters at newspapers across the country wrote that a depositor with a small account had not lost her savings.
 <!-- hb-story:end slug="lydia-lobsiger" -->
+
+<!-- hb-zoom level="span" label="What happened to Americans' gold?" -->
+Roosevelt and members of Congress took gold out of Americans' hands in 1933 and 1934. Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
+
+Members of Congress moved all the gold the country used as money to the Treasury in the Gold Reserve Act of January 30, 1934. They set a new price of $35 an ounce. From then on, Americans could not trade their dollars for gold. Foreign governments still could.
+<!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="War bonds" -->
 About 85 million Americans, roughly half the country, lent money to the government during World War II by buying war bonds. Together they paid in about $185.7 billion.

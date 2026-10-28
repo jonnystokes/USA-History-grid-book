@@ -139,7 +139,7 @@ These bills were the first paper money printed by any government in Europe or th
 
 Lawmakers in colony after colony printed paper money in the early 1700s, until every colony had its own. The bills held their value only where the lawmakers printed limited amounts.
 
-Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take the land or the enslaved people who had been pledged.
+Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no private banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take the land or the enslaved people who had been pledged.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Paper that held its value and paper that lost it" -->
@@ -170,7 +170,7 @@ Scientists at the University of Notre Dame looked closely at 600 notes printed b
 Colonial bills carried the words "To Counterfeit is Death." Under colonial laws, judges could sentence a counterfeiter to death.
 <!-- hb-story:end slug="benjamin-franklin-money" -->
 
-<!-- hb-zoom level="span" label="Paper money lent against land and people" -->
+<!-- hb-zoom level="span" label="Loans against land and enslaved people" -->
 South Carolina's lawmakers lent some of the colony's paper money out on land. In 1712 they set up a public land bank, through which officials lent paper money to people who pledged their land as security, something a borrower promises to hand over if a loan is not paid back.
 
 People also borrowed from one another through private agreements. One kind was a bond, a written promise to pay back a loan. Another was a mortgage, a loan in which the borrower pledges property as security, so the lender can take that property if the borrower does not pay.
