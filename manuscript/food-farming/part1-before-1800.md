@@ -36,7 +36,7 @@ This chapter follows American food from those fields to the drive-in and the lab
 
 Native farmers turned a wild grass into corn, and by 1500 corn fed whole towns. Farming here was already thousands of years old. People in each region also ate what grew or lived best around them: bison on the Plains, salmon in the Northwest, wild rice around the Great Lakes.
 
-Europeans later carried corn, beans and squash from these fields across the ocean. Corn became an everyday food in Europe, Africa and Asia.
+Europeans later carried corn, beans and squash from these fields across the ocean.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How corn was made" -->
@@ -90,7 +90,7 @@ Europeans brought wheat, rice, sugarcane, citrus fruit (the family of fruit that
 
 The word exchange can sound like a friendly trade, but Europeans took American crops home from lands they were invading. Much of what arrived was grown to feed the colonists. Before long, planters were forcing enslaved people to grow sugarcane on plantations.
 
-Slave traders carried most of the Africans who came to the Americas across the ocean in chains. Those Africans brought their own crops and the skill to grow them, among them okra, watermelon, yams, sorghum, black-eyed peas and African rice.
+Enslaved Africans brought their own crops and the skill to grow them, among them okra, watermelon, yams, sorghum, black-eyed peas and African rice.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="De Soto's army and Apalachee corn" -->
@@ -195,9 +195,9 @@ Planters put out advertisements asking for captives from the part of West Africa
 
 **African methods.** Records from Carolina fields show African methods at work. Enslaved workers built earth banks around fields beside the tidal rivers so they could flood and drain them. They sowed seed by pressing it into the mud with the heel and toe. They separated the grain from its husks by tossing it in coiled baskets called fanner baskets.
 
-**The argument.** Scholars disagree about how much of Carolina's rice farming came from African knowledge. Most of them now hold a middle view: planters built the rice business with their money and by force, and they also depended on African skill. In her 2001 book *Black Rice*, the geographer Judith Carney, a scientist who studies the land and how people use it, argued that African knowledge was the base of the whole rice business.
+**What is certain, and what is argued.** It is certain that planters paid more for captives from the Rice Coast and that enslaved Africans used African methods in the Carolina fields. Scholars argue about how much the whole rice business owed to that African knowledge. In 2001 the scholar Judith Carney argued that African knowledge was its base, and in 2005 three historians answered that she had made the African share too large.
 
-The historians David Eltis, Philip Morgan and David Richardson argued in 2005 that she had made the African share too large. Records from the colony also show that in its early years, more captives came from Angola than from any other place, and Angola is not on the Rice Coast.
+Most scholars now hold a middle view: planters built the rice business with their money and by force, and they also depended on African skill. Records from the colony also show that in its early years, more captives came from Angola than from any other place, and Angola is not on the Rice Coast.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whose land the rice grew on" -->
@@ -269,17 +269,17 @@ Matthew Patten kept a diary that shows how one farm family in New Hampshire fed 
 
 Patten was a joiner, a carpenter who does the finer woodwork in a house. He also farmed, worked as a judge, and surveyed land, which means he measured it and marked its borders.
 
-**Winter.** A neighbor, James Gilmore, paid Patten three pecks of corn, about 24 quarts, for surveying his land on January 3, 1767. That same day Patten bought tea and 7 pounds of sugar, and he took corn and rye to a neighbor's mill to be ground into meal and flour.
+**What the family ate.** The Pattens grew corn, rye, wheat, peas, potatoes, barley and turnips. They butchered their own hogs, calves and sheep, and they caught shad and salmon in the Merrimack River. They bought tea, sugar, molasses and rum. The family paid and was paid in bushels of grain as often as in money.
 
-He butchered the family's hogs on January 30. In February and March, other neighbors paid him in bushels of corn for surveying and for writing deeds, the papers that prove who owns a piece of land.
+**Winter.** Neighbors paid Patten in corn for surveying their land and for writing deeds, the papers that prove who owns a piece of land. In January he took corn and rye to a neighbor's mill to be ground into meal and flour, and on January 30 he butchered the family's hogs.
 
-**Spring.** The family's potatoes had spent the winter buried in a pit. Patten opened it on March 4 and wrote that they were "sound and good." In April and May the family sowed peas, then planted potatoes, corn, barley, and hemp and flax, plants whose fibers are made into rope and cloth. He wrote that "the boys" planted the field behind the barn with corn and potatoes and spread manure from the barn on it.
+**Spring.** The family's potatoes had spent the winter buried in a pit. Patten opened it on March 4 and wrote that they were "sound and good." In April and May the family sowed peas and planted potatoes and corn, and "the boys" spread manure from the barn on the field behind it. They also sowed hemp and flax, plants whose fibers are made into rope and cloth.
 
-**Fishing.** Patten spent a May night helping haul a net in the Merrimack River, from dark to sunrise. His share was 60 shad, a fish the family took from the Merrimack each spring. From May 28 to June 6 he fished at Amoskeag Falls and sent 354 fish home.
+**Fishing.** In May Patten helped haul a net for shad, a fish the family took from the Merrimack each spring. From May 28 to June 6 he fished at Amoskeag Falls and sent 354 fish home.
 
 The name Amoskeag comes from a Pennacook word that means roughly "good fishing place." Long before Bedford was a town, Pennacook people strung large nets across the river at the falls and caught sturgeon, salmon and a fish called the alewife. Bedford lies in Pennacook country.
 
-**Summer.** Patten took salmon weighing from 6 to 19 pounds in June and July and split them with two neighbors. In August he reaped his rye and wrote, "I have 40 Stooks in all this year" (a stook is a bundle of cut grain stood up to dry). Later that month he mowed his meadow and counted 205 piles of hay.
+**Summer.** In June and July Patten caught salmon and split them with two neighbors. In August he reaped his rye, and later that month he mowed his meadow for hay.
 
 Patten died on August 27, 1795, in one of the town's fields. He had carried dinner out to the men who were mowing.
 <!-- hb-story:end slug="matthew-patten" -->
@@ -289,7 +289,7 @@ Thomas Jefferson believed that family farms made free citizens. He wrote about t
 
 People Jefferson enslaved did the farm work at Monticello, his plantation in Virginia. He enslaved more than 600 people during his adult life. In the years Jefferson had tobacco grown at Monticello, enslaved children picked worms off the tobacco plants.
 
-**The rations.** Each week, Jefferson gave each enslaved worker at Monticello a set amount of food, called a ration: a peck of cornmeal, half a pound of pork or pickled beef, and four salted fish. Nursing mothers received extra, and workers got whiskey at harvest. Researchers who studied the Monticello records found that these rations were not enough food for a person to live on. So in their little free time, enslaved people hunted, fished, trapped, kept gardens and raised animals.
+**The rations.** Each week, Jefferson gave each enslaved worker at Monticello a set amount of food, called a ration: a peck of cornmeal (about 8 quarts), half a pound of pork or pickled beef, and four salted fish. Nursing mothers received extra, and workers got whiskey at harvest. Researchers who studied the Monticello records found that these rations were not enough food for a person to live on. So in their little free time, enslaved people hunted, fished, trapped, kept gardens and raised animals.
 
 Enslaved families also sold chickens and vegetables from their own gardens and flocks to the Jefferson family. Jefferson's granddaughter Anne Cary Randolph wrote down these purchases in the household accounts. Most of the sellers she recorded were enslaved people who worked in the house, many of them members of the Hemings family.
 <!-- /hb-zoom -->

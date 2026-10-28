@@ -30,7 +30,6 @@
 - Rice Coast: the part of West Africa that included Senegambia and Sierra Leone (1700 to 1750)
 - Senegambia: the land along the Senegal and Gambia rivers (1700 to 1750)
 - fanner baskets: coiled baskets in which enslaved workers tossed rice to separate the grain from its husks (1700 to 1750)
-- geographer: a scientist who studies the land and how people use it (1700 to 1750)
 - task: the set amount of work a planter gave each enslaved rice worker every day, usually a quarter of an acre (1700 to 1750)
 - indigo: a plant that colors cloth blue, a farm crop but not a food (1700 to 1750)
 - lieutenant governor: the official just below the governor (1700 to 1750)
@@ -39,10 +38,9 @@
 - census: a count of the people (1750 to 1800)
 - joiner: a carpenter who does the finer woodwork in a house (1750 to 1800)
 - survey (land): to measure land and mark its borders (1750 to 1800)
-- peck: a measure. Three pecks of corn are about 24 quarts (1750 to 1800)
+- peck: a measure of about 8 quarts, as in the weekly peck of cornmeal Jefferson gave each enslaved worker at Monticello (1750 to 1800)
 - deeds: the papers that prove who owns a piece of land (1750 to 1800)
 - hemp and flax: plants whose fibers are made into rope and cloth (1750 to 1800)
-- stook: a bundle of cut grain stood up to dry (1750 to 1800)
 - ration: a set amount of food given out, as Jefferson's weekly food for each enslaved worker at Monticello (1750 to 1800)
 - backcountry: the land far from the coast, beyond the older farms and towns (1750 to 1800)
 - pearlash: a salt made from wood ashes, used to make dough rise before baking powder existed (1750 to 1800)
@@ -95,6 +93,7 @@
 - scrip: a kind of paper money that could be spent only at the company's own store (1900 to 1950)
 - dementia: confusion and loss of memory (1900 to 1950)
 - pardon: being let out of prison (1900 to 1950)
+- contract workers (Hawaii): workers the sugar planters brought in from overseas, bound to work for a set number of years (1900 to 1950)
 - annex: to take a place over and make it part of the country (1900 to 1950)
 - cultivate (row crops): to work the soil between rows of growing plants (1900 to 1950)
 - hybrid seed: seed that comes from crossing two different parent plants (1900 to 1950)
@@ -116,7 +115,7 @@
 - mirliton: a pale green squash (1900 to 1950)
 - executive order: an order from the president that has the force of law (1900 to 1950)
 - braceros: Mexican workers brought into the country for farm and railroad work under the bracero program, 1942 to 1964 (1900 to 1950)
-- settlement: an agreement that ends a lawsuit (1900 to 1950)
+- settlement: an agreement that ends a lawsuit (1950 to 2000)
 - malnutrition: not having had enough of the right food (1900 to 1950)
 - draft: the system that called men into the military (1900 to 1950)
 - Census of Agriculture: the federal government's count of the country's farms (1950 to 2000)
@@ -151,12 +150,9 @@
 - vertical farms: farms where workers grow vegetables indoors on shelves stacked high (2000 to Today)
 - bankruptcy: a court process for a business that cannot pay its debts (2000 to Today)
 - H-2A visa: a paper that lets a farmworker from another country come for one season of farm work (2000 to Today)
-- heat stroke: what happens when the body cannot cool itself (2000 to Today)
-- minimum wage: the lowest pay the law allows (2000 to Today)
-- premium: an extra amount of money (2000 to Today)
-- code of conduct: a written set of rules (2000 to Today)
 - sexual assault: any sexual touching or attack against a person's will, including rape (2000 to Today)
-- auditors: checkers who make sure growers follow the Fair Food code (2000 to Today)
+- amaranth: a plant whose tiny seeds are eaten like grain (2000 to Today)
+- parch (corn): to swirl corn kernels in a hot pan until they toast (2000 to Today)
 - discrimination: being treated worse because of who you are, such as your race (2000 to Today)
 - food sovereignty: Native nations' work to control their own food (2000 to Today)
 
@@ -176,7 +172,7 @@
 - Norman Borlaug: plant scientist whose wheat helped poor countries grow far more grain, in the Green Revolution (1950 to 2000)
 - Alice Waters: cook who built her restaurant around food from nearby farms and started a school garden (1950 to 2000)
 - Russel and Mary Jane Jordan: Iowa farm couple who sold their machinery, livestock and household goods at auction to pay their bank (1950 to 2000)
-- Lucas Benitez: tomato picker who helped start the Coalition of Immokalee Workers and its Fair Food Program (2000 to Today)
+- Lucas Benitez: tomato picker who helped start the Coalition of Immokalee Workers and its Fair Food Program, and who investigated slavery in the orange groves around Lake Placid, Florida (2000 to Today)
 - Nephi Craig: White Mountain Apache and Diné (Navajo) chef who opened a café built around Apache foods (2000 to Today)
 
 ## Dates
@@ -207,7 +203,7 @@
 - Monticello, Virginia: Jefferson's plantation, where enslaved people did the farm work
 - Amoskeag Falls, on the Merrimack River, New Hampshire: Pennacook fishing place where Matthew Patten fished in 1767
 - Walden Pond, New England: one of the ponds where workers cut ice in winter
-- Tule Lake, California: the camp where US officials sent about 15,000 Japanese Americans
+- Tule Lake, California: the prison camp where Japanese Americans held there harvested almost 30 crops, most of the field workers for $12 a month
 - Chez Panisse, Berkeley, California: Alice Waters's restaurant, opened in 1971
 - The Edible Schoolyard, Martin Luther King Jr. Middle School, Berkeley, California: a school garden where students grow food, cook it and eat it
 - Café Gozhóó, Whiteriver, Arizona, on the White Mountain Apache Reservation: Nephi Craig's café built around Apache foods, opened in 2021
@@ -224,5 +220,5 @@
 
 ## Questions
 - Q: How did Native farmers turn a wild grass into corn? A: For thousands of years, starting in southern Mexico about 9,000 years ago, they saved seed only from the teosinte plants they chose, until the grass became corn.
-- Q: Who did the hardest farm work, and what did they get for it? A: Enslaved people worked the rice and cotton fields for no pay, and sharecroppers got half the crop's value or less and stayed in debt. From 1992 to 2006, crop workers died of heat at about 20 times the rate of all American workers.
+- Q: Who did the hardest farm work, and what did they get for it? A: Enslaved people worked the rice and cotton fields for no pay, and sharecroppers got half the crop's value or less and stayed in debt. From 1992 to 2006, crop workers died of heat at nearly 20 times the rate of all American workers.
 - Q: How did Americans come to eat food grown far away by people they never met? A: With canning, pond ice and railroad cars cooled with ice, food could be sold far from the farm, and the farms grew fewer, down to 1.9 million in 2022.

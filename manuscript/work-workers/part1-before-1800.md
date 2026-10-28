@@ -66,7 +66,7 @@ Juan de Oñate, the leader of the Spanish colony in New Mexico, sentenced the su
 
 **The attack.** Oñate sent about seventy soldiers back to Acoma in January 1599, led by Vicente de Zaldívar. Over two or three days they killed Acoma men, women and children and burned much of the town. Nobody counted the dead, and estimates run from about 300 to about 1,500.
 
-**The sentences.** Oñate sentenced the men over 25 to have one foot cut off and to twenty years of forced labor in Spanish households, with no right to leave. Boys and men from 12 to 25, and girls and women over 12, got the same twenty years of forced labor.
+**The sentences.** Oñate gave the men over 25 two punishments: one foot cut off, and twenty years of forced labor in Spanish households, with no right to leave. Boys and men from 12 to 25 got the twenty years of forced labor only. So did girls and women over 12.
 
 **The feet.** The sentences are in the written record, but whether anyone carried out the cutting of feet is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. Two historians who studied the Spanish records for years, Marc Simmons and John Kessell, came to doubt it, and Kessell points out that no record describes an Acoma man with one foot.
 <!-- /hb-zoom -->
@@ -98,9 +98,11 @@ Masters also took children and teenagers as apprentices, who worked for them to 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Martin's Hundred, on the land of Tsenacomoco" -->
+**Why this place.** Richard Frethorne, an indentured servant whose letters home survive, worked at Martin's Hundred. He arrived in December 1622, nine months after a Powhatan attack there.
+
 Martin's Hundred was an English plantation on the James River in Virginia, and its main settlement was Wolstenholme Towne. The plantation stood inside Tsenacomoco, the land of the Powhatan chiefdom, a union of many Native nations under one high chief.
 
-Tsenacomoco ran north from the James River to the Potomac River, and from Chesapeake Bay west to the places where the rivers drop in falls from higher ground. About 15,000 people lived there, and estimates run from 13,000 to just over 22,000.
+Tsenacomoco ran north from the James River to the Potomac River, and from Chesapeake Bay west to the places where the rivers drop in falls from higher ground. About 15,000 people lived there.
 
 **The attack of 1622.** The Powhatan leader Opechancanough led an attack on most of the English settlements on March 22, 1622. Colony officials recorded 347 colonists killed. They got no report from some settlements, so the real number was probably higher. The Powhatan fighters killed at least 58 colonists at Martin's Hundred. Its main settlement, Wolstenholme Towne, lost more people than any other settlement.
 <!-- /hb-zoom -->
@@ -143,7 +145,7 @@ The court records name the letter R and the cheek, but they do not describe the 
 
 A boy who learned a trade between 1700 and 1750 climbed three ranks: apprentice, journeyman and master. A journeyman, the middle rank, was a skilled worker paid wages by the day. Sailors and dock workers were the other large group who worked for wages, and officers of the British navy could seize them and force them to serve at sea.
 
-Around Chesapeake Bay and in the Lowcountry along the southern coast, colonists held more and more people in slavery. Slave traders brought about 8,600 enslaved Africans to Virginia between 1701 and 1710, about 6,200 between 1711 and 1720, and about 13,000 between 1721 and 1730.
+Around Chesapeake Bay and in the Lowcountry along the southern coast, colonists held more and more people in slavery. Slave traders brought about 8,600 enslaved Africans to Virginia between 1701 and 1710, about 6,200 between 1711 and 1720, and about 13,000 between 1721 and 1730. Chapter 24, Slavery and Freedom, tells the work and the lives of enslaved people in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The ladder of a trade" -->

@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
 
 Members of Congress passed the first federal laws for a lowest wage, a shorter work week and the right to form a union in the 1930s, after three decades of child labor and deaths on the job. Under the Wagner Act of 1935, forming a union became a legal right. A law of 1938 set a minimum wage of 25 cents an hour and a work week of 44 hours, falling to 40 by 1940, and it banned most work by children under 16.
 
@@ -33,15 +33,15 @@ In Pennsylvania, 147,000 hard-coal miners and breaker boys, the boys who picked 
 ### Mother Jones
 
 > **Who:** Mary Harris Jones, a union organizer for coal miners whom a prosecutor called "the most dangerous woman in America."
-> **When and where:** Baptized in Cork, Ireland. She said she was born in 1830, but her baptism record gives August 1, 1837. Organizing from the 1870s, and for the United Mine Workers from the 1890s. Died 1930.
+> **When and where:** Baptized in Cork, Ireland. Organizing from the 1870s, and for the United Mine Workers from the 1890s. Died 1930.
 
-**She said she turned 100 in 1930. Her baptism record says 92.**
+**She led striking mill children on a march toward the president's home.**
 
-Mary Harris Jones, known as Mother Jones, had worked as a dressmaker. Her husband and all four of her children died of the disease yellow fever in Memphis, Tennessee, in 1867, and she lost her home and her shop in the great fire in Chicago in 1871. After that she became a full-time organizer, and from the 1890s she worked above all for the United Mine Workers. In 1902 a prosecutor in West Virginia called her "the most dangerous woman in America."
+**The children's march.** Children who worked in textile mills in Philadelphia were on strike in July 1903. Mary Harris Jones, known as Mother Jones, led them on the March of the Mill Children, from Philadelphia toward the home of President Theodore Roosevelt at Oyster Bay, New York. She wanted people across the country to look at child labor.
 
-**The children's march.** Children who worked in textile mills in Philadelphia were on strike in July 1903. Mother Jones led them on the March of the Mill Children, from Philadelphia toward the home of President Theodore Roosevelt at Oyster Bay, New York, because she wanted people across the country to look at child labor.
+**How she became an organizer.** She had worked as a dressmaker. Her husband and all four of her children died of the disease yellow fever in Memphis, Tennessee, in 1867, and she lost her home and her shop in the great fire in Chicago in 1871. After that she became a full-time organizer, and from the 1890s she worked above all for the United Mine Workers. In 1902 a prosecutor in West Virginia called her "the most dangerous woman in America."
 
-**Her age.** She said she was born in 1830, and on May 1, 1930, she celebrated her "100th" birthday. The record of her baptism in Cork gives August 1, 1837, which would have made her 92. She died later that year.
+**Her age.** She celebrated her "100th" birthday on May 1, 1930, and died later that year. The record of her baptism in Cork gives August 1, 1837, which would have made her 92.
 <!-- hb-story:end slug="mother-jones" -->
 
 <!-- hb-zoom level="span" label="How many miners died?" -->
@@ -109,7 +109,7 @@ She was having tea near Washington Square on March 25, 1911, when the fire broke
 <!-- hb-zoom level="span" label="Lawrence, 1912" -->
 Massachusetts lawmakers cut the legal work week from 56 hours to 54 in 1912, and mill owners in Lawrence, Massachusetts, then cut their workers' pay. The workers struck on January 12, 1912. Most of them worked for the American Woolen Company. More than half of the mill workers were women and children, and they spoke more than a dozen languages. Leaders of a union called the Industrial Workers of the World sent organizers, who ran committees that gave out food and help.
 
-**The children.** The strikers began sending their children to live with families in other cities in February. On February 24, police at the Lawrence railroad station clubbed women and children who were trying to send children away, and they jailed 30 women. The owners agreed on March 12 to a 15 percent raise, double pay for overtime (extra hours of work) and no punishment for the strikers.
+**The children.** The strikers began sending their children to other cities in February, to live with relatives or with strangers who could feed them and keep them safe during the strike. On February 24, police at the Lawrence railroad station clubbed women and children who were trying to send children away, and they jailed 30 women. The owners agreed on March 12 to a 15 percent raise, double pay for overtime (extra hours of work) and no punishment for the strikers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The assembly line" -->
@@ -135,9 +135,9 @@ Miners then attacked mines across the region and killed supervisors and guards, 
 <!-- hb-zoom level="span" label="The first child-labor law, and the justices who threw it out" -->
 Members of Congress passed the Keating-Owen Act in 1916, the first federal law against child labor. Under it, a company could not ship goods to another state if it had used child workers to make them. It covered children under 14 in mills, food-canning plants and factories, and children under 16 in mines. Children aged 14 to 16 could not work more than 8 hours a day or 6 days a week, or at night.
 
-**Hammer v. Dagenhart.** Roland Dagenhart's sons worked in a cotton mill in North Carolina, and he sued to stop the law. The justices of the Supreme Court ruled 5 votes to 4 on June 3, 1918, in the case Hammer v. Dagenhart, that the law broke the Constitution and could not be used.
+**Hammer v. Dagenhart.** Roland Dagenhart and his sons Reuben, 14, and John, 12, worked in a cotton mill in Charlotte, North Carolina. Under the new law John would have to stop working, and Reuben would lose hours from his 60-hour week. A committee of Southern cotton mill owners recruited Dagenhart to sue and paid his legal costs. He argued that the law took away the money his sons earned.
 
-The majority ruled that Congress's power over trade between the states did not cover how goods were made, and Justice Oliver Wendell Holmes disagreed. Members of Congress passed a second child-labor law in 1919, and the justices threw that one out too.
+The justices of the Supreme Court ruled 5 votes to 4 on June 3, 1918, in the case Hammer v. Dagenhart, that the law broke the Constitution and could not be used. The five justices in the majority said that Congress's power over trade between the states did not cover how goods were made, and Justice Oliver Wendell Holmes disagreed. Members of Congress passed a second child-labor law in 1919, and the justices threw that one out too.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="grace-fryer-work-workers" name="Grace Fryer" movie="Radium Girls (2018)" kind="ordinary" status="verified" -->
@@ -191,13 +191,11 @@ Up to 3,400 workers a day built the Empire State Building in New York, and by th
 
 Eleven men died building the bridge. Ten of them died on February 17, 1937, when a falling platform tore through the net.
 
-**Hoover Dam.** The federal Bureau of Reclamation's official count is 96 deaths on the job. It leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs.
+**Hoover Dam.** The federal Bureau of Reclamation's official count is 96 deaths on the job. It leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs. The true number of deaths at the dam is not known.
 
-Six Companies, the company that hired the dam workers, had its crews drive gasoline trucks inside the tunnels the men dug at the dam site. The trucks' exhaust filled the tunnels with carbon monoxide, a poison gas from engines. When tunnel workers fell very ill or died, company doctors said they had a form of pneumonia, according to a history of the dam kept by the University of Nevada, Las Vegas library.
+Managers at Six Companies, the company that hired the dam workers, had crews drive gasoline trucks inside the tunnels the men dug at the dam site. The trucks' exhaust filled the tunnels with carbon monoxide, a poison gas from engines. When tunnel workers fell very ill or died, company doctors said they had a form of pneumonia. A history of the dam kept by the University of Nevada, Las Vegas library describes this, and so does a book of dam workers' memories by the historians Andrew Dunar and Dennis McBride.
 
-**The lawsuit.** Six workers sued Six Companies in 1933. They said the gas had poisoned them and left them with lasting illness, and each asked for $75,000 plus lost pay. Company officials hired a private detective to look into the men's pasts, and in the end they settled with 50 workers and paid them an amount they kept secret.
-
-Historians Andrew Dunar and Dennis McBride, who recorded dam workers' memories in a book, describe carbon monoxide deaths among tunnel workers, deaths that company doctors called pneumonia. The true number of deaths at the dam is not known.
+**The lawsuit.** Six workers sued Six Companies in 1933. They said the gas had poisoned them and left them with lasting illness, and each asked for $75,000 plus lost pay. Company officials hired a private detective to look into the men's pasts. More workers came forward and joined the case, and in the end the officials settled with 50 workers and paid them an amount they kept secret.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The right to organize and the sit-down strikes" -->
@@ -207,7 +205,7 @@ Many businesses closed and millions of people lost their jobs during the Great D
 
 **Flint.** Autoworkers in Flint, Michigan, sat down inside General Motors' Fisher Body plants on December 30, 1936. In a sit-down strike, workers stop working but stay inside the plant, so the company cannot bring in other workers. They stayed for 44 days, until February 11, 1937.
 
-The Women's Emergency Brigade, led by 23-year-old Genora Johnson, guarded the plants, and when police fired gas at the men inside, the women broke windows. General Motors' managers agreed to recognize the United Auto Workers.
+The Women's Emergency Brigade, led by 23-year-old Genora Johnson, guarded the plants. When police fired tear gas at the men inside one of General Motors' plants, the women broke its windows. "We used our clubs to smash the windows out so the men inside could get some air," Johnson remembered. General Motors' managers agreed to recognize the United Auto Workers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Memorial Day Massacre, 1937" -->
@@ -227,9 +225,11 @@ The police threw tear gas, fired their guns and beat the marchers with clubs. Th
 > **When and where:** Founded the Brotherhood of Sleeping Car Porters in August 1925. Contract signed August 25, 1937. Washington, 1941.
 > **Movie:** *10,000 Black Men Named George* (2002), a television drama with Andre Braugher as Randolph. Also *A. Philip Randolph: For Jobs and Freedom* (1996), a documentary shown on PBS.
 
-**Passengers called every Pullman porter "George."**
+**Passengers called the porters "George," whatever their real names were.**
 
 A. Philip Randolph founded the Brotherhood of Sleeping Car Porters in August 1925. Porters worked on the Pullman Company's sleeping cars on trains, and all of them were Black men. Pullman's managers required them to serve passengers with a smile.
+
+**The name.** After the Civil War, George Pullman, whose company ran the sleeping cars, set out to hire men who had once been enslaved to work as his porters. Passengers called the porters "George," after him. The Chicago History Museum says this carried on a practice from slavery, when an enslaved person was called by the owner's name.
 
 **The contract.** The Pullman Company's officials signed a contract with the union on August 25, 1937, twelve years after it began. It was the first contract between a major American company and a union led by Black workers. The porters' working month had run to about 400 hours, and under the contract it fell sharply. The porters also got $1.25 million in raises.
 
@@ -245,26 +245,24 @@ The justices of the Supreme Court ruled the other way on child labor in 1941. Th
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="War work and the braceros" -->
-Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
+US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
 
-**The braceros.** US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
+**The missing pay.** American employers held back 10 percent of every bracero's pay from 1942 to 1946, and many braceros said the holdbacks went on after that. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
 
-American employers held back 10 percent of every bracero's pay from 1942 to 1946. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
+**Women in the war plants.** Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="naomi-parker-fraley" name="Naomi Parker Fraley" movie="" kind="ordinary" status="verified" -->
 ### Naomi Parker Fraley
 
-> **Who:** A war worker at the Navy yard in Alameda, California, whom a scholar found to be the woman in a 1942 photograph linked to the "We Can Do It!" poster.
+> **Who:** A war worker in the machine shop of the Naval Air Station at Alameda, California, and the woman in a 1942 photograph linked to the "We Can Do It!" poster.
 > **When and where:** Alameda, California, 1942. Died January 20, 2018, at 96.
 
-**For decades, people said the woman in her photograph was someone else.**
+**She drilled, patched airplane wings and riveted in a Navy machine shop.**
 
-Naomi Parker was a war worker at the Navy yard in Alameda, California, and a photographer took her picture at work in 1942.
+Naomi Parker went to work at the Naval Air Station in Alameda, California, during World War II. She was assigned to its machine shop, where her jobs included drilling, patching airplane wings and riveting. In March 1942 a photographer took her picture at work on a turret lathe, a metal-cutting machine for making many copies of the same part.
 
-**The poster.** People linked the photograph to a poster of a woman worker with the words "We Can Do It!" J. Howard Miller made the poster for the Westinghouse company, and it went on display in 1943. Few people knew the poster during the war, and it became famous in the 1980s.
-
-**The caption.** From 1984, the woman in the 1942 photograph was said to be Geraldine Hoff Doyle. Then a scholar named James J. Kimble found the original print of the photograph, and its caption named Naomi Parker. Nobody has proved that Miller used this photograph to make the poster.
+**The photograph and the poster.** People later linked her photograph to a poster of a woman worker with the words "We Can Do It!", which became famous in the 1980s. For decades the woman in the photograph was said to be someone else. Then a scholar named James J. Kimble found the original print, and its caption named Naomi Parker. Nobody has proved that the poster's artist used this photograph.
 <!-- hb-story:end slug="naomi-parker-fraley" -->
 
 <!-- hb-zoom level="span" label="The strike wave of 1945 and 1946" -->
@@ -371,7 +369,7 @@ Black lung is a disease caused by breathing coal dust, which scars the lungs. In
 <!-- hb-zoom level="span" label="Office workers organize" -->
 Two office workers in Boston, Karen Nussbaum and Ellen Cassedy, founded 9to5 in 1973. Its members were women who did clerical work, such as typing, filing and answering phones. They organized over pay, promotion and harassment on the job, treatment meant to upset, shame or frighten a worker. In an early lawsuit, they won $1.5 million in back pay, the pay the women were owed, from publishing companies in Boston.
 
-The checkout job changed too. Cashier Sharon Buchanan at a Marsh supermarket in Troy, Ohio, scanned a ten-pack of Juicy Fruit gum at 8:01 in the morning on June 26, 1974. It was the first sale rung up by scanning a barcode, and cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules.
+**At the checkout.** With barcode scanners, cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules. The first sale rung up by scanning a barcode came at a Marsh supermarket in Troy, Ohio, at 8:01 in the morning on June 26, 1974, when the cashier Sharon Buchanan scanned a ten-pack of Juicy Fruit gum.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The mills close" -->
@@ -394,9 +392,11 @@ Frank Lumpkin spent 17 years fighting to win back the pay and pensions, money pa
 
 He moved north to Buffalo, New York, in 1940, worked in construction, in an aircraft factory and at Bethlehem Steel, and served in the Merchant Marine, the crews of American cargo ships. In the 1950s he went to work at Wisconsin Steel in the South Deering neighborhood of Chicago, and he stayed about 30 years.
 
-**How the mill closed.** International Harvester had owned the mill since 1902. Its managers sold the mill in 1977 to Envirodyne, a company with no experience in steel, and lent Envirodyne the money to buy it. When Harvester's own workers went on strike in late 1979, Harvester's managers bought none of the mill's steel while the strike lasted, and that steel had been about 40 percent of what the mill made.
+**How the mill closed.** Wisconsin Steel ran out of money in 1980. Its main buyer, International Harvester, had stopped buying its steel, and Harvester's managers then demanded the money they were owed.
 
-Harvester's managers moved in March 1980 to collect the money Envirodyne still owed for the mill. They also told Chase Manhattan Bank, which had lent Envirodyne money, that they would no longer back the bank's emergency loans to the mill. The *International Directory of Company Histories*, a reference book about companies, describes these steps.
+Harvester had owned the mill from 1902 until 1977. That year its managers sold the mill to Envirodyne, a company with no experience in steel, and lent Envirodyne the money to buy it. When Harvester's own workers went on strike in late 1979, Harvester's managers bought none of the mill's steel while the strike lasted. That steel had been about 40 percent of what the mill made.
+
+In March 1980 Harvester's managers moved to collect the money Envirodyne still owed for the mill. They also told Chase Manhattan Bank, which had lent Envirodyne money, that they would no longer back the bank's emergency loans to the mill. The *International Directory of Company Histories*, a reference book about companies, describes these steps.
 
 The mill closed without warning in late March 1980, while Envirodyne owned it, and the accounts do not name the person who gave the order. The workers lost their jobs, their health benefits, their back pay and their pensions. In April, officers of Chase Manhattan Bank told them that their final paychecks were worthless.
 
@@ -446,9 +446,9 @@ The federal minimum wage has been $7.25 an hour since July 24, 2009, and as of S
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Working through an app" -->
-Some independent contractors find work through apps that send them rides to drive or food to deliver. The Bureau of Labor Statistics counted 11.9 million independent contractors in July 2023, 7.4 percent of all workers, and the laws on the minimum wage and overtime pay do not cover them.
+Some independent contractors find work through apps that send them rides to drive or food to deliver, and the laws on the minimum wage and overtime pay do not cover them. Counting only people for whom it was their main job, independent contractors were 7.4 percent of all workers in 2023.
 
-**Gig work.** Researchers at the Pew Research Center, a research group, found in a survey taken in August 2021 that 16 percent of American adults had earned money through an online gig platform, an app or website that hands out short jobs one at a time. Nine percent had done so in the past year.
+**Gig work.** Researchers at the Pew Research Center, a research group, counted more widely: anyone who had ever earned money through an online gig platform, an app or website that hands out short jobs one at a time. In their survey of August 2021, 16 percent of American adults had done so at least once, and 9 percent had done so in the past year.
 
 **Proposition 22.** The managers of the app companies treat their drivers as independent contractors. California voters approved Proposition 22, a question put on the ballot, on November 3, 2020, with 58.63 percent of the vote. Under it, the app companies could keep treating drivers as independent contractors, but they had to pay drivers at least 120 percent of the minimum wage for the time they spent on a ride or a delivery, plus pay for each mile.
 <!-- /hb-zoom -->
@@ -463,7 +463,7 @@ Some independent contractors find work through apps that send them rides to driv
 
 Raef Lawson was an actor, writer and director in Los Angeles who was trying to make a career. He signed up in August 2015 to deliver food for Grubhub, a company whose app takes food orders from restaurants.
 
-He picked blocks of two to five hours around mealtimes, week by week. From October 2015 to February 2016 he signed up for blocks on 69 days and made deliveries on 59 of them. Grubhub paid him for 35 hours in November, 105 in December and 60 in January, and nothing toward his gas or his phone. Its managers classed all of its 4,000 California delivery drivers in 2016 as independent contractors.
+He picked blocks of two to five hours around mealtimes, week by week, and Grubhub paid him for the blocks he worked, 105 hours in his busiest month. It paid nothing toward his gas or his phone, so those costs came out of his own pocket. In 2016 Grubhub's managers classed all 4,000 of its California delivery drivers as independent contractors.
 
 **Let go.** Grubhub's managers ended the company's agreement with him on February 15, 2016, saying he had not worked many of the blocks he signed up for. The judge at his trial also found that he sometimes "gamed" the app, which means he tricked it: he logged on late, and he switched his phone to airplane mode so no new orders came.
 
@@ -505,9 +505,9 @@ Members of the National Labor Relations Board ordered Amazon on April 2, 2026, t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Injuries in the warehouses" -->
-Staff members working for Senator Bernie Sanders, who led a US Senate committee on labor, published a report on Amazon warehouses in December 2024. They were the staff of his party, which held most of the committee's seats, not of the whole committee, and they interviewed 135 workers.
+Staff members working for Senator Bernie Sanders, who led a US Senate committee on labor, published a report on Amazon warehouses in December 2024. It was a report by his own staff, not by the whole committee, and they interviewed 135 workers for it.
 
-**What they found.** Amazon's warehouse records showed more than 30 percent more injuries than the average for warehouses in 2023, the staff found, and Amazon workers had been nearly twice as likely to be injured as other warehouse workers in each of the past seven years.
+**What they found.** In each of the past seven years, the staff found, Amazon workers had been nearly twice as likely to be injured as other warehouse workers.
 
 In 10- to 12-hour shifts, workers repeat the same movements "hundreds and thousands of times," the report states. A computer tracks how fast each worker goes, and workers who fall behind get penalties from the computer system automatically, which can end in firing.
 <!-- /hb-zoom -->
@@ -519,7 +519,7 @@ They cleaned back saws, brisket saws and head splitters, machines that cut up an
 
 **The fine.** Packers Sanitation Services paid $1.5 million, the most the law allowed. Jessica Looman of the Labor Department's Wage and Hour Division called the violations "systemic," which means built into the way the company worked, and "a corporate-wide failure."
 
-On farms, federal law still allows children to work at younger ages than in other jobs. A child under 12 may work on a farm owned by a parent. Children of 12 and 13 may work on a farm with a parent's consent, and children of 14 and up may do farm work outside school hours.
+On farms, federal law still allows children to work at younger ages than in other jobs. Outside school hours, a child under 12 may work on a farm owned or run by a parent, or, with a parent's permission, on a small farm that does not have to pay the minimum wage. Children of 12 and 13 may work with a parent's permission or on a farm where a parent works, and any child 14 or older may do farm jobs outside school hours.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Heat, floods and mines" -->
@@ -529,7 +529,9 @@ Across all jobs, 345 workers died of heat from 2011 to 2019, 43 of them in 2019,
 
 **Erwin, Tennessee.** Floods from Hurricane Helene reached the Impact Plastics plant in Erwin, Tennessee, on September 27, 2024, and five employees and a contractor who cleaned the offices drowned. One worker who survived and the families of some who died said no one told the workers they could leave until the flood had covered the road and the plant had lost power.
 
-Inspectors from Tennessee's job-safety agency found that the company had "exercised reasonable diligence," which means it had taken reasonable care. They gave the company no citations, the official notices for breaking safety rules. The local chief prosecutor, District Attorney General Steven Finney, closed the case with no charges in July 2025. He found "no evidence" that workers were told they could not leave or would be fired if they did. The family of Johnny Peterson, one of the men who died, filed a lawsuit.
+Inspectors from Tennessee's job-safety agency found that the company had "exercised reasonable diligence," which means it had taken reasonable care. They gave the company no citations, the official notices for breaking safety rules.
+
+The local chief prosecutor, District Attorney General Steven Finney, looked into whether the workers had been told they could not leave, or that they would be fired if they left. He found "no evidence" of either and closed the case with no charges in July 2025. The family of Johnny Peterson, one of the men who died, filed a lawsuit.
 
 **Upper Big Branch.** An explosion of gas and coal dust killed 29 miners at the Upper Big Branch mine in West Virginia on April 5, 2010. The mine belonged to Massey Energy. Its chief executive, Don Blankenship, was found guilty in December 2015 of conspiring, plotting with others, to break federal mine safety laws. Judge Irene Berger gave him the longest sentence the law allowed on April 6, 2016, one year in prison and a fine of $250,000. He was not convicted of causing the deaths.
 
@@ -541,7 +543,7 @@ Some employers do not pay workers all the money the law says they have earned, a
 
 **The Fair Food Program.** Tomato pickers in Immokalee, Florida, formed the Coalition of Immokalee Workers in 1993, and the coalition's Fair Food Program has run since 2011. Big buyers such as McDonald's and Walmart pay a little extra for each pound of tomatoes and buy only from growers who follow a code of conduct written by the workers. The code sets a lowest pay, requires shade and water and bans harassment. Checkers visit the farms, and workers can call a complaint line.
 
-More and more farmworkers come to the United States on temporary H-2A visas, which allow them to do farm work for a season. About 48,000 H-2A jobs were approved in fiscal year 2005, the government's budget year, and about 385,000 in fiscal year 2024, eight times as many, according to the US Department of Agriculture. More than 90 percent of the visas go to Mexican workers.
+More and more farmworkers come to the United States on temporary H-2A visas, which allow them to do farm work for a season. About 48,000 H-2A jobs were approved in fiscal year 2005, the government's budget year, and nearly 400,000 in fiscal year 2025, more than eight times as many. More than 90 percent of the visas go to Mexican workers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->

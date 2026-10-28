@@ -24,7 +24,7 @@ On the farms, tractors began to take the place of horses, and new kinds of seed 
 <!-- hb-zoom level="span" label="What was in the meat: the 1906 food laws" -->
 President Theodore Roosevelt signed two food laws on the same day, June 30, 1906. Under the Pure Food and Drug Act, no one could sell food or medicine from one state to another if it was mislabeled or adulterated, meaning made impure or mixed with something that should not be in it.
 
-Scientists at the Bureau of Chemistry, part of the Department of Agriculture, enforced this law. Federal officials handed that work to a new office in the Department of Agriculture in 1927, and in 1930 they renamed the office the Food and Drug Administration, or FDA.
+Scientists at the Bureau of Chemistry enforced this law at first, and since 1930 the Food and Drug Administration, or FDA, has done that work.
 
 The second law was the Meat Inspection Act. Under it, federal inspectors worked inside the packing plants and checked the meat. Members of Congress passed both laws within a few months after a novel about Chicago's meatpacking plants came out.
 <!-- /hb-zoom -->
@@ -39,7 +39,9 @@ The second law was the Meat Inspection Act. Under it, federal inspectors worked 
 
 Upton Sinclair wrote *The Jungle* to show how immigrant workers in Chicago's meatpacking plants lived. In 1904 he spent about seven weeks working undercover in the plants. His novel was printed in parts in 1905 and came out as a book in February 1906.
 
-Readers fixed instead on what Sinclair described going into the meat. Within months, Roosevelt signed the two food laws of June 30, 1906. Later that year Sinclair wrote about how readers had taken his book: "I aimed at the public's heart, and by accident I hit it in the stomach."
+Readers fixed instead on what Sinclair described going into the meat. In the novel, spoiled ham and moldy sausage were dosed with chemicals and ground up again, along with meat that had fallen on the dirty floor. The packers put out poisoned bread for the rats in the storerooms, and then "rats, bread, and meat would go into the hoppers together." The hoppers fed the machines that ground the sausage.
+
+Within months, Roosevelt signed the two food laws of June 30, 1906. Later that year Sinclair wrote about how readers had taken his book: "I aimed at the public's heart, and by accident I hit it in the stomach."
 <!-- hb-story:end slug="upton-sinclair-food-farming" -->
 
 <!-- hb-story:start slug="george-washington-carver-food-farming" name="George Washington Carver" movie="George Washington Carver: An Uncommon Life (2018)" kind="famous" status="verified" -->
@@ -71,17 +73,25 @@ Many mill owners paid workers in scrip, a kind of paper money that could be spen
 
 A person with pellagra got skin rashes, diarrhea and dementia, which means confusion and loss of memory. The disease could end in death.
 
-**The prison test.** Joseph Goldberger, a doctor with the US Public Health Service, tested the diet on prisoners in 1915, with the agreement of Mississippi's governor, Earl Brewer. Starting on April 19, Goldberger fed eleven volunteer prisoners at the Rankin State Prison Farm the corn-based meals poor Southerners ate: biscuits, mush, grits, gravy, cornbread, sweet potatoes, cane syrup and coffee. In return, the men were promised pardons, meaning they would be let out of prison.
+**The prison test.** Most scientists of the time thought pellagra was an infection, spread by germs. Joseph Goldberger, a doctor with the US Public Health Service, thought the diet caused it, and he tested the diet on prisoners in 1915, with the agreement of Mississippi's governor, Earl Brewer.
 
-About half of the eleven men got pellagra, five or six depending on the account, and the others showed some signs of it. The men had skin rashes and stomach illness, and the men who got pellagra recovered. In 1916 Goldberger injected himself, his wife and other volunteers with blood from pellagra patients, to show that the disease did not spread from person to person.
+At the Rankin State Prison Farm, Goldberger fed eleven volunteer prisoners the corn-based meals poor Southerners ate, starting on April 19. They got biscuits, mush, grits, gravy, cornbread, sweet potatoes, cane syrup and coffee. In return, the men were promised pardons, meaning they would be let out of prison.
+
+About half of the eleven men got pellagra, five or six depending on the account, and the others showed some signs of it. The men had skin rashes and stomach illness, and the men who got pellagra recovered. Goldberger had shown that he could cause pellagra by keeping fresh food from people.
+
+In 1916 Goldberger injected himself, his wife and other volunteers with blood from pellagra patients, to show that the disease did not spread from person to person.
 
 A scientist in Wisconsin found in 1937 that the missing nutrient was niacin, also called vitamin B3. Federal and state laws passed during World War II required that niacin be added to bread.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Sugar and pineapple from Hawaii" -->
-Sugar plantations made up most of the business of the Hawaiian Islands. James Dole started the Hawaiian Pineapple Company in 1901, and workers at his company canned pineapple in huge amounts for kitchens on the mainland. US officials had taken over the islands three years before, in 1898.
+Sugar plantations made up most of the business of the Hawaiian Islands. The planters brought in contract workers from overseas, bound to work for a set number of years, many of them from Japan and, after 1908, from the Philippines. Around 1899 a Japanese contract worker earned about $13 a month, and his food and the cost of his trip both ways came out of that pay.
 
-**The takeover.** Hawaii was a kingdom with its own queen until 1893. On January 17 of that year, a group of mostly American businessmen moved to overthrow Queen Liliuokalani. John L. Stevens, the top US official in Hawaii, had 162 US sailors and Marines brought ashore from the warship USS *Boston*, and the queen gave up her power under protest.
+James Dole started the Hawaiian Pineapple Company in 1901, and workers at his company canned pineapple in huge amounts for kitchens on the mainland. US officials had taken over the islands three years before, in 1898.
+
+**The takeover.** Hawaii was a kingdom with its own queen until 1893. On January 17 of that year, a group of mostly American businessmen moved to overthrow Queen Liliuokalani. Some of the group's members were sons of partners in the companies that controlled more than half of Hawaii's sugar crop, and the group pushed for the United States to take over the islands.
+
+John L. Stevens, the top US official in Hawaii, had 162 US sailors and Marines brought ashore from the warship USS *Boston*, and the queen gave up her power under protest.
 
 Native Hawaiians signed 21,269 names on petitions in 1897, asking that Hawaii not be joined to the United States. On July 7, 1898, President William McKinley signed the Newlands Resolution, a measure to annex Hawaii, which means to take it over and make it part of the country.
 <!-- /hb-zoom -->
@@ -92,6 +102,8 @@ Henry Ford's company began selling a cheap tractor called the Fordson in 1917. E
 A farm horse ate crops too. It took about five acres to grow the feed for one horse. When a farmer sold a horse or stopped using it, the farmer could plant those acres with food for people.
 
 Henry A. Wallace founded Pioneer Hi-Bred in 1926. It was the first company that sold hybrid seed corn, seed that comes from crossing two different parent plants.
+
+**By 1930:** Federal inspectors were working inside the meatpacking plants, tractors were starting to replace farm horses, and farmers could buy hybrid seed corn.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="cecile-steele" name="Cecile Steele" movie="" kind="ordinary" status="verified" -->
@@ -110,8 +122,6 @@ Chicken later became the meat Americans eat most, by weight. By the count of the
 <!-- hb-story:end slug="cecile-steele" -->
 
 <!-- hb-zoom level="span" label="Dust, pigs and food stamps in the 1930s" -->
-**By 1930:** Federal inspectors were working inside the meatpacking plants, tractors were starting to replace farm horses, and hundreds of farms on the Delmarva Peninsula were raising chickens for meat.
-
 Farmers on the southern Great Plains had plowed up the grassland to plant wheat during World War I, when wheat sold for high prices. A drought began in 1931, and the wheat died. The bare, dry soil blew away in dust storms. The storm of April 14, 1935, is called Black Sunday. Crops failed year after year. Farm families lived on vegetables from their gardens, canned food, food handed out by federal officials, and jackrabbits.
 
 No one kept an official count of the people the dust killed. In Kansas alone, dozens of people died of dust pneumonia in 1935. Dust pneumonia happened when dust settled deep in a person's lungs. It stopped the cilia, the tiny hairs that sweep the airways clean, from moving. The person had fever, chest pain, coughing and trouble breathing.
@@ -126,19 +136,19 @@ Many Americans were angry that federal officials were having food destroyed whil
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who got the cotton money?" -->
-The landowners got most of it. Under the cotton contracts of 1934 and 1935, federal officials paid landowners to take land out of cotton. The sharecroppers who farmed that land were supposed to get a part of the payment, but under the contracts their share was only about 11 percent.
+The landowners got most of it. Under the cotton contracts of 1934 and 1935, federal officials paid landowners to take land out of cotton. The sharecroppers who farmed that land, families who farmed someone else's land for a share of the crop, were supposed to get a part of the payment, but under the contracts their share was only about 11 percent.
 
 A landowner could keep the whole payment by evicting the sharecroppers, meaning forcing them off the land, and hiring day laborers, workers paid one day at a time, instead. When planters cut their cotton land by 40 or 50 percent, they cut the number of families working it by the same share.
+
+**The lawyers.** Some lawyers at the Agricultural Adjustment Administration, the federal office that ran the farm payment program, tried to stop the evictions. Led by Jerome Frank, they decided that landowners had to keep the same families on their land. In February 1935 the office's head, Chester Davis, had Secretary of Agriculture Henry Wallace fire them.
 
 **The union.** Seven Black men and eleven white men met at the Sunnyside School in Poinsett County, Arkansas, in July 1934 to fight the evictions. They started a union, a group of workers who join together to demand better pay and treatment, and called it the Southern Tenant Farmers' Union (a tenant farmer works land that someone else owns).
 
 Planters and lawmen answered with force. Sheriff J. D. Dubard of Poinsett County arrested a white organizer, Ward Rodgers, at the end of a union meeting in Marked Tree in January 1935, and Rodgers was held in jail there.
 
-Four armed white men broke into a union meeting in Gilmore. They ordered the Black members to leave and told them they would be lynched, meaning killed by a mob, if they were caught at another union meeting. Many members were beaten and threatened with guns. The Encyclopedia of Arkansas account of the union does not name the men who did it.
-
 About forty armed planters broke up a union crowd at Birdsong on March 15, 1935, along with lawmen and the planters' riding bosses, the men on horseback who watched over the field workers. Later that month a mob attacked the home of the union's lawyer, Cornelius Tyree Carpenter.
 
-Some lawyers at the Agricultural Adjustment Administration, the federal office that ran the farm payment program, decided that landowners had to keep the same tenant families. Jerome Frank led them. In February 1935 the office's head, Chester Davis, had Secretary of Agriculture Henry Wallace fire them.
+At a union meeting in Gilmore, four armed white men broke in. They ordered the Black members to leave and told them they would be lynched, meaning killed by a mob, if they were caught at another union meeting. Many members were beaten and threatened with guns. The Encyclopedia of Arkansas account of the union does not name the men who did it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Ration books and victory gardens" -->
@@ -171,21 +181,17 @@ When Germany surrendered in 1945, she bought a chocolate soda, a comic book and 
 <!-- hb-zoom level="span" label="Farms taken from Japanese Americans" -->
 President Franklin Roosevelt signed Executive Order 9066, an order from the president that has the force of law, on February 19, 1942. In March and April, General John L. DeWitt ordered about 120,000 people whose families came from Japan forced out of their homes on the West Coast. Under his orders, US officials sent both citizens and noncitizens away and locked them up in prison camps behind barbed wire.
 
-Many of these families were farmers. Lawrence Hewes ran the Farm Security Administration in the region, the federal office put in charge of handing their farms to new farmers. He said his agents had registered 6,000 Japanese American farms, covering about 200,000 acres.
+Many of these families were farmers. By 1940 Japanese American farmers and their children grew almost 40 percent of California's vegetables. When they were forced out, many had to leave their orchards and fields with crops ready to harvest.
 
-**Farms lost.** Japanese American families lost more than 1,000 of those farms, about 50,000 acres, in March 1942 alone, and new farmers took them over. That same month, leaders of the California Farm Bureau, a farmers' group, said Japanese American farmers grew 40 percent of the state's vegetables, including nearly all of its tomatoes, celery, strawberries and peppers.
+**Farms lost.** The Farm Security Administration was the federal office put in charge of their farms. Its officials handed more than 1,000 of the farms to new farmers in March 1942 alone.
 
-Officials of the federal Wartime Civil Control Administration estimated in April 1942 that the crops on 21 percent of the land might be lost. The families who farmed it had been forced out, and no one had been found to take their place.
-
-Inside the camps, the people held there farmed. US officials sent about 15,000 people to the camp at Tule Lake, California, alone.
+**Farming in the camps.** The prisoners farmed inside the camps too. At Tule Lake, California, they harvested almost 30 crops, among them potatoes, rutabagas and daikon radishes. Most of the field workers there were paid $12 a month, a quarter of what farmworkers outside earned, and camp officials sold more than 2 million pounds of what they grew.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Braceros in the fields" -->
 US officials started the bracero program in 1942 to bring Mexican workers, called braceros, into the country for farm and railroad work. Over 22 years, workers signed more than 4.5 million contracts. Braceros picked much of the country's fruit and vegetables until the program ended in 1964.
 
-**The missing pay.** US employers held back 10 percent of each bracero's pay from 1942 to 1949. They sent the money through two US banks, Wells Fargo and the Union Trust Company of San Francisco, to banks in Mexico. Under the program's rules, the workers were to get the money back when they went home, but many braceros never got it.
-
-A Mexican report of 1946 said $8 million had been paid back to braceros that year, and no one could say where another $6 million had gone. Former braceros sued to get the money. Under a 2009 settlement, an agreement that ends a lawsuit, former braceros or the families of those who had died received a one-time sum of 38,000 pesos, about $3,500.
+US employers also held back 10 percent of each bracero's pay, and many braceros never got that money back. Chapter 14, Work and Workers, tells the story of the missing pay.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why school lunch became a law" -->
@@ -209,7 +215,7 @@ Towns and charities had already run school meal programs for decades, and in the
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 12 minutes**
 
-Fewer, bigger farms grew more food on each acre after 1950. Farmers used tractors, hybrid seed, fertilizer and pesticides. Swanson sold 25 million frozen TV dinners in 1955, and fast-food stands served hamburgers in seconds. In the 1980s the owners of about 300,000 farms could not pay their loans, after land prices fell and interest rates rose. Meanwhile some farmers and cooks began to grow food by organic methods and to serve food from nearby farms.
+Fewer, bigger farms grew more food on each acre after 1950. Farmers used tractors, hybrid seed, fertilizer and pesticides. Swanson sold 25 million frozen TV dinners in 1955, and fast-food stands served hamburgers in seconds. In the 1980s the owners of about 300,000 farms could not pay their loans, after land prices fell and interest rates rose. Meanwhile some farmers and cooks began to grow food by organic methods, without man-made chemical fertilizers and pesticides, and to serve food from nearby farms.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Tractors outnumber horses, and farms grow bigger" -->
@@ -265,15 +271,13 @@ Farmers sprayed their crops with pesticides, chemicals that kill insects and wee
 
 Farmworkers in steady contact with pesticides had high rates of burns, cancer and children born with birth defects. In the 1980s, children in several towns of California's San Joaquin Valley had cancer at rates "800% above the norm," according to the Walter P. Reuther Library at Wayne State University.
 
-Cesar Chavez, Dolores Huerta and the United Farm Workers organized the people who picked the crops. They are known for the grape strike in Delano, California, when grape pickers refused to work until growers met their demands.
+**The farmworkers' union.** Cesar Chavez and Dolores Huerta campaigned to ban DDT on grape and lettuce ranches. With the United Farm Workers, they organized the people who picked the crops. They are known for the grape strike in Delano, California, when grape pickers refused to work until growers met their demands.
 
-**The 2026 accounts.** The New York Times reported in March 2026 that Chavez had sexually abused two girls in the 1970s, beginning when they were 12 and 13. The two women, Debra Rojas and Ana Murguia, are daughters of union organizers. Rojas said Chavez raped her, forcing her into sex, in a motel room when she was 15.
-
-Dolores Huerta then said publicly that Chavez had pressured her into sex once and had raped her in a car in 1966, and that she became pregnant both times. Chavez died in 1993, so no court has ever heard these accusations. California's lawmakers voted on March 26, 2026, to rename the state holiday Cesar Chavez Day as Farmworkers Day, and Governor Gavin Newsom signed the change into law.
+In March 2026 the New York Times reported that two women said Chavez had sexually abused them as girls in the 1970s, and Dolores Huerta then said that he had raped her, forcing her into sex. Chavez died in 1993, so no court has heard these accusations. Chapter 14, Work and Workers, tells the strike and these accounts in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Black farmers and their land" -->
-Black farmers ran more than 900,000 farms in 1920, about 15 percent of all the farms in the United States. Between 1910 and 1997, the amount of farmland Black Americans owned fell by nearly 90 percent. Five economists put the value of the land lost from 1920 to 1997 at about $326 billion in today's dollars, in a study published in 2022. By 2007 about 1.5 percent of the country's farms, 32,938 of them, were run by Black farmers.
+Black farmers ran more than 900,000 farms in 1920. Between 1910 and 1997, the amount of farmland Black Americans owned fell by nearly 90 percent.
 
 **Loans held back.** Researchers at the Union of Concerned Scientists, a science group, named two of the causes in a 2023 report. The first was that officials of the US Department of Agriculture, or USDA, had stopped Black farmers from getting the loans and grants that would have kept them on their land. Lloyd Wright, who once ran the department's civil rights office, called it "the last plantation," after the big farms where enslaved people had been forced to work.
 
@@ -281,11 +285,13 @@ Black farmers ran more than 900,000 farms in 1920, about 15 percent of all the f
 
 Any one of the heirs could ask a court to force a sale of the whole farm. A land buyer could buy one heir's share and then ask a court to sell the farm at auction, and farms sold that way went for far less than they were worth. USDA officials have called heirs' property "the leading cause of Black involuntary land loss," meaning land lost when the owners did not choose to sell.
 
+**What it cost.** In a study published in 2022, five economists put the value of the land Black farmers lost from 1920 to 1997 at about $326 billion in today's dollars. By 2007 Black farmers ran 32,938 farms, about 1.5 percent of the country's farms.
+
 **The court case.** Black farmers took the USDA to court in a case called *Pigford v. Glickman*. They showed that from 1983 to 1997, USDA officials treated Black farmers worse than white farmers because of their race, and that the officials failed to look into the farmers' complaints.
 
 Members of local county committees made the decisions on USDA farm loans. Black farmers said committee members turned down their loans, or made them wait longer for approval than white farmers. The Congressional Research Service report on the case does not name the committee members.
 
-Judge Paul L. Friedman approved a settlement on April 14, 1999. Under it, 15,645 farmers had their claims approved, out of 22,721 who qualified. Those approved under the part of the settlement called Track A each received $50,000, and USDA officials canceled what they owed on their USDA loans. The payments and debt relief came to about $1.06 billion. A second settlement, of $1.25 billion, was announced on February 18, 2010, for farmers who had missed the first deadline.
+Judge Paul L. Friedman approved a settlement, an agreement that ends a lawsuit, on April 14, 1999. Under it, 15,645 farmers had their claims approved, out of 22,721 who qualified. Those approved under the part of the settlement called Track A each received $50,000, and USDA officials canceled what they owed on their USDA loans. The payments and debt relief came to about $1.06 billion. A second settlement, of $1.25 billion, was announced on February 18, 2010, for farmers who had missed the first deadline.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Organic farming rules become law" -->
@@ -309,9 +315,9 @@ Waters started the Edible Schoolyard at Martin Luther King Jr. Middle School in 
 <!-- hb-story:end slug="alice-waters" -->
 
 <!-- hb-zoom level="span" label="The farm crisis of the 1980s" -->
-American farmers sold large amounts of grain to other countries in the 1970s. They planted "fencerow to fencerow," every acre up to the fences.
+American farmers sold large amounts of grain to other countries in the 1970s. They planted "fencerow to fencerow," every acre up to the fences. Expecting the good years to last, many farmers borrowed from banks to buy more land and machines.
 
-Then, in the early 1980s, interest on loans, the extra money a borrower pays back on top of a loan, rose high. At the same time, the price of farmland fell. In parts of the Midwest, farmland lost as much as 60 percent of its value between 1981 and the mid-1980s. By 1984 American farmers owed about $215 billion, twice what they had owed in 1978.
+Then, in the early 1980s, interest on loans, the extra money a borrower pays back on top of a loan, rose high. At the same time, the price of farmland fell. In parts of the Midwest, farmland lost as much as 60 percent of its value between 1981 and the mid-1980s. By 1984 American farmers owed about $215 billion, twice what they had owed in 1978, and many could not earn enough to keep up with their loan payments.
 
 The owners of an estimated 300,000 farms defaulted during the 1980s, meaning they could not pay back their loans. About 300 banks in farm country failed, running out of money and closing.
 
@@ -329,9 +335,9 @@ The owners of an estimated 300,000 farms defaulted during the 1980s, meaning the
 
 Russel and Mary Jane Jordan owned a farm in Iowa that had been in their family for 125 years. A company called Norwest, which owned banks in several states, bought their bank in Atlantic, Iowa, and a man from the company's headquarters, Tim Wolf, took over their loans.
 
-The bank's officers called in a debt of $70,000 that had built up over the years, which meant they demanded it be paid. Each year the Jordans also took out a loan of $150,000 to pay for that year's farming. Together the old debt and the yearly loan came to about $220,000.
+**The debt.** In the spring of 1990 the bank's officers called in an old debt of $70,000, which meant they demanded that it be paid. That same spring the Jordans had taken out their yearly loan of $150,000 to pay for the season's farming. To keep the bank from taking the farm, they decided to pay off both, about $220,000 in all.
 
-The Jordans held an auction. They sold all their machinery, their livestock and even their household goods. The Jordans kept only the land. The sale raised about $300,000, more than enough to pay the back debt. Russ and Mary Jane moved to a rented house in Atlantic. Their son Jim took over farming the home place with his own equipment. Later the crop land was rented out to neighbors.
+**The auction.** The Jordans sold all their machinery, their livestock and even their household goods at an auction. They kept only the land. The sale raised about $300,000, more than enough to pay what they owed. Russ and Mary Jane moved to a rented house in Atlantic. Their son Jim took over farming the home place with his own equipment. Later the crop land was rented out to neighbors.
 
 Their daughter, Jeanne Jordan, and the filmmaker Steven Ascher made the film about the family.
 <!-- hb-story:end slug="jordan-family-farm" -->
@@ -348,15 +354,15 @@ Americans have argued since 2000 over what goes into their food, who picks it an
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Weight, hunger and food stamps" -->
-Researchers at the Centers for Disease Control and Prevention, or CDC, measure obesity, a body weight high enough to raise the risk of illness. By their count, 30.5 percent of American adults had obesity in 1999 and 2000. The share rose to 41.9 percent, about four adults in every ten, in the years 2017 to March 2020, and it was 40.3 percent from August 2021 to August 2023.
+Researchers at the Centers for Disease Control and Prevention, or CDC, measure obesity, a body weight high enough to raise the risk of illness. By their count, about three American adults in every ten had obesity in 1999 and 2000, and about four in every ten in the years 2021 to 2023.
 
 Doctors link diet to heart disease and to type 2 diabetes, an illness in which the body cannot keep the sugar in the blood at a healthy level.
 
 Some Americans live far from a place to buy fresh food. USDA officials map low-income areas that are far from a supermarket, and people call these areas food deserts. In a city, far means more than 1 mile away. In the country, it means more than 10 miles. An area counts when at least 500 people, or a third of the people who live there, are that far away.
 
-By that measure, USDA data for 2019 put about 19 million people, about 6 percent of the population, in food deserts. A broader measure used for 2015 counted 39.4 million. The number depends on which measure is used.
+By that measure, about 19 million people, about 6 percent of the population, lived in food deserts in 2019.
 
-USDA economists had counted households that did not always have enough food since 1995. In September 2025, USDA officials under Agriculture Secretary Brooke Rollins announced that they would end the count. They called it "redundant, costly [and] politicized," meaning a repeat of other work, too expensive and slanted by politics. The last report came out on December 30, 2025. It reported that in 2024, 13.7 percent of households did not always have enough food: nearly 48 million people, including more than 14 million children.
+USDA economists had counted households that did not always have enough food since 1995. In September 2025, USDA officials under Agriculture Secretary Brooke Rollins announced that they would end the count. They called it "redundant, costly [and] politicized," meaning a repeat of other work, too expensive and slanted by politics. The last report came out on December 30, 2025. It reported that in 2024 about one household in seven did not always have enough food: nearly 48 million people, including more than 14 million children.
 
 President Donald Trump signed the One Big Beautiful Bill Act on July 4, 2025. Under it, federal spending on SNAP, the Supplemental Nutrition Assistance Program once called food stamps, goes down. Economists at the Congressional Budget Office, which works out costs for Congress, figured that the cut will come to $186.7 billion over ten years.
 <!-- /hb-zoom -->
@@ -364,7 +370,9 @@ President Donald Trump signed the One Big Beautiful Bill Act on July 4, 2025. Un
 <!-- hb-zoom level="span" label="Farmers' markets and the 2020 pandemic" -->
 Farmers' markets, where farmers sell their own crops straight to shoppers, grew in number. USDA officials counted 1,755 of them in 1994 and 8,771 in 2019, five times as many. The number grew about 7 percent a year until about 2011, and then it stopped growing much.
 
-The disease COVID-19 spread through plants that process meat and poultry, meaning chickens and turkeys, in 2020. In April and May 2020, officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
+**The meat plants.** Other food reaches shoppers from people they never see, such as the workers in plants that process meat and poultry, meaning chickens and turkeys. The disease COVID-19 spread through those plants in 2020.
+
+Officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants in April and May 2020, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Changed seeds and new kinds of meat" -->
@@ -382,15 +390,9 @@ On vertical farms, workers grow vegetables indoors on shelves stacked high. Inve
 <!-- hb-zoom level="span" label="Who picks the food?" -->
 Most hired crop workers in the United States were born in other countries, USDA economists report. In recent years about 15 percent of crop-farm jobs have gone to workers on H-2A visas, papers that let a farmworker from another country come for one season of farm work. More than 90 percent of H-2A workers come from Mexico.
 
-Officials at the US Department of Labor approved about 48,000 H-2A jobs in 2005 and about 372,000 in 2022, nearly eight times as many, by the USDA economists' figures. The Labor Department's own count for 2025 was 398,258 jobs.
+The number of H-2A jobs grew more than eight times over from 2005 to 2025. Chapter 14, Work and Workers, gives the numbers.
 
-**Heat.** Sixty-eight crop workers died from heat between 1992 and 2006, according to a CDC report of 2008. Crop workers died of heat at about 20 times the rate of all American workers.
-
-One of them was a 56-year-old H-2A worker harvesting tobacco by hand in North Carolina in July 2005. It was his third day on the job, and no one had trained him about heat. His body temperature reached 108 degrees Fahrenheit, and he died of heat stroke, which happens when the body cannot cool itself. The report does not give his name.
-
-Under federal law, children may work on farms at younger ages than in other jobs. Outside school hours, a child under 12 may work on a farm owned or run by a parent. With a parent's permission, a child under 12 may also work on a small farm that does not have to pay the minimum wage, the lowest pay the law allows.
-
-Children of 12 and 13 may work with a parent's permission or on a farm where a parent works, and at 14 a child may do farm jobs outside school hours.
+**Heat and children.** Crop workers in the fields died of heat at nearly 20 times the rate of all American workers from 1992 to 2006, a CDC count found. Federal law also lets children work on farms at younger ages than in other jobs. Chapter 14 tells the death of one of those crop workers, a 56-year-old tobacco picker in North Carolina, and sets out the rules for children on farms.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="lucas-benitez" name="Lucas Benitez" movie="Food Chains (2014)" kind="ordinary" status="verified" -->
@@ -404,13 +406,13 @@ Children of 12 and 13 may work with a parent's permission or on a farm where a p
 
 Lucas Benitez came to Immokalee, Florida, from the state of Guerrero in Mexico when he was 17. He picked tomatoes in the fields there. In 1993 he helped start the Coalition of Immokalee Workers, a group of farmworkers.
 
-**The Fair Food Program.** The coalition and Florida's tomato growers announced an agreement in November 2010, and the Fair Food Program began running in 2011. Under it, large buyers of tomatoes, such as McDonald's and Walmart, agree to pay a premium, an extra amount of money, for the tomatoes. People often call it an extra "penny per pound," and it raises the pickers' pay.
+**The orange groves.** In 2000 Benitez looked into slavery in the orange and grapefruit groves around Lake Placid, Florida, north of Immokalee. Two brothers, Ramiro and Juan Ramos, supplied as many as 700 pickers to the growers there. They made the workers pick fruit ten hours a day, six days a week, and threatened them at gunpoint with torture and death if they tried to escape.
 
-The buyers also agree to hold growers to a code of conduct, a written set of rules. The code sets a lowest pay rate and requires shade, water and protection from abuse for the pickers. It bans forced labor, putting children to work as a regular practice, and sexual assault, which means any sexual touching or attack against a person's will, including rape.
+The brothers charged each worker $1,000 for the trip to Florida. Each week they took most of the workers' pay, saying it went to that debt and to food and rent, but no worker was ever set free. In April 2001 four of the workers escaped with the coalition's help. A federal court convicted the brothers in 2002, and Ramiro Ramos was later sentenced to 15 years in prison. WGCU, a public radio station in Florida, credits Benitez with helping to free about 700 workers in that one case.
 
-When any of these happens on a farm, the program's managers suspend the farm from the program until its owners fix the problem. Checkers called auditors make sure growers follow the code.
+**The Fair Food Program.** The coalition and Florida's tomato growers began the Fair Food Program in 2011. Big buyers such as McDonald's and Walmart pay about a penny more for each pound of tomatoes. The program's managers suspend any farm where workers are forced to work, children are put to work as a regular practice, or workers suffer sexual assault, any sexual touching or attack against a person's will, including rape. Chapter 14 tells the rest of how the program works.
 
-Benitez received the University of Michigan's Wallenberg Medal, an award for people who defend human rights, in October 2023. He had helped investigate cases of slavery on farms, where workers were held and forced to work. In one case alone, he helped free about 700 workers, according to WGCU, a public radio station in Florida.
+Benitez received the University of Michigan's Wallenberg Medal, an award for people who defend human rights, in October 2023.
 <!-- hb-story:end slug="lucas-benitez" -->
 
 <!-- hb-zoom level="span" label="Black farmers in the new century" -->
@@ -430,9 +432,11 @@ People in Native nations are working to control their own food, which is called 
 > **When and where:** Café Gozhóó, Whiteriver, on the White Mountain Apache Reservation in Arizona, opened in 2021.
 > **Movie:** *Gather* (2020), a documentary about Native food sovereignty that features him.
 
-**Apaches recovering from addiction work in his café's kitchen.**
+**He cooks Western Apache foods like parched corn and acorn powder.**
 
-Nephi Craig is a chef. He opened Café Gozhóó, a café built around Apache foods, in Whiteriver, Arizona, on the White Mountain Apache Reservation, in 2021. Apaches who are recovering from addiction to alcohol or drugs work in its kitchen through a job-training program run by the tribe's Rainbow Treatment Center.
+Nephi Craig is a chef who cooks the foods of the Western Apache. He opened Café Gozhóó, a café built around Apache foods, in Whiteriver, Arizona, on the White Mountain Apache Reservation, in 2021. Apaches who are recovering from addiction to alcohol or drugs work in its kitchen through a job-training program run by the tribe's Rainbow Treatment Center.
+
+**The food.** Craig's Western Apache seed mix has pine nuts, amaranth (a plant whose tiny seeds are eaten like grain), pumpkin seeds and parched corn. To parch corn, he swirls white corn kernels in a hot pan until they toast. He has also served grilled squash with Apache acorn powder, made from ground acorns.
 
 Craig said in 2026 that he had been sober himself for 15 years. That year he published a book about his life and his cooking, *Our Knives Will Save Us*. He also founded the Native American Culinary Association, a group for Native cooks.
 
@@ -442,7 +446,7 @@ The 2020 documentary *Gather* follows him and others who are bringing back Nativ
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - How did Native farmers turn a wild grass into corn? For thousands of years, starting in southern Mexico about 9,000 years ago, they saved seed only from the teosinte plants they chose, until the grass became corn.
-- Who did the hardest farm work, and what did they get for it? Enslaved people worked the rice and cotton fields for no pay, and sharecroppers got half the crop's value or less and stayed in debt. From 1992 to 2006, crop workers died of heat at about 20 times the rate of all American workers.
+- Who did the hardest farm work, and what did they get for it? Enslaved people worked the rice and cotton fields for no pay, and sharecroppers got half the crop's value or less and stayed in debt. From 1992 to 2006, crop workers died of heat at nearly 20 times the rate of all American workers.
 - How did Americans come to eat food grown far away by people they never met? With canning, pond ice and railroad cars cooled with ice, food could be sold far from the farm, and the farms grew fewer, down to 1.9 million in 2022.
 
 **What changed:** Growing food went from the work of nearly every family to the business of fewer, bigger farms, while the hardest field work stayed with people who were enslaved, in debt or far from home.
