@@ -130,6 +130,7 @@
 - legal segregation: the system of laws that kept Black people and white people apart (1850 to 1900)
 - Emancipation Proclamation: President Lincoln's order freeing the enslaved people in the states fighting against the Union, which took effect on January 1, 1863 (1850 to 1900)
 - veto: a president's refusal to sign a bill (1850 to 1900)
+- Memorial Day: the old Decoration Day (1850 to 1900)
 - martyr: a person who dies for a cause (1850 to 1900)
 - exposure: being left outside with no shelter from cold and weather (1850 to 1900)
 - mass grave: one pit for many bodies (1850 to 1900)
@@ -160,7 +161,6 @@
 - Kwanzaa: the seven-day holiday from December 26 to January 1, created in 1966, whose name comes from a Swahili phrase meaning "first fruits" (1950 to 2000)
 - Indigenous peoples: the first peoples of a place and their descendants (1950 to 2000)
 - Veterans Day: the 1954 name for Armistice Day, chosen so that one day would honor the veterans of every war (1950 to 2000)
-- Memorial Day: the old Decoration Day (1950 to 2000)
 - Uniform Monday Holiday bill: the 1968 bill under which several holidays moved to Mondays (1950 to 2000)
 - Republican: a member of one of the country's two main political parties (1950 to 2000)
 - Presidents' Day: the name many people use for Washington's Birthday, though no act of Congress and no order of a president changed the federal name (1950 to 2000)
@@ -182,7 +182,6 @@
 - unlawful assembly: gathering where the law does not allow it (1950 to 2000)
 - inflammatory: likely to make people angry (1950 to 2000)
 - public relations person: someone paid to shape what the public thinks of an event (1950 to 2000)
-- conspiracy: a secret plan by several people (1950 to 2000)
 - Southern Christian Leadership Conference: the group Martin Luther King Jr. had led (1950 to 2000)
 - sponsor: the lawmaker who brings a bill forward (1950 to 2000)
 - lobbying office: an office whose staff pressed lawmakers to vote for the bill (1950 to 2000)
@@ -252,4 +251,4 @@
 
 - Q: Who decided when Americans would give thanks, and why did it take until 1941 to fix the date? A: Governors and church elders set the days one at a time, until Lincoln proclaimed a national Thursday in 1863 at Sarah Josepha Hale's request. Every president after him named the day by proclamation, so when Franklin Roosevelt moved it in 1939 to help stores, sixteen states refused by the National Archives' count, and Congress ended the confusion with the 1941 law.
 - Q: Which days did Black Americans make their own, from election days to Juneteenth? A: Black governors' election days in New England from about 1749, January 1 from 1808, July 5 in New York in 1827, August 1 after 1834, and Juneteenth from 1866, which Congress made a federal holiday in 2021.
-- Q: Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it? A: He proclaimed it for the 400th anniversary of Columbus's landing, a year and a half after a New Orleans mob lynched eleven Italian American men, and some writers say the holiday was partly meant to calm Italy. Since Berkeley in 1992, cities and 17 states have used the day to honor Indigenous peoples instead.
+- Q: Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it? A: He proclaimed it for the 400th anniversary of Columbus's landing, a year and a half after a New Orleans mob lynched eleven Italian American men, and some writers say the holiday was partly meant to calm Italy. Native groups and others object to honoring a man whose men enslaved Taino people. Since Berkeley in 1992, cities and 17 states have used the day to honor Indigenous peoples, and some of those states keep Columbus Day too.

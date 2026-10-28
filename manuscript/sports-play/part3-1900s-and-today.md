@@ -17,7 +17,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 Clubs, troops and leagues run by adults filled more and more of children's free time in the first half of the 1900s. Adults set up 4-H clubs in 1902, the Boy Scouts in 1910, the Girl Scouts in 1912 and Little League baseball in 1939. Children also spent many free hours watching and listening, at Saturday movies, beside the radio and over comic books. In Muncie, Indiana, in the 1930s, at least half of the children at Saturday movies stayed five or six hours.
 
-At least 18 people died playing football in 1905, and President Theodore Roosevelt called coaches to the White House. The white owners of the major leagues, the top professional baseball teams, kept Black players out until Jackie Robinson played for Brooklyn in 1947. Black players had their own leagues from 1920. In the 1920s and 1930s, white officials and white swimmers in many Northern cities separated the public pools by race and kept Black children out of the pools where other children learned to swim.
+At least 11 people died of football injuries in 1905, and President Theodore Roosevelt called coaches to the White House. The white owners of the major leagues, the top professional baseball teams, kept Black players out until Jackie Robinson played for Brooklyn in 1947. Black players had their own leagues from 1920. In the 1920s and 1930s, white officials and white swimmers in many Northern cities separated the public pools by race and kept Black children out of the pools where other children learned to swim.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Clubs and troops for children" -->
@@ -31,7 +31,9 @@ Choctaw and Chickasaw people met near Allen, in Indian Territory, each spring an
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How many died playing football in 1905?" -->
-At least 18 people died from playing football in the 1905 season. The counts differ. The NCAA's published history of its own beginnings states 18 deaths and 149 serious injuries. Reporters at the *Chicago Tribune* counted 19 deaths, and reporters at another newspaper, the *Cincinnati Commercial Tribune*, counted 25. The writer Aaron Gordon later checked the newspaper reports. He found about 20 deaths tied to football that year, 11 of them directly from football injuries, and the cause of the others was not clear.
+At least 11 people died of football injuries in the 1905 season, and counts of all the deaths tied to football that year run from 18 to 25. The firmest count comes from the writer Aaron Gordon, who later checked the newspaper reports. He found about 20 deaths tied to football, 11 of them directly from football injuries, and the cause of the others was not clear.
+
+The NCAA's published history of its own beginnings states 18 deaths and 149 serious injuries. Reporters at the *Chicago Tribune* counted 19 deaths, and reporters at another newspaper, the *Cincinnati Commercial Tribune*, counted 25.
 
 The dead included college players and high-school boys. Harold Moore, 19, a Union College player, was knocked out in a game against New York University. He died six hours later of bleeding inside his brain. In Rockville, Indiana, a broken rib pierced the heart of Carl Osborne, a high-school player, and killed him at once. Robert Brown, 16, of Sedalia, Missouri, was paralyzed by a neck injury and died without waking.
 
@@ -81,12 +83,12 @@ Sullivan and the other officials of the Amateur Athletic Union took away Thorpe'
 Thorpe played major-league baseball for the New York Giants and other teams from 1913 to 1915 and from 1917 to 1919. He played pro football for the Canton Bulldogs for $250 a game. In 1920 he became the first president of the league that later took the name National Football League. In his last years he worked as a film extra, a laborer and a doorman. He died of heart failure in 1953, at 65.
 
 **The medals restored.** A researcher, Florence Ridlon, found the 30-day rule in the 1912 rule book in 1982. On October 13 of that year, the leaders of the International Olympic Committee named Thorpe a co-champion, sharing each title with the second-place man: Hugo Wieslander in the decathlon and Ferdinand Bie in the pentathlon. On July 15, 2022, they named him the only champion of both events.
-
-**By 1920:** Football had new rules after the deaths of 1905, Black jockeys were nearly gone from American racing, and the owners of Black baseball teams were about to start a league of their own.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Baseball and the Negro Leagues" -->
 The Boston Americans beat the Pittsburgh Pirates 5 games to 3 in the first modern World Series, in October 1903. The owners of the two teams, Henry Killilea of Boston and Barney Dreyfuss of Pittsburgh, arranged it. About 100,000 people watched the eight games. There was no series in 1904, because the owners of the New York Giants refused to play.
+
+**By 1920:** Football had new rules after the deaths of 1905, Black jockeys were nearly gone from American racing, and the owners of Black baseball teams were about to start a league of their own.
 
 **A league of their own.** Rube Foster, the owner and manager of the Chicago American Giants, met other owners of Black teams at a YMCA in Kansas City on February 13, 1920. Together they started the Negro National League. It had eight teams in its first year. The league closed in 1931, during the Great Depression, when millions of people lost their jobs. Teams in other Negro Leagues kept playing until 1948.
 
@@ -103,7 +105,7 @@ Major League Baseball's leaders began counting seven Negro Leagues of 1920 to 19
 
 George Herman Ruth, born in Baltimore in 1895, was seven when he entered St. Mary's Industrial School for Boys on June 13, 1902. It was a reform school, a school meant to correct boys' behavior, and an orphanage, a home for children without parents. He spent most of the next 12 years there. A teacher there, Brother Matthias, taught him baseball.
 
-Jacques Kelly, a writer for the *Baltimore Sun*, wrote in 1995 that Ruth's parents decided to place him at the school. Writers have argued about their reasons for many years.
+Jacques Kelly, a writer for the *Baltimore Sun*, wrote in 1995 that Ruth's parents decided to place him at the school. The school's records listed the boy as "incorrigible," Kelly wrote. Writers have argued about the parents' reasons for many years.
 
 **The sale.** Ruth pitched for the Boston Red Sox from 1914 to 1919. The owner of the Boston team, Harry Frazee, sold him to the New York Yankees for $100,000. The sale was made in December 1919 and announced in January 1920.
 
@@ -124,6 +126,8 @@ Researchers of the time found that children were choosing movies over outdoor ga
 Sterling North, a newspaper book editor in Chicago, called comic books "badly drawn, badly written and badly printed" in 1940. He wrote that they strained children's eyes and nerves. Comic books were burned in the 1940s. The Comic Book Legal Defense Fund's history of these burnings does not name who burned them.
 
 Lizzie Magie patented a board game called *The Landlord's Game* in 1904. Monopoly grew out of it, and Parker Brothers began selling Monopoly on November 5, 1935.
+
+**By 1940:** Children spent hours each week at the movies and with comic books, Babe Didrikson and Jesse Owens had won Olympic gold, and the owners of the major leagues still kept every Black player out.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="babe-didrikson-zaharias" name="Babe Didrikson Zaharias" movie="" kind="famous" status="verified" -->
@@ -168,8 +172,6 @@ When Owens refused to finish a tour of Europe, Avery Brundage and other official
 <!-- hb-story:end slug="jesse-owens" -->
 
 <!-- hb-zoom level="span" label="Who was kept out of the pools" -->
-**By 1940:** Children spent hours each week at the movies and with comic books, Babe Didrikson and Jesse Owens had won Olympic gold, and the owners of the major leagues still kept every Black player out.
-
 Jobless workers paid by a federal program, the Works Progress Administration, built about 6,000 athletic fields and playgrounds and 770 new swimming pools from 1935 to 1943. Each year tens of millions of Americans swam in city pools.
 
 Jeff Wiltse, who wrote a book about public pools called *Contested Waters*, studied who was allowed in. Many cities in the North began letting men and women swim in the same public pools in the 1920s and 1930s. Wiltse found that white officials and white swimmers in those cities then separated the pools by race.
@@ -218,6 +220,8 @@ Gibson played for the Grays and for the Pittsburgh Crawfords. The Crawfords' own
 **Never in the majors.** The white owners of the major-league teams kept Black players out, so Gibson never played in their leagues. Doctors told him in 1943 that he had a brain tumor. He died in Pittsburgh on January 20, 1947, at 35, less than three months before Jackie Robinson played his first game for Brooklyn.
 
 Since 2024 the major-league record books have included the Negro Leagues. A batting average shows how often a player got a hit: .466 means about 47 hits in every 100 times at bat. Gibson's .466 for 1943 is the highest for a single season in those records, and his career average of .372 is also the highest.
+
+**The plaque.** Gibson was named to the Baseball Hall of Fame in 1972. His plaque there says he hit "almost 800" home runs.
 <!-- hb-story:end slug="josh-gibson" -->
 
 <!-- hb-story:start slug="jackie-robinson" name="Jackie Robinson" movie="42 (2013)" kind="famous" status="verified" -->
@@ -253,9 +257,9 @@ Robinson was named the first Rookie of the Year, the best first-year player, in 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
 
-Girls and Black children pushed their way into games that had kept them out in the second half of the 1900s, while more of children's afternoons went to lessons and organized sports. Fewer children walked or biked to school. Diaries of how children spent their days in 1981 and 1997 showed more time in organized sports and lessons, and less time in free play and watching television. Children could play video games for a quarter in arcades from 1972, and on game machines at home from 1977.
+Girls and Black children pushed their way into games that had kept them out in the second half of the 1900s, while more of children's afternoons went to lessons and organized sports. Fewer children walked or biked to school. Diaries of how children spent their days in 1981 and 1997 showed more time in organized sports and lessons, and less time in free play and watching television. Children could play video games for a quarter in arcades from 1972, and on game machines at home from 1975.
 
 Little League officials kept girls out from 1951 until 1974. After Title IX became law in 1972, the number of girls playing high-school sports rose from about 294,000 to about 2.7 million by 1999.
 
@@ -282,9 +286,9 @@ She made the King's Dairy team and played first base. Then she told the coach sh
 <!-- hb-zoom level="span" label="Who could play Little League" -->
 Little League officials also stopped a team of Black boys from playing on for a title. The Cannon Street YMCA in Charleston, South Carolina, entered its all-star team of 14 Black boys in the city Little League tournament in 1955. The adults who ran the 61 other teams, all of them white, pulled every team out rather than play them. Accounts do not name those adults. Cannon Street won the city and state titles because no one would play them.
 
-At the regional tournament in Rome, Georgia, officials ruled that a team that had not won its games on the field could not go on. Little League's president agreed with the ruling. The managers of the white leagues left Little League and started their own league for white teams only.
+At the regional tournament in Rome, Georgia, officials ruled that Cannon Street could not go on. The team had won without playing, and the officials said a team that had not won its games on the field could not advance. Little League's president agreed with the ruling. The managers of the white leagues left Little League and started their own league for white teams only.
 
-Little League officials invited the Cannon Street boys to watch the Little League World Series in Williamsport. The crowd there chanted "Let them play." One of the players, John Rivers, said in 2023, "So we didn't talk about it. So it tells me how painful it was."
+Little League officials invited the Cannon Street boys to watch the Little League World Series in Williamsport. The crowd there chanted "Let them play." In 2023 one of the players, John Rivers, looked back on what had happened to the team: "So we didn't talk about it. So it tells me how painful it was."
 
 **Maria Pepe.** Maria Pepe, 12, pitched three games for a Little League team in Hoboken, New Jersey, in 1972. Little League officials told the Hoboken league to drop her or lose its right to be part of Little League, and the Hoboken league's officials dropped her. Robert Stirrat, a Little League vice president, said, "as far as we're concerned, the incident is closed."
 
@@ -294,9 +298,9 @@ Little League's officials asked a higher court to overturn the ruling, and they 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who could swim" -->
-When Black Americans won the right to use city pools, some city officials closed the pools instead. Officials in Jackson, Mississippi, closed four public pools in 1963 rather than let Black residents swim in them. They gave up a fifth pool, and the YMCA then ran it for white people only. Five Supreme Court justices, the judges of the nation's highest court, ruled on June 14, 1971, in *Palmer v. Thompson*, that closing the pools to everyone was lawful. Four justices disagreed.
+Some city officials closed their public pools rather than let Black residents swim in them. Officials in Jackson, Mississippi, closed four public pools in 1963. They gave up a fifth pool, and the YMCA then ran it for white people only. Five Supreme Court justices, the judges of the nation's highest court, ruled on June 14, 1971, in *Palmer v. Thompson*, that closing the pools to everyone was lawful. Four justices disagreed.
 
-**The Monson Motor Lodge.** Black and white protesters jumped into the pool of the Monson Motor Lodge in St. Augustine, Florida, on June 18, 1964. The motel's manager, James Brock, poured muriatic acid, a strong acid used to clean pools, into the water. A photograph of him doing it ran in newspapers across the country.
+**The Monson Motor Lodge.** Black and white protesters jumped into the pool of the Monson Motor Lodge in St. Augustine, Florida, on June 18, 1964, in a protest against keeping Black and white swimmers apart. The motel's manager, James Brock, poured muriatic acid, a strong acid used to clean pools, into the water. A photograph of him doing it ran in newspapers across the country.
 
 Jeff Wiltse, the historian of public pools, found that when Black swimmers won equal use of city pools, white swimmers "generally abandoned them for private pools," which means most of them left. He wrote that city officials then treated public pools as less important.
 <!-- /hb-zoom -->
@@ -306,7 +310,7 @@ The Green Bay Packers beat the Kansas City Chiefs 35 to 10 in Los Angeles on Jan
 
 From the third game, in 1969, the official name was the Super Bowl. Lamar Hunt, who founded one of the two leagues, took the name from his children's toy, a Super Ball.
 
-Arizona's voters refused to make Martin Luther King Jr.'s birthday a state holiday in November 1990. NFL officials then moved the 1993 Super Bowl from Tempe, Arizona, to Pasadena, California. Arizona hosted the Super Bowl in 1996.
+**The 1993 game.** NFL officials took the 1993 Super Bowl away from Arizona because its voters had said no to a holiday for Martin Luther King Jr. in November 1990. The league's officials moved the game to Pasadena, California. *PHOENIX* magazine says the game was to be played in Tempe, next to Phoenix, and the Pima County Public Library says Phoenix. People there had expected about $200 million from the game. Arizona hosted the Super Bowl in 1996. Chapter 37 tells the fight over the King holiday.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="muhammad-ali" name="Muhammad Ali" movie="" kind="famous" status="verified" -->
@@ -341,6 +345,8 @@ Both men later played pro football. Smith coached track at Oberlin College and t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Players and owners" -->
+A team's owner could renew a player's contract year after year without his permission until 1975. The owner could also trade him to another team, and the player could not leave to sign with a team of his choice.
+
 Curt Flood, a St. Louis Cardinals outfielder, refused to be traded to another team in December 1969. A television reporter, Howard Cosell, said to him, "You're a man who makes $90,000 a year, which isn't exactly slave wages." Flood answered, "A well-paid slave is nonetheless a slave." He sued baseball's commissioner. On June 19, 1972, five Supreme Court justices ruled against him and three sided with him.
 
 About three years later, in 1975, an arbitrator named Peter Seitz ruled in a case brought by two pitchers, Andy Messersmith and Dave McNally. An arbitrator is a person both sides agree will settle a dispute. Seitz ruled that a team could renew a player's contract without his permission for only one season. After that the player was a free agent, free to sign with any team.
@@ -349,7 +355,7 @@ About three years later, in 1975, an arbitrator named Peter Seitz ruled in a cas
 <!-- hb-zoom level="span" label="Girls' sports after Title IX" -->
 President Richard Nixon signed Title IX into law on June 23, 1972. Under it, no school or college program that gets money from the federal government may shut a person out because of sex.
 
-**The count.** In the 1971-72 school year 294,015 girls and 3,666,917 boys played high-school sports, so girls were about 7 of every 100 players. By 1977-78 about 2.1 million girls played. In 1999-2000, 2,675,874 girls and 3,861,749 boys played, and girls were about 41 of every 100, according to counts by the National Federation of State High School Associations. That is about nine times as many girls as in 1971-72.
+**The count.** About nine times as many girls played high-school sports in 1999-2000 as in 1971-72, according to counts by the National Federation of State High School Associations. In the 1971-72 school year about 294,000 girls played, and girls were about 7 of every 100 players. By 1999-2000 about 2.7 million girls played, and girls were about 41 of every 100.
 
 Yale University had 13 women's varsity teams, the college's top teams, in 1979. Writers for Yale's library later stated in an online exhibit that those teams got "only a grudging fraction of the resources" given to the men's teams.
 <!-- /hb-zoom -->
@@ -384,7 +390,9 @@ Ernst was a backup rower for the 1976 Olympic team, the first Olympic Games with
 
 Billie Jean King was born in Long Beach, California, in 1943. At 11 she switched from softball to tennis after her parents suggested a more "ladylike" sport. She saved the $8 and took free lessons on the city's public courts. As a young player she was kept out of a group photograph because she wore shorts her mother had sewn instead of a tennis dress. The account does not name who left her out.
 
-**The Battle of the Sexes.** King founded the Women's Tennis Association, a group that represents women players, in June 1973. On September 20, 1973, she beat Bobby Riggs, who was 55, 6-4, 6-3, 6-3, at the Houston Astrodome. About 30,000 people watched in the stadium and about 50 million on television in the United States. She won $100,000.
+**The Battle of the Sexes.** King founded the Women's Tennis Association, a group that represents women players, in June 1973. Three months later she played Bobby Riggs in a match called the "Battle of the Sexes," because it set a man against a woman. Riggs was 55, and King was 29. She beat him 6-4, 6-3, 6-3 at the Houston Astrodome on September 20, 1973.
+
+About 30,000 people watched in the stadium, about 50 million on television in the United States, and about 90 million more in 37 other countries. She won $100,000.
 
 King won 39 Grand Slam titles, the four biggest tennis championships. She received the Presidential Medal of Freedom in 2009.
 <!-- hb-story:end slug="billie-jean-king" -->
@@ -396,7 +404,9 @@ Some computer games were made for school. Three student teachers from Carleton C
 
 Atari sold *Pong* from November 29, 1972, at 25 cents a game, and sold more than 8,000 machines by the end of 1974. Bushnell said players sat "shoulder to shoulder" and could talk, laugh and challenge each other.
 
-Sears sold a home version of *Pong* for $98.95 at Christmas 1975. Atari's home game machine came out in 1977 for $199, and that one machine sold about 30 million by 1992. The company Midway began selling the arcade game *Pac-Man* in North America in October 1980. Its designer, Toru Iwatani, wanted "a nonviolent, cheerful game" that women would play. By 1981 *Pac-Man* machines had taken in more than $1 billion in quarters.
+Sears sold a home version of *Pong* for $98.95 at Christmas 1975. Atari's own home game machine came out in 1977 for $199. By 1992 Atari had sold about 30 million of that one model.
+
+The company Midway began selling the arcade game *Pac-Man* in North America in October 1980. Its designer, Toru Iwatani, wanted "a nonviolent, cheerful game" that women would play. By 1981 *Pac-Man* machines had taken in more than $1 billion in quarters.
 
 **The crash.** About 30 million game machines of all makes sat in American homes by 1982, and about 35 million households had children aged 6 to 16. Then sales fell, from about $3.2 billion in 1983 to about $100 million in 1985. Workers for Atari buried about 728,000 unsold game cartridges in a landfill at Alamogordo, New Mexico, in September 1983.
 
@@ -414,22 +424,22 @@ Haudenosaunee (Iroquois) people formed their own national lacrosse team in 1983,
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How did a child's afternoon change?" -->
-Children spent less of it in free play and more of it in school, lessons and organized sports. National travel surveys also record how they got to school. In 1969, 47.7 of every 100 children in kindergarten through eighth grade usually walked or biked to school, 12.2 were driven and 38.3 rode the school bus. A national survey in 1995 used a different measure: how children got to school on the survey day. On that day 44.9 of every 100 went by car, and about 14 walked or biked.
+Children spent less of it in free play and more of it in school, lessons and organized sports.
 
-Noreen McDonald and other researchers took these figures from the surveys in a study of 2011.
+**Walking or riding.** Nearly half of children in kindergarten through eighth grade usually walked or biked to school in 1969, and about 12 of every 100 were driven, according to national travel surveys studied by Noreen McDonald and other researchers. A 1995 survey asked a slightly different question: how children got to school on the survey day. That day nearly half went by car, and about 14 of every 100 walked or biked.
 
 **Time diaries.** The researchers Sandra Hofferth and John Sandberg compared diaries of how children spent their time in 1981 and in 1997. Children spent more time in school, day care, sports and art lessons. They spent less time in free play, housework and watching television. The drop in free play showed up among children whose mothers stayed home as well as those whose mothers had jobs.
 
 More mothers did work for pay. In 1975, 47 of every 100 mothers with children under 18 were working or looking for work. By 2000 it was 73 of every 100, according to the US Bureau of Labor Statistics.
 
-About 6.9 million children aged 5 to 14, or 18 of every 100, regularly looked after themselves for part of the week in the fall of 1995. On average they did so for about six hours a week. About 15 million children that age took part in sports, lessons or clubs, according to the US Census Bureau.
+**On their own.** About 18 of every 100 children aged 5 to 14, some 6.9 million, regularly looked after themselves for part of the week in the fall of 1995. On average they did so for about six hours a week. More than twice as many children that age, about 15 million, took part in sports, lessons or clubs, according to the US Census Bureau.
 
 **Private teams.** Organized sport also became more private. In a survey of adults published in 2025, about 4 of every 100 who were born in the 1950s said they had played on a private club or travel team as children. For those born in the 1990s it was 13 of every 100. The researchers, Chris Knoester and Chris Bjork, found that children whose parents had more schooling were more likely to play on these teams.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
 **If you remember one thing:** Girls won their way into Little League and school sports through a court case and a new law, while children spent less time in free play and more in lessons and organized sports.
-**One question this era leaves open:** American homes held about 30 million game machines by 1982. Do screens harm children's attention and mood? The next era gives what researchers found, and where they disagree.
+**One question this era leaves open:** Senators held hearings on violent video games in 1993 and 1994. Do games and screens harm children? The next era gives what researchers later found about attention and mood, and where they disagree.
 **Next:** After 2000 children's free time moved onto phones and into games played online with strangers.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
@@ -493,27 +503,33 @@ Hours after he won, someone broke into his Twitter account and his account on Tw
 <!-- hb-story:end slug="kyle-giersdorf" -->
 
 <!-- hb-zoom level="span" label="What is measured" -->
-Fewer children walk or bike to school. In 1969, 47.7 of every 100 children in kindergarten through eighth grade usually did. In 2009 it was 12.7 of every 100, according to national travel surveys studied by Noreen McDonald and other researchers. In 2017, among students aged 5 to 17, 9.6 of every 100 usually walked and 1.1 biked, according to a later government travel survey.
+Researchers who surveyed children after 2000 found that they walked less and had less free time than children in earlier years. Team sports cost families hundreds of dollars a year, children from richer homes played more, and more children had obesity.
 
-**Less free time.** Sandra Hofferth's later diaries of children aged 6 to 12 showed their free time falling from about 57 hours a week in 1981 to about 48 hours in 2003. From 1997 to 2003 the share who played a sport on the diary days fell from 76 to 60 of every 100. The share who spent time in outdoor activities fell from 16 to 10 of every 100. Hofferth's diaries end in 2003.
+Fewer children walk or bike to school. Nearly half did in 1969. By 2009 it was about 13 of every 100, according to the national travel surveys studied by Noreen McDonald and other researchers. In 2017 about 11 of every 100 students aged 5 to 17 usually walked or biked, according to a later government travel survey.
+
+**Less free time.** Sandra Hofferth's later time diaries of children aged 6 to 12 showed their free time falling from about 57 hours a week in 1981 to about 48 hours in 2003, the year her diaries end.
+
+The share who played a sport on the diary days fell from 76 to 60 of every 100 between 1997 and 2003. The share who spent time in outdoor activities fell from 16 to 10 of every 100.
 
 The National Survey of Children's Health is a government survey of parents. It found in 2023 that 55 of every 100 children aged 6 to 17 played on a sports team or took sports lessons. Children from richer homes played more.
 
-The gap was already plain in 2012: 35.5 of every 100 children in homes earning under $25,000 a year played a sport regularly, against 49.1 of every 100 in homes earning $100,000 or more. By 2024 the gap between those two groups had grown to 20.2 points, according to the Sports and Fitness Industry Association.
+The gap was already plain in 2012. About 35 of every 100 children in homes earning under $25,000 a year played a sport regularly, against about 49 of every 100 in homes earning $100,000 or more. By 2024 the difference between those two groups had grown to about 20 of every 100 children, according to the Sports and Fitness Industry Association.
 
-**What it costs.** The average parent spent $883 in a year on one child's main sport, in a 2022 survey by the Aspen Institute and Utah State University. Soccer averaged $1,188 and basketball $1,002. Travel to games and tournaments cost more than any other part. The richest families spent about four times as much as the poorest.
+**What it costs.** The average parent spent $883 in a year on one child's main sport, in a 2022 survey by the Aspen Institute and Utah State University. Travel to games and tournaments cost more than any other part. The richest families spent about four times as much as the poorest.
 
 Fifteen of the 50 states had rules in 2012 that recommended or required a daily recess, according to a 2013 report by the research group Bridging the Gap.
 
-Doctors measure obesity by comparing a child's weight with the child's height. From 1971 to 1974, 5.2 of every 100 children aged 2 to 19 had obesity. From 2017 to March 2020 it was 19.7 of every 100, nearly four times as many, about 14.7 million children, according to the Centers for Disease Control and Prevention. In the poorest homes it was 25.8 of every 100, and in the richest homes 11.5.
+Doctors measure obesity by comparing a child's weight with the child's height. From 1971 to 1974, about 5 of every 100 children aged 2 to 19 had obesity. From 2017 to March 2020 it was about 20 of every 100, nearly four times as many, or about 14.7 million children, according to the Centers for Disease Control and Prevention. In the poorest homes it was about 26 of every 100, and in the richest about 12.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What researchers disagree about" -->
 ADHD stands for attention-deficit/hyperactivity disorder. Doctors diagnose it when a child has trouble paying attention, or is overactive and acts without thinking, badly enough to cause problems in more than one place, such as at home and at school.
 
-**The count.** In national surveys of parents, 9.5 of every 100 children aged 4 to 17 had been diagnosed with ADHD in 2007, and 11 of every 100 in 2011, a rise of 42 percent since 2003. In 2022, 11.4 of every 100 children aged 3 to 17 had been diagnosed, about 7.1 million children, according to a 2024 study by M. L. Danielson and other researchers.
+**The count.** In national surveys of parents, 9.5 of every 100 children aged 4 to 17 had been diagnosed with ADHD in 2007, and 11 of every 100 in 2011. The researchers who reported those counts wrote that the rise "could also reflect better detection" and more awareness, not only more children with ADHD.
 
-The American Psychiatric Association changed its rules for diagnosing ADHD in 2013. Its manual of mental disorders now allowed a diagnosis when symptoms began by age 12 instead of age 7. The researchers who counted the diagnoses wrote that the rise "could also reflect better detection" and more awareness, not only more children with ADHD. They also wrote that the survey changed its methods in 2022, which makes it harder to compare 2022 with earlier years.
+The American Psychiatric Association changed its rules for diagnosing ADHD in 2013. Its manual of mental disorders now allowed a diagnosis when symptoms began by age 12 instead of age 7. That change came after the 2011 count, so it could explain only a rise that came later.
+
+In 2022, 11.4 of every 100 children aged 3 to 17 had been diagnosed, about 7.1 million children, according to a 2024 study by M. L. Danielson and other researchers. They wrote that the survey changed its methods in 2022, which makes it harder to compare 2022 with earlier years.
 
 **A study of screens and attention.** Researchers have studied whether screens are linked to attention problems. A team at the University of Southern California, led by Chaelin Ra and Adam Leventhal, followed 2,587 high-school students in Los Angeles County for two years, in a study printed in 2018. None had serious ADHD symptoms at the start. Students who used more kinds of digital media many times a day later reported more ADHD symptoms.
 
@@ -521,11 +537,11 @@ Among students who used no kind of media that often, 4.6 of every 100 reported t
 
 Other researchers studied something different: how well teenagers felt. The Oxford researchers Orben and Przybylski studied surveys of 355,358 teenagers in the United States and Britain in 2019. They found that technology use explained "at most 0.4%" of the differences in how well teenagers felt. That is less than half of one percent. They called the link "too small to warrant policy change," meaning too small to be a reason for new laws or rules.
 
+**By 2022:** Ninety-five of every 100 teenagers had or could use a smartphone, 46 of every 100 said they were online "almost constantly," and researchers still disagreed about what screens did to children.
+
 **The argument over a book.** The psychologist Jonathan Haidt of New York University published a book called *The Anxious Generation* in 2024. He wrote that phone and social media companies had "rewired childhood" by taking the place of play and time with friends.
 
 The psychologist Candice Odgers of the University of California, Irvine, answered in the science journal *Nature* on March 29, 2024. She wrote that the book's "repeated suggestion that digital technologies are rewiring our children's brains and causing an epidemic of mental illness is not supported by science." She wrote that studies had found "a mix of no, small and mixed associations." She agreed that the social media companies needed to make large changes.
-
-**By 2022:** Ninety-five of every 100 teenagers had or could use a smartphone, 46 of every 100 said they were online "almost constantly," and researchers still disagreed about what screens did to children.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Football and the brain" -->
@@ -591,8 +607,6 @@ At least seven other girls and women had told someone about Nassar over twenty y
 <!-- hb-story:end slug="rachael-denhollander" -->
 
 <!-- hb-zoom level="span" label="College athletes paid" -->
-**By 2018:** Doctors had tied CTE to football, the NFL had agreed to pay retired players with brain illness, and Larry Nassar had been given prison sentences so long that he will die in prison.
-
 NCAA rules let college athletes receive only scholarships and school costs until 2021. California's governor, Gavin Newsom, signed the first state law letting college athletes be paid for their name, image and likeness, meaning for ads and appearances that use who they are, in September 2019.
 
 All nine Supreme Court justices ruled against NCAA limits on education benefits on June 21, 2021, in *NCAA v. Alston*. Justice Brett Kavanaugh wrote that antitrust law, which forbids businesses from agreeing to hold down pay, "should not be a cover for exploitation of the student athletes." From July 1, 2021, NCAA officials let athletes be paid for their name, image and likeness.
@@ -600,6 +614,8 @@ All nine Supreme Court justices ruled against NCAA limits on education benefits 
 **The settlement.** Grant House, a swimmer at Arizona State, and Sedona Prince, a basketball player, sued the NCAA in 2020. Judge Claudia Wilken approved a settlement on June 6, 2025. Athletes who played from 2016 to 2024 will share about $2.8 billion over ten years.
 
 Each college may pay its athletes directly from the 2025-26 school year, up to about $20.5 million that year, a limit that rises 4 percent a year. Eight women athletes asked a higher court to change the settlement. They argued that most of the money would go to men who played football and basketball.
+
+**By 2025:** Doctors had tied CTE to football, Larry Nassar was serving prison sentences so long that he will die in prison, and a judge had approved a settlement under which colleges may pay their athletes directly.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Betting on games" -->
@@ -641,7 +657,7 @@ Tickets for the final started at $6,730. For the first time, FIFA officials rais
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - Who invented baseball? No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The Doubleday story rests on one letter from a man who was 5 years old in 1839.
-- Who was kept out of American games, and how did they get in? The people who ran the games kept out laborers, enslaved riders, Black players, girls and Black swimmers. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX, and some by playing anyway, like Jackie Robinson in 1947.
+- Who was kept out of American games, and how did they get in? The people who ran the games kept out laborers, Black players, girls and Black swimmers, and left enslaved riders' names off the race cards. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX. Jackie Robinson got in when Branch Rickey signed him, and Kathryn Johnston played anyway, under a boy's name.
 - How has children's free time changed? In the 1830s Lucy Larcom made doll furniture from burrs while the grown-ups left the children alone. Since then more of children's time has gone to lessons and organized sports, and by 2022, 95 of every 100 teenagers had or could use a smartphone.
 
 **What changed:** Play moved from fields the players ran themselves to leagues, arenas and screens run by adults and companies, and the fight over who could play moved from a county court in Virginia to the Supreme Court.
@@ -653,7 +669,7 @@ Tickets for the final started at $6,730. For the first time, FIFA officials rais
 - June 23, 1972: President Nixon signs Title IX.
 - July 28, 2019: Kyle Giersdorf, 16, wins the first *Fortnite* World Cup.
 
-**Not known:** how Native games were played before 1500, because nobody wrote down their rules at the time.
+**Not known:** how old the Native ball games played with sticks are, because no object or written record dates one before 1500.
 
 **Where to go:** The National Baseball Hall of Fame in Cooperstown, New York, holds Josh Gibson's plaque, which says he hit "almost 800" home runs.
 

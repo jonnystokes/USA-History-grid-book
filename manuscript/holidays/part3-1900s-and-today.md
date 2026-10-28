@@ -24,7 +24,7 @@ Store owners used the holidays to sell. Workers at Macy's department store in Ne
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who thought of Mother's Day first?" -->
-Other Americans had proposed a day for mothers before Anna Jarvis did. In 1872 Julia Ward Howe, who wrote "The Battle Hymn of the Republic," started a Mothers' Peace Day. People held services for it every June 2 until about 1913. In 1887 Mary Towles Sasseen of Henderson, Kentucky, made a plan for schools to honor mothers. In February 1904 Frank Hering of the Fraternal Order of Eagles, a men's club, gave a speech about a day for mothers. The Eagles still call themselves the "true founders" of Mother's Day.
+Julia Ward Howe, who wrote "The Battle Hymn of the Republic," came first. In 1872 she started a Mothers' Peace Day, a day for peace held each June 2, and people kept it with services until about 1913. Two more proposals came before Anna Jarvis's. In 1887 Mary Towles Sasseen of Henderson, Kentucky, made a plan for schools to honor mothers. In February 1904 Frank Hering of the Fraternal Order of Eagles, a men's club, gave a speech about a day for mothers. The Eagles still call themselves the "true founders" of Mother's Day.
 
 **The law.** President Woodrow Wilson approved a joint resolution, a measure that both houses of Congress pass together, on May 8, 1914. It named the second Sunday in May as Mother's Day. The next day, Wilson asked Americans to fly the flag on that day "as a public expression of our love and reverence for the mothers of our country." He asked for nothing more, and since Mother's Day fell on a Sunday, no one got a day off for it.
 <!-- /hb-zoom -->
@@ -61,13 +61,15 @@ By 1926 the lawmakers of 27 states had made November 11 a holiday. That year sen
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why Thanksgiving is the fourth Thursday, not the last" -->
-Workers at Macy's department store in New York City marched to the store in costume on November 27, 1924. They brought floats and animals from the Central Park Zoo. At the end of the parade, Santa Claus arrived at the store. The parade was held again in later years, and in 1933 more than a million people watched it.
+**The date fight.** Thanksgiving falls on the fourth Thursday of November because of a fight over the date that began in 1939. That year November had five Thursdays, and the last one fell on November 30. President Franklin Roosevelt was worried that a short shopping season before Christmas would slow the country's recovery from the Great Depression. The Great Depression was the long period of hard times in the 1930s, when many Americans had no work. Roosevelt moved Thanksgiving a week earlier, to November 23, to help stores.
+
+The governors of 32 states followed him. The governors of 16 states kept the last Thursday, by the National Archives' count, and a history website called Ghosts of DC counts 23 states that refused. For two years, Americans kept two different Thanksgivings.
+
+The members of Congress ended the confusion in 1941. They set Thanksgiving by law as the fourth Thursday in November. In a year when November has five Thursdays, that is a week before the last one. Roosevelt signed the law on December 26, 1941.
+
+**The parade.** Workers at Macy's department store in New York City marched to the store in costume on November 27, 1924. They brought floats and animals from the Central Park Zoo. At the end of the parade, Santa Claus arrived at the store. The parade was held again in later years, and in 1933 more than a million people watched it.
 
 New York children had their own Thanksgiving custom before the parade. From about 1870 into the 1920s, on Ragamuffin Day, they dressed in costumes and begged from door to door. Fewer children kept the custom over the years, and the last ragamuffin parade in New York City was held in 1956.
-
-**The date fight.** In 1939 the last Thursday in November fell on November 30. President Franklin Roosevelt was worried that a short shopping season before Christmas would slow the country's recovery from the Great Depression. The Great Depression was the long period of hard times in the 1930s, when many Americans had no work. Roosevelt moved Thanksgiving a week earlier, to November 23, to help stores.
-
-The governors of 32 states followed him. The governors of 16 states kept the last Thursday, by the National Archives' count. A history website called Ghosts of DC counts 23 states that refused. For two years, Americans kept two different Thanksgivings. In 1941 the members of Congress set Thanksgiving by law as the fourth Thursday in November. Roosevelt signed the law on December 26, 1941.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Columbus Day, 1905 to 1937" -->
@@ -85,7 +87,7 @@ Federal workers, the people who work for the national government, did not get th
 
 **Juneteenth grows smaller.** Juneteenth, June 19, marks the day in 1865 when a Union general announced in Galveston that slavery had ended in Texas. A Boston Public Library history says Juneteenth celebrations began to grow smaller in the early 1900s. One reason, it says, is that teachers taught that the Emancipation Proclamation, President Lincoln's 1863 order freeing enslaved people in the states fighting the Union, had ended slavery. During the Great Depression, the same history says, many people were forced to work in cities, and employers there did not want to give workers the day off.
 
-**Memorial Day 1937.** Chicago police shot and killed ten people on Memorial Day 1937 who were marching in support of striking steelworkers at the Republic Steel plant.
+**Memorial Day 1937.** Decoration Day was by then also called Memorial Day. On that holiday, May 30, 1937, Chicago police shot and killed ten people who were marching in support of striking steelworkers at the Republic Steel plant. Chapter 14 describes the march and the killings.
 
 **The dances.** Commissioner Hiram Price's 1883 rules, which made the Sun Dance and other ceremonies "Indian offenses" punished by taking away food rations, were still in force. Charles Burke, the Commissioner of Indian Affairs, the official who ran the government's office for Native affairs, sent out an order in 1921 that let the officials in charge of reservations shut down Native dances. He added to it in 1923.
 <!-- /hb-zoom -->
@@ -123,7 +125,7 @@ Veterans' groups objected to moving Veterans Day, and 46 states kept November 11
 <!-- hb-zoom level="span" label="Kwanzaa, from 1966" -->
 Maulana Karenga, a Black activist who led a group called Us in the Los Angeles area, created Kwanzaa in 1966. The Root, a news site, says members of Us created it together. Kwanzaa runs for seven days, from December 26 to January 1. In 1965 Karenga wrote seven principles, the Nguzo Saba, and families talk about one of them on each night of Kwanzaa. The first is Umoja, the Swahili word for unity. Swahili is a language spoken in East Africa. The name Kwanzaa comes from a Swahili phrase meaning "first fruits." The last day ends with a feast called Karamu.
 
-At first Karenga said that Kwanzaa gave Black Americans "an alternative to the existing holiday." In 1997 he wrote that it "was not created to give people an alternative to their own religion or religious holiday." The US Postal Service issued the first Kwanzaa stamp in 1997. Counts of how many Americans celebrate Kwanzaa are only rough estimates. One estimate in 2009 put the number between 500,000 and 2 million. In a 2019 National Retail Federation poll, 2.6 percent of the people who celebrated a winter holiday said they planned to celebrate Kwanzaa.
+At first Karenga said that Kwanzaa gave Black Americans "an alternative to the existing holiday." In 1997 he wrote that it "was not created to give people an alternative to their own religion or religious holiday."
 
 **The crimes.** A California court convicted Karenga in 1971 of two crimes, felony assault and false imprisonment. Felony assault is a serious crime of attacking a person. False imprisonment means holding people against their will so they cannot leave. The charges came from what was done to two women at his home in Inglewood, California. The Root describes the crimes as torturing the two women. The women, Deborah Jones and Gail Davis, were members of his group.
 
@@ -132,6 +134,8 @@ At the trial, Jones and Brenda Karenga testified that Karenga believed the two w
 She testified that a hot soldering iron, a tool that heats metal to join wires, was put in Davis's mouth and pressed against Davis's face. One of Jones's own big toes was squeezed in a vise, a clamp that tightens with a screw. Jones said Karenga himself put detergent and running water hoses in their mouths. The news report of her testimony does not say who did each of the other acts.
 
 Karenga was sentenced to one to ten years in prison and was released on parole in 1975. Parole is an early release from prison under rules. He has denied the charges and called them "trumped up," which means made up, and "politically motivated." He says he was one of many people the FBI went after for political reasons.
+
+**After the trial.** People went on keeping Kwanzaa after the trial and Karenga's years in prison. The US Postal Service issued the first Kwanzaa stamp in 1997, and that year President Bill Clinton sent the first Kwanzaa message from a president. Counts of how many Americans celebrate Kwanzaa are only rough estimates. One estimate in 2009 put the number between 500,000 and 2 million. In a 2019 National Retail Federation poll, 2.6 percent of the people who celebrated a winter holiday said they planned to celebrate Kwanzaa.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Juneteenth comes back, 1968 to 1980" -->
@@ -162,9 +166,9 @@ One plaque stands on Cole's Hill. The other stands in Post Office Square in Plym
 
 **Invited to speak, then told his speech was out of place.**
 
-Frank James started the National Day of Mourning in 1970, after the organizers of a state celebration for a Pilgrim anniversary rejected the speech he had written for it. He was Aquinnah Wampanoag, and he led the Wampanoag Tribe of Gay Head. His Wampanoag name was Wamsutta. Massasoit's eldest son, a Wampanoag leader of the 1600s, had the same name.
+In September 1970, Massachusetts officials planning the celebration of the 350th anniversary of the Pilgrims' landing invited Frank James to speak. Governor Francis Sargent was among the organizers. James was Aquinnah Wampanoag, and he led the Wampanoag Tribe of Gay Head. His Wampanoag name was Wamsutta, the same name as Massasoit's eldest son, a Wampanoag leader of the 1600s.
 
-In September 1970, Massachusetts officials planning the celebration of the 350th anniversary of the Pilgrims' landing invited him to speak. Governor Francis Sargent was among the organizers. James wrote his speech from the Pilgrims' own records, including William Bradford's history and *Mourt's Relation*, a book of Pilgrim writings printed in London in 1622. It began: "I speak to you as a man, a Wampanoag Man."
+James wrote his speech from the Pilgrims' own records, including William Bradford's history and *Mourt's Relation*, a book of Pilgrim writings printed in London in 1622. It began: "I speak to you as a man, a Wampanoag Man."
 
 In the speech, James wrote that within four days of landing, the Pilgrims "had robbed the graves of my ancestors and stolen their corn and beans." He wrote that "before 50 years were to pass, the Wampanoag would no longer be a free people."
 
@@ -174,7 +178,7 @@ On Thanksgiving Day 1970, he spoke instead on Cole's Hill in Plymouth, beside th
 <!-- hb-story:end slug="frank-james-wamsutta" -->
 
 <!-- hb-zoom level="span" label="Fifteen years to get King's day, 1968 to 1983" -->
-It took 15 years of campaigning to make Martin Luther King Jr.'s birthday a national holiday. James Earl Ray, a white man, shot and killed King in Memphis on April 4, 1968. Ray pleaded guilty in 1969 and was sentenced to 99 years in prison. He spent 30 years trying to take back his plea. In 1999 a jury in a lawsuit found that there had been a conspiracy, a secret plan by several people, to kill King. In 2000 Justice Department lawyers found those claims could not be believed.
+It took 15 years of campaigning to make Martin Luther King Jr.'s birthday a national holiday. James Earl Ray, a white man, shot and killed King in Memphis on April 4, 1968, and pleaded guilty the next year. Chapter 25 tells the killing and the later dispute over whether others planned it.
 
 **The first bill.** Four days after the killing, Representative John Conyers of Michigan brought a bill to Congress for a national holiday on King's birthday, January 15. The House members on the committee in charge of the bill took no action on it. Members of the Southern Christian Leadership Conference, the group King had led, gathered 3 million signatures on petitions in the early 1970s. In 1973 lawmakers in Illinois made the first state King holiday. State lawmaker Harold Washington was the bill's sponsor, the lawmaker who brought it forward.
 
@@ -221,11 +225,13 @@ She died on January 27, 2015, at 88. Governor Matt Mead ordered flags lowered in
 <!-- hb-story:end slug="liz-byrd" -->
 
 <!-- hb-zoom level="span" label="Pride marches, and Columbus Day renamed, 1970 to 1999" -->
-Several thousand people marched 51 blocks on June 28, 1970, from Sheridan Square in Greenwich Village to the Sheep Meadow in Central Park, in New York City. Their permit came two hours before the start. The march came one year after police raided the Stonewall Inn, a gay bar in the city. The organizers' counts ranged from 3,000 to 20,000, and the *New York Times* put the march on its front page. Craig Rodwell and three others had proposed a yearly march in 1969.
-
-**Columbus Day renamed.** In 1977, people at a United Nations conference in Geneva, Switzerland, discussed replacing Columbus Day with a day for Indigenous peoples. The year 1992 was the 500th anniversary of Columbus's first voyage. That year a group from the San Francisco Bay Area called Resistance 500 persuaded the city council of Berkeley, California, to declare October 12 a "Day of Solidarity with Indigenous People." Solidarity means standing together. The council members renamed the day Indigenous Peoples Day.
+Several thousand people marched for gay and lesbian rights in New York City on June 28, 1970. They walked 51 blocks, from Sheridan Square in Greenwich Village to the Sheep Meadow in Central Park. Their permit came two hours before the start. The march came one year after police raided the Stonewall Inn, a gay bar in the city. The organizers' counts ranged from 3,000 to 20,000, and the *New York Times* put the march on its front page. Craig Rodwell and three others had proposed a yearly march in 1969.
 
 **Pride Month.** The New York march has been held every June since 1970. People call these marches Pride marches. On June 11, 1999, President Bill Clinton proclaimed June "Gay and Lesbian Pride Month." It was the first time a president had proclaimed it.
+
+**Columbus Day renamed.** Columbus's men enslaved Taino people, as Chapter 1 tells, and Native groups and others protested a national day in his honor. In 1977, people at a United Nations conference in Geneva, Switzerland, discussed replacing Columbus Day with a day for Indigenous peoples.
+
+The 500th anniversary of Columbus's first voyage came in 1992. That year a group from the San Francisco Bay Area called Resistance 500 persuaded the city council of Berkeley, California, to declare October 12 a "Day of Solidarity with Indigenous People." Solidarity means standing together. The council members renamed the day Indigenous Peoples Day.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
@@ -240,7 +246,7 @@ In 2000: King's day was a federal holiday and every state had named a day for hi
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 10 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 Since 2000 the members of Congress have added one federal holiday, Juneteenth, in 2021. Lawmakers in Virginia and Arkansas stopped joining King's day to days for Confederate generals. Alabama and Mississippi still honor Robert E. Lee on the same Monday as King.
 
@@ -301,18 +307,18 @@ The National Day of Mourning is still held at noon on Cole's Hill in Plymouth ev
 <!-- hb-zoom level="span" label="Pride Month, and new days for more communities" -->
 President Barack Obama proclaimed Lesbian, Gay, Bisexual and Transgender Pride Month in 2009. President Biden added more groups to the name in 2022.
 
+Halloween, on October 31, is not a federal holiday, but Americans spend billions of dollars on it. The National Retail Federation, a trade group for stores, has surveyed shoppers each year since 2005. In September 2026 it reported that Halloween spending had reached a record $13.1 billion in 2025. Its survey forecast $13.5 billion for 2026. These are estimates from a survey, not counts of actual sales.
+
 Americans also began to keep more communities' days. Cinco de Mayo, the fifth of May, marks the Mexican army's defeat of French troops at Puebla, Mexico, on May 5, 1862. Latinos in California began celebrating it during the Civil War, according to David Hayes-Bautista, a scholar at the University of California, Los Angeles. Hayes-Bautista says it is scarcely observed in Mexico. It is not Mexico's Independence Day, which is September 16.
 
 New York's governor, Kathy Hochul, signed a law in September 2023 that closes all the state's public schools for Lunar New Year, the start of the year in calendars based on the moon. California's governor, Gavin Newsom, signed a law in October 2025 making Diwali a state holiday from 2026. California was the third state to do so, after Pennsylvania and Connecticut. Diwali is the festival of lights, kept mostly by Hindus, Sikhs, Jains and Buddhists.
-
-Halloween, on October 31, is not a federal holiday, but Americans spend billions of dollars on it. The National Retail Federation, a trade group for stores, has surveyed shoppers each year since 2005. In September 2026 it reported that Halloween spending had reached a record $13.1 billion in 2025. Its survey forecast $13.5 billion for 2026. These are estimates from a survey, not counts of actual sales.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - Who decided when Americans would give thanks, and why did it take until 1941 to fix the date? Governors and church elders set the days one at a time, until Lincoln proclaimed a national Thursday in 1863 at Sarah Josepha Hale's request. Every president after him named the day by proclamation, so when Franklin Roosevelt moved it in 1939 to help stores, sixteen states refused by the National Archives' count, and Congress ended the confusion with the 1941 law.
 - Which days did Black Americans make their own, from election days to Juneteenth? Black governors' election days in New England from about 1749, January 1 from 1808, July 5 in New York in 1827, August 1 after 1834, and Juneteenth from 1866, which Congress made a federal holiday in 2021.
-- Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it? He proclaimed it for the 400th anniversary of Columbus's landing, a year and a half after a New Orleans mob lynched eleven Italian American men, and some writers say the holiday was partly meant to calm Italy. Since Berkeley in 1992, cities and 17 states have used the day to honor Indigenous peoples instead.
+- Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it? He proclaimed it for the 400th anniversary of Columbus's landing, a year and a half after a New Orleans mob lynched eleven Italian American men, and some writers say the holiday was partly meant to calm Italy. Native groups and others object to honoring a man whose men enslaved Taino people. Since Berkeley in 1992, cities and 17 states have used the day to honor Indigenous peoples, and some of those states keep Columbus Day too.
 
 **What changed:** Ten eras ago the Faith Keepers and the Sun-priests set the days. By 2021 a majority in Congress did, and the days they chose included one, Juneteenth, that freed people in Texas had kept for 155 years without asking anyone.
 

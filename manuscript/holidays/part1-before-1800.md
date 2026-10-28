@@ -14,9 +14,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 37 of 37 · Holidays · 10 eras · about 95 minutes**
+**Chapter 37 of 37 · Holidays · 10 eras · about 100 minutes**
 
-**Every holiday on the American calendar got there because people asked for it, argued over it or fought for it, and the arguing is not over.**
+**Many American holidays exist because someone asked for a day and kept asking, and the arguing over some of them is not over.**
 
 In May 1877 a woman of 88 in Philadelphia had a helper write a letter for her, because her eyes were too weak. Her name was Sarah Josepha Hale. For about thirty years she had been asking governors and presidents to make Thanksgiving one day for the whole country. President Lincoln had proclaimed it in 1863. She was still asking Congress for a law that made the last Thursday in November a legal holiday. She died two years later. Congress passed that law in 1941.
 
@@ -102,15 +102,13 @@ Menéndez and about 800 Spanish settlers came ashore at Seloy, a Timucua town, o
 
 The historian Michael Gannon called this Mass and meal "the first community act of religion and thanksgiving in the first permanent European settlement" in North America, and the National Park Service repeats his words. The Mass came 56 years before the English colonists' harvest meal at Plymouth, in New England. The same Park Service page states that the day "did not become the origin of a national annual tradition."
 
-**What the Spanish did next.** Menéndez's soldiers captured Fort Caroline on September 20, 1565, twelve days after the Mass. They killed most of the men there. They spared the women and children and shipped them to Havana, in Cuba. Other French survivors surrendered to the Spanish at an inlet south of St. Augustine.
+**What the Spanish did next.** Within five weeks of the Mass, Menéndez's soldiers killed hundreds of French men, many of them after they had surrendered. They captured Fort Caroline on September 20, 1565, twelve days after the Mass, and killed most of the men there. They spared the women and children and shipped them to Havana, in Cuba.
 
-Menéndez's soldiers killed them there: 111 men in late September and 134 more in October, by the Park Service's count. The Park Service says the soldiers spared 16 men from the first group. A few said they were Catholic, some were sailors from Brittany (a part of France), and four were craftsmen. The Spanish named the inlet Matanzas, which means "slaughters."
+Shipwrecked French survivors then surrendered at an inlet south of St. Augustine, in two groups. Menéndez wrote that his men tied the hands of the first group behind their backs and "put them to the knife," which means they stabbed them to death. The second group came in with the French commander, Jean Ribault. By the Park Service's count, the soldiers killed 111 men from the first group, in late September, and 134 from the second, in October. The Spanish named the inlet Matanzas, which means "slaughters."
 
-Menéndez wrote to King Philip II of Spain about the killings on October 15, 1565. His letter gives different numbers. He wrote that his men cut the throats of 132 men at Fort Caroline, and of 10 more the next day. At the inlet, he wrote, his men tied the hands of the first group behind their backs. Then they "put them to the knife," which means they stabbed them to death. He spared 16 of them, and 12 of those were sailors from Brittany.
+**Two counts.** Menéndez's own letter to King Philip II of Spain records different numbers, and Chapter 22 tells the killings in full. He wrote that his men cut the throats of 132 men at Fort Caroline, and of 10 more the next day. He wrote that Ribault came in with up to 70 men, and that he spared only five of them: two young men of about 18, and three musicians who played the fife (a small flute), the drum and the trumpet. He killed Ribault and all the rest.
 
-The French commander, Jean Ribault, surrendered with up to 70 men. Menéndez spared five: two young men of about 18, and three musicians who played the fife (a small flute), the drum and the trumpet. He killed Ribault and all the rest.
-
-In the same letter Menéndez told the king why he had killed them. He wrote that they "spread the Lutheran sect," which meant the Protestant faith. He also wrote that they had built their fort "without permission of Your Majesty."
+In the same letter, dated October 15, 1565, Menéndez told the king why he had killed them. He wrote that they "spread the Lutheran sect," which meant the Protestant faith. He also wrote that they had built their fort "without permission of Your Majesty."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The thanksgiving Texans claim, 1598" -->
@@ -150,7 +148,7 @@ John Smith and his men were caught by bad weather at Kecoughtan, a Native town i
 
 Before the settlers left England, a group of men there called the Berkeley Company had given them ten written orders. The first order said the day of arrival "shall be yearly and perpetually kept holy as a day of Thanksgiving to Almighty God," and perpetually meant forever. The settlers held a service of thanks that day. The records do not show whether they held it again in the next two years.
 
-Powhatan men attacked the English settlements along the James River on March 22, 1622. They killed eleven people at Berkeley. In 1958 Senator John Wicker, the Jamieson family and descendants of John Woodlief began holding the Berkeley thanksgiving again.
+Powhatan men attacked the English settlements along the James River on March 22, 1622. Their leader, Opechancanough, meant to stop the English from taking more Powhatan land, as Chapter 22 describes. Powhatan fighters killed eleven people at Berkeley. In 1958 Senator John Wicker, the Jamieson family and descendants of John Woodlief began holding the Berkeley thanksgiving again.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The harvest meal at Plymouth, 1621" -->
@@ -301,19 +299,19 @@ Crowds greeted the public readings of the Declaration in July 1776 with parades,
 
 **The oldest Fourth of July that never stopped: Bristol, since 1785.**
 
-Henry Wight started the yearly Fourth of July celebration in Bristol, Rhode Island, in 1785, when he led the town's first Patriotic Exercises. The town still holds it, and the town government calls it the oldest Fourth of July celebration in the United States that has never stopped.
+Henry Wight began the yearly Fourth of July ceremony in Bristol, Rhode Island, in 1785, when he led the town's first Patriotic Exercises. In a speech that day he honored the veterans of the war and celebrated the new country's freedoms. The town has held the ceremony every year since, and the town government calls it the oldest Fourth of July celebration in the United States that has never stopped.
 
 Wight had left his studies at Harvard to serve in the Revolutionary War. One account says he served as a soldier. Another says he served as a surgeon, a doctor who operates on the body. In January 1785 the 36 members of the First Congregational Church of Bristol hired him as their minister.
 
-**Whose land Bristol stands on.** Bristol stands on Mount Hope, called Montaup in the Pokanoket language. It was part of the homeland of the Pokanoket Wampanoag. Metacom, a Wampanoag leader whom the English called King Philip, had his base there. In 1675 and 1676 he led a war against the New England colonies, called King Philip's War. On August 12, 1676, Metacom was killed at Mount Hope in an ambush led by the English captain Benjamin Church. A Native man serving with the English shot him dead. The English put Metacom's head on display at Plymouth and sold his wife and nine-year-old son into slavery.
+**Whose land Bristol stands on.** Bristol stands on Mount Hope, called Montaup in the Pokanoket language, in the homeland of the Pokanoket Wampanoag. The Wampanoag leader Metacom, whom the English called King Philip, had his base there and led a war against the New England colonies in 1675 and 1676, called King Philip's War. On August 12, 1676, in an ambush at Mount Hope led by the English captain Benjamin Church, a Native man serving with the English shot Metacom dead.
 
-After the war, Plymouth Colony's leaders treated Mount Hope as the colony's land. In 1680 they sold it to four Boston merchants, John Walley, Nathaniel Byfield, Stephen Burton and Nathaniel Oliver, for 1,100 pounds. They shared the money among the colony's towns to pay the war's debts. The town of Bristol was founded on the land that year, and Plymouth Colony made it a town by law on October 28, 1681.
+The English put his head on display at Plymouth and sold his wife and nine-year-old son into slavery. In 1680 Plymouth Colony's leaders sold Mount Hope to four Boston merchants for 1,100 pounds, and the town of Bristol was founded there.
 
-**The cannon.** The people of Bristol had fired cannon on the Fourth before Wight came. In 1777, one account says, "they ushered in the morning by firing 13 cannons, one for each colony." In 1785 Wight gave a speech that honored the veterans and celebrated the new country's freedoms. The town's Fourth of July committee gives the early 1800s as the likely start of Bristol's parade. Wight died in 1837.
+**Before Wight.** The people of Bristol had already marked the Fourth with cannon. In 1777, one account says, "they ushered in the morning by firing 13 cannons, one for each colony." What began in 1785 was the yearly ceremony. The town's Fourth of July committee gives the early 1800s as the likely start of Bristol's parade. Wight died in 1837.
 <!-- hb-story:end slug="henry-wight-holidays" -->
 
 <!-- hb-zoom level="span" label="Thanksgiving days for the new country" -->
-The British general John Burgoyne and his army surrendered to American soldiers at Saratoga, New York, on October 17, 1777. The members of the Continental Congress then set December 18, 1777, as a day of thanksgiving for the whole country. Over the war years they named days of fasting in 1775, 1776, 1778, 1779, 1780, 1781 and 1782, and days of thanksgiving in 1777, 1778, 1781 and 1783.
+The British general John Burgoyne and his army surrendered to American soldiers at Saratoga, New York, on October 17, 1777. The members of the Continental Congress then set December 18, 1777, as a day of thanksgiving for the whole country. Over the war years they named at least one day of fasting or of thanksgiving in every year from 1775 to 1783.
 
 Elias Boudinot of New Jersey was a member of the new House of Representatives. In 1789 he asked the other members of Congress to request a day of thanksgiving. The members of both houses agreed. They asked the president to name a day of thanks for the chance "peaceably to establish a form of government." On October 3, 1789, President George Washington named Thursday, November 26, 1789, as a day of thanksgiving.
 
@@ -333,13 +331,13 @@ To catch up with that calendar, they took eleven days out of September 1752. In 
 <!-- hb-zoom level="span" label="Four days off at Christmas, and who got none" -->
 Mount Vernon was George Washington's plantation in Virginia. Mary V. Thompson, writing for Mount Vernon, says the evidence shows that most enslaved workers there had four days off at Christmas. They used the days to rest and to visit family, at Mount Vernon and on nearby plantations. For the enslaved cooks, housemaids, waiters and others who worked in the house, Christmas brought no rest. The Washingtons had extra guests over the holiday, and they made these workers do extra work.
 
-Philip Vickers Fithian was a tutor from New Jersey, in his twenties, a teacher who lived with a family and taught its children. He spent Christmas 1773 at Nomini Hall, the Virginia plantation of Robert Carter. He wrote in his journal that guns fired all around the house woke him that morning.
+Philip Vickers Fithian was a tutor from New Jersey, in his twenties, a teacher who lived with a family and taught its children. He spent Christmas 1773 at Nomini Hall, the Virginia plantation of Robert Carter. His journal records that the workers who served him kept working that Christmas morning, and he gave five of them small tips in bits, small silver coins. He wrote that guns fired all around the house woke him.
 
-Nelson, a boy Fithian counted among the "Servants," made Fithian's fire and blacked his shoes. He came in early, dressed only in his shirt and breeches, short pants that ended at the knee. He built a big fire, blacked the shoes, tidied the room and wished Fithian a joyful Christmas. Fithian gave him half a bit.
+Nelson, a boy Fithian counted among the "Servants," came in early, dressed only in his shirt and breeches, short pants that ended at the knee. He built a big fire, blacked Fithian's shoes, tidied the room and wished him a joyful Christmas. Fithian gave him half a bit.
 
 Before Fithian was dressed, the man who made the fire in the schoolroom came in. He was dressed neatly in green and was almost drunk, and he bowed three or four times. Fithian did not write his name.
 
-Then an enslaved worker sent in Fithian's clean clothes with a message asking for a "Christmas Box," a small gift of money. Fithian gave a bit to each of these two men. He gave two bits to Tom the coachman, who was caring for his lame horse, and half a bit to Dennis, a boy who waited at table. In all he gave five bits, a little over three shillings. A bit was a small silver coin.
+Then an enslaved worker sent in Fithian's clean clothes with a message asking for a "Christmas Box," a small gift of money. Fithian gave a bit to each of these two men. He gave two bits to Tom the coachman, who was caring for his lame horse, and half a bit to Dennis, a boy who waited at table. In all he gave five bits, a little over three shillings.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Black governors in wartime Hartford, 1776" -->
@@ -362,6 +360,6 @@ That May, white men in Connecticut elected Jonathan Trumbull governor again. He 
 
 Anderson was enslaved by Philip Skene, who had been a major in the British army. The Americans held Skene as a prisoner, because they suspected he was loyal to Britain. White people in Hartford feared that Skene planned to use Anderson to bring Black people over to the British side. Members of a committee of Connecticut officials investigated.
 
-Two accounts disagree about what the committee members found. Chris Menapace writes that Skene had tried to pay voters, and that many Black people refused to back an enslaved man owned by a Loyalist. A Loyalist was a colonist who stayed on the king's side. Skene told the committee he had done it for amusement. Andy Piascik writes that the committee cleared Anderson, but found that Anderson had paid some Black people to support him. By Piascik's account, Connecticut officials approved a four-year term for Anderson. He served as governor until 1780.
+**Who paid.** The committee found that money had been offered to win Black people's support for Anderson. Two accounts disagree about who offered it: Skene, or Anderson himself. Chris Menapace writes that Skene tried to pay Black people to back Anderson, and that many refused to back an enslaved man owned by a Loyalist, a colonist who stayed on the king's side. Skene told the committee he had offered the money "for amusement." Andy Piascik writes that Anderson himself paid some Black people to support him, and that the committee cleared Anderson of any plot. By Piascik's account, Connecticut officials approved a four-year term for Anderson. He served as governor until 1780.
 <!-- hb-story:end slug="john-anderson-black-governor" -->
 <!-- hb-time:end id="1750-1800" -->

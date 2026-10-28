@@ -87,6 +87,7 @@
 - triple jump: the event once called the hop, skip and jump (1850 to 1900)
 - croquet: a lawn game played by hitting wooden balls with mallets (1850 to 1900)
 - color line: a rule, written or unwritten, that kept Black people out (1850 to 1900)
+- minor leagues: the lower leagues below the major leagues (1850 to 1900)
 - batting average: how often a player got a hit, so .263 means about 26 hits in every 100 times at bat (1850 to 1900)
 - Negro: a word of the time for a Black person, used only inside quotes and names (1850 to 1900)
 - second-degree murder: killing someone on purpose but without planning it ahead (1850 to 1900)
@@ -118,7 +119,6 @@
 - economists: scholars who study money and business (1900 to 1950)
 - pentathlon: a contest of five track and field events (1900 to 1950)
 - decathlon: a contest of ten track and field events (1900 to 1950)
-- minor leagues: the lower leagues below the major leagues (1900 to 1950)
 - amateurs: people who were never paid to play a sport (1900 to 1950)
 - Great Depression: the years around 1931 when millions of people lost their jobs (1900 to 1950)
 - reform school: a school meant to correct boys' behavior (1900 to 1950)
@@ -234,5 +234,5 @@
 
 ## Questions
 - Q: Who invented baseball? A: No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The Doubleday story rests on one letter from a man who was 5 years old in 1839.
-- Q: Who was kept out of American games, and how did they get in? A: The people who ran the games kept out laborers, enslaved riders, Black players, girls and Black swimmers. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX, and some by playing anyway, like Jackie Robinson in 1947.
+- Q: Who was kept out of American games, and how did they get in? A: The people who ran the games kept out laborers, Black players, girls and Black swimmers, and left enslaved riders' names off the race cards. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX. Jackie Robinson got in when Branch Rickey signed him, and Kathryn Johnston played anyway, under a boy's name.
 - Q: How has children's free time changed? A: In the 1830s Lucy Larcom made doll furniture from burrs while the grown-ups left the children alone. Since then more of children's time has gone to lessons and organized sports, and by 2022, 95 of every 100 teenagers had or could use a smartphone.

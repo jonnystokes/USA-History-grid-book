@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 36 of 37 · Sports and Play · 10 eras · about 125 minutes**
+**Chapter 36 of 37 · Sports and Play · 10 eras · about 130 minutes**
 
 **From chunkey at Cahokia to Fortnite, American games moved out of open fields and into leagues, arenas and screens run by adults and companies, and at almost every step someone in charge decided who was allowed to play.**
 
@@ -27,8 +27,8 @@ This chapter follows play through ten eras, from Native ball games on fields a m
 - Who was kept out of American games, and how did they get in?
 - How has children's free time changed?
 
-**Five minutes?** Read "Who wrote the rules of baseball?" in 1800 to 1850.
-**Can skip:** "Spanish games on horseback, 1598", "Cricket", "The Miracle on Ice", "Television and the Super Bowl". The chapter still makes sense without them.
+**Five minutes?** Read "Who wrote the rules of baseball?" in 1800 to 1850, then "Who could play Little League" and "How did a child's afternoon change?" in 1950 to 2000.
+**Can skip:** "Games of chance", "Children, toys and the circus", "The Miracle on Ice", "Television and the Super Bowl". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
@@ -128,7 +128,7 @@ Sir Thomas Dale arrived at Jamestown in May 1611 with about 300 soldiers, to gov
 
 The historians William Kelso and Karen Ordahl Kupperman argue that the colonists were sick and badly fed. In their view, hunger and disease made the men act in ways that could look like laziness.
 
-**Dale's code.** Dale enforced a code of military rules called the Lawes Divine, Morall and Martiall. Under that code, a man caught stealing oatmeal had a needle pushed through his tongue and was tied to a tree until he starved to death. Encyclopedia Virginia's account of the punishment does not name the men who carried it out.
+**Dale's code.** Dale then put the colony under a code of military rules called the Lawes Divine, Morall and Martiall. Chapter 21 describes the punishments under those rules.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Massachusett football, 1634" -->
@@ -140,15 +140,13 @@ The winners took the prizes hung on the goals: wampum, beaver skins and black ot
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fines for games in New England" -->
+Lawmakers and judges in Massachusetts Bay and Plymouth fined people for playing games, although betting on the games was rare. The historian T. H. Breen found only a little betting in Massachusetts in the 1600s, most of it among poor people and servants, and none among the colony's leaders.
+
 **Tavern games.** The lawmakers of Massachusetts Bay banned shuffleboard, a game of sliding pieces down a long board, in taverns in 1647. Three years later they banned bowling and every other game in taverns as well. They wrote that the games wasted "much precious time" and much wine and beer.
 
 A tavern keeper who allowed the games paid 20 shillings, which made one pound in English money, and each player paid 5 shillings. Anyone who bet money had to pay three times the amount of the bet. A law of 1659 fined anyone caught playing cards or dice anywhere in the colony 5 shillings.
 
-**Fined by name.** The judges of Plymouth Colony's court wrote down the name of each person they fined. In 1663 they fined John Shilley 20 shillings for playing cards on Sunday. At a court in 1663 or 1664 they fined five more card players 40 shillings each, two of them married couples.
-
-In June 1679 the Plymouth judges fined six men and one servant for card games. John Holbrooke paid one pound for playing once in the woods. The judges also fined "His man, Patricke," a servant who had played with him, 10 shillings. Mathew Gannet paid two pounds for playing cards several times and letting others play cards in his house.
-
-The historian T. H. Breen found only a little betting in Massachusetts in the 1600s. Most of it was among poor people and servants. He found none among the colony's leaders.
+**Fined by name.** The judges of Plymouth Colony's court wrote down the name of each person they fined, wives among them. In June 1679 they fined John Holbrooke one pound for playing cards once in the woods, and "His man, Patricke," a servant who had played with him, 10 shillings. Mathew Gannet paid two pounds for playing cards several times and letting others play cards in his house.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New Netherland: Sunday bans, the goose and golf" -->
@@ -287,7 +285,11 @@ The records of these years do not show how much free time children had. Nor do t
 
 The records of these fifty years start to say who owned the horses and who rode them. In Virginia the owners of racehorses came more and more from the top ranks of society, and enslaved men and boys often rode. The enslaved people at one Virginia plantation had a holiday on Easter Monday 1774 and went to cockfights. That June the planter's son Bob Carter pestered his tutor, his private teacher, for leave to go to a cockfight too.
 
-The delegates to the First Continental Congress, men chosen in each colony to meet together, agreed in 1774 to stop buying British goods. They also promised to discourage horse racing, cockfighting and games. No record from these years shows leagues, paid teams, or towns sharing written rules. Soldiers at Valley Forge played a running game called base, and the voters of Pittsfield, Massachusetts, banned "baseball" near their new meeting house in 1791. Native nations kept playing their own ball games, and in Hawaii British sailors wrote descriptions of surfing.
+The delegates to the First Continental Congress, men chosen in each colony to meet together, agreed in 1774 to stop buying British goods. They also promised to discourage horse racing, cockfighting and games.
+
+People still played ball games. Soldiers at Valley Forge played a running game called base, and the voters of Pittsfield, Massachusetts, banned "baseball" near their new meeting house in 1791. No record from these years shows leagues, paid teams, or towns sharing written rules.
+
+Native nations kept playing their own ball games. In Hawaii, British sailors wrote descriptions of surfing in 1779. Chapter 23 tells how those islands later became part of the United States.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Native games written down" -->
@@ -299,9 +301,9 @@ Players ran after the rolling stone with 8-foot poles "most part of the day." Th
 
 The account of that game comes from Stonie Hadjo, a Creek-born man whom the Choctaw adopted. He lived in Noxubee County, Mississippi, and often told the story to the white settlers there before he died in 1836. H. S. Halbert later wrote the story down, and H. B. Cushman printed it in 1899. Stonie Hadjo said that ten thousand people camped around the field. The Creek team won.
 
-Then a Choctaw player insulted a Creek player, and the two began to fight. Choctaw accounts say the Creek player started it by throwing a petticoat, a woman's underskirt, on the Choctaw player.
+A fight broke out after the game, and the tellings differ on who started it. In Stonie Hadjo's telling, a Choctaw player insulted a Creek player, and the two began to fight. Choctaw accounts say the Creek player threw a petticoat, a woman's underskirt, on the Choctaw player first.
 
-The fight spread to the warriors on both sides, who used sticks, knives, guns, tomahawks and bows and arrows. It lasted through the night until the chiefs arrived the next morning and stopped it. Stonie Hadjo said that the ball players "almost to a man perished," which means that nearly every ball player was killed. His account gives no count of the dead. The Choctaw kept the pond.
+The fight spread to the warriors on both sides, who used sticks, knives, guns, tomahawks and bows and arrows. It lasted through the night until the chiefs arrived the next morning and stopped it. Stonie Hadjo said that the ball players "almost to a man perished," which means that nearly every ball player was killed. His account gives no count of the dead. The Choctaw kept the pond, even though the Creek team had won the game, and the account does not say why.
 
 Writers for the Choctaw Nation describe two games around the 1790s played to settle land claims with the Creek, and both ended in battles. H. B. Cushman dates the second game, near the Black Warrior River, to about 1800.
 
