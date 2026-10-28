@@ -70,9 +70,42 @@ An amendment, a change to the Constitution, was proposed in the 1920s to allow a
 Every state had a law by 1918 that required children to go to school. As fewer children went to work, more of them stayed in school, and the high schools filled up.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="A school prayer case in Nebraska, 1902" -->
+<!-- hb-zoom level="span" label="Religious teaching in a Nebraska school, 1902" -->
 A court fight over religious teaching in a public school began at the Freeman School in Nebraska, the one-room brick school near Beatrice. Daniel Freeman, the first person to file a claim for free land under the Homestead Act, sued in 1898 over the religious teaching there. On October 9, 1902, the justices of the Nebraska Supreme Court ruled in his favor. That was sixty years before the justices of the US Supreme Court ruled that public school staff anywhere in the country could not lead official prayers.
 <!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="John Dewey's school: children learn by doing" -->
+John Dewey, a professor at the University of Chicago, argued that children learn by doing things, not by sitting still and listening. To test the idea, he and his wife, Alice, ran a small school in Chicago for eight and a half years, from 1896 to 1904.
+
+He described the classroom he was arguing against in his book *The School and Society*, published in 1899.
+
+He had gone around the school supply stores in his city, looking for desks and chairs that children could work at. One dealer told him, "I am afraid we have not what you want. You want something at which the children may work. These are all for listening." Dewey described the ordinary schoolroom as having "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
+
+In his school, every child, boy or girl, had cooking, sewing and carpentry for an hour or two a week each. Each group of children cooked its own lunch once a week, set the table and served it to guests. Children also kept gardens and wove cloth.
+
+The teachers planned for reading, writing and arithmetic to grow out of that work. In *The School and Society*, Dewey answered the question of what schools are for: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="john-dewey" name="John Dewey" movie="" kind="famous" status="verified" -->
+### John Dewey
+
+> **Who:** A philosopher who started out as a high school teacher, argued that children learn by doing, and ran a school to test it.
+> **When and where:** Born in Burlington, Vermont, on October 20, 1859. Died in New York City on June 1, 1952.
+
+**On the first day, each child made a paper box for pencils.**
+
+John Dewey taught high school before he studied philosophy, and later he ran a school of his own to test his ideas about learning. He graduated from the University of Vermont in June 1879 and went straight to work as assistant principal of Oil City High School in Pennsylvania. There he taught the classics, the old Greek and Latin writers, along with science and algebra. He was nineteen, and he did that job for two years.
+
+He earned a Ph.D., the highest degree a university gives, at Johns Hopkins University in 1884 and then taught at the University of Michigan. In March 1894 he accepted a job at the University of Chicago, and he was 34 when he arrived.
+
+**The school.** He opened an elementary school in a house on 57th Street in January 1896, with sixteen pupils and two adults in charge. On the first day, the student newspaper reported, each child made a paper box for pencils. Two teachers who worked there later wrote the school's history. They called its first six months a time of trial and error, "chiefly indicative of what not to do."
+
+The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
+
+*The School and Society* became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
+
+His wife, Alice Chipman Dewey, resigned as principal of the school on April 5, 1904, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
+<!-- hb-story:end slug="john-dewey" -->
 
 <!-- hb-zoom level="span" label="Who could hit a child, city by city" -->
 For the whole of this era, the law let teachers hit children in the public schools of every state except New Jersey. Members of city school boards wrote rules about who could do it and when, and some of their rule books survive. The rules call it corporal punishment, hitting a child's body as a punishment.
@@ -117,39 +150,6 @@ She told the committee that Stauffer had whipped several boys from his band in t
 
 **The end of Carlisle.** Officials handed Carlisle over to the War Department on September 1, 1918, and Army officers made it a hospital for the First World War. Federal officials moved the 279 children still at the school to other federal boarding schools.
 <!-- /hb-zoom -->
-
-<!-- hb-zoom level="span" label="John Dewey's school: children learn by doing" -->
-John Dewey, a professor at the University of Chicago, argued that children learn by doing things, not by sitting still and listening. To test the idea, he and his wife, Alice, ran a small school in Chicago for eight and a half years, from 1896 to 1904.
-
-He described the classroom he was arguing against in his book *The School and Society*, published in 1899.
-
-He had gone around the school supply stores in his city, looking for desks and chairs that children could work at. One dealer told him, "I am afraid we have not what you want. You want something at which the children may work. These are all for listening." Dewey described the ordinary schoolroom as having "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
-
-In his school, every child, boy or girl, had cooking, sewing and carpentry for an hour or two a week each. Each group of children cooked its own lunch once a week, set the table and served it to guests. Children also kept gardens and wove cloth.
-
-The teachers planned for reading, writing and arithmetic to grow out of that work. In *The School and Society*, Dewey answered the question of what schools are for: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
-<!-- /hb-zoom -->
-
-<!-- hb-story:start slug="john-dewey" name="John Dewey" movie="" kind="famous" status="verified" -->
-### John Dewey
-
-> **Who:** A philosopher who started out as a high school teacher, argued that children learn by doing, and ran a school to test it.
-> **When and where:** Born in Burlington, Vermont, on October 20, 1859. Died in New York City on June 1, 1952.
-
-**On the first day, each child made a paper box for pencils.**
-
-John Dewey taught high school before he studied philosophy, and later he ran a school of his own to test his ideas about learning. He graduated from the University of Vermont in June 1879 and went straight to work as assistant principal of Oil City High School in Pennsylvania. There he taught the classics, the old Greek and Latin writers, along with science and algebra. He was nineteen, and he did that job for two years.
-
-He earned a Ph.D., the highest degree a university gives, at Johns Hopkins University in 1884 and then taught at the University of Michigan. In March 1894 he accepted a job at the University of Chicago, and he was 34 when he arrived.
-
-**The school.** He opened an elementary school in a house on 57th Street in January 1896, with sixteen pupils and two adults in charge. On the first day, the student newspaper reported, each child made a paper box for pencils. Two teachers who worked there later wrote the school's history. They called its first six months a time of trial and error, "chiefly indicative of what not to do."
-
-The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
-
-*The School and Society* became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
-
-His wife, Alice Chipman Dewey, resigned as principal of the school on April 5, 1904, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
-<!-- hb-story:end slug="john-dewey" -->
 
 <!-- hb-zoom level="span" label="Intelligence tests come to school" -->
 School officials began to give children written intelligence tests between 1916 and 1926. One of the men who made the tests wrote that the lowest scorers should be kept in separate classes and should not have children.
@@ -428,12 +428,6 @@ White students went to new private schools, to schools in other towns and other 
 The segregationist members of the school board, people who wanted the races kept apart, voted in May 1959 not to renew the contracts of 44 teachers and school officials. On May 25, 1959, a group of women, the Women's Emergency Committee to Open Our Schools, won a vote that removed three of those board members. The high schools opened again on August 12, 1959.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Science and languages: the 1958 law" -->
-Soviet scientists and engineers launched Sputnik, the first satellite to circle the Earth, on October 4, 1957. The launch shocked experts and ordinary people in the United States, who had hoped the United States would do it first. President Eisenhower signed the National Defense Education Act on September 2, 1958. Under it, federal officials paid for the teaching of science, mathematics and foreign languages, and for loans to college students.
-
-Eisenhower called it "an emergency undertaking to be terminated after four years." Members of Congress did not end it after four years. Its student loans went on under that name until 1972 and then continued under other names.
-<!-- /hb-zoom -->
-
 <!-- hb-zoom level="span" label="Virginia closes its schools" -->
 Officials in Virginia made the same choice as Faubus. They closed public schools in five places rather than let Black children into white schools, and in Prince Edward County they kept the public schools shut for five years. In late February 1956, Senator Harry F. Byrd called for "massive resistance" against *Brown*, a campaign by Virginia's leaders to block it. Virginia's lawmakers, under Governor Thomas B. Stanley, then passed a law under which the governor would close any school that federal judges ordered to take Black pupils.
 
@@ -513,6 +507,12 @@ The justices struck down both, eight votes to one, on June 17, 1963, in *School 
 **Yoder, 1972.** The justices let Amish parents, members of a Christian church called the Old Order Amish, take their children out of school after the eighth grade.
 
 Wisconsin's law required children to attend school until 16. Jonas Yoder, Wallace Miller and Adin Yutzy kept their children, Frieda Yoder and Barbara Miller, both 15, and Vernon Yutzy, 14, at home, and each father was fined $5. On May 15, 1972, in *Wisconsin v. Yoder*, Chief Justice Warren Burger wrote that the state could not force the parents to send the children to high school.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Science and languages: the 1958 law" -->
+Soviet scientists and engineers launched Sputnik, the first satellite to circle the Earth, on October 4, 1957. The launch shocked experts and ordinary people in the United States, who had hoped the United States would do it first. President Eisenhower signed the National Defense Education Act on September 2, 1958. Under it, federal officials paid for the teaching of science, mathematics and foreign languages, and for loans to college students.
+
+Eisenhower called it "an emergency undertaking to be terminated after four years." Members of Congress did not end it after four years. Its student loans went on under that name until 1972 and then continued under other names.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Federal money for poor children's schools, 1965" -->
@@ -863,6 +863,33 @@ Patrick Wolf, a researcher at the University of Arkansas, has said that studies 
 Researchers who studied one program, Louisiana's vouchers, found different things about the children who used them and about the public schools nearby. The researchers Jonathan Mills and Patrick Wolf studied the program's first two years in 2016. Children who used a voucher to go to a private school scored lower in math than similar children who did not. The researcher Anna Egalite found that the public schools that stood to lose the most pupils to the program did the same or slightly better.
 <!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="The school buildings close, 2020" -->
+State and local officials closed nearly every school building in the country in the spring of 2020 because of COVID-19, an illness caused by a virus. Officials of the World Health Organization had declared it a pandemic on March 11, 2020. On March 17, Governor Laura Kelly of Kansas ordered every school building in her state closed for the rest of the school year, and Kansas was the first state to do that.
+
+Reporters at Education Week, a newspaper about schools, tracked the closures from March 6 to May 15, 2020. By their count, at the peak at least 55.1 million students were shut out of 124,000 public and private school buildings. Nearly every state's officials ordered or advised that schools stay closed until the end of the school year.
+
+Teachers taught over the internet, and not every child had a computer at home. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer. By September 2021, staff at 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="tabatha-rosproy-2020-teaching" name="Tabatha Rosproy" movie="" kind="ordinary" status="verified" -->
+### Tabatha Rosproy
+
+> **Who:** A preschool teacher named National Teacher of the Year in the spring her classroom was shut by the pandemic.
+> **When and where:** Winfield, Kansas, 2020.
+
+**She put pinwheels in her pupils' yards.**
+
+Tabatha Rosproy kept teaching her preschool class from a distance after the governor of Kansas closed its school buildings in March 2020. In May 2020 she was named National Teacher of the Year, the first early childhood teacher to win the award.
+
+She taught for the Winfield Early Learning Center in Winfield, Kansas. Her classroom was not in a school. It was inside Cumbernauld Village, a retirement community and nursing home in the town, and the program was called Little Vikes. Children with disabilities and children without them were in her class together, and residents of the home joined in with the children every day.
+
+**Teaching from home.** When the Kansas school buildings closed, Rosproy was a co-chair of the state task force of teachers that wrote the guidance for teaching children at home. She recorded her lessons and put them on an app called Seesaw, and once a week she held a video call with each child, one at a time. When a family could not get online, she called them, texted them, or delivered the materials to their home.
+
+For the families of her pupils with disabilities, she prepared materials that showed the parents how to use the methods she used in the classroom. She mailed each child a bin of sensory toys, the part of the classroom they liked best, and she put pinwheels in their yards.
+
+"At first, I was nervous to be named National Teacher of the Year during this pandemic," she told Education Week, "because I wondered if I was able to make a difference." On May 22, 2020, she told the news site Chalkbeat, "Nothing will replace what we are able to do in person. But we are surviving through this and we are looking for the small victories when we have them."
+<!-- hb-story:end slug="tabatha-rosproy-2020-teaching" -->
+
 <!-- hb-zoom level="span" label="Teaching at home: the 2020 jump" -->
 The share of children taught at home rose in this era and about doubled after 2020. The federal survey of homeschooling counted 1.7 percent of children aged 5 to 17 taught at home in 1999 and 2.8 percent in 2019, about 1.5 million children.
 
@@ -944,7 +971,7 @@ Gunmen shot and killed children and teachers inside American schools in these ye
 
 Both counts include the people who fired. The statisticians warned that 2021 to 2022 was far above every earlier year, and as of September 2026 it was the newest year the federal count covered.
 
-**A narrower count.** Reporters at Education Week, a newspaper about schools, count only shootings on school grounds, during school or a school event, in which someone other than the shooter was hit. By their count, 7 people were killed in 2025, the fewest since 2020. The two counts use different rules and cannot be joined into one list.
+**A narrower count.** Reporters at Education Week count only shootings on school grounds, during school or a school event, in which someone other than the shooter was hit. By their count, 7 people were killed in 2025, the fewest since 2020. The two counts use different rules and cannot be joined into one list.
 
 **Sandy Hook, 2012.** Adam Lanza, who was 20, shot and killed his mother in her bed at their home in Newtown, Connecticut, on December 14, 2012. Then he went to Sandy Hook Elementary School with a rifle and shot his way into the building, killing the principal and the school psychologist in a hallway. In two first-grade classrooms he killed the two adults in each room, 15 children in one room and 5 in the other, and then he shot himself.
 
@@ -970,33 +997,6 @@ A jury found Colin Gray guilty of two counts of second-degree murder on March 3,
 
 The jury also found him guilty of two counts of involuntary manslaughter, which means causing a death without meaning to, and of reckless conduct and cruelty to children. On July 30, 2026, he was sentenced to 15 years.
 <!-- /hb-zoom -->
-
-<!-- hb-zoom level="span" label="The school buildings close, 2020" -->
-State and local officials closed nearly every school building in the country in the spring of 2020 because of COVID-19, an illness caused by a virus. Officials of the World Health Organization had declared it a pandemic on March 11, 2020. On March 17, Governor Laura Kelly of Kansas ordered every school building in her state closed for the rest of the school year, and Kansas was the first state to do that.
-
-Reporters at Education Week tracked the closures from March 6 to May 15, 2020. By their count, at the peak at least 55.1 million students were shut out of 124,000 public and private school buildings. Nearly every state's officials ordered or advised that schools stay closed until the end of the school year.
-
-Teachers taught over the internet, and not every child had a computer at home. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer. By September 2021, staff at 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
-<!-- /hb-zoom -->
-
-<!-- hb-story:start slug="tabatha-rosproy-2020-teaching" name="Tabatha Rosproy" movie="" kind="ordinary" status="verified" -->
-### Tabatha Rosproy
-
-> **Who:** A preschool teacher named National Teacher of the Year in the spring her classroom was shut by the pandemic.
-> **When and where:** Winfield, Kansas, 2020.
-
-**She put pinwheels in her pupils' yards.**
-
-Tabatha Rosproy kept teaching her preschool class from a distance after the governor of Kansas closed its school buildings in March 2020. In May 2020 she was named National Teacher of the Year, the first early childhood teacher to win the award.
-
-She taught for the Winfield Early Learning Center in Winfield, Kansas. Her classroom was not in a school. It was inside Cumbernauld Village, a retirement community and nursing home in the town, and the program was called Little Vikes. Children with disabilities and children without them were in her class together, and residents of the home joined in with the children every day.
-
-**Teaching from home.** When the Kansas school buildings closed, Rosproy was a co-chair of the state task force of teachers that wrote the guidance for teaching children at home. She recorded her lessons and put them on an app called Seesaw, and once a week she held a video call with each child, one at a time. When a family could not get online, she called them, texted them, or delivered the materials to their home.
-
-For the families of her pupils with disabilities, she prepared materials that showed the parents how to use the methods she used in the classroom. She mailed each child a bin of sensory toys, the part of the classroom they liked best, and she put pinwheels in their yards.
-
-"At first, I was nervous to be named National Teacher of the Year during this pandemic," she told Education Week, "because I wondered if I was able to make a difference." On May 22, 2020, she told the news site Chalkbeat, "Nothing will replace what we are able to do in person. But we are surviving through this and we are looking for the small victories when we have them."
-<!-- hb-story:end slug="tabatha-rosproy-2020-teaching" -->
 
 <!-- hb-zoom level="span" label="Test scores after 2020" -->
 National test scores fell after the school closures and had not recovered by 2024. The National Assessment of Educational Progress, often called the Nation's Report Card, is the same federal test given to a sample of American children decade after decade. It was given from January to March 2022, the first time since the closures.
