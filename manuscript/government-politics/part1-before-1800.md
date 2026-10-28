@@ -20,16 +20,16 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 One copy of a report survives in the National Archives of the United Kingdom. John Pory wrote it in 1619. It records six days, July 30 to August 4, when twenty-two elected men sat in the church at Jamestown, Virginia, the only building on the island big enough to hold them all. They were the first elected lawmakers in English North America. They made rules about tobacco, gambling and land. No record says who voted for them.
 
-This chapter follows the rules from that church to the Capitol on January 6, 2021. Watch three things as you read. Who may vote: the answer changes in nearly every era, and the people who changed it usually wrote down why. What judges may do: in 1803 the justices of the Supreme Court first cancelled a law, and they have been cancelling and allowing laws ever since. What happens to people in power who break the law: a printer's jury in 1735, a cabinet secretary in 1929, a president in 1974.
+This chapter follows the rules from that church to the Capitol on January 6, 2021. Watch three things as you read. Who may vote: the answer changes in nearly every era, and the people who changed it usually wrote down why. What judges may do: in 1803 the justices of the Supreme Court first cancelled a law, and they have been cancelling and allowing laws ever since. What happens to people in power who break the law: a governor in 1614, a cabinet secretary in 1929, a president in 1974.
 
-The chapter also follows the laws about schools, which say where children must go and what they may be taught.
+The chapter also follows the laws about schools, which say where children must go and what they may be taught. From 1790 on, it tracks the laws on who may come to live in the country and who may become a citizen.
 
 **Three questions this chapter answers**
 - Who decided who could vote, and how did the answer change?
 - When did judges first cancel a law, and what have they done with that power since?
-- What happens when a president, a senator or a governor breaks the law?
+- What happens when people in power break the law?
 
-**Five minutes?** Read "The Zenger trial, 1735" in 1700 to 1750.
+**Five minutes?** Read "The Zenger trial, 1735" in 1700 to 1750, then the John Peter Zenger and Andrew Hamilton stories after it.
 **Can skip:** "Land for colleges, 1862", "The food laws of 1906", "New kinds of schools, 1991 to 1996", "Immigration law after 2001". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -115,11 +115,13 @@ The colonists' own lawmakers decided who could vote, and they changed the rules 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What the judges found Oñate guilty of, 1614" -->
-Royal judges in Mexico City tried Juan de Oñate, the former governor of New Mexico, in 1614. Officials of the king of Spain had brought 30 charges against him. The judges found him guilty of 12 and not guilty of 18. One of the twelve was using too much force against Acoma Pueblo.
+Royal judges in Mexico City tried Juan de Oñate, the former governor of New Mexico, in 1614. Officials of the king of Spain had brought 30 charges against him. The judges found him guilty of 12 and not guilty of 18. They ordered him out of New Mexico for life and barred him from Mexico City for four years, or five, since accounts differ. They also fined him 6,000 ducats in the money of Castile, in Spain.
 
-In December 1598 Oñate's nephew Juan de Zaldívar came to Acoma with about thirty soldiers. He took some of them up the mesa, the flat-topped hill where the town stands, to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number.
+**The charges.** One of the twelve was using too much force against Acoma Pueblo. He was found guilty of it because of the sentences he gave the Acoma people after the fighting there in 1599. He was also found guilty of hanging two Native men without just cause, of the murders of two of his own captains, of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was.
 
-In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time.
+**What happened at Acoma.** Oñate's nephew Juan de Zaldívar came to Acoma in December 1598 with about thirty soldiers. He took some of them up the mesa, the flat-topped hill where the town stands, to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number.
+
+Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma in January 1599 with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time.
 
 **Known:** The soldiers killed hundreds of people. The Pueblo nations' own leaders use the figure of about 800.
 **Disputed:** The count. Estimates run from about 300 to about 1,500, and PBS reports that about 200 people of Acoma survived out of nearly 2,000. Those figures come from different sources and do not fit together.
@@ -131,14 +133,12 @@ In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with 
 **The Hopi men.** Oñate also sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people.
 
 **The feet.** The sentences are in the written record. Whether the feet were cut off is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. The historians Marc Simmons and John Kessell doubt that it was done, and Kessell points out that no record describes a one-footed Acoma man.
-
-**The judges' ruling.** Oñate was also found guilty of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was. The judges ordered him out of New Mexico for life and barred him from Mexico City for four years, or five, since accounts differ. They fined him 6,000 ducats in the money of Castile, in Spain.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first General Assembly, 1619" -->
 The leaders of the Virginia Company of London, the business that ran the colony, put out a paper called the Great Charter in 1618. A charter is a written grant of rights and powers. Sir Thomas Smythe and Sir Edwin Sandys wrote it. It allowed the governor to "summon a General Assembly to legislate as appropriate." That meant the governor could call a meeting of men to make laws.
 
-In the summer of 1619 Governor George Yeardley used that power. The colony had eleven settlements, and two elected men came from each one to speak and vote for it. They were called burgesses. A burgess was an elected member of the assembly. The twenty-two burgesses met with Yeardley and his council, the six men who advised him, from July 30 to August 4, 1619. They sat in the church at Jamestown, the only building on the island big enough to hold them all.
+In the summer of 1619 Governor George Yeardley used that power. The colony had eleven settlements, and two elected men came from each one to speak and vote for it. They were called burgesses. A burgess was an elected member of the assembly. The twenty-two burgesses met in the Jamestown church with Yeardley and his council, the six men who advised him, from July 30 to August 4, 1619.
 
 In six days the members set rules for how they would do business and protected colonists' claims to their land. They also made the Church of England the colony's official church. They passed laws about tobacco, gambling, behavior and dealings with Native nations.
 
@@ -155,7 +155,7 @@ Whether the assembly had any legal right to meet stayed unclear until 1627. That
 > **Who:** The colony's secretary, who served as Speaker of the first elected assembly in English North America and wrote the record of what it did.
 > **When and where:** Jamestown, Virginia, July 30 to August 4, 1619.
 
-**Twenty-two men, six days, and one surviving copy of the record.**
+**Pory, the colony's secretary, ran the 1619 assembly and wrote its record.**
 
 John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Any copies kept in Virginia, Brent Tarter wrote on the Library of Virginia's blog in 2019, would have been destroyed in one of the British raids on Richmond during the American Revolution, along with most of the colony's records.
 
@@ -173,9 +173,13 @@ The passengers founded Plymouth Colony. They settled at Patuxet, where a Wampano
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who could vote" -->
-The colonies' lawmakers decided who could vote, and in Virginia they changed the rules many times. No record says who voted for the first burgesses in 1619. In 1646 the members of the General Assembly let all freemen vote. A freeman was a man who was neither enslaved nor bound as a servant. In 1655 they allowed only heads of households to vote, and in 1656 they opened the vote to all freemen again. In 1670 they limited the vote to men who owned land or headed a household.
+The colonies' lawmakers decided who could vote. In Virginia they went back and forth for more than fifty years over one question: whether every free man could vote, or only a man who owned land or headed a household. The rules came from an old English idea that only people who owned property should have a say in running a place. No record says who voted for the first burgesses in 1619.
 
-In 1676, during a revolt called Bacon's Rebellion, all freemen could vote again for a year. The Assembly's members put the limit back in 1677, after the revolt fell apart. In 1684 men who rented land for their whole lives could vote as well. In 1699 the members passed a law that barred women and anyone under twenty-one from voting.
+The members of the General Assembly let all freemen vote in 1646. A freeman was a man who was neither enslaved nor bound as a servant. They allowed only heads of households to vote in 1655, and they opened the vote to all freemen again in 1656. In 1670 they limited the vote to men who owned land or headed a household.
+
+That limit lasted, except for one year. In 1676, during a revolt called Bacon's Rebellion, all freemen could vote again. The Assembly's members put the limit back in 1677, after the revolt fell apart. In 1684 men who rented land for their whole lives could vote as well.
+
+The members passed a law in 1699 that barred women and anyone under twenty-one from voting. Women voting went against English custom, and no one knows whether any Virginia woman had tried to vote before then.
 
 Candidates in Virginia gave voters food and drink before and after an election. People called it treating. Virginia's lawmakers limited treating during the week of an election, so candidates had other people do the treating for them.
 
@@ -299,7 +303,9 @@ Leaders in many of the new states wrote state constitutions, each with its own r
 
 New Jersey's constitution of 1776 gave the vote to "all inhabitants of this colony of full age, who are worth fifty pounds." That meant every adult living there who owned fifty pounds' worth of property could vote. It said nothing about sex or race. So unmarried women and free Black people who owned enough property could vote. Fifty pounds was about the price of three horses or eight cows in 1806.
 
-New Jersey's lawmakers passed an election law in 1790 that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase about the property a voter owned, from the property rule. With those words gone, it was easier for wives and widows to qualify.
+Married women found it much harder to meet the property test, because under the law of the time a wife's property was usually in her husband's hands.
+
+New Jersey's lawmakers passed an election law in 1790 that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase meaning owning property outright, from the property rule. What wives and widows held was often not theirs outright, so with those words gone, it was easier for them to qualify.
 
 Then in 1798 the lawmakers passed a law that let only white male taxpayers vote for town officers. Property owners of any race or sex still voted for county, state and national offices. The next era tells how that ended.
 <!-- /hb-zoom -->
@@ -340,7 +346,7 @@ On June 21, 1788, New Hampshire's delegates made it the ninth state to ratify. T
 > **Who:** The first president, elected twice with every electoral vote, who chose to leave office after two terms.
 > **When and where:** Federal Hall, New York, April 30, 1789. Philadelphia, September 19, 1796.
 
-**Every elector voted for him, twice. He stopped after two terms.**
+**Washington stopped after two terms, a limit presidents kept for about 150 years.**
 
 George Washington is the only person ever elected president with every electoral vote. It happened twice, in 1789 and in 1792. The electoral votes are the votes cast by electors, the people each state chooses to pick the president. The votes for the first election were counted on April 6, 1789, more than a month late. Members of the new Congress could not reach New York in time because of a cold, snowy winter. Washington had all 69 votes.
 
@@ -367,7 +373,7 @@ The custom of reading the Farewell Address aloud in Congress began on February 2
 > **Who:** A delegate to the Constitutional Convention who first argued against a bill of rights, then wrote one and steered it through Congress.
 > **When and where:** Philadelphia and New York, 1787 to 1791. Born March 16, 1751. Died June 28, 1836.
 
-**He argued against a bill of rights. Then he wrote one.**
+**Madison wrote the Bill of Rights after arguing that none was needed.**
 
 James Madison introduced the amendments that became the Bill of Rights. An amendment is a change or addition to the Constitution. Madison had been the loudest voice against adding a list of rights. He had argued that the Constitution already limited the government's powers. Then delegates in several states agreed to ratify only if the first Congress would consider the amendments they proposed. After that, Madison changed his position.
 
@@ -403,9 +409,11 @@ Alexander Hamilton and John Adams led the Federalists. They wanted a strong nati
 <!-- hb-zoom level="span" label="The Sedition Act, 1798" -->
 In 1798 members of Congress passed four laws, and President John Adams signed them. Three of them dealt with people from other countries. The fourth, signed on July 14, 1798, was the Sedition Act. Sedition means words or acts that stir people up against the government. Under it, a person committed a crime by writing or publishing "any false, scandalous and malicious writing" against the government. The punishment was a fine of up to $2,000 and up to two years in prison. The law ran out on March 3, 1801.
 
-The only newspaper editors put on trial under the Sedition Act worked for Democratic-Republican papers. The National Constitution Center counts more than two dozen people found guilty, most of them publishers who opposed the government.
+The only newspaper editors put on trial under the Sedition Act worked for Democratic-Republican papers.
 
-One of them was Matthew Lyon, a Democratic-Republican congressman from Vermont who had been born in Ireland. In a letter, he wrote that he saw the public good "swallowed up in a continual grasp for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice." Pomp means showy display. Adulation means too much praise. Avarice means greed. He had also read aloud at campaign meetings a letter by the poet Joel Barlow that blamed Adams and the Senate for trouble with France.
+**Disputed:** The number found guilty. Historians have long counted 17 people charged and 10 found guilty, and a later study found 16 more people charged. The National Constitution Center counts more than two dozen found guilty, most of them publishers who opposed the government.
+
+One of the people found guilty was Matthew Lyon, a Democratic-Republican congressman from Vermont who had been born in Ireland. In a letter, he wrote that he saw the public good "swallowed up in a continual grasp for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice." Pomp means showy display. Adulation means too much praise. Avarice means greed. He had also read aloud at campaign meetings a letter by the poet Joel Barlow that blamed Adams and the Senate for trouble with France.
 
 A federal grand jury in Vermont charged Lyon on October 5, 1798. A deputy marshal, a federal law officer, arrested him the next day. On October 9 he stood trial at Rutland before Justice William Paterson of the Supreme Court. Lyon defended himself.
 

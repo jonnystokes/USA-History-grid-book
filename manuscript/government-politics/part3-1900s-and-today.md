@@ -81,7 +81,7 @@ In 1921 members of Congress passed the Emergency Quota Act, the first law with a
 
 In 1924 members of Congress passed the Immigration Act, which set a lower limit. It was 2 percent of the people born in each country who were living in the United States in 1890, as the census of that year counted them. A census is a count of all the people in the country. Under the 1924 act, fewer immigrants could come from Southern and Eastern Europe than before, and nearly all immigrants from Asia were barred. The total was capped at about 165,000 a year.
 
-**Citizens, but not voters.** President Calvin Coolidge signed the Indian Citizenship Act on June 2, 1924. Under it, American Indians became citizens. It did not put them on the lists of voters, because each state's lawmakers wrote their own rules about who could vote.
+**Citizens, but not voters.** President Calvin Coolidge signed the Indian Citizenship Act on June 2, 1924. Under it, American Indians became citizens. Since 1884, under the justices' ruling in *Elk v. Wilkins*, Native people born into their own nations had not been citizens by birth. Even as citizens, they were not on the lists of voters in every state, because each state's lawmakers wrote their own rules about who could vote.
 
 An Arizona law barred people "under guardianship" from voting. In 1928 the judges of the Arizona Supreme Court held that Native people on reservations were wards of the federal government, people under its guardianship. So, the judges held, the law kept them from voting. New Mexico's constitution shut out "Indians not taxed."
 
@@ -89,7 +89,7 @@ In 1948 judges in both states ended these bans. On July 15 the judges of the Ari
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The anti-lynching bill, 1922" -->
-Lynching is murder by a mob, carried out without any trial. Members of Congress introduced bills to make lynching a federal crime, one the national government could charge. George Henry White introduced one on January 20, 1900. Representative Dyer introduced his bill on April 8, 1918. A later House report, House Report 117-251, names White's bill as the first in one place and Dyer's in another. Members of the House passed Dyer's bill on January 26, 1922. Senators opposed to it blocked it in the Senate, and it never became law. No federal anti-lynching law passed in this era.
+Lynching is murder by a mob, carried out without any trial. Members of Congress introduced bills to make lynching a federal crime, one the national government could charge. George Henry White, then the only Black member of Congress, introduced one on January 20, 1900. Leonidas Dyer, a Republican representative from Missouri, introduced another on April 8, 1918. Members of the House passed Dyer's bill on January 26, 1922. Senators opposed to it blocked it in the Senate, and it never became law. No federal anti-lynching law passed in this era.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Teapot Dome" -->
@@ -109,7 +109,7 @@ Doheny was found not guilty of paying the same bribe. Sinclair went to jail for 
 
 The justices of the Supreme Court struck the law down in *Pierce v. Society of Sisters* on June 1, 1925. Justice James McReynolds wrote that it interfered with the liberty of parents to direct their children's education. He wrote: "The child is not the mere creature of the state." He meant that a child does not belong to the government, and that the people who raise a child have the right to guide the child's future.
 
-Under that ruling, state lawmakers may require a child to be educated, but they may not require every child to attend a government school. Private schools, church schools and, later, homeschooling are all legal because of it.
+Under that ruling, state lawmakers may require a child to be educated, but they may not require every child to attend a government school. Private schools and church schools are legal because of it. Homeschooling depends on the same ruling, but it became legal only later, state by state, in the 1980s and early 1990s.
 
 **Who decides what a teacher may teach.** Tennessee's governor, Austin Peay, signed the Butler Act on March 21, 1925. It made it unlawful to teach in the state's public schools "any theory that denies the story of Divine Creation of man as taught in the Bible, and to teach instead that man has descended from a lower order of animals." That meant a teacher could not teach evolution, the scientific idea that living things, people included, developed over a very long time from earlier forms.
 
@@ -119,9 +119,9 @@ His trial opened in Dayton on July 10, 1925, before Judge John T. Raulston. On J
 
 In January 1927 the judges of the Tennessee Supreme Court threw out his conviction. The state constitution required a jury, not a judge, to set any fine over $50, and Raulston had set the fine himself. So the judges never ruled on the Butler Act itself. It stayed in force until 1967.
 
-**Who pays.** In these years, most of the money for public schools was local money, raised in thousands of small school districts. The National Center for Education Statistics counted the shares. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. State money made up 39.8 percent that year, and federal money 2.9 percent. The number of school districts also fell, from 119,001 in 1937-38 to 83,718 in 1949-50, as small districts were merged into larger ones.
+**Who pays.** Between 1920 and 1950, more and more of the money for public schools came from the states, and less from local school districts. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. Nearly all the rest came from the state, and less than 3 percent from the federal government. Small districts were merged, and their number fell by almost a third between 1937-38 and 1949-50.
 
-Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
+**Ending segregated schools.** Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Buck v. Bell, 1927" -->
@@ -146,7 +146,7 @@ On October 19, 1927, Dr. John H. Bell performed the operation on Carrie Buck. It
 > **Who:** The president who lost key cases in the Supreme Court, tried to add justices to it, and was elected four times.
 > **When and where:** Washington, D.C., 1933 to 1945. His plan for the courts went to Congress on February 5, 1937.
 
-**The justices struck down his law. He tried to add six justices.**
+**After losing in the Supreme Court, Roosevelt tried to add up to six justices.**
 
 Franklin D. Roosevelt tried to change the size of the Supreme Court after its justices struck down one of his laws. On May 27, 1935, in *Schechter Poultry Corp. v. United States*, the justices struck down part of the National Industrial Recovery Act. That part let the president approve "codes of fair competition," which were rules for whole industries.
 
@@ -160,11 +160,13 @@ On March 29, 1937, in *West Coast Hotel Co. v. Parrish*, the justices ruled that
 
 On June 14, 1937, the members of the Senate Judiciary Committee told the Senate to reject the plan. They called it "needless, futile, and utterly dangerous." On July 22, 1937, the senators rejected it, 70 to 20. According to the Federal Judicial Center, Roosevelt lost a great deal of political support for proposing it.
 
-George Washington had served two terms, and presidents after him had kept that custom. Roosevelt was elected four times, in 1932, 1936, 1940 and 1944.
+**Four terms.** The senators turned down his court plan, but the voters elected him twice more. George Washington had served two terms, and presidents after him had kept that custom. Roosevelt was elected four times, in 1932, 1936, 1940 and 1944.
 
-On June 25, 1941, he signed Executive Order 8802. An executive order is a written order from the president to the officials under him. It states: "There shall be no discrimination in the employment of workers in defense industries and in Government, because of race, creed, color, or national origin." Discrimination means treating people worse because of who they are. A creed is a religion. With the order, Roosevelt created the Committee on Fair Employment Practice. After the war, members of Congress refused to make that committee permanent.
+**An order on jobs.** In his third term, Roosevelt barred discrimination in defense work and government jobs with an order of his own. He signed Executive Order 8802 on June 25, 1941. An executive order is a written order from the president to the officials under him.
 
-**The camps.** On February 19, 1942, Roosevelt signed Executive Order 9066. It let the Secretary of War and military commanders mark off military areas and shut "any or all persons" out of them. Lieutenant General John L. DeWitt, commander of the Army's Western Defense Command, used it to force people of Japanese descent from their homes. He issued Public Proclamation No. 4, an official public order, on March 29, 1942.
+The order states: "There shall be no discrimination in the employment of workers in defense industries and in Government, because of race, creed, color, or national origin." Discrimination means treating people worse because of who they are. A creed is a religion. With the order, Roosevelt created the Committee on Fair Employment Practice. After the war, members of Congress refused to make that committee permanent.
+
+**The camps.** Eight months after the jobs order, Roosevelt signed a second one, Executive Order 9066, on February 19, 1942. It let the Secretary of War and military commanders mark off military areas and shut "any or all persons" out of them. Lieutenant General John L. DeWitt, commander of the Army's Western Defense Command, used it to force people of Japanese descent from their homes. He issued Public Proclamation No. 4, an official public order, on March 29, 1942.
 
 Over six months, under his orders, about 122,000 men, women and children were forced into assembly centers, which were short-term holding places. From there they were forced into ten camps in remote parts of six western states and Arkansas. Nearly 70,000 of them were American citizens, by the count of the National Archives. None was charged with a crime, and none had any way to appeal.
 <!-- hb-story:end slug="franklin-d-roosevelt" -->
@@ -251,17 +253,19 @@ They ordered the judges to admit the children who had sued to public schools "on
 
 Thurgood Marshall wanted to study law at the University of Maryland, and officials at the law school turned him away because he was Black. He went to Howard University's law school instead and graduated first in his class in 1933. One of his first cases, *Murray v. Pearson*, ended with Maryland's judges ordering that same law school to admit Black students. The Maryland Court of Appeals ruled in the case on January 15, 1936.
 
-He went on to hold four jobs in the American legal system. He ran the Legal Defense and Educational Fund of the NAACP, the National Association for the Advancement of Colored People. Colored was a word used then for Black people. Then he was a federal appeals judge, then Solicitor General, the officer who argues the government's own cases in the Supreme Court, and then a justice of the Supreme Court. He was the first Black justice.
+He went on to hold four jobs in the American legal system. From 1940 to 1961 he ran the Legal Defense and Educational Fund of the NAACP, a law office whose lawyers took civil rights cases to court. The NAACP is the National Association for the Advancement of Colored People. Colored was a word used then for Black people.
 
-From 1940 to 1961 he ran the NAACP Legal Defense and Educational Fund, a law office whose lawyers took civil rights cases to court. The NAACP's own history says he argued 32 cases in the Supreme Court in those years and won 29. The *New York Times* counted his record another way when he died. It said he argued 32 cases in the Supreme Court before he became a justice, 14 as a private lawyer and 18 as Solicitor General, and won 29.
+After that he was a federal appeals judge, then Solicitor General, the officer who argues the government's own cases in the Supreme Court, and then a justice of the Supreme Court. He was the first Black justice.
+
+Before he became a justice, he argued 32 cases in the Supreme Court and won 29.
+
+**Disputed:** When he argued them. The NAACP's own history puts all 32 in his years at the Fund. The *New York Times* put 18 of them in his years as Solicitor General, and the National Park Service counts 19 cases in that job, 14 of them won.
 
 His NAACP cases included *Smith v. Allwright* in 1944, *Morgan v. Virginia* in 1946 on segregated buses between states, *Sweatt v. Painter* in 1950 on the University of Texas law school, and *Brown v. Board of Education* in 1954.
 
 On October 5, 1961, President John F. Kennedy made Marshall a judge of the United States Court of Appeals for the Second Circuit, a court that hears appeals from trial courts. He did it by recess appointment, which means a president fills the seat while the Senate is away. A recess appointment ends unless the senators confirm it. Southern senators opposed Marshall, and the senators did not confirm him until September 11, 1962, eleven months later.
 
-On August 23, 1965, he left that court to become Solicitor General of the United States. The National Park Service says he won 14 of the 19 cases he argued in that job. The two counts of his cases as Solicitor General differ by one: 18 in the *Times*, 19 by the Park Service.
-
-President Lyndon Johnson nominated him, or named him, to the Supreme Court on June 13, 1967. The senators confirmed him on August 30, 1967, and he took the oath as a justice on October 2. He stopped full-time work on the Court on October 1, 1991, and died on January 24, 1993.
+He left that court on August 23, 1965, to become Solicitor General of the United States. President Lyndon Johnson nominated him, or named him, to the Supreme Court on June 13, 1967. The senators confirmed him on August 30, 1967, and he took the oath as a justice on October 2. He stopped full-time work on the Court on October 1, 1991, and died on January 24, 1993.
 
 After his death, Chief Justice William Rehnquist said most justices are remembered for their work on the Court. "Justice Marshall, however, is unique because his contributions to constitutional law before becoming a member of the Court were so significant."
 <!-- hb-story:end slug="thurgood-marshall" -->
@@ -290,7 +294,7 @@ Chief Justice Earl Warren wrote the opinion. Under it, districts had to hold abo
 > **Who:** A Senate leader who kept count of how each senator would vote, then a president who used the same skill on civil rights laws.
 > **When and where:** Texas and Washington, D.C., 1948 to 1969.
 
-**Eighty-seven votes out of nearly a million. "Landslide Lyndon."**
+**Johnson's 87-vote win in 1948 earned him the nickname "Landslide Lyndon."**
 
 Lyndon Johnson reached the Senate in 1948 by 87 votes, out of nearly a million cast. That was his final margin over Coke Stevenson in the Texas Democratic runoff, a second election between the top two candidates in the party's primary. A landslide is a win by a huge margin. For the rest of his life people called him "Landslide Lyndon."
 
@@ -318,7 +322,7 @@ Senator Clair Engle of California had a brain tumor and could not speak. He rais
 
 Later, federal officials used Title VI to cut off money to school districts that stayed segregated. Title VII bans discrimination in jobs. In Title VII, members of Congress also created the Equal Employment Opportunity Commission.
 
-**What the 1965 act says.** Section 4 of the Voting Rights Act of 1965 contains a formula for which places were covered. A state or county was covered if it had used a literacy test, a reading test for voters, or a similar device on November 1, 1964. It also had to have fewer than half of its voting-age people registered or voting in the 1964 presidential election.
+**What the 1965 act says.** Section 4 of the Voting Rights Act of 1965 contains a formula for which places were covered. A state or county was covered if it had used a literacy test, a reading test for voters, or a similar device on November 1, 1964. It also had to have fewer than half of its voting-age people registered or voting in the 1964 presidential election. With the act, members of Congress outlawed literacy tests in the covered places.
 
 Under Section 5, officials in every covered place had to get permission before changing any voting rule at all. The permission had to come from the Attorney General, the head of the Justice Department, or from a federal court in Washington. By the end of 1965, a quarter of a million new Black voters had been registered, one-third of them by federal examiners, according to the National Archives.
 
@@ -326,7 +330,7 @@ Under Section 5, officials in every covered place had to get permission before c
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Federal money for schools, 1965" -->
-On April 11, 1965, Johnson signed the Elementary and Secondary Education Act outside the former Junction Elementary School near Stonewall, Texas. Elementary and secondary schools are the schools for children from first grade through high school. Junction Elementary was the one-room school where he had started at the age of four. His first teacher, Kate Deadrich Loney, sat beside him. The printed law and the LBJ Library both give the date as April 11. The National Center for Education Statistics gives April 12.
+Johnson signed the Elementary and Secondary Education Act on April 11, 1965, outside the former Junction Elementary School near Stonewall, Texas. Elementary and secondary schools are the schools for children from first grade through high school. Junction Elementary was the one-room school where he had started at the age of four. His first teacher, Kate Deadrich Loney, sat beside him.
 
 Under Title I of the act, federal officials send money to school districts according to how many children in them come from families with low incomes. The money comes with conditions the districts have to meet. In the 2015 budget year, about $14.3 billion went out under Title I, according to the National Center for Education Statistics in 2019.
 <!-- /hb-zoom -->
@@ -412,7 +416,7 @@ The Constitution requires the votes of two-thirds of the senators, 67 votes, to 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** In this era the justices and members of Congress struck down most of the rules that had kept Black Americans from voting, and a president resigned rather than face a vote on three charges, after the justices made him hand over his own tapes.
+**If you remember one thing:** In this era members of Congress and the justices, between them, ended the poll taxes and literacy tests that officials in many Southern states used to keep Black Americans from voting, and a president resigned rather than face a vote on three charges.
 Who counts the votes when the count itself is disputed? In 1948 a party committee and a single justice settled Lyndon Johnson's 87-vote win. The next era opens with that question in Florida in 2000, and the answer this time came from the Supreme Court.
 **Next:** Since 2000, judges have ruled on recounts, on money in elections and on the shape of voting districts, and on January 6, 2021, a crowd attacked the Capitol while the electoral votes were being counted.
 <!-- /hb-zoom -->
@@ -428,7 +432,7 @@ Since 2000, judges have ruled on how votes are counted, how voting districts are
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bush v. Gore, 2000" -->
-The presidential election of 2000, between George W. Bush and Al Gore, came down to Florida. The United States Supreme Court's opinion describes what the justices of the Florida Supreme Court had ordered. They had ordered a hand recount of about 9,000 ballots in Miami-Dade County that counting machines had read as blank. They had also ordered 215 votes from Palm Beach County and 168 from Miami-Dade added to the certified total, the official count. They had called for recounts of blank ballots in the counties that had not yet counted them by hand.
+The presidential election of 2000, between George W. Bush and Al Gore, came down to Florida. In Florida's official count, Bush led by 537 votes out of nearly 6 million. The justices of the Florida Supreme Court ordered recounts by hand of the ballots that counting machines had read as blank. They also ordered votes found in two counties' earlier recounts added to the official count.
 
 The justices of the United States Supreme Court decided *Bush v. Gore* on December 12, 2000, in an unsigned opinion, one that no single justice signed as its author. Seven justices saw a problem under the Constitution. Different counties used different rules to decide what a ballot meant, so two identical ballots could be counted differently depending on where they were cast. Five justices voted to stop the recount instead of sending it back to be fixed, because there was no time left.
 
@@ -444,7 +448,9 @@ Justice Anthony Kennedy wrote for the majority that "the Government may not supp
 
 Chief Justice John Roberts wrote that "partisan gerrymandering claims present political questions beyond the reach of the federal courts." Partisan means favoring one political party. Justice Elena Kagan wrote in dissent: "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities." After 2019, a voter who believed a map was drawn to favor one party could not take that complaint to a federal court. Judges in state courts and members of Congress could still act on it.
 
-**Maps drawn by race.** A map drawn by race is a separate question, governed by the Voting Rights Act. The justices decided a Voting Rights Act case, *Shelby County v. Holder*, on June 25, 2013. They struck down the formula in Section 4(b) of the act. That formula set which places had to ask permission before changing voting rules. As of September 2026, members of Congress had passed no new formula.
+**Asking permission.** Under Section 5 of the Voting Rights Act, officials in the places the act covered had to get federal permission before changing any voting rule. On June 25, 2013, in *Shelby County v. Holder*, the justices struck down the formula in Section 4(b) that set which places were covered. The ruling states that the formula "can no longer be used" to make a place ask permission. So the places it had covered no longer had to ask.
+
+The justices left Section 5 itself in place and wrote that "Congress may draft another formula based on current conditions." As of September 2026, members of Congress had passed no new formula.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Schools and the courts" -->
@@ -470,11 +476,13 @@ He listed ways to do it. Officials could choose where to build new schools, draw
 <!-- hb-zoom level="span" label="Counting the votes, January 6, 2021" -->
 Every four years, the members of the House and Senate meet together in the House chamber to count the electoral votes for president. The vice president presides, or runs the meeting. Tellers, the members chosen to count, open each state's certificate and read out its votes. A certificate is an official paper that states a fact, here the state's electoral votes. Until 2022, one member of the House and one senator together could object in writing to a state's votes. The members of the two houses then met separately, debated and voted.
 
-Joe Biden won the 2020 election, with 306 electoral votes to Donald Trump's 232, by the count of the National Archives. Republicans who acted as electors in some states prepared papers presented as certificates of electoral votes, and they sent them to the Senate and the National Archives. According to a Congressional Research Service report of December 2024, those papers did not carry the certificate that each state's governor or other executive must issue under federal law. So they were not presented at the count.
+Joe Biden won the 2020 election, with 306 electoral votes to Donald Trump's 232, by the count of the National Archives.
 
-**The attack.** A crowd attacked the Capitol while the count was under way on January 6, 2021. The Government Accountability Office is a federal agency that checks the government's work. It reported in 2022 that over about seven hours, members of the crowd assaulted, or attacked, about 140 police officers. About 80 of them were from the United States Capitol Police. About 114 Capitol Police officers reported injuries. The damage cost about $1.5 million.
+In some states, groups of Republicans signed papers stating that they were their state's electors, and they sent the papers to the Senate and the National Archives. Federal law requires each state's governor or other top official to sign a certificate naming the state's electors. No such official had signed one for these groups, so the papers were left out of the count, as a Congressional Research Service report of December 2024 states.
 
-The same report states that the plans Capitol Police officials made for the day "did not reflect the potential for extreme violence aimed at the Capitol." Those officials had information that protesters might be armed and were planning to target Congress.
+**The attack.** A crowd attacked the Capitol while the count was under way on January 6, 2021. The Government Accountability Office is a federal agency that checks the government's work. Its 2023 report states that over about seven hours, members of the crowd assaulted, or attacked, at least 174 police officers. Of them, 114 were from the United States Capitol Police and 60 from the police department of Washington, D.C.
+
+The same office's 2022 reports record about $1.5 million in damage. They state that the plans Capitol Police officials made for the day "did not reflect the potential for extreme violence aimed at the Capitol." Those officials had information that protesters might be armed and were planning to target Congress.
 
 That day, members of Congress took up two objections. According to the Congressional Research Service report, senators rejected the objection to Arizona's votes 93 to 6, and representatives rejected it 303 to 121. The objection to Pennsylvania's votes failed 92 to 7 among senators and 282 to 138 among representatives. The members of Congress then finished the count and declared the result.
 
@@ -533,11 +541,13 @@ In November 2025 President Trump pardoned Giuliani and others who had worked to 
 <!-- hb-story:end slug="shaye-moss" -->
 
 <!-- hb-zoom level="span" label="Who does not get a vote" -->
-In the 2020 census, Census Bureau workers counted 689,545 people living in the District of Columbia. That was more than Wyoming, with 576,851, and more than Vermont, with 643,077. The voters of each of those states elect two senators and a voting representative. The District has no voting member of the House and no senators. It has three electors for president because of the Twenty-third Amendment.
+In the 2020 census, Census Bureau workers counted about 690,000 people living in the District of Columbia, more than in Wyoming or Vermont. The voters of each of those states elect two senators and a voting representative. The District has no voting member of the House and no senators. It has three electors for president because of the Twenty-third Amendment.
 
-The same census found 3,285,874 people in Puerto Rico, more than lived in 21 of the 50 states in 2020. Its residents are United States citizens. While they live there, they cannot vote for president. Their Resident Commissioner, their one member in the House, cannot vote on the House floor. In 2020 the census found 153,836 people in Guam, 87,146 in the United States Virgin Islands, 49,710 in American Samoa and 47,329 in the Northern Mariana Islands, just under 339,000 in all.
+The same census found about 3.3 million people in Puerto Rico, more than lived in 21 of the 50 states. Its residents are United States citizens. While they live there, they cannot vote for president. Their Resident Commissioner, their one member in the House, cannot vote on the House floor.
 
-None of those four places has a voting member of Congress or electors for president. In all, about 3.6 million American citizens and nationals lived in 2020 in places with no voting member of Congress. Nationals are people who belong to the United States without being full citizens. The Census Bureau states the rule itself: "The populations of the District of Columbia and Puerto Rico are excluded from the apportionment population because they do not have voting seats in Congress." The apportionment population is the count used to divide the seats in the House among the states.
+Just under 339,000 people lived in four smaller island areas: Guam, the United States Virgin Islands, American Samoa and the Northern Mariana Islands. None of the four has a voting member of Congress or electors for president. People born in American Samoa are nationals, who belong to the United States without being full citizens.
+
+In all, about 4.3 million people lived in 2020 in places with no voting member of Congress. The Census Bureau states the rule itself: "The populations of the District of Columbia and Puerto Rico are excluded from the apportionment population because they do not have voting seats in Congress." The apportionment population is the count used to divide the seats in the House among the states.
 
 **Felony convictions.** In 2024, about 4 million Americans could not vote because of a felony conviction, 1.7 percent of adults of voting age. A felony is a serious crime. The count is an estimate by the Sentencing Project, not a government count. In 2016 the number had been 5.9 million. Among Black Americans of voting age, 1 in 22, or 4.5 percent, could not vote for this reason. That was more than three times the rate for everyone else, 1.3 percent.
 
@@ -560,7 +570,7 @@ On June 15, 2012, officials of the Department of Homeland Security began a polic
 **If you remember one thing:** Since 2000 the fights over the rules have been about counting: who counts the votes, whose money counts, and who gets no vote to count.
 - 2000: Five justices stopped the Florida recount, and George W. Bush became president with fewer votes across the country than Al Gore.
 - 2021: A crowd attacked the Capitol during the electoral count, and members of Congress then finished the count and declared the result.
-- 2020: About 3.6 million citizens and nationals lived in places with no voting member of Congress, and about 4 million adults could not vote because of a felony conviction in 2024.
+- 2020: About 4.3 million people lived in places with no voting member of Congress, and in 2024 about 4 million adults could not vote because of a felony conviction.
 **Next:** The chapter closing is below. Chapter 21, Crime, Police, and Justice, follows.
 <!-- /hb-zoom -->
 
@@ -568,7 +578,7 @@ On June 15, 2012, officials of the Department of Homeland Security began a polic
 **The three questions, answered**
 - Who decided who could vote, and how did the answer change? Each colony's and then each state's lawmakers decided, and the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Four amendments (1870, 1920, 1964, 1971) and the Voting Rights Act of 1965 took most of that power back from the states.
 - When did judges first cancel a law, and what have they done with that power since? In 1803, in *Marbury v. Madison*. The justices have used it to allow sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
-- What happens when a president, a senator or a governor breaks the law? A jury, a court or the Senate decides. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
+- What happens when people in power break the law? A jury, a court or the Senate decides. In 1614 royal judges found Juan de Oñate, a former governor of New Mexico, guilty of 12 charges and ordered him out of New Mexico for life. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
 
 **What changed:** The rules began as whatever the lawmakers of each colony chose. Over ten eras they became a written plan that judges enforce, and the vote, which began with men who owned property, reached women in 1920 and eighteen-year-olds in 1971.
 

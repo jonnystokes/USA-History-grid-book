@@ -69,7 +69,7 @@
 - arbitrary power: power used without limits (1700 to 1750)
 - Philadelphia lawyer: a very clever lawyer, skilled at the fine points of the law (1700 to 1750)
 - Continental Congress: the meeting of delegates from the thirteen colonies (1750 to 1800)
-- clear estate: an old legal phrase about the property a voter owned (1750 to 1800)
+- clear estate: an old legal phrase meaning owning property outright (1750 to 1800)
 - Articles of Confederation: the country's plan of government before the Constitution (1750 to 1800)
 - Connecticut Compromise: the deal that gave every state two senators and gave each state seats in the House by its population (1750 to 1800)
 - three-fifths: the rule counting each enslaved person as three-fifths of a free person when working out a state's seats in the House (1750 to 1800)
@@ -146,6 +146,7 @@
 - repeal: to cancel (1800 to 1850)
 - crowning utility: the most useful thing a person ever did (1800 to 1850)
 - federal territories: the lands that were not yet states (1850 to 1900)
+- Missouri Compromise: the 1820 law that banned slavery in the northern part of the Louisiana Purchase lands, struck down in *Dred Scott* (1850 to 1900)
 - ordinance of secession: a law declaring that a state was leaving the United States (1850 to 1900)
 - writ: a written order from a court (1850 to 1900)
 - habeas corpus: a person's right to be brought before a judge, who decides whether the government may go on holding that person (1850 to 1900)
@@ -161,6 +162,7 @@
 - naturalized: made a citizen by a legal process (1850 to 1900)
 - within its jurisdiction: inside the area where its laws apply (1850 to 1900)
 - equal protection: a state has to apply its laws the same way to everyone (1850 to 1900)
+- foreign diplomats: officials who represent other countries (1850 to 1900)
 - abridged: cut back (1850 to 1900)
 - previous condition of servitude: having once been enslaved (1850 to 1900)
 - Reconstruction: the rebuilding of the Southern states' governments after the Civil War (1850 to 1900)
@@ -339,7 +341,6 @@
 - perjury: lying under oath (1950 to 2000)
 - recount: a second count of the votes (2000 to Today)
 - Capitol: the building where Congress meets (2000 to Today)
-- certified total: the official count (2000 to Today)
 - unsigned opinion: an opinion that no single justice signed as its author (2000 to Today)
 - nonprofit corporation: a group organized like a company that does not pay profits to owners (2000 to Today)
 - suppress: stop (2000 to Today)
@@ -433,4 +434,4 @@
 
 - Q: Who decided who could vote, and how did the answer change? A: Each colony's and then each state's lawmakers decided, and the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Four amendments (1870, 1920, 1964, 1971) and the Voting Rights Act of 1965 took most of that power back from the states.
 - Q: When did judges first cancel a law, and what have they done with that power since? A: In 1803, in *Marbury v. Madison*. The justices have used it to allow sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
-- Q: What happens when a president, a senator or a governor breaks the law? A: A jury, a court or the Senate decides. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
+- Q: What happens when people in power break the law? A: A jury, a court or the Senate decides. In 1614 royal judges found Juan de Oñate, a former governor of New Mexico, guilty of 12 charges and ordered him out of New Mexico for life. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.

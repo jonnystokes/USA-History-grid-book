@@ -3291,3 +3291,131 @@ and the sentences, February 1599"):
 ### PATCH 2026-10-03 (T-630): Era 10, the full names of the three agencies made from the INS
 
 - U.S. Citizenship and Immigration Services, "Our History", https://www.uscis.gov/about-us/our-history, fetched 2026-10-03: INS ran immigration "for 70 years until Congress passed the Homeland Security Act of 2002." "On March 1, 2003, U.S. Citizenship and Immigration Services assumed responsibility for the immigration service functions of the federal government." "The Homeland Security Act created Immigration and Customs Enforcement and Customs and Border Protection to oversee immigration enforcement and border security."
+
+### PATCH 2026-10-27 (T-716): review-fix pass for reader review R11, the facts the fixes needed
+
+Each item gives its source. Items copied from another chapter's bank name that bank.
+
+- **Era 3, Oñate's 1614 convictions: the fuller list the thesis gives.** Rebecca Carlson, "Don Juan de
+  Oñate's Prosecution for 'Crimes and Excesses' in the Provinces of New Mexico, 1614" (Western Oregon
+  University senior thesis, 2008), https://wou.edu/history/files/2015/08/RebeccaCarlsonThesis.pdf,
+  re-fetched 2026-10-27 and read with pdftotext. Her table, citing Juan Benitez Camacho's 1614 sentence
+  in Hammond and Rey, *Don Juan de Oñate, Colonizer of New Mexico* (1953), pp. 1109-1113, marks as
+  **Convicted**: "Unjustly hanging two Indians", "Excessive force against the Acoma", "Murdering Captains
+  Pablo de Aguilar and Alonso de Sosa de Albornoz", "Ordering his captains to kill two deserters",
+  "Lying to viceroys and king about the wealth of the land". As **Acquitted**: "Letting his nephew
+  address him as 'Your Majesty'", "Living immorally with married and unmarried women", "Enjoying an
+  inappropriate caricature of an official", "Ill treatment and belittling of the clergy". On the Acoma
+  count: "He was convicted of mistreatment of the natives of Acoma based on the sentences he imposed
+  after the trial." And: "Juan de Oñate bore sole responsibility as judge of the Acoma trial and leader
+  of the colony for the harsh sentences he imposed on the Acoma." Sentence: "perpetual exile from New
+  Mexico, four years exile from Mexico City and a fine of 6000 Castilian ducats." (A student thesis.
+  The bank's earlier note stands: use it for the list.)
+
+- **Era 3, Virginia's 1699 law and women, and the idea behind the rules.** Encyclopedia Virginia,
+  "Elections in Colonial Virginia," https://encyclopediavirginia.org/entries/elections-in-colonial-virginia/,
+  fetched 2026-10-27 (quoted in pieces by WebFetch): "The law excluded those under age twenty-one in
+  1699" ... "that same year women also lost the vote, although it is unclear whether any had tried to
+  vote previously" ... "as this ran counter to English custom of the time." On the pattern: "These rules
+  derived from old English principles that assumed that only those with a long-term economic stake in
+  society should be considered full political participants."
+
+- **Era 5, New Jersey: why married women found the property test harder, and what "clear estate"
+  meant.** Museum of the American Revolution, *When Women Lost the Vote*, "New Jersey's Revolutionary
+  Decade" (the page this bank already cites for the 1790 and 1797 laws),
+  https://www.amrevmuseum.org/virtualexhibits/when-women-lost-the-vote-a-revolutionary-story/pages/how-did-the-vote-expand-new-jersey-s-revolutionary-decade,
+  re-fetched 2026-10-27 by curl (WebFetch got HTTP 403): "The new law retained the property
+  qualification, but it excluded the term 'clear estate,' which meant clear ownership of property."
+  "Wives often had, as Abigail Adams put it, property 'I call my own,' even if their legal ownership was
+  unclear." "Widows often had limits placed on their property by a husband's will." "Arguably, neither
+  types of property were truly 'clear estate.'" "Because it was harder for married women in New Jersey
+  to own property, it was harder for them to meet the property requirement to vote." "Some married
+  women maneuvered around 'coverture' restrictions and safeguarded the property they brought into
+  marriage." The rule itself, in the words of `research/research-rights-movements.md` ("Coverture, the
+  rule, in plain words", sourced there to the National Women's History Museum,
+  https://www.womenshistory.org/articles/coverture-word-you-probably-dont-know-should): a married woman
+  "did not control property even if she brought it into the marriage, and her husband took full rights
+  to any income or wages she earned."
+
+- **Era 5, the Sedition Act count, copied from `research/research-news-communication.md`.** Peter
+  McNamara, "Sedition Act of 1798," First Amendment Encyclopedia (MTSU), updated 29 September 2025,
+  https://firstamendment.mtsu.edu/article/sedition-act-of-1798/ (read via curl by that bank): "Scholars
+  have traditionally cited 17 indictments and 10 convictions." "Wendell Bird has further documented
+  another 11 prosecutions of 16 individuals under Section Two" (Bird 2016). With the National
+  Constitution Center's "more than two dozen people, mostly opposition publishers, were convicted"
+  (above), the prose gives the count as a Disputed line: the traditional count first, then the later
+  study, then the Center's count.
+
+- **Era 7, Dred Scott sued for his freedom, and the law the justices struck down.** National Archives,
+  Milestone Documents, "Dred Scott v. Sandford (1857)," https://www.archives.gov/milestone-documents/dred-scott-v-sandford,
+  re-fetched 2026-10-27: "In 1846, an enslaved Black man named Dred Scott and his wife, Harriet, sued for
+  their freedom in St. Louis Circuit Court." "They claimed that they were free due to their residence in
+  a free territory where slavery was prohibited." National Archives, Milestone Documents, "Missouri
+  Compromise (1820)," https://www.archives.gov/milestone-documents/missouri-compromise, fetched
+  2026-10-27: it "admitted Missouri as a slave state and Maine as a non-slave state at the same time."
+  "It also outlawed slavery above the 36º 30' latitude line in the remainder of the Louisiana
+  Territory." "In 1857, the Supreme Court ruled that the Missouri Compromise was unconstitutional in its
+  Dred Scott v. Sandford decision."
+
+- **Era 7, *Elk v. Wilkins* (1884): why Native people stood outside the Fourteenth Amendment's
+  citizenship rule. Copied from `research/research-rights-movements.md` (T-262b PATCH).** "John Elk, a
+  Native man who had left his tribe and lived in Omaha, Nebraska, applied in April 1880 to register to
+  vote in the Fifth Ward. Charles Wilkins, the ward's registrar, refused him because he was Native. The
+  Supreme Court ruled against Elk 7 to 2, Justice Horace Gray writing, Justices John Marshall Harlan and
+  William B. Woods dissenting. Holding: Native people born into their nations were no more 'born in the
+  United States and subject to the jurisdiction thereof,' within the meaning of the 14th Amendment, than
+  children of foreign diplomats, so birth did not make Elk a citizen." Decided 3 November 1884. (Cornell
+  Legal Information Institute, *Elk v. Wilkins*, 112 U.S. 94,
+  https://www.law.cornell.edu/supremecourt/text/112/94.)
+
+- **Era 8, who the two anti-lynching sponsors were. Copied from `research/research-rights-movements.md`
+  (10.9).** House Report 117-251, Committee on the Judiciary,
+  congress.gov/117/crpt/hrpt251/CRPT-117hrpt251.pdf: "The first federal antilynching legislation was
+  introduced by Congressman George Henry White, then the only African American Member of Congress, in
+  1900." And: "In 1918, Representative Leonidas C. Dyer, a Missouri Republican, introduced the first bill
+  in Congress to make lynching a federal crime." The prose introduces each man in a few words and makes
+  no "first" claim, so the report's disagreement with itself no longer needs a sentence.
+
+- **Era 9, the Voting Rights Act outlawed literacy tests.** National Archives, Milestone Documents,
+  "Voting Rights Act (1965)," https://www.archives.gov/milestone-documents/voting-rights-act, fetched
+  2026-10-27 (quoted in pieces by WebFetch): "It outlawed the discriminatory voting practices adopted in
+  many southern states after the Civil War, including literacy tests as a prerequisite to voting." And
+  the act "outlawed literacy tests and provided for the appointment of federal examiners (with the power
+  to register qualified citizens to vote) in those jurisdictions that were 'covered' according to a
+  formula provided in the statute." (`research/research-rights-movements.md` 9.20 records the same
+  page.)
+
+- **Era 10, what *Shelby County* changed. Copied from `research/research-rights-movements.md` (10.1).**
+  Cornell LII, *Shelby County v. Holder*, No. 12-96, law.cornell.edu/supremecourt/text/12-96: "Section
+  4 of the Voting Rights Act is unconstitutional; its formula can no longer be used as a basis for
+  subjecting jurisdictions to preclearance." "We issue no holding on §5 itself, only on the coverage
+  formula." "Congress may draft another formula based on current conditions."
+
+- **Era 10, Florida's official count in 2000.** Federal Election Commission, *Federal Elections 2000:
+  Presidential General Election Results by State*,
+  https://www.fec.gov/resources/cms-content/documents/FederalElections2000_PresidentialGeneralElectionResultsbyState.pdf,
+  fetched 2026-10-27 and read with pdftotext -raw. Florida: Bush 2,912,790 (48.85 percent), Gore
+  2,912,253 (48.84 percent), total state votes 5,963,110. Bush's margin: 537 votes out of nearly 6
+  million.
+
+- **Era 10, the January 6 police count, from GAO's 2023 report.** GAO-23-106625, 28 February 2023,
+  https://www.gao.gov/assets/gao-23-106625.pdf, fetched 2026-10-27 through WebFetch (curl got HTTP 403)
+  and read with pdftotext, page 1: "Over the course of about 7 hours, more than 2,000 protesters entered
+  the U.S. Capitol on January 6." "The attack resulted in assaults on at least 174 police officers,
+  including 114 Capitol Police and 60 D.C. Metropolitan Police Department officers." The same report
+  recalls GAO's February 2022 finding "that the Capitol Police's planning for January 6, 2021, did not
+  reflect the potential for extreme violence aimed at the Capitol." **Note on the earlier line above:**
+  it pairs "about 140 police officers ... assaulted, about 80 of them U.S. Capitol Police" with "about
+  114 Capitol Police officers reported injuries." The 2023 report gives 114 as the Capitol Police
+  officers assaulted, and its total adds up (114 + 60 = 174). The prose now uses the 2023 count.
+
+- **Era 10, who in the island areas is a national. Copied from `research/research-america-world.md`.**
+  "People born in Puerto Rico, Guam, the U.S. Virgin Islands, and the Northern Marianas are U.S.
+  citizens. People born in American Samoa are U.S. nationals, not citizens." (State Department Foreign
+  Affairs Manual 8 FAM 308.2, https://fam.state.gov/FAM/08FAM/08FAM030802.html ; Department of the
+  Interior, https://www.doi.gov/oia/islands/american-samoa.)
+  **Arithmetic note on the "3.6 million" line above:** Puerto Rico (3,285,874) plus the four island
+  areas (338,021) make about 3.6 million. Adding the District of Columbia (689,545) gives 4,313,440,
+  about 4.3 million. The earlier line names the District in its sentence but leaves it out of its sum,
+  and every figure is a count of residents, not of citizens and nationals only. The prose now says
+  "about 4.3 million people."
