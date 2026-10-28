@@ -3618,7 +3618,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 - **standards**: lists of what students should learn (Chapter 20)
 - **starboard**: a ship's right side (Chapter 27)
 - **Starvation Winter**: the winter of 1883 and 1884, when about 600 Blackfeet died of starvation. Hide hunters had killed nearly all the bison, and members of Congress had cut the money for the food promised to the tribe in a treaty (Chapter 3)
-- **Starving Time**: the winter of 1609 to 1610 at Jamestown, when about 500 colonists fell to about 61 (Chapter 15)
+- **Starving Time**: the winter of 1609 to 1610 at Jamestown, when about 60 of the 240 people in the fort lived to spring, out of about 500 in the colony (Chapter 15)
 - **state assembly**: one of the two groups of lawmakers in New York State (Chapter 20)
 - **state constitution**: the state's basic set of laws (Chapter 10)
 - **state geologist**: a scientist the state paid to study its rocks (Chapter 13)
