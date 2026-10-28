@@ -45,9 +45,6 @@
 - section: one square mile, which is 640 acres (1750 to 1800)
 - commissioners: officials sent to do a certain job (1750 to 1800)
 - reserve: an area set aside for a nation to live on (1750 to 1800)
-- under duress: under threat or force (1750 to 1800)
-- coerced: forced (1750 to 1800)
-- regiment: a large unit of soldiers (1750 to 1800)
 - confederacy: a union of nations (1750 to 1800)
 - Northwest Territory: the US name for the land north and west of the Ohio River (1750 to 1800)
 - spawn: to lay eggs, for fish (1800 to 1850)
@@ -66,7 +63,7 @@
 - seized: taken by force (1850 to 1900)
 - expropriation: taking property away from its owners (1850 to 1900)
 - rations: supplies of food (1850 to 1900)
-- allotment: cutting reservations into separate plots under the Dawes Act, 160 acres for a family farm or 320 for grazing (1850 to 1900)
+- allotment: cutting reservations into separate plots under the Dawes Act, 160 acres for the head of a family and less for others (1850 to 1900)
 - cultural fire: burning done by Native people to care for the land (1850 to 1900)
 - custody: control over a child and where the child lives (1850 to 1900)
 - forced labor: work a person is made to do for others, as when officials hired out arrested Native people to the best bidder (1850 to 1900)
@@ -79,10 +76,7 @@
 - tannery: a place where animal skins are made into leather (1850 to 1900)
 - myriads: huge numbers (1850 to 1900)
 - carcasses: the dead bodies of animals (1850 to 1900)
-- fallacy: a false idea (1850 to 1900)
-- wanton: done for no good reason (1850 to 1900)
 - subsist: to stay alive (1850 to 1900)
-- decree: an order (1850 to 1900)
 - delegation: a group sent to speak for its people (1850 to 1900)
 - Indian agent: the US official in charge of a reservation (1850 to 1900)
 - pocket veto: what happens when the president does not sign a bill and Congress ends its meeting, so the bill never becomes law (1850 to 1900)
@@ -90,6 +84,7 @@
 - apocryphal: probably made up (1850 to 1900)
 - precarious: easily lost (1850 to 1900)
 - forest reserve: public forest land that a president could set aside under the 1891 Forest Reserve Act, the start of the national forests (1850 to 1900)
+- refuge: land where wild animals are kept safe (1900 to 1950)
 - national forest: public land where federal foresters look after the trees (1900 to 1950)
 - forester: a person trained to study and manage forests (1900 to 1950)
 - proclamation: an official announcement (1900 to 1950)
@@ -159,11 +154,9 @@
 - DEI: diversity, equity and inclusion (2000 to Today)
 - microplastic: bits of plastic too small to see easily (2000 to Today)
 - commercial herds: herds raised for sale (2000 to Today)
-- refuge: land where wild animals are kept safe (2000 to Today)
 - roundhouse: a round building for gatherings (2000 to Today)
 - mining claim: a legal claim to the right to mine minerals on public land (2000 to Today)
 - mineral leasing: renting out the right to take minerals from the ground (2000 to Today)
-- plaintiff: a person who brings a lawsuit (2000 to Today)
 - pending: undecided (2000 to Today)
 
 ## People
@@ -192,7 +185,7 @@
 - September 1, 1914: Martha, the last passenger pigeon, dies at the Cincinnati Zoo
 - April 22, 1970: About 20 million Americans take part in Earth Day events
 - April 14, 1772: Men in South Weare, New Hampshire, beat the sheriff in the Pine Tree Riot
-- August 3, 1795: Leaders of eleven nations sign the Treaty of Greenville, handing 16,930,417 acres to the United States
+- August 3, 1795: Leaders of eleven nations sign the Treaty of Greenville, handing nearly 17 million acres to the United States
 - March 27, 1851: The Mariposa Battalion first enters Yosemite Valley
 - May 20, 1862: Lincoln signs the Homestead Act
 - June 30, 1864: Lincoln signs the Yosemite Grant
@@ -214,7 +207,7 @@
 - Yellowstone National Park: the first national park, where wolves returned in 1995
 - Glacier National Park (the chapter does not name the state): on land the Blackfeet say they only leased in 1895
 - Gila Wilderness, New Mexico: the first area in the world officially named a wilderness area
-- National Bison Range, Flathead Reservation (the chapter does not name the state): returned to the Confederated Salish and Kootenai Tribes in 2020
+- National Bison Range, Flathead Reservation, Montana: returned to the Confederated Salish and Kootenai Tribes in 2020
 - Bears Ears National Monument, Utah: proposed by five tribes, cut by about 91 percent in July 2026
 
 ## Movies

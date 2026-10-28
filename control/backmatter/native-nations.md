@@ -2,6 +2,7 @@
 
 ## Glossary
 
+- allotment: cutting land that a whole nation owned together into private pieces (Before 1500)
 - archaeologists: the scientists who dig up and study old camps and tools (Before 1500)
 - confederacy: a group of nations that keep their own governments but act together on matters they share (Before 1500)
 - democracy: a government in which the people have a say (Before 1500)
@@ -16,6 +17,7 @@
 - convent: a house of nuns, women who have promised their lives to the Catholic church (The 1500s)
 - ducats: Spanish gold coins (The 1500s)
 - entradas: the Spanish name for armed expeditions into the north (The 1500s)
+- famine: a long shortage of food (The 1500s)
 - formal inquiry: an official hearing to find out what had happened (The 1500s)
 - friars: Catholic religious brothers (The 1500s)
 - Jesuit mission: a group of priests from the Jesuit order of the Catholic church, with helpers, sent to turn people to Christianity (The 1500s)
@@ -31,7 +33,6 @@
 - coalition: a group that agrees to act together (The 1600s)
 - covenant: a serious promise (The 1600s)
 - diplomats: the people who spoke for their nations with other nations (The 1600s)
-- famine: a long shortage of food (The 1600s)
 - fur trade: the trade in animal furs with Europeans (The 1600s)
 - oral histories: accounts passed down by telling (The 1600s)
 - paramount chief (mamanatowick): a chief whom other chiefs answer to (The 1600s)
@@ -65,10 +66,10 @@
 - recognized (federally): accepted by federal officials as a nation with its own government (1800 to 1850)
 - stockade: a pen fenced with upright logs (1800 to 1850)
 - syllabary: a set of written characters in which each character stands for a whole syllable, not a single sound (1800 to 1850)
-- allotment: cutting land that a whole nation owned together into private pieces (1850 to 1900)
 - autobiography: a book a person writes about their own life (1850 to 1900)
 - band: a group of families who lived and traveled together (1850 to 1900)
 - bayonet: a blade fixed to the end of a rifle (1850 to 1900)
+- Bozeman Trail: a road opened in 1863 for white settlers to reach the Montana gold fields, through Lakota country (1850 to 1900)
 - carbines: short rifles (1850 to 1900)
 - cavalry: soldiers on horseback (1850 to 1900)
 - Commissioner of Indian Affairs: the federal official in charge of Native affairs (1850 to 1900)

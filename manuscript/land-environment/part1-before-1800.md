@@ -18,7 +18,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **Americans cleared this land, used it up and then saved pieces of it, and at almost every step the people who lost most had the least say: first Native nations, later poor and Black neighborhoods.**
 
-Miantonomi, a leader of the Narragansett nation, told the Montaukett people on Long Island in 1642 what the English were doing to the land. He said the plains had once been full of game and turkeys, but the English cut the grass with scythes and the trees with axes. He went on: "their cows and horses eat the grass, and their hogs spoil our clam banks, and we shall all be starved." An English soldier wrote his words down. The next year, English officials sentenced Miantonomi to death.
+Miantonomi, a leader of the Narragansett nation, told the Montaukett people on Long Island in 1642 what the English were doing to the land. The plains had once been full of game, he said, but the English were cutting down the grass and the trees. Their cows and horses ate the grass, their hogs spoiled the clam banks, and he warned that his listeners would all starve. An English soldier wrote his words down. The next year, English officials sentenced Miantonomi to death.
 
 This chapter follows the land itself through ten eras, from Native nations burning forests on purpose to government fire crews learning that same kind of burning from Yurok people today. Keep an eye on two things. The first is the numbers. Beavers, salmon, forests, 30 million bison and billions of passenger pigeons fall era by era. Some, like the eastern forests and the bison, later climb back, and the passenger pigeon never does. The second is who had to move. The families driven out of the first national parks were Native. The neighborhoods beside the waste dumps of the 1900s were far more likely than others to be Black or poor.
 
@@ -32,7 +32,7 @@ This chapter follows the land itself through ten eras, from Native nations burni
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 3 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 Native nations shaped the land of North America for thousands of years before any European arrived. In the eastern forests, people set fires on purpose to keep the woods open and to grow food for the animals they hunted. Farmers planted three crops together in a way that kept the soil good. In southwest Florida, the Calusa built pens in the water to hold live fish.
 
@@ -43,8 +43,6 @@ Animals shaped the land too. Beavers dammed streams across the continent, and bi
 For thousands of years, Native people in what is now the eastern United States burned their forests on purpose to keep them open. They set low fires in the understory, the layer of brush and small plants under the tall trees. They burned the same ground again and again. The fires helped oaks and other trees that can live through fire. Food plants grew back after each burn, and so did food for game, the wild animals people hunted.
 
 **What the trees show.** Researchers at Penn State, a university in Pennsylvania, published a study in the journal *Annals of Forest Science* in 2019. They found that which trees grew in the eastern forests depended more on Native burning than on the climate. Even small groups of people burned large areas, over and over. European colonists treated this burning as unimportant.
-
-**Then the fires stopped.** Officials of the US Forest Service tried to put out every forest fire in the 1900s. The Penn State researchers call the total stopping of fires after about 1940 "an ecologically transformative event in all forests." They mean it changed how the plants and animals of every forest lived together.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three crops in one field" -->
@@ -70,7 +68,7 @@ In what is now southwest Florida, the Calusa people built watercourts between 13
 
 Two things changed the land of the Americas in the 1500s: new animals arrived from Europe, and most of the Native people who had farmed the land died. Ships brought pigs, horses, cattle and earthworms. Pigs that escaped from the Spanish explorer Hernando de Soto and his men went wild in the Southeast, and European earthworms moved into northern forests that had never had worms.
 
-Most of the Native people died of diseases that European settlers and enslaved Africans carried. European soldiers and settlers killed others in wars to take Native lands, and many starved. Forest grew back over the farmland of the people who died.
+Most of the Native people died of diseases that came across the ocean with Europeans: with European settlers, and with the Africans whom Europeans had enslaved and carried over. European soldiers and settlers killed others in wars to take Native lands, and many starved. Forest grew back over the farmland of the people who died.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pigs, horses and cattle" -->
@@ -108,7 +106,9 @@ The new trees took carbon dioxide, a gas that traps heat, out of the air. By the
 
 English colonists and the Native nations of New England had different ideas in the 1600s about what land was for. The colonists treated land as property that one owner held forever, marked off with fences and recorded in deeds, the papers that say who owns a piece of land. The Native nations used their land by season, with planting grounds, fishing places and hunting grounds, and no one person owned it forever.
 
-The historian William Cronon describes these two ways of using land in his 1983 book *Changes in the Land*. The colonists let their cattle and hogs roam free. The animals got into Native planting fields, and colonists and Native people quarreled over it again and again. The Narragansett leader Miantonomi described the damage in 1642. In the same century, trappers began catching so many beavers for the fur trade that their numbers started a long fall.
+The historian William Cronon describes these two ways of using land in his 1983 book *Changes in the Land*. The colonists let their cattle and hogs roam free. The animals got into Native planting fields, and colonists and Native people quarreled over it again and again, as the Narragansett leader Miantonomi told his listeners in 1642.
+
+Trappers changed the land too. They caught so many beavers for the fur trade in these years that the beaver's numbers began a long fall.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The beaver trade" -->
@@ -187,11 +187,11 @@ Whalers from Nantucket, an island off Massachusetts, were hunting sperm whales f
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 5 minutes**
 
-After independence, American leaders turned the land beyond the mountains into squares that could be sold, and they took it from the nations who lived there with treaties signed under threat and then with armies. In 1785 members of Congress ordered the land north and west of the Ohio River measured into a grid. The Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations lived on that land. That January, US officials had claimed most of Ohio in a treaty, a written agreement between nations, signed under threat.
+After independence, American leaders turned the land beyond the mountains into squares that could be sold, and they took it from the nations who lived there with treaties signed under threat and then with armies. In 1785 members of Congress ordered the land north and west of the Ohio River measured into a grid. The Shawnee, the Miami, the Lenape (Delaware) and other nations lived on that land. That January, US officials had claimed most of Ohio in a treaty, a written agreement between nations, signed under threat.
 
-Surveyors measured the land under army guard. US generals led armies against the nations, who had joined together to stop settlement, from 1790 to 1794. After General Anthony Wayne's army defeated them in 1794, leaders of eleven nations signed a treaty in 1795 that handed most of Ohio to the United States.
+Surveyors measured the land under army guard. US generals led armies against the nations, who had joined together to stop settlement, from 1790 to 1794. After General Anthony Wayne's army defeated them in 1794, leaders of eleven nations signed a treaty in 1795 in which they handed most of Ohio to the United States.
 
 The king's claim to New England's biggest white pines ended with independence. Before that, in 1772, men in Weare, New Hampshire, beat a sheriff who came to arrest a mill owner fined for cutting them. Once the king's claim was gone, settlers crossed the Appalachian Mountains and cleared the forest for farms.
 <!-- /hb-zoom -->
@@ -225,28 +225,22 @@ After changes to the system in 1796, surveyors carried the grid across the conti
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whose land the grid covered" -->
-The land north and west of the Ohio River was the home of the Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations in 1785. George W. Knepper wrote a history of these lands, *The Official Ohio Lands Book*, for Ohio's Auditor of State, an official of the state government. He writes that, as members of Congress saw it, "Indian claims to that land had to be cleared." Here, cleared means ended, so that no Native nation still had a right to the land.
+The land north and west of the Ohio River was the home of the Shawnee, Lenape, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations in 1785. As members of Congress saw it, the historian George W. Knepper writes, "Indian claims to that land had to be cleared." Here, cleared means ended, so that no Native nation still had a right to the land.
 
-**The treaty at Fort McIntosh.** US commissioners, officials sent to do a certain job, met representatives of several nations at Fort McIntosh in January 1785, four months before the Land Ordinance passed. In the treaty they made there, the commissioners said that most of the Native people of Ohio had to stay inside a reserve between the Cuyahoga and Maumee rivers. A reserve was an area set aside for a nation to live on. Knepper writes that under the treaty, "Most Ohio lands would now be open for settlement."
+**The treaty at Fort McIntosh.** US commissioners, officials sent to do a certain job, met leaders of several nations at Fort McIntosh in January 1785, four months before the Land Ordinance passed. In the treaty they made there, the commissioners said that most of the Native people of Ohio had to stay inside a reserve, an area set aside for them, between the Cuyahoga and Maumee rivers. Under the treaty, Knepper writes, most of Ohio would be open for settlement.
 
-Knepper writes that the Shawnee in particular "refused to abide by," or obey, the treaty. He says it was "negotiated under duress by minor tribal chiefs who lacked authority to speak for their people." Under duress means under threat or force.
+The Shawnee refused to obey the treaty. Knepper writes that it was made under threat by minor chiefs who had no right to speak for their people. A year later, US commissioners forced the Shawnee into another treaty, at Fort Finney.
 
-**The first survey.** Thomas Hutchins, whose title was Geographer of the United States, began the first survey of this land for the national government on September 30, 1785. He and his crew worked in eastern Ohio, in an area called the Seven Ranges. On October 8 the crew heard news of an attack by Native people on the Tuscarawas River. Hutchins and his men stopped after only a few miles of their first line and went back to Pittsburgh.
-
-Hutchins asked for soldiers to protect his crew. Lieutenant Colonel Josiah Harmar, the commander of the US army, ordered Major John Francis Hamtramck and soldiers of the First American Regiment, a large unit of soldiers, to guard the surveyors in 1786.
-
-Under that guard, the crew ran a line 42 miles west from Pennsylvania, called the Geographer's Line. Then they cut the land into ranges, which are long strips, and into townships and sections. They measured the land for sale while the nations who lived on it still rejected the treaty. That same year, Knepper writes, US commissioners "coerced," or forced, the Shawnee into another treaty at Fort Finney.
+**The first survey.** Surveyors for the national government began measuring this land in eastern Ohio in September 1785, and they stopped after a few miles when they heard of an attack by Native people. They went back to work in 1786 under army guard, and they measured the land for sale while the nations who lived on it still rejected the treaty.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The war for Ohio and the Treaty of Greenville" -->
-Chapter 2 tells this war from the nations' side. Here is what it meant for the land. The nations of the region joined in a confederacy, a union of nations, to stop American settlement. Josiah Harmar, the officer who had sent soldiers to guard the surveyors and a brigadier general since 1787, led a US army against them in 1790. Warriors led by Little Turtle, a Miami war chief also known as Meshekinoquah, defeated Harmar's army.
+Chapter 2 tells this war from the nations' side. The nations of the region had joined in a confederacy, a union of nations, to stop American settlement. Led by Little Turtle of the Miami and others, its warriors beat American armies in 1790 and 1791, and General Anthony Wayne's army defeated the confederacy at Fallen Timbers in 1794. Here is what the war meant for the land.
 
-Major General Arthur St. Clair led another army against the confederacy in 1791. He was the governor of the Northwest Territory, the US name for the land north and west of the Ohio River. The confederacy's warriors defeated his army on November 4, 1791, at the place later called Fort Recovery. A US Army history of the campaign counts more than 900 soldiers, and women and children traveling with the army, killed or wounded. Knepper calls it "the worst defeat ever inflicted upon the U.S. Army by Indian warriors."
-
-**The land the nations lost.** Major General Anthony Wayne led an army that defeated the confederacy at the Battle of Fallen Timbers in 1794. A year later, on August 3, 1795, leaders of eleven northwestern nations signed the Treaty of Greenville. In it they handed 16,930,417 acres to the United States, an area a little bigger than West Virginia. Under the treaty, the nations kept only the northwest quarter of Ohio and the lands beyond it, behind a boundary called the Greenville Treaty Line.
+**The land the nations lost.** A year after Fallen Timbers, on August 3, 1795, leaders of eleven northwestern nations signed the Treaty of Greenville. In it they handed nearly 17 million acres to the United States, an area a little bigger than West Virginia. Under the treaty, the nations kept only the northwest quarter of Ohio and the lands beyond it, behind a boundary called the Greenville Treaty Line.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Clearing after independence" -->
-After independence, the British king no longer had any right to the white pines in the United States. Settlers crossed the Appalachian Mountains, some of them into the Northwest Territory, and cut down the forest to make farms.
+After independence, the British king no longer had any right to the white pines in the United States. Settlers crossed the Appalachian Mountains, some of them into the Northwest Territory, the US name for the land north and west of the Ohio River, and cut down the forest to make farms.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

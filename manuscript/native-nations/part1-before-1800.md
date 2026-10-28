@@ -18,9 +18,9 @@ Editor's in-development note — not part of the final book; the parser strips i
 
 **Native nations were governments long before the United States existed, and through every war, treaty and law aimed at ending them, 574 of them still govern themselves today.**
 
-The Haudenosaunee recorded their first agreement with the Dutch on a belt of shell beads. It is called the Two Row Wampum, or Guswenta. Two purple rows of beads run along a white background. They stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613. A paper document with the same date also exists, and accounts differ about whether it is genuine.
+The Haudenosaunee (hoe-dee-no-SHOW-nee), five nations that had joined together under one council, recorded their first agreement with the Dutch on a belt of shell beads. It is called the Two Row Wampum, or Guswenta. Two purple rows of beads run along a white background. They stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613.
 
-This chapter follows the nations through ten eras, from the cities and confederacies built before 1500 to the courtrooms and classrooms of today. Watch for the nations acting as governments. Their leaders make alliances, sign treaties, write constitutions, go to war and go to court. Against them, United States officials and soldiers take most of their land through removal at gunpoint, massacres, allotment and boarding schools that took children from their homes. After 1950 the story turns. Nations win back schools, fishing rights and, in 2020, a reservation that five Supreme Court justices said had never ended.
+This chapter follows the nations through ten eras. It starts before 1500, with cities and confederacies, groups of nations acting together, and ends in today's courtrooms and classrooms. Watch for the nations acting as governments. Their leaders make alliances, sign treaties, write constitutions, go to war and go to court. Against them, United States officials and soldiers take most of the nations' land, through removal at gunpoint, massacres and allotment, the cutting of a nation's shared land into private pieces. Officials also take children from their homes and send them to boarding schools. After 1950 the story turns. Nations win back schools, fishing rights and, in 2020, a reservation that five Supreme Court justices said had never ended.
 
 **Three questions this chapter answers**
 - How did Native nations govern themselves and deal with other nations before the United States existed?
@@ -38,7 +38,7 @@ The nations of this land governed themselves, traded and made war and peace for 
 
 When Europeans first arrived, people in what are now the United States and Canada spoke more than 300 languages. That is the count of Lyle Campbell, a scholar who studies languages, in Britannica. He sorts them into 57 families of related languages, and 20 of those families were found only in California. The nations built towns and carried goods hundreds of miles to trade. They made agreements with other nations and fought wars against them.
 
-Nobody knows how many people lived here before 1500. Scholars have used different methods and reached different answers. Douglas Ubelaker put the number for the lower 48 states at about 1.85 million in 1976. Henry Dobyns, in 1983, put it at about 18 million for all of North America north of Mexico. Textbooks published between 1988 and 1990 gave numbers from 1 million to 12 million. No number is settled.
+Nobody knows how many people lived here before 1500. Scholars have used different methods and reached different answers. Their estimates for North America north of Mexico run from about 1 million to about 18 million, and no number is settled.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cities and kingdoms" -->
@@ -74,11 +74,11 @@ Few records of single persons survive from these centuries.
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 9 minutes**
+**Era 2 of 10 · The 1500s · about 10 minutes**
 
 Spanish armies marched inland in the 1500s, and the diseases they carried reached many Native towns before the soldiers did. These expeditions were large armed groups traveling into country new to them. The diseases spread ahead of them and behind them. A town could lose many of its people before any European arrived there, and the diseases killed large shares of whole communities. Some writers call these deaths the Great Dying.
 
-No one can give a single death toll, because no one knows how many people lived here at the start. Estimates for North America north of Mexico run from about 1 million to about 18 million, so a death toll worked out from the low estimate and one worked out from the high estimate differ by millions of people.
+No one can give a single death toll, because the number of people living here at the start is not known. A death toll worked out from the lowest estimate, about 1 million, and one worked out from the highest, about 18 million, differ by millions of people.
 
 United States census takers, the officials who count the people of the country, counted about 250,000 Native people in 1900. Even the lowest estimate for 1500, about 1 million, is four times that count. Disease killed many of the missing people. Over the four centuries after 1500, soldiers, settlers and militias killed many others in wars and massacres and while forcing whole nations off their land.
 <!-- /hb-zoom -->
@@ -105,11 +105,13 @@ Spanish colonists also brought horses back to North America. Horses had lived he
 
 Paquiquineo left the Chesapeake Bay country on a Spanish ship in 1561, as a young man. The Spanish records do not settle whether he went willingly or was taken.
 
-He appeared before King Philip II in Spain. In Mexico City he was baptized, made a member of the Christian church in a ceremony, and given the name of the viceroy there, the man who governed the colony for the king, Don Luís de Velasco.
+He appeared before King Philip II in Spain. In Mexico City he was baptized, made a member of the Christian church in a ceremony. He was given the name of the viceroy, the man who governed the colony for the king: Don Luís de Velasco.
 
 He came home in September 1570. He landed on the James River as guide and translator for a small Jesuit mission, a group of priests from the Jesuit order of the Catholic church, with helpers, sent to turn people to Christianity. Father Juan Bautista de Segura led this mission.
 
-Paquiquineo led an attack on the mission in February 1571, and the attackers killed the missionaries. They spared the altar boy, Alonso de Olmos, who helped the priests at church services.
+**Back among his people.** Paquiquineo soon left the priests. A Jesuit's letter of 1572 states that he slept in their hut no more than two nights and then went to live with his brothers, a day and a half's journey away. One of the priests wrote that the people there had lived through six years of drought and famine, a long shortage of food. The priests were trading copper and tin to other villages for corn.
+
+Paquiquineo led an attack on the mission in February 1571, and the attackers killed the missionaries. They spared the altar boy, Alonso de Olmos, who helped the priests at church services. The Spanish records do not state why Paquiquineo attacked. The anthropologist Seth Mallios argues that the priests' trading for corn broke his people's rules of gift-giving and insulted them.
 
 **The Spanish answer.** Pedro Menéndez de Avilés, the Spanish governor of Florida, sent soldiers to the James River in August 1572. They captured some of Paquiquineo's people in a fight. The Spanish found several of the captives guilty of killing the missionaries and hanged them from the yardarms, the crossbeams on the masts, of their ship. The Spanish records do not give the names of the men they hanged.
 
@@ -133,7 +135,7 @@ Oñate opened a formal inquiry, an official hearing to find out what had happene
 
 Nobody counted the dead. The only detailed written story of the fighting by someone who was there is a long poem published in 1610 by Gaspar Pérez de Villagrá, a captain who rode with the expedition. He wrote it to praise the expedition.
 
-Estimates of the dead run from about 300 to about 1,500, and others fall between, at about 600, at 600 to 800 and at about 800. Leaders of the All Pueblo Council of Governors use the figure of about 800 Acoma men, women and children today. The National Park Service's figure is about 1,500.
+Estimates of the dead run from about 300 to about 1,500. The figure given most often is about 800 Acoma men, women and children, and it is the figure the leaders of the All Pueblo Council of Governors use today. The National Park Service's figure is about 1,500.
 
 Vicente de Zaldívar's soldiers captured about 500 Acoma men, women and children. One record gives the number put on trial as 507. Oñate tried them at Santo Domingo Pueblo, though some accounts place the trial at San Juan Pueblo.
 
@@ -141,9 +143,9 @@ Vicente de Zaldívar's soldiers captured about 500 Acoma men, women and children
 
 Oñate sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people.
 
-Oñate declared the Acoma children under twelve innocent. He still ordered them taken from their parents and handed to the friars. On Oñate's order, about seventy girls under twelve were sent south along the road to Mexico, to convents there, houses of nuns, women who have promised their lives to the Catholic church. Neither the National Park Service's account nor the Pueblo council's statement names the men who took the girls.
+Oñate declared the Acoma children under twelve innocent. He still ordered them taken from their parents and handed to the friars. On Oñate's order, Acoma girls under twelve were sent south along the road to Mexico, to convents there, houses of nuns, women who have promised their lives to the Catholic church. Neither the National Park Service's account nor the Pueblo council's statement names the men who took the girls.
 
-The National Park Service's account states that almost certainly none of the girls ever came home. The Pueblo council's 2023 statement gives sixty children taken to Mexico, and it also states that none returned. According to PBS, some scholars believe the children were later sold as slaves.
+**How many.** The two accounts differ on the number. The National Park Service's account records about seventy girls. The Pueblo council's 2023 statement records sixty children taken to Mexico and states that none of them returned. The National Park Service's account states that almost certainly none ever came home. According to PBS, some scholars believe the children were later sold as slaves.
 
 **The feet.** Oñate's sentence is in the written record. Whether anyone carried out the cutting of feet is disputed. Acoma people have passed down their own account since 1599: Oñate had the right feet of 24 captive men cut off. The New York Times reported that account in 1998. Two historians who worked for years in these records doubt that the feet were cut off. Marc Simmons first wrote that they were, and he later came to doubt it. John Kessell notes that no record describes a one-footed Acoma man.
 
@@ -157,7 +159,7 @@ Oñate had rebuilt a fortune in his family's mines at Zacatecas. Rebecca Carlson
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 11 minutes**
+**Era 3 of 10 · The 1600s · about 12 minutes**
 
 Native nations still held nearly the whole continent through the 1600s. Along the eastern coast, the European settlements were a thin strip. Those settlers needed food and trade from the nations around them, and they stayed only as long as those nations let them. In New Mexico, Spanish colonists had ruled the Pueblo nations by force since 1598. Native leaders chose which newcomers to deal with, the Dutch, the French, the English or the Spanish, and used each group's rivalry with the others to bargain.
 
@@ -173,7 +175,7 @@ About 15,000 people lived in his country, spread across some 10,000 square miles
 <!-- hb-zoom level="span" label="Wampum diplomacy and the Covenant Chain" -->
 Haudenosaunee diplomats, the people who spoke for their nations with other nations, recorded agreements on wampum belts. Speakers kept the words of each agreement in memory, and the pattern of the belt recorded its terms.
 
-The Two Row Wampum, Guswenta, records the Haudenosaunee account of their first agreement with the Dutch. It has two purple rows of beads on a white background. The rows stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613. A paper document with the same date also exists, and accounts differ about whether it is genuine.
+The Two Row Wampum, Guswenta, records the Haudenosaunee account of their first agreement with the Dutch: two boats side by side on one river, neither one steering the other. A paper document dated 1613, the year Haudenosaunee tradition gives for the agreement, also exists, and accounts differ about whether it is genuine.
 
 The Haudenosaunee alliance with the English colonies was called the Covenant Chain, from covenant, a serious promise. The oldest surviving record of the Silver Covenant Chain dates from 1677. That year Haudenosaunee leaders and the New York governor, Edmund Andros, made the alliance official at Albany.
 
@@ -181,15 +183,19 @@ The Haudenosaunee alliance with the English colonies was called the Covenant Cha
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The coastal wars" -->
-In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. Before dawn on May 26, 1637, an English-led force set fire to the Pequot town at Mystic, which was protected by walls. In under an hour they killed hundreds of people, most of them elders, women and children.
+In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. The war began with the killing of two English traders. Pequot men killed one trader and his crew in 1634. In 1636 people from Block Island, who were not Pequot, killed the other. The leaders of Massachusetts Bay sent 90 soldiers in answer, and the soldiers burned the Block Island villages and then a Pequot village.
+
+**Mystic.** An English-led force set fire to the walled Pequot town at Mystic before dawn on May 26, 1637. In under an hour they killed hundreds of people, most of them elders, women and children.
 
 The English colonists and their Mohegan and Narragansett allies ended the war with the Treaty of Hartford of 1638, a treaty being a formal written agreement between nations. In it the winners declared that the Pequot nation no longer existed and made it illegal to use the name Pequot. Under the treaty, they took Pequot survivors for themselves or sold them into slavery. The Mashantucket Pequot Tribal Nation is in Connecticut today.
 
 **Sold overseas.** Colonists had already begun selling captives during the war. Captain William Peirce sailed the ship *Desire* out of Boston in July 1637 with seventeen Pequot captives, fifteen of them children. Governor John Winthrop of Massachusetts wrote, "We sent fifteen of the boys and two of the women to Bermuda, by Mr. Pierce." Peirce sold them in the Caribbean.
 
-Metacom, the Wampanoag sachem, or leader of the nation, led a coalition of nations, a group that agreed to act together, against the New England colonies. His coalition fought the colonists from 1675 to 1676, nearly forty years after the Pequot War. Colonial soldiers and their Native allies killed Native people, and the coalition's fighters killed colonists.
+Metacom, the Wampanoag sachem, or leader of the nation, led a coalition of nations, a group that agreed to act together, against the New England colonies. His coalition fought the colonists from 1675 to 1676, nearly forty years after the Pequot War.
 
-**The toll.** About 9,000 people died in all, and estimates put Native deaths at roughly half of all the Native people in New England. For the size of the population, writers for Britannica and other histories call it the bloodiest war in American history.
+The war began in June 1675, just after a hanging at Plymouth. A jury of English colonists there had found three Wampanoag men guilty of murdering John Sassamon, a Christian Native man. By report, Sassamon had warned Plymouth's governor that Metacom's men planned an attack. Plymouth officials hanged two of the three men on June 8 and shot the third a month later.
+
+**The toll.** About 9,000 people died in all, and estimates put Native deaths at roughly half of all the Native people in New England. By one estimate, about two of every three of the dead were Native people, and many of them starved. For the size of the population, writers for Britannica and other histories call it the bloodiest war in American history.
 
 The men who governed the Massachusetts colony ordered on October 13, 1675, that Native people from the praying towns, villages of Native people who had become Christians, be taken to Deer Island in Boston Harbor and kept there. The colonists feared these people would turn against the English and join Metacom. Colonists took the people of Natick to the island first.
 
@@ -218,7 +224,9 @@ Church gave the head and one of Metacom's hands to Alderman, who showed the hand
 
 **The boy.** The leaders of Plymouth Colony asked ministers what to do with Metacom's son. Two ministers, Samuel Arnold and John Cotton, wrote on September 7, 1676, that the children of such enemies could be put to death. Cotton wrote the line about "Philip's boy" in a letter in March 1677. The boy and his mother were sold into slavery. Cotton's letter does not say who sold them. Most accounts say the two were sent to Bermuda, and others say they were sent to the West Indies.
 
-Colonial leaders sold hundreds of other captives into slavery to pay what the war had cost the colonies. On August 4, 1675, the men of Plymouth's council of war ruled that 112 Native men, women and children held at Plymouth were "to be sold," and they named the colony's treasurer to sell them. Church wrote that these people had surrendered because of promises made to them, and that about 160 of them were "sold, and transported out of the Country."
+Colonial leaders sold hundreds of other captives into slavery to pay what the war had cost the colonies. The selling began early in the war. On August 4, 1675, the men of Plymouth's council of war ruled that 112 Native men, women and children held at Plymouth were "to be sold," and they named the colony's treasurer to sell them.
+
+A month later the council condemned 57 more people to slavery for life. Church wrote that these people had surrendered because of promises made to them, and that about 160 in all were "sold, and transported out of the Country."
 <!-- hb-story:end slug="metacom-native-nations" -->
 
 <!-- hb-zoom level="span" label="The Pueblo Revolt" -->
@@ -229,6 +237,17 @@ The people of the Pueblo nations along the Rio Grande drove the Spanish out of N
 The people of many separate towns rose against the Spanish on the same day, August 10, 1680. They spoke Tewa, Tiwa, Towa, Tano, Keres and other languages, and the Zuni and the Hopi also promised to help. Pueblo fighters besieged Santa Fe, surrounding the town and cutting it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
 
 The Pueblos governed themselves for the next twelve years, through drought, raids and famine, a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Writers of the EBSCO Research Starters history guide call the Pueblo Revolt the most successful uprising by Native people against European rule in North America.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" -->
+**The horses left behind.** When the Spanish went south out of New Mexico in 1680, they left their horses. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
+
+**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
+
+The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
+
+**Known:** Plains nations had horses by the 1700s.
+**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="pope" name="Po'pay (Popé)" movie="" kind="famous" status="verified" -->
@@ -249,17 +268,6 @@ When Po'pay learned that the runners had been caught, he ordered the rising to b
 
 A statue of Po'pay stands in the United States Capitol. It is one of New Mexico's two statues in the Capitol's Statuary Hall collection, which holds statues of two people from each state's history.
 <!-- hb-story:end slug="pope" -->
-
-<!-- hb-zoom level="era" -->
-The Spanish left their horses behind when they left New Mexico in 1680. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
-
-**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
-
-The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
-
-**Known:** Plains nations had horses by the 1700s.
-**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
-<!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
 <!-- hb-time:start id="1700-1750" order="04" chapter="native-nations" label="1700 to 1750" state="full" progress="written" -->
@@ -321,7 +329,7 @@ Benjamin Franklin printed the minutes of the council, the written record of what
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
 
 French and British armies fought their wars on Native land after 1750. Then the leaders, soldiers and settlers of a new country, the United States, moved onto that land and fought the nations for it.
 
@@ -331,15 +339,15 @@ When British forces beat the French in 1763, Native nations lost the second empi
 <!-- hb-zoom level="span" label="Pontiac and the Line" -->
 French and British commanders both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. A loose confederacy of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British in 1763. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
 
-British officers at Fort Pitt tried to give smallpox, a disease that spreads from person to person and can kill, to the Native fighters around them in 1763. Delaware, Shawnee and Mingo fighters had besieged the fort, where Pittsburgh stands today, and smallpox had broken out among the British soldiers inside.
+**Fort Pitt.** British officers at Fort Pitt tried to give smallpox, a disease that spreads from person to person and can kill, to the Native fighters around them in 1763. Delaware, Shawnee and Mingo fighters had besieged the fort, where Pittsburgh stands today, and smallpox had broken out among the British soldiers inside.
 
 **The blankets.** The fort's commander, Captain Simeon Ecuyer, and the trader William Trent gave two Delaware men, Turtle's Heart and Mamaltee, two blankets and a handkerchief from the fort's smallpox hospital on June 24, 1763. Trent wrote in his journal, "I hope it will have the desired effect." In July the British commander in North America, General Jeffery Amherst, asked Colonel Henry Bouquet in a letter whether smallpox could be sent among the nations at war. Bouquet answered that he would try to spread it with blankets.
 
 **Whether it worked.** A month after the June meeting, Trent saw the two Delaware men again, and they showed no sign of smallpox. A man named Gershom Hicks later said that about 100 Native people died of smallpox between the spring of 1763 and April 1764. The historian Elizabeth Fenn writes that no one can know whether the attempt to spread smallpox worked.
 
-British officials answered the war by drawing a line. They issued the Royal Proclamation, an official public announcement of an order, on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists were angry about the line and crossed it anyway. Writers for Encyclopedia Virginia call the Proclamation a foundation of later treaty law, the set of rules for agreements between governments.
+**The Line.** British officials answered the war by drawing a line. They issued the Royal Proclamation, an official public announcement of an order, on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists were angry about the line and crossed it anyway. Writers for Encyclopedia Virginia call the Proclamation a foundation of later treaty law, the set of rules for agreements between governments.
 
-Armed settlers from Paxton Township, Pennsylvania, killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
+**Paxton.** While the war went on, settlers in Pennsylvania attacked Native people who were not fighting in it. Armed settlers from Paxton Township killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
 
 One of the dead was Shehaes, a very old man who had helped make a treaty with William Penn in 1701. They killed him in his bed. The attackers scalped all six, cutting away the skin and hair from the top of each head, and burned the huts.
 
@@ -380,10 +388,12 @@ Anthony Wayne led a legion, an army unit of 3,300 men, against the confederacy i
 > **Who:** Miami war leader who co-led the confederacy that destroyed St. Clair's army in 1791, then decided the war could not be won and argued for peace.
 > **When and where:** The Wabash and Maumee country, in present-day Indiana and Ohio, in the 1780s and 1790s.
 
-**He helped destroy one American army, then signed away most of Ohio.**
+**He beat two American armies, then argued for peace.**
 
-Little Turtle was one of the leaders of the confederacy that beat St. Clair on November 4, 1791. Three years later the same confederacy lost at Fallen Timbers, and Little Turtle decided that the war could not be won.
+A year before St. Clair's defeat, in 1790, warriors led by Little Turtle beat another American army, under General Josiah Harmar.
 
-He signed the Treaty of Greenville on August 3, 1795, in which the defeated confederacy's leaders signed away most of Ohio to the United States. He spent his last years arguing against more war with the United States.
+After the confederacy lost at Fallen Timbers in 1794, Little Turtle decided that the war could not be won. He signed at Greenville the next year and spent his last years arguing against more war with the United States.
+
+At his urging, members of Congress passed a law in 1802 that let the president stop traders from selling liquor to Native nations. War Department officials then banned traders from bringing alcohol onto Native land, but they did little to enforce the ban.
 <!-- hb-story:end slug="little-turtle" -->
 <!-- hb-time:end id="1750-1800" -->

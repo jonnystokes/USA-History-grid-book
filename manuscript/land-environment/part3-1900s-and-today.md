@@ -16,11 +16,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 17 minutes**
 
-President Theodore Roosevelt and the federal officials after him took charge of hundreds of millions of acres in the first half of the 1900s, and some of that land had belonged to Native nations. Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909, in national forests, parks, bird refuges and monuments.
+President Theodore Roosevelt and the federal officials after him took charge of hundreds of millions of acres in the first half of the 1900s, and some of that land had belonged to Native nations. Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909, in national forests, parks, bird refuges (land where wild birds are kept safe) and monuments.
 
 Glacier National Park, created in 1910, lies mostly on land that federal officials count as sold by the Blackfeet in 1895. Before the sale, about 600 Blackfeet had starved to death in one winter. Many Blackfeet say they only rented the land out.
 
-The last passenger pigeon died in the Cincinnati Zoo in 1914, and in Yellowstone park managers poisoned wolves until they killed the park's last pack in 1926. Farmers had plowed up the grass that held the soil of the southern Plains, and in the 1930s that soil blew away. Forest Service leaders ordered crews in 1935 to bring every wildfire under control by 10 the next morning, and young men in the Civilian Conservation Corps planted billions of trees.
+The last passenger pigeon died in the Cincinnati Zoo in 1914. In Yellowstone, park managers poisoned wolves until they killed the park's last pack in 1926.
+
+On the southern Plains, farmers had plowed up the grass that held the soil, and in the 1930s that soil blew away. Forest Service leaders ordered crews in 1935 to bring every wildfire under control by 10 the next morning. Young men in the Civilian Conservation Corps planted billions of trees.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Roosevelt's acres" -->
@@ -54,7 +56,9 @@ They camped first under the Grizzly Giant, a giant sequoia tree, on May 15, and 
 <!-- hb-zoom level="span" label="Glacier and the Blackfeet" -->
 Most of Glacier National Park lies on land that federal officials say the Blackfeet sold to the United States in 1895. The deal came after a winter in which about 600 Blackfeet starved to death. Many Blackfeet say the tribe only rented the land out and never sold it.
 
-**Before the sale.** US Army troops attacked Heavy Runner's camp of Piikani people, one of the Blackfeet peoples, on the Marias River in 1870, and killed more than 200 men, women and children. By 1880 hide hunters had killed nearly all the bison. Members of Congress then cut the money for annuities, the food and goods that US officials had promised a tribe every year in a treaty as payment for land.
+**Before the sale.** US Army troops attacked Heavy Runner's camp of Piikani people, one of the Blackfeet peoples, on the Marias River in 1870, as Chapter 2 tells. By the best estimate they killed about 177 men, women and children. The army's own count was 173, and the National Parks Conservation Association's figure is more than 200.
+
+By 1880 hide hunters had killed nearly all the bison. Members of Congress then cut the money for annuities, the food and goods that US officials had promised a tribe every year in a treaty as payment for land.
 
 **The Starvation Winter.** Early storms held up supplies in the winter of 1883 and 1884. In December a wagonload of bacon reached the Blackfeet agency near Browning, the office of the US official who ran the reservation. The Montana Historical Society's textbook describes the bacon as "so old it was contaminated with maggots," the young of flies, which feed on rotting meat.
 
@@ -98,15 +102,13 @@ Members of Congress passed the National Park Service Organic Act on August 25, 1
 
 Gifford Pinchot was the first American trained as a professional forester. He defined conservation as "the greatest good to the greatest number for the longest time." To Pinchot, that meant using the public lands carefully and keeping them useful forever.
 
-Pinchot became the first chief of the Forest Service in 1905. In 1909 a federal land investigator, Louis Glavis, accused Secretary of the Interior Richard A. Ballinger of mishandling claims to federal coal lands in Alaska, which were legal rights to mine pieces of that land. Pinchot took Glavis's side.
-
-Pinchot had Senator Jonathan Dolliver of Iowa read a letter that attacked Ballinger to Congress in early January 1910. President Taft stood by Ballinger and fired Pinchot for refusing to obey his bosses. The fight became known as the Ballinger dispute.
+Pinchot became the first chief of the Forest Service in 1905. In 1909 and 1910 he fought in public with the Secretary of the Interior over claims to federal coal lands in Alaska, and President Taft fired him for refusing to obey his bosses.
 
 Pinchot and John Muir had been friends until they took opposite sides over Hetch Hetchy. Pinchot later served two terms as governor of Pennsylvania.
 <!-- hb-story:end slug="gifford-pinchot" -->
 
 <!-- hb-zoom level="span" label="The last passenger pigeons" -->
-The passenger pigeon died out on September 1, 1914, when the last bird of the species died at the Cincinnati Zoo. In about a century, the species had gone from an estimated 3 to 5 billion birds to none. The last wild one that anyone confirmed was shot in Ohio in 1900. A few people reported seeing wild passenger pigeons until about 1902, and no one confirmed those sightings.
+In about a century, the passenger pigeon went from an estimated 3 to 5 billion birds to none. After the last confirmed wild bird was shot, a few people reported seeing wild passenger pigeons until about 1902, and no one confirmed those sightings.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="press-clay-southworth" name="Press Clay Southworth" movie="" kind="ordinary" status="verified" -->
@@ -158,13 +160,17 @@ Members of Congress declared soil erosion, the wearing away of soil by wind or w
 
 Caroline Henderson graduated from Mount Holyoke College. In 1907 she began homesteading near Eva, in the Oklahoma Panhandle, claiming public land and farming it for years in order to own it. When the dust storms came in the 1930s, she stayed on her land.
 
-Henderson wrote letters about the dust years, and the *Atlantic Monthly* magazine printed them as "Letters from the Dust Bowl." One appeared in May 1936. That same month, Henry A. Wallace, the Secretary of Agriculture, wrote to praise her.
+Henderson wrote letters about the dust years. In one, dated June 30, 1935, she described trying to rescue her home from wind-blown dust "which penetrates wherever air can go." Soon everything was covered again, she wrote, with dust that ran "from a film to actual ripples on the kitchen floor." She swept her floors with sawdust that had oil mixed in.
+
+The *Atlantic Monthly* magazine printed her letters as "Letters from the Dust Bowl." One appeared in May 1936. That same month, Henry A. Wallace, the Secretary of Agriculture, wrote to praise her.
 
 Across her whole life, her letters run from 1908 to 1966. The University of Oklahoma Press later collected them in a book, *Letters from the Dust Bowl*.
 <!-- hb-story:end slug="caroline-henderson" -->
 
 <!-- hb-zoom level="span" label="Every fire put out" -->
 Forest Service rules from 1935 to 1978 required crews to control every wildfire by the morning after someone spotted it. A fire called the Big Burn covered 3 million acres of the Northern Rockies in 1910 and killed at least 78 people. After it, Forest Service leaders tried to put out every fire. In 1935 they made the "10 a.m. policy," under which crews had to bring each fire under control by 10 o'clock the morning after it was spotted.
+
+**What the stopping did.** For thousands of years Native people had burned the eastern forests on purpose. Researchers at Penn State call the total stopping of fires after about 1940 "an ecologically transformative event in all forests." They mean it changed how the plants and animals of every forest lived together.
 
 **The men who made it work.** About 3 million young men worked in the Civilian Conservation Corps, a federal work program, from 1933 to 1942. Because the corps had so many men, Forest Service leaders could carry out the 10 a.m. policy. Estimates of the trees the corps members planted run from more than 2 billion to 3.5 billion, and the figure most often given is about 3 billion. The corps members also fought fires, worked to stop erosion and did building work in more than 800 parks.
 
@@ -207,7 +213,9 @@ In 1950: Crews had orders to put out every wildfire by 10 the next morning, and 
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
-Pollution that people could see pushed members of Congress to pass the big laws that protect the land, air and water, and then people began to count who lived next to the waste. DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 oil and trash on the Cuyahoga River in Cleveland caught fire. Between 1970 and 1973, members of Congress passed the Clean Air Act, the Clean Water Act and the Endangered Species Act, and the Environmental Protection Agency opened.
+Pollution that people could see pushed members of Congress to pass the big laws that protect the land, air and water, and then people began to count who lived next to the waste. DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 an oil well blew out off Santa Barbara, California, and oil and trash on the Cuyahoga River in Cleveland caught fire.
+
+Between 1970 and 1973, members of Congress passed the Clean Air Act, the Clean Water Act and the Endangered Species Act, and the Environmental Protection Agency opened.
 
 Park Service officials forced the last Native families in Yosemite Valley out of their homes in 1969. Later in the 1970s, families at Love Canal, in Niagara Falls, New York, found chemicals seeping into their basements. They lived on and beside more than 20,000 tons of buried chemical waste.
 
@@ -259,7 +267,7 @@ The 1969 fire started in oil and trash caught under two railroad bridges near th
 
 Editors at *Time* magazine published a story on the burning river on August 1, 1969, and readers across the country saw it. Carl Stokes was Cleveland's mayor and the first Black mayor of a major US city. The day after the fire, he held a news conference at the river and called on the state and federal governments to act.
 
-**Santa Barbara.** Five months before the Cuyahoga fire, on January 28, 1969, an oil well blew out under Platform A. It was a Union Oil Company drilling platform about 5.5 miles southeast of Santa Barbara, California. A blowout is an uncontrolled burst of oil and gas up a well. Officials of the U.S. Geological Survey, the federal agency that approved offshore drilling, had excused Union Oil from federal safety rules when they approved its drilling permit.
+**Santa Barbara.** Earlier the same year, oil had spilled on the coast of California. Five months before the Cuyahoga fire, on January 28, 1969, an oil well blew out under Platform A. It was a Union Oil Company drilling platform about 5.5 miles southeast of Santa Barbara, California. A blowout is an uncontrolled burst of oil and gas up a well. Officials of the U.S. Geological Survey, the federal agency that approved offshore drilling, had excused Union Oil from federal safety rules when they approved its drilling permit.
 
 Federal and state investigators found that extra steel pipe lining the well would have prevented the blowout. About 100,000 barrels of oil, more than 4 million gallons, leaked out by December 1969, and the oil blackened the beaches at Santa Barbara. By one estimate, about 9,000 birds died.
 <!-- /hb-zoom -->
@@ -277,19 +285,19 @@ After the DDT ban, bald eagles came back. They grew from 417 nesting pairs in 19
 <!-- hb-zoom level="span" label="Love Canal" -->
 Workers for Hooker Chemical buried more than 20,000 tons of chemical waste in an old canal in Niagara Falls, New York, from the 1940s into the 1950s. Families later lived on and beside it, and the chemicals seeped into their homes.
 
-**What was buried.** The canal, called Love Canal, covered 15 acres. Hooker Chemical and Plastics Corporation began using it in 1942. The records give the amount and the years in three ways. One figure is about 21,000 tons from 1942 to 1953. A timeline kept by the University at Buffalo states "over 20,000 tons of toxic chemicals" from 1942 to 1952. In a 1981 report, officials of New York State's health department wrote that Hooker "admits" burying 21,800 tons of chemical waste between 1942 and 1953.
+**What was buried.** The canal, called Love Canal, covered 15 acres. Hooker Chemical and Plastics Corporation began using it in 1942. The sources put the waste at about 21,000 tons, and they differ slightly on the exact amount and on whether the dumping ended in 1952 or 1953. In a 1981 report, officials of New York State's health department wrote that Hooker "admits" burying 21,800 tons.
 
 Investigators later found more than 200 chemical compounds there. The timeline lists 200 tons of dioxin, a group of chemicals that cause cancer and harm babies before they are born.
 
-**Who knew.** Federal judge John T. Curtin wrote in a 1994 decision that Hiram Young, Hooker's works manager, was responsible for the company's waste disposal. The court record does not say who first decided to use the canal as a dump.
+**Who knew.** A federal judge wrote in a 1994 decision that Hiram Young, Hooker's works manager, was responsible for the company's waste disposal. The court record does not say who first decided to use the canal as a dump.
 
-Ansley Wilcox, Hooker's lawyer, visited the dump in 1946 and saw children with swimsuits. He warned Hooker's president, E. R. Bartlett, that the company was "running a real hazard," and he suggested guards or a fence. Hooker's executives talked about his ideas, but they never built the fence. City officials of Niagara Falls also used the canal as a dump for the city's own waste until 1953.
+Hooker's lawyer visited the dump in 1946 and saw children with swimsuits. He warned the company's president that Hooker was "running a real hazard," and he suggested guards or a fence. Hooker's executives talked about his ideas, but they never built the fence. City officials of Niagara Falls also used the canal as a dump for the city's own waste until 1953.
 
 **The sale for $1.** Hooker sold the covered canal to the Niagara Falls Board of Education for $1 in 1953. Hooker's officials wrote into the deed "a disclaimer of responsibility for future damages due to the presence of buried chemicals," a statement that refused blame for any harm the chemicals did later. That same year, Hooker officials told Board members "that homes could not be built at the Canal site."
 
-**The school.** The members of the Board of Education had a public elementary school, the 99th Street School, built on the middle third of the canal in 1954. That January their architect, Charles Thiele, wrote that the builders had dug into two pits of chemical waste, some of it in 55-gallon drums. He wrote that it was "poor policy to attempt to build over this soil."
+**The school.** The members of the Board of Education had a public elementary school, the 99th Street School, built on the middle third of the canal in 1954. That January their architect wrote that the builders had dug into two pits of chemical waste, some of it in 55-gallon drums. He wrote that it was "poor policy to attempt to build over this soil."
 
-Building of homes on 97th and 99th Streets, beside the canal, began in 1954. The Board of Education later sold part of the canal land to others. Board members talked in 1957 about a plan to sell a piece of it to developers for building homes. Hooker's lawyer Arthur Chambers told the Board on November 7, 1957, that the land was "unsuitable," or not fit, "for construction" where "basements, water lines, sewers and such underground facilities would be necessary."
+Building of homes on 97th and 99th Streets, beside the canal, began in 1954. The Board of Education later sold part of the canal land to others. Board members talked in 1957 about a plan to sell a piece of it to developers for building homes. A Hooker lawyer told the Board on November 7, 1957, that the land was "unsuitable," or not fit, "for construction" where "basements, water lines, sewers and such underground facilities would be necessary."
 
 Ninety-nine homes had backyards that touched the canal by the spring of 1978. No record names the companies that built the homes.
 
@@ -301,11 +309,11 @@ Families in the neighborhood counted miscarriages, the deaths of unborn babies b
 
 President Jimmy Carter approved emergency federal money on August 7 so that state officials could buy homes. State officials moved the first 236 families out, at a cost of $10 million. Other counts say 239 families.
 
-**The second emergency.** New York State's lawyers sued Occidental Petroleum, which owned Hooker by then, and two Hooker companies for $635 million in April 1980.
+**The lawsuit.** New York State's lawyers sued Occidental Petroleum, which owned Hooker by then, and two Hooker companies for $635 million in April 1980.
 
 Scientists in a study paid for by the EPA reported on May 17, 1980, that they had found chromosome damage in 11 of the 36 residents tested. Chromosomes are the strands in each cell that carry a person's genes. Damage to them can raise the risk of cancer, and of birth defects in the person's children.
 
-That month, residents held two EPA officials for about six hours to demand that the rest of the families be moved. Carter then declared a second emergency, which opened the way to move 710 more families. In all, about 950 families left.
+**The second emergency.** That month, residents held two EPA officials for about six hours to demand that the rest of the families be moved. Carter then declared a second emergency, which opened the way to move 710 more families. In all, about 950 families left.
 
 Members of Congress passed a law called Superfund in December 1980. Under it, federal officials could make companies that polluted a site pay for cleaning it up. Occidental agreed in 1994 and 1995 to pay New York State and the federal government more than $225 million for the cleanup and the moves.
 <!-- /hb-zoom -->
@@ -349,7 +357,7 @@ The report lists four landfills in those states that took other people's waste f
 
 **The 1987 study.** The Commission for Racial Justice of the United Church of Christ published a national study in 1987, *Toxic Wastes and Race in the United States*. Charles Lee wrote it. He found that race was "the most potent variable in predicting where these facilities were located," more powerful than household income or the value of homes. The race of the people nearby predicted where a waste site stood better than how much money they had.
 
-When the report came out, the commission's leader, Rev. Benjamin F. Chavis Jr., gave a name to "intentionally selecting communities of color," places where most people are not white, "for wastes disposal sites and polluting industrial facilities." He called it "environmental racism." The authors of a follow-up study in 1994 found that people of color were "47 percent more likely to live near a hazardous waste facility than white Americans."
+When the report came out, the commission's leader, Rev. Benjamin F. Chavis Jr., called the pattern "environmental racism." He meant "intentionally selecting communities of color for wastes disposal sites and polluting industrial facilities." Communities of color are places where most people are not white. The authors of a follow-up study in 1994 found that people of color were "47 percent more likely to live near a hazardous waste facility than white Americans."
 
 President Bill Clinton signed Executive Order 12898 on February 11, 1994. In it he directed the officials of federal agencies to find and deal with pollution that fell hardest on communities of color and poor communities. A 2007 report by the United Church of Christ states that the EPA "has failed to implement" the order, meaning its officials had not carried it out.
 <!-- /hb-zoom -->
@@ -372,7 +380,7 @@ Gray wolves brought from Canada were released in Yellowstone National Park start
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 16 minutes**
+**Era 10 of 10 · 2000 to Today · about 15 minutes**
 
 The land grew hotter and drier after 2000, and fires grew bigger. The year 2024 was the warmest ever measured, both for the whole world and for the lower 48 states. Heat and drought dried forests that had filled up with fuel during about a century of stopping fires.
 
@@ -382,7 +390,7 @@ Fights over pollution and protected land went on. Shell's managers agreed in 200
 
 President Donald Trump cut Bears Ears National Monument, in Utah, by about 91 percent on July 13, 2026. As of September 26, 2026, the land he removed was open to mining claims, and lawsuits against the cut were waiting in federal court.
 
-Some animals came back. Bald eagles grew from 417 nesting pairs in 1963 to about 71,400 in the 2020s. The bison, fewer than 1,000 in 1900, now number more than 400,000, most of them in herds raised for sale. Wolves, wiped out of Yellowstone by 1926, numbered 2,797 in seven western states at the end of 2022.
+Some animals came back. Bald eagles grew from 417 nesting pairs in 1963 to about 71,400 in the 2020s, by the newest count. The bison, fewer than 1,000 in 1900, now number more than 400,000, most of them in herds raised for sale. Wolves, wiped out of Yellowstone by 1926, numbered 2,797 in seven western states at the end of 2022.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The warmest year" -->
@@ -480,7 +488,7 @@ Each year's total is about as much plastic as more than 120 million plastic bott
 <!-- hb-zoom level="span" label="Comebacks" -->
 People nearly wiped out the bald eagles and the bison, and wiped out the wolves of Yellowstone and of public lands across the country. All three live in far larger numbers now. Hide hunters killed the bison, park managers and others poisoned and shot the wolves, and DDT that people sprayed thinned the eagles' eggshells.
 
-**Eagles.** The U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles in the 2020s, against 417 in 1963.
+**Eagles.** The U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles in the 2020s, against 417 in 1963. The figure of about 10,000 pairs for 2007 and the figure for the 2020s come from different counts. For the newer one, the service's crews surveyed nests from the air in 2018 and 2019, used bird watchers' reports for places they could not fly over, and built a computer model to estimate the total. The service's officials said the eagles had kept increasing fast since their survey of 2009.
 
 **Bison.** About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. A count in 2008 found about 20,500 Plains bison in 61 herds kept for conservation. It also found about 400,000 bison in commercial herds, which are raised for sale. A U.S. Fish and Wildlife Service web page now lists about 420,000 bison in commercial herds.
 
@@ -488,7 +496,7 @@ People nearly wiped out the bald eagles and the bison, and wiped out the wolves 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Land given back" -->
-Members of Congress passed a law in December 2020 returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge, land where wild animals are kept safe, on the Flathead Reservation. The tribes took over full management of the range in 2022.
+Chapter 2 tells how members of Congress gave the National Bison Range, a bison refuge on the Flathead Reservation in Montana, back to the Confederated Salish and Kootenai Tribes in 2020.
 
 **How the tribes lost it.** President Theodore Roosevelt signed a law on May 23, 1908, under which federal officials could spend money to buy land on the reservation for a bison range. The tribes objected strongly. Federal officials took the land anyway and paid about $1.56 an acre.
 
@@ -512,19 +520,17 @@ The proclamation lists minerals in the removed land: silver, copper, uranium, va
 
 The tribes say Interior Department officials promised in writing in June 2025 to ask the commission's views before any change to the boundaries, and that no one asked it before July 13. Their statement said: "Our Tribes were not informed of or asked about this decision, and that's unacceptable."
 
-**The mining claims.** Under the proclamation, the removed land opened on September 11, 2026, to new mining claims, mineral leasing, grazing and timber cutting. A mining claim is a legal claim to the right to mine minerals on public land, and mineral leasing means renting out the right to take minerals from the ground. By noon on September 11, 16 claims had been recorded in San Juan County.
+**The mining claims.** Under the proclamation, the removed land opened on September 11, 2026, to new mining claims, mineral leasing, grazing and timber cutting. A mining claim is a legal claim to the right to mine minerals on public land, and mineral leasing means renting out the right to take minerals from the ground.
 
-By September 23, staff of a conservation group called SUWA counted 23 claims in the removed Bears Ears land. Kimmerle Mining had filed 20 of them, after trying to file 7 claims on July 14, before the land opened. George W. Schultz had filed 3. Kyle Kimmerle, of Kimmerle Mining, had been a plaintiff, a person who brings a lawsuit, in one of the suits against Biden's 2021 restoration.
+By noon on September 11, 16 claims had been recorded in San Juan County. By September 23 staff of a conservation group had counted 23 claims in the land taken out of Bears Ears, 20 of them filed by one mining company.
 
-**In court.** Three sets of plaintiffs went to the U.S. District Court for the District of Columbia, a federal court in Washington, on September 2, 2026. Eight groups asked the court to reopen their 2017 case, which the court had closed for the time being, and to add a complaint against the July 13 proclamation. Among the eight are Utah Diné Bikéyah, Archaeology Southwest and the National Trust for Historic Preservation.
-
-Two more sets of groups asked to start up their own 2017 cases again. The conservation groups NRDC and SUWA led one set, and The Wilderness Society led the other. They argue that the Antiquities Act of 1906 lets a president create a monument and does not let a president undo one. Utah's members of Congress called the cuts "a return to an appropriate application of the Antiquities Act."
+**In court.** On September 2, 2026, three sets of groups that had sued over Trump's 2017 cut went back to the federal court in Washington and asked it to hear the new cut as well. They argue that the Antiquities Act of 1906 lets a president create a monument and does not let a president undo one. Utah's members of Congress called the cuts "a return to an appropriate application of the Antiquities Act."
 
 The tribes' own 2017 case, *Hopi Tribe v. Trump*, is still pending, which means undecided, in the same court. As of September 26, 2026, no court had ruled on the 2026 cuts, and no judge had ordered them stopped.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2026" -->
-**If you remember one thing:** The land grew hotter and drier and the fires grew bigger after 2000, while bald eagles, bison and wolves came back by the thousands.
+**If you remember one thing:** After 2000 the land grew hotter and drier and the fires grew bigger, bald eagles, bison and wolves came back by the thousands, and the fights went on over chemical plants beside Black neighborhoods and over Native land such as Bears Ears.
 **Still open:** No court has yet decided whether a president can undo a national monument another president made. The tribes' 2017 case and the suits filed in September 2026 were still waiting in federal court on September 26, 2026.
 <!-- /hb-zoom -->
 
