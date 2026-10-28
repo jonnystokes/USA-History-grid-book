@@ -1,6 +1,6 @@
 # Answers to the Chapter Questions
 
-Each chapter opens with three questions. Here they are with their answers, chapter by chapter.
+Each chapter opens with three questions, and here they are with their answers, chapter by chapter.
 
 ## Chapter 1: Exploration and Discovery
 
@@ -12,7 +12,7 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 
 - **How did Native nations govern themselves and deal with other nations before the United States existed?** They ran their own councils and laws, as the Haudenosaunee did under the Great Law of Peace. Their leaders made alliances and treaties and recorded them on wampum belts.
 - **What did United States officials and soldiers do to take the nations' land and break the nations up?** Soldiers forced whole nations west and onto reservations, and killed hundreds of people at a time at Sand Creek, Wounded Knee and other places. Officials cut the nations' land from about 138 million acres to 48 million and took children to boarding schools, where at least 973 died.
-- **How did Native nations hold on to their governments, their languages and some of their land?** They went to court, from Worcester v. Georgia in 1832 to McGirt v. Oklahoma in 2020. They organized until members of Congress restored the Menominee, and they kept their languages, first in secret and now in schools of their own.
+- **How did Native nations hold on to their governments, their languages and some of their land?** They went to court, from *Worcester v. Georgia* in 1832 to *McGirt v. Oklahoma* in 2020. They organized until members of Congress restored the Menominee, and they kept their languages, first in secret and now in schools of their own.
 
 ## Chapter 3: Land and Environment
 
@@ -60,13 +60,13 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 
 - **Did kerosene really save the whales?** No. Whaling was shrinking before kerosene came, and in most homes kerosene replaced camphene, after a Civil War tax on alcohol raised camphene's price.
 - **How did electricity reach almost every American home?** Edison's Pearl Street station began selling current in 1882, and alternating current, which a transformer could raise or lower, carried power from Niagara Falls to Buffalo by 1896. After 1935 federal loans paid for farmers' own power lines, and by 1950, 94 households in 100 had electricity.
-- **Who paid for America's energy with their freedom, their land or their lives?** Enslaved people fed the iron furnaces, at least 271 at Catoctin alone, and about 105,000 coal miners died in accidents from 1900 through 2025. Federal officials made 82,000 people in the Tennessee Valley leave their homes for dams, other dams flooded Kettle Falls and the Fort Berthold farmlands, and Osage people were murdered for their oil money.
+- **Who paid for America's energy with their freedom, their land or their lives?** Enslaved people fed the iron furnaces, at least 271 at Catoctin alone, and about 105,000 coal miners died in accidents from 1900 through 2025. Federal officials made 82,000 people in the Tennessee Valley leave their homes for dams, other dams flooded Kettle Falls and the Fort Berthold farmlands, and husbands, guardians and others murdered Osage people for their oil money.
 
 ## Chapter 11: Transportation
 
 - **How much faster and cheaper did travel get?** On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon, and on the first railroad across the country a coast-to-coast trip took a week instead of four months. By 1956, loading a ton of cargo onto a ship cost about 16 cents in containers, against about $5.86 by hand.
-- **Who built the new routes, and whose land and homes did they take?** Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. The routes took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
-- **How did Black travelers fight the laws that made them sit apart?** They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
+- **Who built the new routes, and whose land and homes did they take?** Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. Builders and US officials took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
+- **How did Black travelers fight the laws that made them sit apart?** They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After white mobs and Klansmen beat the Freedom Riders in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
 
 ## Chapter 12: Landmarks
 
@@ -107,7 +107,7 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 ## Chapter 18: Marketplace and Consumer Life
 
 - **How did colonists pay for goods when they had almost no coins?** They took goods home on credit and paid later in crops, other goods, work and wampum, while the shopkeeper wrote each debt in a ledger.
-- **Where were people bought and sold like goods?** At the market New York's aldermen set up on Wall Street in 1711, in newspaper advertisements such as the 277 or more in Franklin's Pennsylvania Gazette, and at a racetrack near Savannah, where Pierce Butler sold between 429 and 436 people in 1859.
+- **Where were people bought and sold like goods?** At the market New York's aldermen set up on Wall Street in 1711, in newspaper advertisements such as the 277 or more in Franklin's *Pennsylvania Gazette*, and at a racetrack near Savannah, where Pierce Butler sold between 429 and 436 people in 1859.
 - **How much of what Americans buy today is bought online?** About one dollar in six: online sales were 17.1 percent of all retail sales from April to June 2026, by the US Census Bureau's count.
 
 ## Chapter 19: Big Business and Its Power
@@ -119,20 +119,20 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 ## Chapter 20: Government, Law, and Politics
 
 - **Who decided who could vote, and how did the answer change?** Each colony's and then each state's lawmakers decided, and the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Four amendments (1870, 1920, 1964, 1971) and the Voting Rights Act of 1965 took most of that power back from the states.
-- **When did judges first cancel a law, and what have they done with that power since?** In 1803, in *Marbury v. Madison*. The justices have used it to allow sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
+- **When did judges first cancel a law, and what have they done with that power since?** In 1803, in *Marbury v. Madison*. The justices have used it to allow forced sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
 - **What happens when people in power break the law?** A jury, a court or the Senate decides. In 1614 royal judges found Juan de Oñate, a former governor of New Mexico, guilty of 12 charges and ordered him out of New Mexico for life. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
 
 ## Chapter 21: Crime, Police, and Justice
 
 - **How did punishment move from the whipping post to the prison cell?** Colonial judges had people whipped, branded and hanged in public, and had their ears cut off. Pennsylvania's lawmakers turned the Walnut Street Jail into the country's first state prison in 1790, and by 2009 American prisons held about 1.62 million people.
 - **Who kept order before there were police?** Among the Native nations, families and clans settled killings, and in the colonies settlers took turns on a night watch while white men in the South rode on slave patrols. Full-time police began work in Boston in 1838 and in New York in 1845, and the US attorney general put 34 federal agents to work in 1908.
-- **What happened to the people in mobs who killed without a trial?** In almost every case in this chapter, nobody punished them. No one was charged for the Conestoga killings in 1763, for burning Francis McIntosh in 1836 or for burning Henry Smith in 1893, and no white person went to prison for Tulsa in 1921.
+- **What happened to the people in mobs who killed without a trial?** In almost every case the chapter tells, nobody punished them. No one was charged for the Conestoga killings in 1763, for burning Francis McIntosh in 1836 or for burning Henry Smith in 1893, and no white person went to prison for the attack on Greenwood, the Black district of Tulsa, in 1921.
 
 ## Chapter 22: War and the Military
 
 - **What killed most American soldiers before World War II?** Disease. In the war with Mexico seven of every eight American dead died of something other than enemy fire, and in World War I flu and pneumonia killed more soldiers than the war's deadliest battle did.
 - **Who was made to fight, and who could get out of it?** Drafts filled the armies of the Civil War, both world wars and Vietnam. In 1863 a drafted man could pay $300 and go home, and in the Vietnam years college students could put off the draft. Since 1973 everyone who serves has volunteered.
-- **Were soldiers who killed people who could not fight back ever punished?** Rarely. No one was charged for Gnadenhutten or tried for Sand Creek, and Calley, the only man convicted for My Lai, went free on parole in 1974.
+- **Were soldiers who killed people who could not fight back ever punished?** Rarely. No one was charged for Gnadenhutten or tried for Sand Creek, and Lieutenant William Calley, the only man convicted for My Lai, went free on parole in 1974.
 
 ## Chapter 23: America and the World
 
@@ -149,25 +149,25 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 ## Chapter 25: Rights and Movements
 
 - **How did people without power get the people in power to listen?** They signed petitions, printed pamphlets and spoke to crowds, and later they planned test cases, boycotted, marched, sat in and filmed the police, from the Germantown protest of 1688 to Darnella Frazier's video in 2020.
-- **What did organizing cost the people who did it?** Their jobs, their homes and their freedom, and sometimes their bodies and their lives. Lucy Burns was fed by force through a tube, Fannie Lou Hamer was beaten in a Mississippi jail, Medgar Evers was shot in his driveway, and four girls died in a Birmingham church.
+- **What did organizing cost the people who did it?** Their jobs, their homes and their freedom, and sometimes their bodies and their lives. A prison doctor fed Lucy Burns by force through a tube, state highway patrolmen had Fannie Lou Hamer beaten in a Mississippi jail, Byron De La Beckwith shot Medgar Evers in his driveway, and Klansmen killed four girls with a bomb in a Birmingham church.
 - **Can a right that has been won be taken away again?** Yes. New Jersey's lawmakers took the vote from women and free Black men in 1807, members of Congress took Utah women's vote in 1887, and the justices of the Supreme Court cut back the Voting Rights Act in 2013 and 2026 and ended the right to an abortion in 2022.
 
 ## Chapter 26: Health, Disease, and Medicine
 
 - **Why did new diseases kill so many Native people after 1492?** The crowd diseases, such as smallpox and measles, had never reached the Americas, so nobody here was immune and a whole town could fall sick at once. Smallpox killed about half of the Cherokee in 1738 and 1739.
 - **How did Americans learn to stop smallpox, yellow fever and polio?** Boston doctors tried inoculation in 1721, using a method Onesimus described, and safer vaccination followed in 1800. Army doctors proved in 1900 that mosquitoes spread yellow fever, and after the Salk and Sabin vaccines the last polio case caught inside the country came in 1979.
-- **Who was used in medical experiments without agreeing, and what changed because of it?** Enslaved women operated on by J. Marion Sims, the Black men of the Tuskegee study, prisoners and patients in Guatemala, and children at Willowbrook. After the Tuskegee study became public, members of Congress passed the National Research Act in 1974, and a federally paid study on people now needs each person's informed consent.
+- **Who was used in medical experiments without agreeing, and what changed because of it?** Enslaved women operated on by J. Marion Sims, the Black men of the Tuskegee study, prisoners and patients in Guatemala, and children at Willowbrook. After the Tuskegee study became public, members of Congress passed the National Research Act in 1974, and researchers in a federally paid study on people must now get each person's informed consent.
 
 ## Chapter 27: Disasters and Rescue
 
 - **What rules did Americans make after disasters, and did they work?** After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some went into use fast: the smell was in natural gas within weeks. Some failed: the 1838 steamboat law had no one to enforce it, a New York law said factory doors must stay unlocked but witnesses said the Triangle owners kept one locked, the *Eastland*'s added lifeboats may have made it more dangerous, and New Orleans's floodwalls broke in 2005. Some are still being tested, such as Kerr County's new flood sirens and FEMA, whose future members of Congress were still debating in late September 2026.
 - **Was anyone punished when people's choices killed others?** Rarely. No one was punished for the *Sultana*, the Johnstown club won in court, a jury found the Triangle owners not guilty, and no Pittston official was charged after Buffalo Creek. Barnett Welansky went to prison for the Cocoanut Grove fire, and PG&E pleaded guilty to 84 counts of involuntary manslaughter after the Camp Fire.
-- **Did everyone get the same help after a disaster?** No. Officials paid out London's money for Charleston in 1740 by the size of each loss, so most went to rich merchants. Armed men forced Black workers to handle Galveston's dead in 1900, and camp leaders forced Black people to work in the 1927 flood. In 2005 police turned back people walking out of New Orleans at gunpoint, and in 2025 orders to leave reached west Altadena hours late.
+- **Did everyone get the same help after a disaster?** No. Officials paid out London's money for Charleston in 1740 by the size of each loss, so most of it went to rich merchants. Armed men forced Black workers to handle Galveston's dead in 1900, and camp leaders forced Black people to work in the 1927 flood. In 2005 police turned back people walking out of New Orleans at gunpoint, and in 2025 orders to leave reached west Altadena hours late.
 
 ## Chapter 28: Drugs and Alcohol
 
 - **How long have people here used tobacco, and what did they use it for?** For at least 12,300 years, since the fire at the Wishbone site. Native people offered it in prayer, burning it or smoking it in pipes, and the Algonquian people at Roanoke smoked it to keep the body healthy.
-- **What happened when the whole country banned alcohol from 1920 to 1933?** Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Poisoned factory alcohol killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
+- **What happened when the whole country banned alcohol from 1920 to 1933?** Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Treasury officials had more poison added to factory alcohol, and the poison killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
 - **Who has been punished for drugs, and who has not?** Robert Coles with his red D, the laborer Samuel Caldwell with four years of hard labor, Billie Holiday handcuffed to her hospital bed, and the people sentenced for crack, 91 of every 100 of them Black in 1992, were all punished. Harry Gross never served his jail sentence, and no member of the Sackler family has been charged with a crime.
 
 ## Chapter 29: Religion
@@ -179,7 +179,7 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 ## Chapter 30: School and Education
 
 - **When did school become free, and required, for every child?** It came in steps, not on one date. Horace Mann argued for free schools paid for by taxes from 1837, and Massachusetts lawmakers made school a legal duty in 1852. Every state had done the same by 1918, and disabled children won the right to a free public school only in 1975.
-- **Which children were kept out of school, and how did they get in?** Lawmakers barred enslaved people from learning to read, and officials separated Black, Chinese and Mexican American children, turned disabled children away and took Native children far from home. Judges first backed keeping them out or apart, in Sarah Roberts's case in 1850, Plessy in 1896 and Martha Lum's case in 1927. Later judges let them in, from the Mendez case in 1946 and Brown in 1954 to the Mills case in 1972, and in 1975 members of Congress passed a law for disabled children and a law that let Native nations run their own schools.
+- **Which children were kept out of school, and how did they get in?** Lawmakers barred enslaved people from learning to read, and officials separated Black, Chinese and Mexican American children, turned disabled children away and took Native children far from home. Judges first backed keeping them out or apart, in Sarah Roberts's case in 1850, *Plessy* in 1896 and Martha Lum's case in 1927. Later judges let them in, from the Mendez case in 1946 and *Brown* in 1954 to the *Mills* case in 1972, and in 1975 members of Congress passed a law for disabled children and a law that let Native nations run their own schools.
 - **Is it still lawful for a teacher to hit a child?** Yes, in 15 states in 2026. The justices of the Supreme Court ruled in 1977 that the Constitution's ban on cruel and unusual punishment does not cover paddling at school, so state lawmakers have banned it one state at a time.
 
 ## Chapter 31: News and Communication
@@ -204,7 +204,7 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 
 - **Who tried to stop Americans from acting, and why?** A Virginia court tried three actors in 1665 on one man's complaint, and the record does not say why he objected. Spanish priests burned Pueblo masks to end the ceremonies. Massachusetts lawmakers banned plays, saying they made people less moral and less religious. The delegates to the Continental Congress promised to discourage plays as wasteful, then asked the states to stop them. Later, police arrested Black actors after a rival white manager, by one account, started a riot to destroy their company. Federal officials made Native dances crimes, and missionaries in Alaska called Yup'ik masked dances "heathen rites." Studio heads blacklisted hundreds of film workers over communism.
 - **Why did white actors play Black, Asian and Native people for so long?** White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. The studio heads' own Code and state laws against marriage between races kept actors of color out of leading parts.
-- **Who controls a computer copy of an actor's face and voice?** Since the strikes of 2023 and 2024 to 2025, union contracts say a studio or game company must get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.
+- **Who controls a computer copy of an actor's face and voice?** Since the strikes of 2023 and 2024 to 2025, union contracts require a studio or game company to get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.
 
 ## Chapter 35: Styles
 
@@ -214,7 +214,7 @@ Each chapter opens with three questions. Here they are with their answers, chapt
 
 ## Chapter 36: Sports and Play
 
-- **Who invented baseball?** No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The Doubleday story rests on one letter from a man who was 5 years old in 1839.
+- **Who invented baseball?** No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The story that Abner Doubleday invented it in 1839 rests on one letter from a man who was 5 years old that year.
 - **Who was kept out of American games, and how did they get in?** The people who ran the games kept out laborers, Black players, girls and Black swimmers, and left enslaved riders' names off the race cards. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX. Jackie Robinson got in when Branch Rickey signed him, and Kathryn Johnston played anyway, under a boy's name.
 - **How has children's free time changed?** In the 1830s Lucy Larcom made doll furniture from burrs while the grown-ups left the children alone. Since then more of children's time has gone to lessons and organized sports, and by 2022, 95 of every 100 teenagers had or could use a smartphone.
 
