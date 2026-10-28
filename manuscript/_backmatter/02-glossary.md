@@ -928,7 +928,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 - **coverture**: the old English rule that a married woman was "covered" by her husband and had no legal standing of her own (Chapter 25)
 - **COVID-19**: an illness caused by a coronavirus that spreads in the droplets and tiny particles an infected person breathes out (Chapter 14)
 - **cowpeas**: a kind of bean (Chapter 15)
-- **cowpox**: a mild disease of cows (Chapter 26)
+- **cowpox**: a mild disease of cows (Chapter 24)
 - **co-writer**: a person named as one of a song's writers, with a right to part of the money the song earns its writers (Chapter 33)
 - **cowskin**: a whip made of dried, twisted cow's hide, also called the cowhide (Chapter 24)
 - **crack**: a form of cocaine that is smoked (Chapter 21)
@@ -4031,7 +4031,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 ## V
 
 - **vacate**: to cancel a conviction (Chapter 20)
-- **vaccination**: scratching fluid from a cowpox sore into the skin to protect a person against smallpox (Chapter 26)
+- **vaccination**: scratching fluid from a cowpox sore into the skin to protect a person against smallpox (Chapter 24)
 - **vaccine**: a medicine that trains the body to fight off a germ before the germ can make a person sick (Chapter 9)
 - **vacuum**: a space with no air in it, like outer space (Chapter 8)
 - **vacuum tube**: a glass tube with the air taken out, like a light bulb (Chapter 8)
