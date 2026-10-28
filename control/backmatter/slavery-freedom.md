@@ -1,6 +1,7 @@
 # Back-matter hand-off: Chapter 24, Slavery and Freedom (T-684)
 
 ## Glossary
+- repair: payments or other steps to make up for what slavery did (Before 1500)
 - chattel slavery: holding a person as property for life and passing that status on to the person's children, from chattel, an old word for property (Before 1500)
 - mourning war: a Haudenosaunee custom in which a family that had lost someone in war adopted a captive to take the dead person's place (Before 1500)
 - encomienda: a Spanish system under which colonists forced Native people to work for them and to hand over goods (The 1500s)
@@ -37,6 +38,7 @@
 - misdemeanor: a minor crime punished by a fine (1700 to 1750)
 - West Indies: the islands of the Caribbean (1700 to 1750)
 - census: a count of every person in the United States (1750 to 1800)
+- Patriots: the colonists fighting the British in the Revolution (1750 to 1800)
 - clause: one part of a written law or constitution (1750 to 1800)
 - gradual abolition: ending slavery step by step over many years (1750 to 1800)
 - minister to France: the man who spoke for the United States in Paris (1750 to 1800)
@@ -72,6 +74,7 @@
 - Underground Railroad: a network of people, with guides and safe houses, who helped enslaved people escape to the free states and to Canada (1800 to 1850)
 - vigilance committees: groups that hid people who had escaped and helped them move on (1800 to 1850)
 - massacre: the killing of many people who could not defend themselves (1850 to 1900)
+- amendment: a change added to the Constitution (1850 to 1900)
 - Reconstruction: the period of rebuilding after the Civil War, ended in 1877 (1850 to 1900)
 - fugitive: a person who has escaped (1850 to 1900)
 - commissioners: federal officials who decided whether a captured person was a runaway slave (1850 to 1900)
@@ -106,19 +109,20 @@
 - noncommissioned officer: a soldier who had risen through the ranks to lead other soldiers (1850 to 1900)
 - Black Codes: Southern laws of 1865 and after that let officials arrest, hire out and force to work Black people who could not prove they had a job (1850 to 1900)
 - vagrancy laws: laws that made it a crime to have no job or home (1850 to 1900)
+- equal protection of the laws: the same protection the laws give everyone else (1850 to 1900)
 - sharecropper: a person who farmed a landlord's fields in exchange for a share of the crop (1850 to 1900)
 - convict leasing: state officials renting prisoners out to planters, mine owners and railroads, who worked them without pay (1850 to 1900)
 - parish: what other states call a county, in Louisiana (1850 to 1900)
 - conspiracy: planning a crime together (1850 to 1900)
 - segregation: separating people by race by law (1850 to 1900)
 - separate but equal: the rule of Plessy v. Ferguson (1896) that let states keep Black and white people apart by law (1850 to 1900)
+- lynching: a killing by a mob with no trial (1850 to 1900)
 - constitution: a state's set of basic laws (1900 to 1950)
 - poll tax: a fee a man had to pay before he could vote (1900 to 1950)
 - literacy test: a reading test for voters (1900 to 1950)
 - understanding clause: a rule that a man had to read any part of the state constitution, or understand it when read to him, or give "a reasonable interpretation" of it, before he could vote (1900 to 1950)
 - grandfather clause: a rule that let a man vote if his father or grandfather had voted before January 1, 1867 (1900 to 1950)
 - Jim Crow laws: the Southern laws that kept Black and white people apart (1900 to 1950)
-- lynching: a killing by a mob with no trial (1900 to 1950)
 - Great Migration: the movement of Black Southerners out of the South (1900 to 1950)
 - debt peonage: forcing a person to work to pay off a debt (1900 to 1950)
 - Pulitzer Prize: one of the top American prizes for writing (1900 to 1950)
@@ -126,8 +130,6 @@
 - vat: a large tub (1900 to 1950)
 - advance: money paid before the work is done (1900 to 1950)
 - Federal Writers' Project: a government program that gave jobs to writers (1900 to 1950)
-- amendment: a change added to the Constitution (1950 to 2000)
-- equal protection of the laws: the same protection the laws give everyone else (1950 to 2000)
 - inherently: by their very nature (1950 to 2000)
 - miniseries: a story told on television over several nights (1950 to 2000)
 - griot: a keeper of history who tells it from memory (1950 to 2000)
@@ -149,7 +151,7 @@
 - Phillis Wheatley: a girl kidnapped from West Africa who became the first African American to publish a book of poetry (1750 to 1800)
 - Elizabeth Freeman (Mum Bett): an enslaved woman who sued for her freedom under the Massachusetts constitution and won (1750 to 1800)
 - Ona Judge: an enslaved woman who walked out of President George Washington's household and was never caught (1750 to 1800)
-- Frederick Douglass: a man born enslaved who taught himself to read, escaped, and became the most heard abolitionist of his century (1800 to 1850)
+- Frederick Douglass: a man born enslaved who learned to read in secret, escaped, and became the most heard abolitionist of his century (1800 to 1850)
 - Milla Granson (Lilly Ann Granderson): an enslaved woman who ran a secret night school in Natchez and taught hundreds to read and write (1800 to 1850)
 - Nat Turner: an enslaved preacher who led the deadliest slave revolt in United States history (1800 to 1850)
 - Sengbe Pieh (Joseph Cinqué): a Mende man who led the *Amistad* captives in taking the ship and won their freedom in the Supreme Court (1800 to 1850)
@@ -200,7 +202,7 @@
 
 ## Movies
 - Becoming Frederick Douglass (2022): a documentary by Stanley Nelson, shown on PBS, about Douglass's life
-- The Birth of a Nation (2016): a feature film about Turner's revolt, a different film from a 1915 film with the same title
+- The Birth of a Nation (2016): a feature film about Turner's revolt, whose makers took the title on purpose from D. W. Griffith's 1915 film that inspired a new Ku Klux Klan
 - Amistad (1997): no note
 - 12 Years a Slave (2013): no note (directed by Steve McQueen, won the Academy Award for Best Picture)
 - Harriet (2019): no note (Cynthia Erivo as Tubman)

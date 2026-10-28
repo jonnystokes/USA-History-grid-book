@@ -14,33 +14,37 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 24 of 37 · Slavery and Freedom · 10 eras · about 105 minutes**
+**Chapter 24 of 37 · Slavery and Freedom · 10 eras · about 110 minutes**
 
-**Slavery here was built on purpose, one law and one sale at a time, and enslaved people fought it until it ended in 1865, then had to fight again when white lawmakers and mobs took much of their new freedom away.**
+**Judges, lawmakers and traders built slavery here on purpose, one law and one sale at a time. Enslaved people fought it until it ended in 1865, then fought again when white lawmakers and mobs took much of their new freedom away.**
 
 In October 1865 a freed man named Thornton Copeland placed a few lines in the *Colored Tennessean*, a Black newspaper in Nashville. "INFORMATION is wanted of my mother," they began. Her name was Betty. He had last seen her in Fauquier County, Virginia, in 1844, the year he was sold in Richmond to a man named Samuel Copeland. His advertisement is now one of more than 5,000 like it that anyone can read online. No record shows whether he ever found her.
 
-This chapter follows slavery from the captives of Native wars before 1500 to the arguments about repair going on now. Watch for two things as you read. First, watch who made each rule: the Virginia judges who sentenced John Punch to serve for life in 1640, the lawmakers who made a child's status follow the mother's in 1662, the traders who sold a million people south. Second, watch what enslaved people did back. They ran, they sued, they learned to read in secret, and some rose up with weapons. After 1877 Chapter 25 takes over the campaigns for rights, and this chapter follows the forced labor that replaced slavery and the work of remembering it.
+This chapter follows slavery from the captives of Native wars before 1500 to today's arguments over repair, meaning payments or other steps to make up for what slavery did. Watch for two things as you read.
+
+First, watch who made each rule: the Virginia judges who sentenced John Punch to serve for life in 1640, the lawmakers who made a child's status follow the mother's in 1662, the traders who sold a million people south. Second, watch what enslaved people did back. They ran away, sued and learned to read in secret, and some rose up with weapons.
+
+After 1877 the chapter follows the forced labor that replaced slavery and the vote taken from Black men. It also describes the court ruling and new laws of 1954 to 1965, under which federal officials began to enforce Black Americans' rights. Chapter 25 describes the campaigns people organized for those rights.
 
 **Three questions this chapter answers**
 - How did a servant in Virginia become a slave for life, and a child a slave from birth?
 - How did enslaved people fight back?
 - What happened to the freedom people won in 1865?
 
-**Five minutes?** Read "How did a servant become a slave for life?" in The 1600s.
-**Can skip:** "Enslaved builders of the capital", "Churches and hush harbors", "Roots and the search for family". The chapter still makes sense without them.
+**Five minutes?** Read "How did a servant become a slave for life?" in The 1600s, the Robert Smalls story in 1850 to 1900, and "The promises broken" in the same era.
+**Can skip:** "The ships from Rhode Island", "Enslaved builders of the capital", "Slavery exhibits in the national parks, 2025 and 2026". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
 **Era 1 of 10 · Before 1500 · about 1 minute**
 
-Native nations took captives in war long before Europeans arrived, but in most of them a captive could become a member of a family. A captive's children did not automatically become captives too. The Northwest Coast was different. There the Tlingit, the Haida and their neighbors bought and sold people, and the children of slaves were slaves.
+Native nations took captives in war long before Europeans arrived, but in most of them a captive could become a member of a family.
 
 Holding a person as property for life, and passing that status on to the person's children, is called chattel slavery, from chattel, an old word for property. Europeans later wrote chattel slavery into the laws of the colonies they set up here.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Captives who could become family" -->
-Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. People call this custom the mourning war, and the records describe it more fully than any other kind of captive-taking. In most of these nations a captive could stop being a captive.
+Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. People call this custom the mourning war, and the records describe it more fully than any other kind of captive-taking. In most of these nations a captive could stop being a captive, and a captive's children did not automatically become captives too.
 
 On the Northwest Coast, among the Tlingit, the Haida and the nations near them, slaves were property. Their owners traded them, and a slave's children were born slaves. Leland Donald studied this system in a 1997 book and found that it was slavery in the full sense of the word.
 <!-- /hb-zoom -->
@@ -125,9 +129,9 @@ Ship crews landed most of the captives who survived in the Caribbean and in Braz
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="One survivor's account" -->
-Slave traders carried Olaudah Equiano across the ocean on a slave ship when he was a child. In 1789 he published a book in London about what he saw. It was called *The Interesting Narrative of the Life of Olaudah Equiano*.
+Olaudah Equiano wrote that slave traders carried him across the ocean on a slave ship when he was a child. He published his account in London in 1789, in a book called *The Interesting Narrative of the Life of Olaudah Equiano*. Two other records list his birthplace as Carolina. If they are right, he never made the crossing he describes.
 
-The crew put Equiano below deck, and he was too sick to eat. Two white crewmen tied him across the windlass, the winch that pulled up the anchor chain, and flogged him for refusing food. Flogging means that a person is tied down and struck over and over on the bare body with a whip. Each stroke cuts the skin, and deep or repeated flogging leaves raised scars for life. Equiano wrote that captives were "hourly whipped for not eating."
+In his account, the crew put Equiano below deck, and he was too sick to eat. Two white crewmen tied him across the windlass, the winch that pulled up the anchor chain, and flogged him for refusing food. Flogging means that a person is tied down and struck over and over on the bare body with a whip. Each stroke cuts the skin, and deep or repeated flogging leaves raised scars for life. Equiano wrote that captives were "hourly whipped for not eating."
 
 He wrote that the hold was "so crowded that each had scarcely room to turn himself." The heat and the foul air made people sick, "of which many died." Children fell into the tubs the captives used as toilets and nearly smothered.
 
@@ -136,7 +140,7 @@ One day two men who were chained together broke through the netting around the d
 The ship landed at Barbados, an island in the Caribbean, and from there traders sold him on to Virginia.
 
 **Known:** Equiano's own book says he was born in Africa.
-**Not known:** whether that is true. In 2005 the historian Vincent Carretta reported two records that give his birthplace as Carolina, a 1759 baptism record in London and a 1773 Royal Navy crew list. The book and the records cannot both be right.
+**Not known:** whether that is true. In 2005 the historian Vincent Carretta reported the two records, a 1759 baptism record in London and a 1773 Royal Navy crew list. The book and the records cannot both be right.
 <!-- /hb-zoom -->
 
 
@@ -164,9 +168,9 @@ Judges and lawmakers made a separate rule for Africans, one case and one law at 
 
 That meant people captured in a war the colonists called fair could be held as slaves. So could outsiders who sold themselves or were sold to the colonists. The Massachusetts Bay lawmakers were the first in any English colony on the mainland to put slavery into a written law.
 
-**John Casor.** Anthony Johnson, an African, had arrived in Virginia in about 1621, gained his freedom and become a landowner on the Eastern Shore. In 1654 he went to court in Northampton County against his white neighbor Robert Parker over a Black man named John Casor. Casor said the time on his contract had run out and he was free.
+**John Casor.** Anthony Johnson, an African, had arrived in Virginia in about 1621, gained his freedom and become a landowner on the Eastern Shore. He claimed a Black man named John Casor as his servant for life. Casor said the time on his contract had run out and he was free, and he went to work for Johnson's white neighbor, Robert Parker. In 1654 Johnson took Parker to court in Northampton County to get Casor back.
 
-The county judges ruled in 1655 that Casor was Johnson's servant for life, which made Casor Johnson's slave. It was the first court ruling in the English mainland colonies that a person who had committed no crime could be held for life.
+The county judges ruled for Johnson on March 8, 1655. They ordered Casor back to Johnson as his servant for life, which made Casor Johnson's slave, and they made Parker pay the costs of the case. It was the first court ruling in the English mainland colonies that a person who had committed no crime could be held for life.
 
 **The child follows the mother.** Virginia's House of Burgesses, the colony's elected assembly, passed a law about children in 1662. Under the old rule in English law, a child's place in the law, free or bound, came from the father. Virginia's lawmakers broke with that on purpose. A child born to an enslaved mother was now enslaved for life, whoever the father was. Lawyers called the rule by a Latin phrase, *partus sequitur ventrem*, "the child follows the womb."
 
@@ -279,11 +283,13 @@ Under the Negro Act, a white person who murdered an enslaved person was guilty o
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New York, 1741" -->
-A string of fires began in New York City in March 1741, with a fire at Fort George, the governor's home. City officials claimed that enslaved people and poor white people had plotted to burn the city. Three judges of the colony's Supreme Court heard the cases: James De Lancey, Daniel Horsmanden and Frederick Philipse. The trials began on May 11, 1741.
+New York officials put about 200 people on trial in 1741 for a plot to burn the city. Their main witness told of the plot only after a judge had threatened her and promised her a reward.
 
-The main witness was Mary Burton, a young servant bound to a tavern owner named John Hughson. Judge Horsmanden offered her an end to her contract and a reward in money.
+A string of fires began in New York City in March 1741, the first at Fort George, the governor's home. City officials claimed that enslaved people and poor white people had plotted to burn the city. Three judges of the colony's Supreme Court heard the cases, among them Daniel Horsmanden. The trials began on May 11, 1741.
 
-**The count.** About 200 people were tried. The New York courts' historical society counts 30 people sentenced to death and 70 sentenced to be sold into slavery in the Caribbean. The historian Jill Lepore counts 34 put to death between May 11 and August 29, 1741.
+**The witness.** Mary Burton was a young servant bound to a tavern owner named John Hughson. When officials threatened her with jail, she testified about a robbery. Judge Horsmanden threatened her again and promised her an end to her contract and a reward in money. After that, she began to describe a plot she had never mentioned before. The New York courts' historical society says the sentences rested on doubtful testimony.
+
+**The count.** The same society counts 30 people sentenced to death and 70 sentenced to be sold into slavery in the Caribbean. The historian Jill Lepore counts 34 put to death between May 11 and August 29, 1741.
 
 By Lepore's count, officials burned 13 Black men at the stake and hanged 17 Black men, two white men and two white women. John Hughson, his wife Sarah and their daughter Sarah were among the white people put to death. In 1744 Horsmanden published his record of the trials.
 <!-- /hb-zoom -->
@@ -293,7 +299,7 @@ By Lepore's count, officials burned 13 Black men at the stake and hanged 17 Blac
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
 
 The men who led the Revolution wrote in 1776 "that all men are created equal," and enslaved people used words like those to claim their freedom. Elizabeth Freeman won hers in a Massachusetts court in 1781 with the words of the new state constitution. About 20,000 Black people joined or fled to the British during the war, after Virginia's royal governor promised freedom to enslaved men who fought for Britain. In 1796 Ona Judge walked out of President George Washington's household and never went back.
 
@@ -310,17 +316,23 @@ Slavery stayed legal in most of the new country. The first census, a count of ev
 
 Slave traders kidnapped her from West Africa when she was about seven years old. In 1761 she landed in Boston on a slave ship called the *Phillis*. John Wheatley, a Boston merchant, and his family bought her. Her first name came from the ship, and her last name from the family who bought her.
 
-Twelve years later she was a poet. Her book, *Poems on Various Subjects, Religious and Moral*, was published in London on September 1, 1773. It was the first book of poetry by an African American. The Wheatleys freed her by November 1773, shortly after it appeared.
+She never went to school. John Wheatley wrote that she learned "by only what she was taught in the Family." Within sixteen months of landing, he wrote, she had learned English well enough to read the hardest parts of the Bible.
+
+Twelve years after she landed, she was a published poet. Her book, *Poems on Various Subjects, Religious and Moral*, was published in London on September 1, 1773. It was the first book of poetry by an African American. The Wheatleys freed her by November 1773, shortly after it appeared.
 
 She married John Peters in 1778. She died poor in 1784, at about 31 years old.
 <!-- hb-story:end slug="phillis-wheatley-slavery-freedom" -->
 
 <!-- hb-zoom level="span" label="Two promises of freedom in the Revolution" -->
-British soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. People call it the Boston Massacre. The first person killed was Crispus Attucks, a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
+Both sides in the Revolution promised freedom to some of the enslaved men who would fight for them. Neither side kept that promise to all of them.
+
+**Before any promise.** A Black man died in the quarrel with Britain years before either side promised anything. British soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. People call it the Boston Massacre. The first person killed was Crispus Attucks, a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
 
 **Lord Dunmore's promise.** Virginia's royal governor, Lord Dunmore, made a promise on November 7, 1775, to the men enslaved by Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800.
 
-Over the whole war, by the estimates of the Gilder Lehrman Institute and the American Battlefield Trust, about 20,000 Black people joined or fled to the British. About 9,000 served the American side, the Patriots, and about 5,000 of those fought as soldiers. Both sides promised freedom to some of the enslaved men who fought for them, and neither side kept those promises to all of them.
+**The Patriot promise.** The Patriots, the colonists fighting the British, made promises too. Rhode Island's lawmakers voted on February 14, 1778, that any enslaved man in the state could join the army for the rest of the war. He would be set free as soon as he passed the army's inspection, and the lawmakers promised to pay his owner up to 120 pounds.
+
+**The count.** Over the whole war, by the estimates of the Gilder Lehrman Institute and the American Battlefield Trust, about 20,000 Black people joined or fled to the British. About 9,000 served the Patriots, and about 5,000 of those fought as soldiers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Which states ended slavery first?" -->
@@ -359,15 +371,15 @@ Thomas Jefferson was the main author of the Declaration of Independence. Over hi
 
 Her son Madison Hemings said in 1873 that in Paris she "became Mr. Jefferson's concubine," using an old word for a woman a man kept for sex without marrying her. Madison Hemings said she was pregnant when they came back to Virginia.
 
-Historians disagree about the right word for what Jefferson did. Jessica Marie Johnson, a historian of slavery at Johns Hopkins University, wrote in 2026 that Jefferson was a rapist. In her 2008 history of the Hemings family, the historian Annette Gordon-Reed argued that Jefferson and Sally Hemings loved each other. Another historian, Eric Foner, answered in a review that neither of them left any record of their feelings.
-
 Under French law she could have claimed her freedom in Paris. Madison Hemings said Jefferson promised that her children would be freed at age 21 if she went back with him. She had children from 1790 to 1808. Four lived to be adults: Beverly, Harriet, Madison and Eston.
 
-**The DNA.** In 1998 scientists compared DNA and found that a man of the Jefferson family was the father of Eston Hemings. In January 2000 the Thomas Jefferson Foundation, which runs Jefferson's home at Monticello, concluded that Jefferson "was probably the father" of her children. By 2018 the foundation's historians treated this as a fact.
+**The DNA.** In 1998 scientists compared DNA and found that a man of the Jefferson family was the father of Eston Hemings. That test could not tell Thomas Jefferson apart from other men of his family, such as a brother or a nephew. In January 2000 the Thomas Jefferson Foundation, which runs Jefferson's home at Monticello, concluded that Jefferson "was probably the father" of her children. By 2018 the foundation's historians treated this as a fact.
 
-In September 2026 a study paid for by the Smithsonian tested DNA from a lock of Jefferson's hair, cut on the day he died. Descendants of Madison and Eston Hemings carried more of Jefferson's DNA than the scientists expected, and the scientists concluded that Jefferson fathered her children.
+In September 2026 a study paid for by the Smithsonian tested DNA from a lock of Thomas Jefferson's own hair, cut on the day he died. Richard Kurin of the Smithsonian said some Hemings descendants "had more Thomas Jefferson DNA than the known Jefferson descendants." The scientists concluded that Jefferson himself fathered her children.
 
-Jefferson died in 1826. Neither he nor anyone after him ever legally freed Sally Hemings. His daughter Martha Jefferson Randolph let her live in Charlottesville with her sons. The census of 1833 listed her as free. She died in 1835.
+Historians disagree about the right word for what Jefferson did. Jessica Marie Johnson, a historian of slavery at Johns Hopkins University, wrote in 2026 that Jefferson was a rapist. In her 2008 history of the Hemings family, the historian Annette Gordon-Reed argued that Jefferson and Sally Hemings loved each other. Another historian, Eric Foner, answered in a review that neither of them left any record of their feelings.
+
+Jefferson died in 1826. Neither he nor anyone after him ever legally freed Sally Hemings. His daughter Martha Jefferson Randolph let her live in Charlottesville with her sons. There she lived as a free woman, though no paper made her free by law, and the census of 1833 listed her as free. She died in 1835.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Constitution's protections for slavery, 1787" -->

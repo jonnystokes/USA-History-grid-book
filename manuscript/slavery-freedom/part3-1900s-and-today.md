@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 7 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 8 minutes**
 
 Southern lawmakers, sheriffs, judges and company managers spent the first half of the 1900s running a system that took slavery's place. Lawmakers passed laws that kept Black and white people apart, and they took the vote from most Black men. Sheriffs arrested Black men for small crimes, judges sentenced them, and state officials rented them to mine companies, whose managers worked them without pay. White mobs lynched Black people by the thousands. Researchers at the Equal Justice Initiative have counted more than 4,400 such killings between 1877 and 1950.
 
@@ -24,9 +24,11 @@ The people who had been born into slavery were old by the 1930s. Writers paid by
 
 **The stolen vote.** Southern lawmakers also took the vote from most Black men. The men who wrote Mississippi's constitution of 1890, the state's set of basic laws, set the pattern with three rules for voters. One was a poll tax, a fee a man had to pay before he could vote. Another was a literacy test, a reading test.
 
-The third was the understanding clause. Under it, a man had to be able to read any part of the state constitution. A man who could not read could still sign up to vote if he understood a part when someone read it to him, or gave "a reasonable interpretation" of it.
+The third was the understanding clause, and it let one local officer decide who passed. Under it, a man had to be able to read any part of the state constitution. A man who could not read could still sign up to vote if the officer judged that he understood a part read aloud to him, or gave "a reasonable interpretation" of it.
 
-**Henry Williams.** An all-white jury in Mississippi had found Henry Williams guilty of murder. In 1898 his lawyer told the justices of the Supreme Court that the local officer who signed up voters was "the sole judge" of each test, so the officer could turn away any man he chose. The justices ruled against Williams.
+**Henry Williams.** In Mississippi only qualified voters could sit on a jury, and officials made their jury lists from the books of registered voters. So the same rules that kept Black men from voting kept them off juries. An all-white jury found Henry Williams, a Black man, guilty of murder, and the judge sentenced him to be hanged.
+
+Williams's lawyer took the case to the Supreme Court. In 1898 he told the justices that the officer who signed up voters was "the sole judge" of each test, so the officer could turn away any man he chose. The justices ruled against Williams.
 
 Much later, in a 1965 case about the same rules, lawyers for the United States government told the Supreme Court that Black men had once been more than half of Mississippi's qualified voters. By 1899 they were about 9 percent.
 
@@ -52,9 +54,13 @@ Douglas Blackmon told this history in his book *Slavery by Another Name*, which 
 
 **The mines.** Alabama's convict leasing, told in the last era, went on until 1928. In 1911, 123 Black county prisoners whom officials had leased to the Banner Mine were killed in an explosion there.
 
-A prisoner named James Knox, from Mobile, died at the Flat Top mine in 1924. His death was first reported as a suicide by poison. An autopsy, an examination of the body after death, then showed that he had died of heart failure and that poison had been put into his body with a needle after he died.
+A prisoner named James Knox, from Mobile, died at the Flat Top mine in 1924. The first report of his death stated that he had killed himself by swallowing poison. An autopsy, an examination of the body after death, showed something else, according to a City of Birmingham article. He had died of heart failure, and the poison had been put into his body with a needle after he was dead.
 
-A City of Birmingham article states that his fatal injuries came from being whipped with a steel wire and lowered into hot water. The historian Mary Ellen Curtin describes a vat, a large tub, of boiling water. Neither account names who first called his death a suicide, who put in the poison, or who whipped him and put him in the water. Alabama officials ended convict leasing on June 30, 1928. Alabama was the last state to end it.
+The same article states that the injuries that killed him came from being whipped with a steel wire and lowered into hot water. The historian Mary Ellen Curtin writes that he was tortured by being lowered into a vat, a large tub, of boiling water.
+
+Both accounts state that Knox was tortured to death, and they differ only on whether the water was hot or boiling. Neither account names who whipped him and put him in the water, who put in the poison, or who first called his death a suicide.
+
+Alabama officials ended convict leasing on June 30, 1928. Alabama was the last state to end it.
 
 **Alonzo Bailey.** Alonzo Bailey, a farm worker in Alabama, signed on to work for the Riverside Company for $12 a month and took $15 in advance, paid before the work was done. After about a month he left. Under Alabama law, leaving a job after taking an advance was a crime, and the law barred him from telling the court why he had left. He was fined $30 and sentenced to 136 days of hard labor.
 
@@ -97,7 +103,7 @@ He could not go anywhere without his enslaver's permission: "I couldn't go from 
 
 Federal judges and lawmakers began to enforce the promises of the Civil War amendments in these fifty years, almost a hundred years after they were written.
 
-The 14th Amendment, a change added to the Constitution in 1868, says that no state may deny any person "the equal protection of the laws," the same protection the laws give everyone else. The 15th, added in 1870, says that no one may be kept from voting because of race. For almost a hundred years, federal officials did not enforce them in the South.
+The 14th and 15th Amendments, described in the 1850 to 1900 era, are changes added to the Constitution in 1868 and 1870. The 14th states that no state may deny any person "the equal protection of the laws," the same protection the laws give everyone else. Under the 15th, no one may be kept from voting because of race. For almost a hundred years, federal officials did not enforce them in the South.
 
 The justices of the Supreme Court ruled in 1954 that public schools kept separate by race were against the Constitution. Members of Congress passed two laws in 1964 and 1965 that gave federal officials the power to enforce the amendments. After Alex Haley's book *Roots* came out in 1976 and ABC showed it on television in 1977, many Black families began tracing their ancestors back to slavery.
 <!-- /hb-zoom -->
@@ -113,15 +119,13 @@ With these laws, the members of Congress who voted for them gave federal officia
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Roots and the search for family" -->
-Alex Haley published *Roots* in 1976, a book about his family, which he traced back to an African man enslaved in America. The ABC television network showed *Roots* as a miniseries, a story told over several nights, in January 1977. An estimated 130 million people watched it, the largest audience a television series had ever had. Afterward, many Black families began searching for their own ancestors.
-
-Parts of Haley's research and writing were later challenged.
+An estimated 130 million people watched the *Roots* miniseries, a story told on television over several nights, when ABC showed it in January 1977. It was the largest audience a television series had ever had.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="alex-haley" name="Alex Haley" movie="Roots (1977)" kind="famous" status="verified" -->
 ### Alex Haley
 
-> **Who:** A writer who traced his family back to an enslaved African ancestor in the book *Roots*, and whose work led many Black Americans to search for their own families. Parts of his research and writing have been challenged.
+> **Who:** A writer whose book *Roots* told his family's story back to an enslaved African ancestor, and whose work led many Black Americans to search for their own families.
 > **When and where:** Born in Ithaca, New York, in 1921. *Roots* published in 1976. Died in Tennessee in 1992.
 > **Movie:** *Roots* (1977), a television miniseries on ABC based on Haley's book. It tells his family's story as drama. It is not a documentary about Haley.
 
