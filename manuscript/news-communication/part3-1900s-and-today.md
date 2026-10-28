@@ -341,20 +341,18 @@ The last two worked for the same magazine in Virginia, *Van Nghe Tien Phong*. A 
 FBI agents suspected a group led by former South Vietnamese military officers, but they never found enough evidence to charge anyone. No one was ever arrested or charged.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Public broadcasting, the fairness rule, cable news and talk radio, 1967 to 1996" -->
-Lawmakers, federal officials and owners changed who paid for the news on radio and television, and what it had to include, between 1967 and 1996.
-
-Members of Congress set up the Corporation for Public Broadcasting in the Public Broadcasting Act of 1967, to hand out federal money to public television and radio stations. People at the corporation started PBS in 1969 and NPR, National Public Radio, in 1970.
-
-Ted Turner's company started CNN, the first television channel to show news 24 hours a day, on June 1, 1980. It reached viewers through cable, wires that carried many channels into homes.
-
-**The fairness doctrine.** The members of the Federal Communications Commission required stations from 1949 on to follow a rule called the fairness doctrine. Station owners had to cover important public questions fairly and air more than one side, and people attacked on the air had to get a chance to answer. The justices of the Supreme Court upheld the rule in 1969.
+<!-- hb-zoom level="span" label="The fairness rule and talk radio, 1949 to 1988" -->
+The members of the Federal Communications Commission required stations from 1949 on to follow a rule called the fairness doctrine. Station owners had to cover important public questions fairly and air more than one side, and people attacked on the air had to get a chance to answer. The justices of the Supreme Court upheld the rule in 1969.
 
 Members of Congress passed a bill in June 1987 to make the rule a law. President Ronald Reagan vetoed the bill, refusing to sign it. He wrote that the rule "requires Federal officials to supervise the editorial practices of broadcasters." That year the commissioners, led by their chairman, Dennis Patrick, voted 4 to 0 to end the rule.
 
 **Talk radio.** Rush Limbaugh began a national radio talk show in 1988 on which he gave his conservative political opinions, views that favor keeping old ways and limiting government. Within five years an estimated 20 million people listened each week. His show began the year after the fairness doctrine ended. Whether the end of the rule helped talk shows like his grow is argued and not settled.
+<!-- /hb-zoom -->
 
-Rupert Murdoch's company started the Fox News Channel on October 7, 1996. Roger Ailes, a television producer and former Republican political adviser, ran it.
+<!-- hb-zoom level="span" label="Public broadcasting and cable news, 1967 to 1996" -->
+Members of Congress set up the Corporation for Public Broadcasting in the Public Broadcasting Act of 1967, to hand out federal money to public television and radio stations. People at the corporation started PBS in 1969 and NPR, National Public Radio, in 1970.
+
+Ted Turner's company started CNN, the first television channel to show news 24 hours a day, on June 1, 1980. It reached viewers through cable, wires that carried many channels into homes. Rupert Murdoch's company started the Fox News Channel on October 7, 1996. Roger Ailes, a television producer and former Republican political adviser, ran it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The internet, 1969 to 1996" -->
