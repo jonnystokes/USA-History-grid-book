@@ -1,11 +1,9 @@
 # Before You Start
 
-This book is long. It runs about 820,000 words, which takes about 68 hours to read at 200 words a minute.
+This book is long. It contains about {{book_words}} words, which take about {{book_hours}} hours to read at {{words_per_minute}} words a minute.
 
-The order does not matter. Each chapter stands on its own, and each era inside a chapter stands on its own. Start with any chapter, or with any era inside it.
+The order does not matter. Start with any chapter, or with any era inside one. A hard word is explained the first time it appears in a chapter, so if you start in the middle and meet a word you do not know, look it up in the glossary at the back.
 
-Skipping is normal. Every chapter opens with a card that lists the sections you can skip. The chapter still makes sense without them.
-
-The bold lines are for finding your place. A bold line at the top of an era states how long the era takes to read. A bold line in the middle of a long era states where things stand so far. A box with a person's name at the top is that person's story, built from the records, and you can skip it.
+Skipping is fine. The card at the top of each chapter lists the sections you can skip, and the chapter still makes sense without them. Read the boxes with a person's name at the top, because they contain many of the main stories.
 
 When a page feels heavy, stop at the next bold line. The end of each long era states the one thing to remember from it. Read that line, then come back later or go to another chapter.

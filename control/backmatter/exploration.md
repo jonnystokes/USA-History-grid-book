@@ -19,6 +19,7 @@
 - viceroy: the king's governor of a colony (The 1500s)
 - friar: a member of a Catholic religious order (The 1500s)
 - Cibola: seven rich cities the Spanish went looking for (The 1500s)
+- hostage: a person held prisoner so that his or her people do what the captor wants, such as letting an army pass safely (The 1500s)
 - palisade: a wall of tall upright logs (The 1500s)
 - pueblo: a town of connected houses built of stone or dried mud (The 1500s)
 - rape: forcing a person to have sex (The 1500s)
@@ -54,7 +55,7 @@
 - marines: the soldiers who served on the ships (1750 to 1800)
 - cutlass: a short curved sword (1750 to 1800)
 - squadron: a group of warships (1800 to 1850)
-- doctrine of discovery: an idea in American law under which the government whose explorers found a land first held the right to it against every other European government (1800 to 1850)
+- doctrine of discovery: a rule in American law under which a land that no European had known before belonged to the European government whose explorers found it first, and no other European government could claim it (1800 to 1850)
 - appendicitis: an infection of a small part of the gut (1800 to 1850)
 - vilest miscreants: the worst villains (1800 to 1850)
 - Continental Divide: the line of high ground that separates rivers flowing east from rivers flowing west (1800 to 1850)
@@ -83,6 +84,7 @@
 - Great Basin: a huge dry region between the Rocky Mountains and the Sierra Nevada (1800 to 1850)
 - ask no quarter and give none: no one would be spared, even people who tried to surrender (1800 to 1850)
 - survey teams: groups sent to measure and map the western lands in detail (1850 to 1900)
+- census: the government's count of everyone in the country (1850 to 1900)
 - frontier line: the line between settled and unsettled land (1850 to 1900)
 - geologist: a scientist who studies rocks and the earth (1850 to 1900)
 - parallel: an east-west line on a map (1850 to 1900)
@@ -96,12 +98,12 @@
 - Mormons: members of the Church of Jesus Christ of Latter-day Saints (1850 to 1900)
 - delta: the low, wet land where a river splits into many channels near the sea (1850 to 1900)
 - First International Polar Year: the time when scientists from several countries studied the far north and far south at the same time (1850 to 1900)
+- Inuit: the Native people of the far north, from Alaska to Greenland (1850 to 1900)
 - blank: a cartridge with no bullet in it (1850 to 1900)
 - meteorite: a rock that falls to Earth from space (1850 to 1900)
 - Inuk: one of the Inuit (1850 to 1900)
 - tuberculosis: a lung disease that spreads through the air (1850 to 1900)
 - annex: to take over as part of the United States (1850 to 1900)
-- Inuit: the Native people of the far north, from Alaska to Greenland (1900 to 1950)
 - sharecroppers: farmers who worked someone else's land for a share of the crop (1900 to 1950)
 - Ku Klux Klan: a group of white men who used violence to terrorize Black people (1900 to 1950)
 - navigator: the person who worked out where they were and which way to go (1900 to 1950)
@@ -121,6 +123,7 @@
 - Orteig Prize: a $25,000 prize offered for the first nonstop flight between New York and Paris (1900 to 1950)
 - Distinguished Flying Cross: a medal for bravery or great skill in flying (1900 to 1950)
 - radio direction finder: a radio that locks onto a signal to show which way it came from (1900 to 1950)
+- Soviet Union: a large country ruled from Moscow, the main rival of the United States in those years (1950 to 2000)
 - satellite: an object that travels in a path around a planet (1950 to 2000)
 - Sputnik: the first satellite to circle the Earth (1950 to 2000)
 - NASA: the US space agency, the National Aeronautics and Space Administration (1950 to 2000)
@@ -156,7 +159,6 @@
 - International Space Station: a laboratory that circles the Earth (2000 to Today)
 - interstellar space: the space between the stars, which begins beyond the stream of particles that blows out from the Sun (2000 to Today)
 - plutonium: a radioactive metal that gives off heat (2000 to Today)
-- watt: the unit used to measure electric power (2000 to Today)
 - galaxy: a huge group of billions of stars (2000 to Today)
 - hydraulic system: a system that used fluid under pressure to move the equipment (2000 to Today)
 - Seabed 2030: an international project in which people from many countries are working to map the whole floor of the ocean (2000 to Today)
@@ -168,7 +170,7 @@
 
 - Leif Erikson: Norse sailor from Greenland, son of Erik the Red, who led one of the first European voyages to North America (Before 1500)
 - Christopher Columbus: sea captain from Genoa who sailed west for Spain looking for a sea route to Asia and never set foot in what is now the United States (The 1500s)
-- Alvar Nunez Cabeza de Vaca: Spanish member of the Narvaez expedition, one of the four survivors who walked from Texas to Mexico City (The 1500s)
+- Álvar Núñez Cabeza de Vaca: Spanish member of the Narváez expedition, one of the four survivors who walked from Texas to Mexico City (The 1500s)
 - Estevanico: enslaved African man from Morocco, one of the four survivors, killed at the Zuni town of Hawikuh in 1539 (The 1500s)
 - Henry Hudson: English sea captain who sailed the Half Moon up the Hudson River in 1609, whose crew later put him into an open boat and sailed away (The 1600s)
 - Jacques Marquette: French Jesuit priest who paddled down the Mississippi with Louis Jolliet in 1673 (The 1600s)
@@ -260,4 +262,4 @@
 
 - Q: How do we know people were living here at least 21,000 years ago? A: Human footprints at White Sands, in New Mexico, lie between layers of seeds, pollen and quartz sand, and three different tests date those layers to about 21,000 to 23,000 years ago.
 - Q: What did the explorers do to the people whose land they crossed? A: Some traded with them and were fed by them. Others took captives, from the 500 Taino Columbus's men shipped to Spain to the six Inuit Peary brought to New York, and some killed: de Soto's men at Mabila, Coronado's at Arenal, Frémont's on the Sacramento River.
-- Q: Which famous "firsts" are still in doubt? A: Peary's North Pole in 1909 and Byrd's flight over it in 1926. Wally Herbert found Peary's records unreliable, and most researchers think Byrd's plane could not carry enough fuel. Whether the Norse camp in Newfoundland was Leif's own is not settled either.
+- Q: Which famous "firsts" are still in doubt? A: Peary's North Pole in 1909 and Byrd's flight over it in 1926. Wally Herbert found Peary's records unreliable, and most researchers think Byrd's plane could not carry enough fuel. Older firsts are in doubt too: Spanish slave raiders may have reached Florida before Ponce de León, Ute tradition says Ute ancestors climbed Pikes Peak before Long's men, and nobody knows whether the Norse camp in Newfoundland was Leif's own.

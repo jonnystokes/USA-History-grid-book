@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 11 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
 
 Many American explorers of the years 1900 to 1950 worked far from home. Some traveled by dog sled toward the North Pole. Pilots flew toward both poles and across the Atlantic Ocean. Teams from Yale University and from a New York museum dug in the mountains of Peru and the Gobi Desert of Mongolia.
 
@@ -31,11 +31,11 @@ In some of the places these explorers went, local people led the way. Inuit men,
 
 **Henson said he reached the spot before Peary did.**
 
-Matthew Henson went with Robert Peary on the 1909 journey that Peary claimed reached the North Pole. Members of Congress thanked Peary in 1911. Most of Henson's honors came after 1937, more than 25 years later.
+Matthew Henson went with Robert Peary on the 1909 journey that Peary claimed reached the North Pole. Members of Congress thanked Peary in 1911. Most of Henson's honors came after 1937, more than 25 years after the journey.
 
 Henson was born in Charles County, Maryland, in 1866. His parents were sharecroppers, farmers who worked someone else's land for a share of the crop. They had been free before the Civil War. In 1867 the family left southern Maryland to escape attacks by the Ku Klux Klan, a group of white men who used violence to terrorize Black people.
 
-At 12 Henson went to sea as a cabin boy. The ship's captain, a man named Childs, taught him to read and write. In November 1887 Henson was working in a clothing store in Washington, D.C., when he met Robert Peary, a Navy officer. Peary hired him as his helper on a trip to measure and map land in Nicaragua, where people were planning a canal. Their first Arctic trip together was in 1891 and 1892, and they made seven Arctic voyages over nearly 23 years.
+At 12 Henson went to sea as a cabin boy. The ship's captain, a man named Childs, taught him to read and write. In November 1887 Henson was working in a clothing store in Washington, D.C., when he met Robert Peary, a Navy officer. Peary hired him as his helper on a trip to measure and map land in Nicaragua, where people were planning a canal. Their first Arctic trip together was in 1891 and 1892, and by 1909 they had made seven Arctic voyages.
 
 Henson traded with the Inuit and learned their language. They called him Mahri-Pahluk. He is remembered as the only member of the expedition who was not Inuit and became skilled at driving and training dog teams the Inuit way. He was also Peary's navigator, the person who worked out where they were and which way to go.
 
@@ -79,9 +79,9 @@ Bingham's team dug up about 40,000 objects at Machu Picchu, among them mummies, 
 
 **His team found nests full of dinosaur eggs on July 13, 1923.**
 
-Roy Chapman Andrews's team found the first nests of dinosaur eggs known to science in the Gobi Desert in 1923. Andrews started work at the American Museum of Natural History in New York as a janitor. From 1922 to 1928 he led the museum's expeditions into the Gobi Desert of Mongolia. His teams went by car from Peking, in China, the city now called Beijing. He was looking for the remains of the earliest humans. His teams found none.
+From 1922 to 1928 Roy Chapman Andrews led the American Museum of Natural History's expeditions into the Gobi Desert of Mongolia. His teams went by car from Peking, in China, the city now called Beijing. He was looking for the remains of the earliest humans. His teams found none.
 
-They found other fossils instead. Fossils are the remains of living things from long ago, turned to stone or pressed into rock. In 1922 they found the bones of a giant relative of the rhinoceros that had no horn. On July 13, 1923, they found nests full of fossil dinosaur eggs. Scientists first thought the eggs came from a dinosaur called *Protoceratops*. In 1995 scientists showed that they belonged to a meat-eating dinosaur called *Oviraptor*.
+They found other fossils instead. Fossils are the remains of living things from long ago, turned to stone or pressed into rock. In 1922 they found the bones of a giant relative of the rhinoceros that had no horn. In 1923 they found the first nests of dinosaur eggs known to science. Scientists first thought the eggs came from a dinosaur called *Protoceratops*. In 1995 scientists showed that they belonged to a meat-eating dinosaur called *Oviraptor*.
 
 Chinese officials seized what the expedition had found in 1928. They later gave the finds back. In 1934 Andrews became director of the museum.
 <!-- hb-story:end slug="roy-chapman-andrews" -->
@@ -99,7 +99,7 @@ Richard Byrd led the first flight to the South Pole, in 1929. His claim to have 
 
 **The North Pole claim.** Byrd and the pilot Floyd Bennett flew a three-engine plane, the *Josephine Ford*, toward the North Pole on May 9, 1926. Members of Congress voted both men the Medal of Honor for the flight. Most researchers who have studied the flight believe the plane could not carry enough fuel to fly as far as Byrd said. In 1958 another pilot, Bernt Balchen, said that Bennett had told him they never reached the pole.
 
-Byrd's diary was made public in 1996. It contains navigation readings that were erased. Those readings differ from his official report. The historian Dennis Rawlins concluded that Byrd flew about 80 percent of the way and turned back because of an oil leak. Other researchers defend Byrd's claim.
+Byrd's diary was made public in 1996. Its erased navigation readings differ from his official report, and the records do not say who erased them. The historian Dennis Rawlins concluded that Byrd flew about 80 percent of the way and turned back because of an oil leak. Other researchers defend Byrd's claim.
 
 **The South Pole.** In Antarctica, Byrd built a base camp called Little America on the Ross Ice Shelf, a huge sheet of ice floating on the sea. On November 28, 1929, Byrd, the pilot Bernt Balchen, the radio operator Harold June and the photographer Ashley McKinley took off for the South Pole. They flew there and back in 18 hours and 41 minutes. To make the plane light enough to climb onto the high ice of the Antarctic Plateau, they threw supplies out.
 
@@ -116,7 +116,7 @@ Byrd's diary was made public in 1996. It contains navigation readings that were 
 
 Charles Lindbergh, an airmail pilot, became the first person to fly alone and without stopping across the Atlantic Ocean in May 1927. Workers at Ryan Airlines, a company in San Diego, built his single-engine plane, the *Spirit of St. Louis*.
 
-Lindbergh took off from Roosevelt Field, in Garden City, New York, on May 20, 1927. He landed at Le Bourget airfield outside Paris 33 hours and 30 minutes later, after about 3,600 miles. He won the $25,000 Orteig Prize, which had been offered for the first nonstop flight between New York and Paris.
+Lindbergh took off from Roosevelt Field, in Garden City, New York, on May 20, 1927. He landed at Le Bourget airfield outside Paris the next day, after about 3,600 miles. He won the $25,000 Orteig Prize, which had been offered for the first nonstop flight between New York and Paris.
 
 Two British fliers, John Alcock and Arthur Brown, had made the first nonstop flight across the Atlantic eight years earlier. They flew from St. John's, Newfoundland, to Clifden, Ireland, on June 14 and 15, 1919, in under sixteen hours. Lindbergh was the first to make the crossing alone.
 <!-- hb-story:end slug="charles-lindbergh" -->
@@ -145,9 +145,11 @@ At 7:58 in the morning she radioed that she could not hear the *Itasca*. Earhart
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 13 minutes**
 
-After 1950 the places no person had ever seen were the deepest parts of the ocean and space beyond the Earth. On October 4, 1957, Soviet engineers launched Sputnik, the first satellite to circle the Earth. A satellite is an object that travels in a path around a planet. The next year members of Congress passed a law that set up NASA, the US space agency. Soviet and American crews then flew into space, one flight after another. Between 1969 and 1972 twelve American astronauts walked on the Moon.
+After 1950 the places no person had ever seen were the deepest parts of the ocean and space beyond the Earth. The Soviet Union, a large country ruled from Moscow, was the main rival of the United States in those years. On October 4, 1957, Soviet engineers launched Sputnik, the first satellite to circle the Earth. A satellite is an object that travels in a path around a planet.
+
+The next year members of Congress passed a law that set up NASA, the US space agency. Soviet and American crews then flew into space, one flight after another. Between 1969 and 1972 twelve American astronauts walked on the Moon.
 
 Three American astronauts died in a fire on the launch pad in 1967. Seven died when the space shuttle *Challenger* broke apart in 1986. A space shuttle was a spacecraft that rode rockets up into space and landed on a runway when it came back. In the ocean, two men reached the deepest point on Earth in 1960, and scientists found living things around hot springs on the sea floor in 1977.
 <!-- /hb-zoom -->
@@ -162,7 +164,7 @@ Three American astronauts died in a fire on the launch pad in 1967. Seven died w
 
 Navy Lieutenant Don Walsh and the Swiss ocean scientist Jacques Piccard reached the bottom of the deepest known place in the ocean on January 23, 1960. It is called the Challenger Deep, and it lies in the Mariana Trench, near the island of Guam in the Pacific. No craft of any kind, with people or without, had been there before.
 
-They went down in the *Trieste*, a deep-diving craft called a bathyscaphe. Piccard's father, Auguste Piccard, had designed it, and it was built in Italy in 1953. The US Navy bought it. The trip down took 4 hours and 47 minutes. Below 30,000 feet, one of the outer window panes cracked, and the craft shook.
+They went down in the *Trieste*, a deep-diving craft called a bathyscaphe. Piccard's father, Auguste Piccard, had designed it, and it was built in Italy in 1953. The US Navy bought it. The trip down took 4 hours and 47 minutes. The pane that cracked was one of the outer window panes, and the two men went on to the bottom.
 
 At the time they measured the depth as 37,799 feet. The figure was later corrected to 35,814 feet, which is almost seven miles. Newer measurements give between 35,797 and 36,070 feet. The two men stayed on the bottom for twenty minutes, in a cabin that was 45 degrees Fahrenheit.
 
@@ -217,7 +219,7 @@ President Barack Obama gave her the Presidential Medal of Freedom in 2015. Membe
 
 Neil Armstrong and Buzz Aldrin became the first people to land on the Moon on July 20, 1969. A Saturn V rocket had launched them and Michael Collins from Kennedy Space Center, in Florida, on July 16.
 
-Armstrong and Aldrin flew the lunar module, a small landing craft named *Eagle*, down to a flat plain called the Sea of Tranquility. Collins stayed in orbit around the Moon in the command module, *Columbia*, the part of the spacecraft that would carry all three men home. About six hours after landing, Armstrong stepped out onto the Moon. Aldrin followed him 19 minutes later. An estimated 600 million people, about one in five people on Earth, watched Armstrong's first steps live on television. Another count gives 650 million.
+Armstrong and Aldrin flew the lunar module, a small landing craft named *Eagle*, down to a flat plain called the Sea of Tranquility. Collins stayed in orbit around the Moon in the command module, *Columbia*, the part of the spacecraft that would carry all three men home. About six hours after landing, Armstrong stepped out onto the Moon. Aldrin followed him 19 minutes later. An estimated 600 million people watched Armstrong's first steps live on television, and another count gives 650 million.
 
 The two men collected 47.5 pounds of rock and soil and spent more than 21 hours on the Moon's surface. The three astronauts splashed down safely in the Pacific Ocean on July 24, 1969.
 <!-- hb-story:end slug="apollo-11-crew" -->
@@ -250,9 +252,9 @@ The crew swung around the Moon and headed home. They splashed down safely in the
 
 **She walked the sea floor 1,250 feet down, with no line up.**
 
-Sylvia Earle holds the women's record for the deepest dive to the sea floor, 1,250 feet down. She became a marine biologist, a scientist who studies life in the sea. In 1969 the people running the Tektite project, which let scientists live in a laboratory under the sea, turned her down. By then she had spent more than 1,000 hours underwater doing research.
+Sylvia Earle holds the women's record for the deepest dive to the sea floor. She became a marine biologist, a scientist who studies life in the sea. In 1969 she asked to join the Tektite project, which let scientists live in a laboratory under the sea. She had already spent more than 1,000 hours underwater doing research. The government officials running the project turned her down, because they did not want men and women living together in the laboratory.
 
-Earle led the first all-woman team of aquanauts, people who live and work underwater, in 1970. They lived in a laboratory 50 feet below the surface off the Virgin Islands.
+So in 1970 Earle led the first all-woman team of aquanauts, people who live and work underwater. They lived in a laboratory 50 feet below the surface off the Virgin Islands.
 
 She put on a hard diving suit in 1979 that kept the water pressure away from her body. With no line connecting her to the surface, she dived to the sea floor off Oahu, Hawaii, 1,250 feet down. That women's depth record still stands. From 1990 to 1992 she was the first woman to be chief scientist of NOAA, the US government's ocean and weather agency.
 <!-- hb-story:end slug="sylvia-earle" -->
@@ -261,13 +263,13 @@ She put on a hard diving suit in 1979 that kept the water pressure away from her
 ### Robert Ballard
 
 > **Who:** A Navy oceanographer and sea-floor geologist from Kansas.
-> **When and where:** 1977 to 1989. The Pacific floor near the Galapagos Islands and the North Atlantic.
+> **When and where:** 1977 to 1989. The Pacific floor near the Galápagos Islands and the North Atlantic.
 
 **First he had to look at two sunken Navy submarines in secret.**
 
 Robert Ballard helped find living things where scientists had expected none, and later he found the wreck of the *Titanic*. He became an oceanographer, a scientist who studies the ocean, and he worked at the Woods Hole Oceanographic Institution.
 
-Ballard was a diver in 1977 on an expedition that used the submarine *Alvin* on the sea floor near the Galapagos Islands, in the Pacific. Its members found hot springs on the sea floor. Groups of living things surrounded them. They got their energy from chemicals in the water from the springs, not from sunlight. All the scientists on board were geologists, scientists who study rocks and the Earth, because they had been certain there would be no life to study.
+Ballard was a diver in 1977 on an expedition that used the submarine *Alvin* on the sea floor near the Galápagos Islands, in the Pacific. Its members found hot springs on the sea floor. Groups of living things surrounded them. They got their energy from chemicals in the water from the springs, not from sunlight. All the scientists on board were geologists, scientists who study rocks and the Earth, because they had been certain there would be no life to study.
 
 **The Titanic.** Ballard asked the Navy in 1982 to pay for a search for the *Titanic*. He planned to use a new camera robot called *Argo*, which a ship could tow along the sea floor. The Navy's leaders agreed, on one condition. First he had to use *Argo* to look in secret at the wrecks of two Navy nuclear submarines, the *Thresher* and the *Scorpion*. Both had sunk in the 1960s.
 
@@ -284,7 +286,7 @@ After that work, in 1985, Ballard and a French team found the wreck of the *Tita
 
 Sally Ride became the first American woman in space in 1983, and Mae Jemison became the first African American woman in space in 1992. Ride was a physicist from California, a scientist who studies matter and energy. She joined NASA in 1978. On June 18, 1983, she flew on the space shuttle *Challenger*. She was the third woman in space. The first had been Valentina Tereshkova of the Soviet Union, in 1963. At 32 Ride was the youngest American astronaut to fly.
 
-On the flight Ride worked the shuttle's robot arm. Reporters sent more than 500 requests to interview her. Two months later, on August 30, 1983, Guion Bluford became the first African American in space.
+On the flight Ride worked the shuttle's robot arm. Two months later, on August 30, 1983, Guion Bluford became the first African American in space.
 
 Ride later served on the Rogers Commission, which investigated the *Challenger* explosion in 1986, and on the Columbia Accident Investigation Board, which investigated the loss of the shuttle *Columbia* in 2003. She was the only person to serve on both. She died in 2012. Her obituary, the published notice of her death, named Tam O'Shaughnessy as her partner of 27 years. Ride had kept the relationship private while she was alive. She is the first astronaut known to have been LGBTQ, which stands for lesbian, gay, bisexual, transgender or queer.
 
@@ -301,8 +303,8 @@ Several of the crew are thought to have survived the breakup itself. Someone swi
 
 <!-- hb-zoom level="era" label="By 2000" -->
 **If you remember one thing:** Between 1950 and 2000 people reached the bottom of the ocean and walked on the Moon, and ten American astronauts died on the launch pad or on the way up.
-**One question this era leaves open:** Nobody has walked on the Moon since Apollo 17 came home in December 1972. Would anyone go back? The next era answers it.
-**Next:** After 2000 most of the explorers were robots, until April 2026.
+**One question this era leaves open:** whether people would ever go back to the Moon. Nobody has walked on it since Apollo 17 came home in December 1972. The next era states the answer.
+**Next:** A second space shuttle, *Columbia*, was lost in 2003, seventeen years after *Challenger*.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -310,7 +312,7 @@ Several of the crew are thought to have survived the breakup itself. Someone swi
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 8 minutes**
+**Era 10 of 10 · 2000 to Today · about 6 minutes**
 
 Since 2000, robot spacecraft steered from Earth have explored Mars and the outer solar system. Rovers, robot vehicles, drive across Mars, and probes, robot spacecraft sent to study faraway places, have flown past Pluto and out beyond the planets. People have lived on the International Space Station, a laboratory that circles the Earth, without a break since November 2, 2000.
 
@@ -326,17 +328,19 @@ While *Columbia* was in orbit, a team of engineers asked several times for pictu
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Robots to Mars and beyond" -->
-NASA's rover *Curiosity* landed in Gale crater on Mars on August 6, 2012. *Curiosity* was still working in September 2026. The rover *Perseverance* landed on February 18, 2021, in Jezero Crater. The mission's planners chose the crater because an ancient river once flowed into it and left a delta, a fan of mud and sand. *Perseverance* drills rock samples and stores them so that a later mission could bring them to Earth. In July 2024 it found a rock that shows a possible chemical sign of ancient life.
+NASA's rover *Curiosity* landed in Gale crater on Mars in August 2012. In March 2013 NASA scientists reported what a rock it drilled showed: water had once filled that place, at the end of a river or in a lake, and tiny living things could have lived in it. Nothing in the rock showed that any did. *Curiosity* was still working in September 2026.
 
-*Perseverance* carried a helicopter named *Ingenuity*, the first aircraft to fly on another planet. It was built for five flights. It made 72 flights over nearly three years, until its rotor blades broke when it landed on January 18, 2024.
+The rover *Perseverance* landed in Jezero Crater in February 2021. The mission's planners chose the crater because an ancient river once flowed into it and left a delta, a fan of mud and sand. *Perseverance* drills rock samples and stores them so that a later mission could bring them to Earth. In July 2024 it found a rock that shows a possible chemical sign of ancient life.
 
-The probe *New Horizons* left Earth on January 19, 2006. On July 14, 2015, it passed 7,800 miles above Pluto, the first spacecraft to visit it. On January 1, 2019, it flew past an object called Arrokoth, about 4 billion miles from the Sun.
+*Perseverance* carried a helicopter named *Ingenuity*, the first aircraft to fly on another planet. It was built for five flights and made 72 over nearly three years, until its rotor blades broke in January 2024.
 
-Two older probes, *Voyager 1* and *Voyager 2*, were launched in 1977. On August 25, 2012, *Voyager 1* became the first spacecraft to reach interstellar space, the space between the stars. Interstellar space begins beyond the stream of particles that blows out from the Sun. *Voyager 2* followed on November 5, 2018. *Voyager 1* is the most distant object people have ever made.
+The probe *New Horizons* left Earth in January 2006. On July 14, 2015, it became the first spacecraft to visit Pluto, passing 7,800 miles above it. In 2019 it flew past an object called Arrokoth, about 4 billion miles from the Sun.
 
-Both Voyagers get their power from plutonium, a radioactive metal that gives off heat. According to a NASA report of April 17, 2026, each loses about 4 watts of power a year. A watt is the unit used to measure electric power. That day NASA engineers switched off one of *Voyager 1*'s instruments, the Low-energy Charged Particles instrument, to save power. Two of its science instruments still work.
+Two older probes, *Voyager 1* and *Voyager 2*, were launched in 1977. In 2012 *Voyager 1* became the first spacecraft to reach interstellar space, the space between the stars, which begins beyond the stream of particles that blows out from the Sun. *Voyager 2* followed in 2018. *Voyager 1* is the most distant object people have ever made.
 
-The James Webb Space Telescope was launched on December 25, 2021, from French Guiana, in South America. It cost just under $10 billion. It was built to see light from about 180 million years after the universe began, light that left the first galaxies. A galaxy is a huge group of billions of stars.
+Both Voyagers get their power from plutonium, a radioactive metal that gives off heat, and their power drops a little every year. In April 2026 NASA engineers switched off one of *Voyager 1*'s instruments to save power. Two of its science instruments still work.
+
+The James Webb Space Telescope was launched on December 25, 2021, from French Guiana, in South America. It cost just under $10 billion. It was built to see light that left the first galaxies, about 180 million years after the universe began. A galaxy is a huge group of billions of stars.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="james-cameron" name="James Cameron" movie="" kind="famous" status="verified" -->
@@ -349,7 +353,7 @@ The James Webb Space Telescope was launched on December 25, 2021, from French Gu
 
 James Cameron, a film director from Canada, became the first person to dive alone to the Challenger Deep, the deepest point in the ocean, on March 26, 2012. He piloted a small deep-diving craft, the *Deepsea Challenger*, to the bottom alone. The craft was built in Sydney, Australia, with the National Geographic Society.
 
-The trip down took 2 hours and 37 minutes, about twice as fast as the *Trieste* in 1960. The deepest reading on the dive was 35,787 feet. Cameron spent about three hours exploring the bottom, the first person to spend that long there. A problem with the craft's hydraulic system made it hard to use the equipment for collecting samples. The hydraulic system used fluid under pressure to move the equipment.
+The trip down took 2 hours and 37 minutes, about twice as fast as the *Trieste* in 1960. The deepest reading on the dive was 35,787 feet. No one before him had stayed on the bottom so long. A problem with the craft's hydraulic system made it hard to use the equipment for collecting samples. The hydraulic system used fluid under pressure to move the equipment.
 
 Cameron's was the second dive with people on board to reach the Challenger Deep, 52 years after Don Walsh and Jacques Piccard. He was the third person to go there, after Walsh and Piccard. The *Deepsea Challenger* was later given to the Woods Hole Oceanographic Institution, where Robert Ballard had worked.
 <!-- hb-story:end slug="james-cameron" -->
@@ -368,7 +372,7 @@ In an international project called Seabed 2030, people from many countries are w
 
 Four astronauts flew around the Moon in April 2026, the first people to go there in more than 50 years. They were the commander, Reid Wiseman, the pilot, Victor Glover, and Christina Koch of NASA, and Jeremy Hansen of the Canadian Space Agency. They launched on April 1, 2026. It was the first flight with a crew for NASA's Orion spacecraft and its SLS rocket. SLS stands for Space Launch System. The crew circled around the Moon but did not land.
 
-According to NASA's announcement of April 10, 2026, the crew traveled 252,756 miles from Earth at their farthest point. That broke the record of 248,655 miles set by the crew of Apollo 13 in 1970. A web page of the Smithsonian's National Air and Space Museum states that Koch became the first woman to travel that far from Earth. Glover became the first Black man and Hansen the first Canadian to do so.
+According to NASA's announcement of April 10, 2026, their farthest point broke the record of 248,655 miles set by the crew of Apollo 13 in 1970. A web page of the Smithsonian's National Air and Space Museum states that Koch became the first woman to travel that far from Earth. Glover became the first Black man and Hansen the first Canadian to do so.
 
 Koch had already spent 328 days in orbit on the International Space Station, ending in February 2020. It was the longest single spaceflight by a woman up to that time.
 
@@ -381,9 +385,9 @@ The crew splashed down safely in the Pacific Ocean off San Diego at 5:07 p.m. Pa
 **The three questions, answered**
 - How do we know people were living here at least 21,000 years ago? Human footprints at White Sands, in New Mexico, lie between layers of seeds, pollen and quartz sand, and three different tests date those layers to about 21,000 to 23,000 years ago.
 - What did the explorers do to the people whose land they crossed? Some traded with them and were fed by them. Others took captives, from the 500 Taino Columbus's men shipped to Spain to the six Inuit Peary brought to New York, and some killed: de Soto's men at Mabila, Coronado's at Arenal, Frémont's on the Sacramento River.
-- Which famous "firsts" are still in doubt? Peary's North Pole in 1909 and Byrd's flight over it in 1926. Wally Herbert found Peary's records unreliable, and most researchers think Byrd's plane could not carry enough fuel. Whether the Norse camp in Newfoundland was Leif's own is not settled either.
+- Which famous "firsts" are still in doubt? Peary's North Pole in 1909 and Byrd's flight over it in 1926. Wally Herbert found Peary's records unreliable, and most researchers think Byrd's plane could not carry enough fuel. Older firsts are in doubt too: Spanish slave raiders may have reached Florida before Ponce de León, Ute tradition says Ute ancestors climbed Pikes Peak before Long's men, and nobody knows whether the Norse camp in Newfoundland was Leif's own.
 
-**What changed:** The chapter begins with people walking into Alaska from Asia across dry land and ends with four people flying around the Moon, and by 1950 the only places left to find were the ones where nobody lived.
+**What changed:** For thousands of years almost every place an explorer reached was already somebody's home, and after 1950 the only places left were the deep ocean and space, where nobody had ever lived.
 
 **Five dates to keep**
 - 1021: Norse sailors cut trees at L'Anse aux Meadows, in Newfoundland.
@@ -396,6 +400,6 @@ The crew splashed down safely in the Pacific Ocean off San Diego at 5:07 p.m. Pa
 
 **Where to go:** The La Verendrye lead plate from 1743 is kept in the South Dakota Cultural Heritage Center.
 
-**Next:** Chapter 2, Native Nations. It asks what happened to the nations whose land the explorers in this chapter crossed, told from their side.
+**Next:** Chapter 2, Native Nations, which describes what happened to the nations whose land the explorers in this chapter crossed, from the nations' side.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->
