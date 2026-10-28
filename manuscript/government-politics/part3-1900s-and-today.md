@@ -120,8 +120,6 @@ His trial opened in Dayton on July 10, 1925, before Judge John T. Raulston. On J
 In January 1927 the judges of the Tennessee Supreme Court threw out his conviction. The state constitution required a jury, not a judge, to set any fine over $50, and Raulston had set the fine himself. So the judges never ruled on the Butler Act itself. It stayed in force until 1967.
 
 **Who pays.** Between 1920 and 1950, more and more of the money for public schools came from the states, and less from local school districts. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. Nearly all the rest came from the state, and less than 3 percent from the federal government. Small districts were merged, and their number fell by almost a third between 1937-38 and 1949-50.
-
-**Ending segregated schools.** Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Buck v. Bell, 1927" -->
@@ -189,6 +187,10 @@ Nolan Breedlove sued Georgia's tax collector, T. Earl Suttles. All the justices 
 In *Smith v. Allwright*, decided on April 3, 1944, the justices held that the party's leaders were acting for the state when they ran the primary. Keeping Black voters out of it therefore broke the Fifteenth Amendment. Justice Stanley Reed wrote the opinion. Justice Owen Roberts dissented.
 <!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Ending California's law on segregated schools, 1947" -->
+Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
+<!-- /hb-zoom -->
+
 <!-- hb-zoom level="span" label="1948: the armed forces, refugees and conventions on television" -->
 On July 26, 1948, President Harry Truman signed Executive Order 9981. It states: "There shall be equality of treatment and opportunity for all persons in the armed forces without regard to race, color, religion or national origin." By about 1953 Black and white troops served together in nearly all the armed services.
 
@@ -198,7 +200,7 @@ Both major parties held their national conventions in Philadelphia in 1948, and 
 
 On July 12, 1948, after a speech by Hubert Humphrey, the Democratic delegates added a civil rights plank to their platform. A plank is one position in a platform. Civil rights are the rights every citizen has to equal treatment under the law. Two Southern delegations walked out on live television.
 
-On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Segregation means keeping people of different races apart. Thurmond won four states and 39 electoral votes.
+On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Thurmond won four states and 39 electoral votes.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
@@ -447,8 +449,10 @@ Justice Anthony Kennedy wrote for the majority that "the Government may not supp
 **Maps.** The justices decided *Rucho v. Common Cause*, also 5 to 4, on June 27, 2019. Gerrymandering is drawing the lines of voting districts so that one side wins more seats. Two maps were before the Court: North Carolina's map for Congress drawn by Republicans in 2016, and Maryland's drawn by Democrats in 2011.
 
 Chief Justice John Roberts wrote that "partisan gerrymandering claims present political questions beyond the reach of the federal courts." Partisan means favoring one political party. Justice Elena Kagan wrote in dissent: "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities." After 2019, a voter who believed a map was drawn to favor one party could not take that complaint to a federal court. Judges in state courts and members of Congress could still act on it.
+<!-- /hb-zoom -->
 
-**Asking permission.** Under Section 5 of the Voting Rights Act, officials in the places the act covered had to get federal permission before changing any voting rule. On June 25, 2013, in *Shelby County v. Holder*, the justices struck down the formula in Section 4(b) that set which places were covered. The ruling states that the formula "can no longer be used" to make a place ask permission. So the places it had covered no longer had to ask.
+<!-- hb-zoom level="span" label="Asking permission to change voting rules, 2013" -->
+Under Section 5 of the Voting Rights Act, officials in the places the act covered had to get federal permission before changing any voting rule. On June 25, 2013, in *Shelby County v. Holder*, the justices struck down the formula in Section 4(b) that set which places were covered. The ruling states that the formula "can no longer be used" to make a place ask permission. So the places it had covered no longer had to ask.
 
 The justices left Section 5 itself in place and wrote that "Congress may draft another formula based on current conditions." As of September 2026, members of Congress had passed no new formula.
 <!-- /hb-zoom -->

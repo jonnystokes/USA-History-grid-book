@@ -2450,12 +2450,19 @@ been convicted. **Clinton's belongs to era 9; the two Trump trials belong to era
   Senate **7 ayes to 92 nays** and by the House **138 to 282**. Congress finished the count and
   declared the result.
 - **The Capitol was attacked while that session was under way.** The Government Accountability Office,
-  reporting in 2022, found that over roughly **seven hours** about **140 police officers** were
+  reporting in 2022, found that ~~over roughly **seven hours** about **140 police officers** were
   assaulted, about **80** of them U.S. Capitol Police; that about **114 Capitol Police officers
-  reported injuries**; and that damage came to about **$1.5 million**. GAO also found that Capitol
+  reported injuries**; and that~~ damage came to about **$1.5 million**. GAO also found that Capitol
   Police planning for the day "did not reflect the potential for extreme violence aimed at the
   Capitol," even though the force had information that protesters could be armed and were planning to
   target Congress.
+  **CORRECTED 2026-10-28 (T-769):** the struck officer counts join two different 2022 reports that
+  counted different things, so they do not fit together (about 80 Capitol Police officers assaulted,
+  yet 114 injured). The right figure is GAO's 2023 count: members of the crowd assaulted **at least
+  174 police officers, 114 of them U.S. Capitol Police and 60 D.C. Metropolitan Police** (GAO-23-106625,
+  28 February 2023, page 1). "Over the course of about 7 hours" and the **$1.5 million** in damage are
+  in both 2022 reports and stand. Do not print 140, 80 or "114 injured" as the count. Verbatim quotes
+  and pages: PATCH 2026-10-28 (T-769) at the end of this file.
   Sources: GAO-22-105001 — https://www.gao.gov/products/gao-22-105001 ;
   GAO-22-104829 — https://www.gao.gov/products/gao-22-104829 ;
   GAO-23-106625 — https://www.gao.gov/assets/gao-23-106625.pdf
@@ -2500,9 +2507,18 @@ been convicted. **Clinton's belongs to era 9; the two Trump trials belong to era
   Census Bureau, 2020 Census Apportionment Results, 26 April 2021 —
   https://www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html
 - **What this thread is for.** The brief says the territories are near-absent from the whole book.
-  This is the plainest place to fix that: about **3.6 million** American citizens and nationals lived
-  in 2020 in places that send no voting member to Congress and, except for the District, cast no
-  electoral vote for president.
+  This is the plainest place to fix that: ~~about **3.6 million** American citizens and nationals~~
+  **about 4.3 million people (CORRECTED below)** lived in 2020 in places that send no voting member to
+  Congress and, except for the District, cast no electoral vote for president.
+  **CORRECTED 2026-10-28 (T-769):** the right figure is **4,313,440 people, about 4.3 million**: the
+  District of Columbia (689,545) plus Puerto Rico (3,285,874) plus the four island areas (338,021:
+  Guam 153,836, U.S. Virgin Islands 87,146, American Samoa 49,710, Northern Mariana Islands 47,329).
+  The struck "3.6 million" is Puerto Rico and the island areas alone (3,623,895): the line names the
+  District but leaves it out of its sum. Every figure is a 2020 Census count of residents, not of
+  citizens and nationals only, so the plain word is "people". Sources: the Census Bureau's 2020
+  Apportionment Table A (the District and Puerto Rico) and its October 2021 story "2020 Population of
+  U.S. Island Areas Just Under 339,000" (the four island areas), both listed under the lines above.
+  Do not print 3.6 million. See PATCH 2026-10-28 (T-769) at the end of this file.
 
 ---
 
@@ -3419,3 +3435,37 @@ Each item gives its source. Items copied from another chapter's bank name that b
   about 4.3 million. The earlier line names the District in its sentence but leaves it out of its sum,
   and every figure is a count of residents, not of citizens and nationals only. The prose now says
   "about 4.3 million people."
+
+### PATCH 2026-10-28 (T-769): director fact items, two era-10 lines corrected in place
+- **Why the January 6 officer counts in "The Capitol was attacked" did not fit.** That line joined two
+  separate 2022 reports, which counted different things. Each report fetched 2026-10-28 through
+  WebFetch and read with pdftotext:
+  - GAO-22-105001, "Capitol Attack: The Capitol Police Need Clearer Emergency Procedures and a
+    Comprehensive Security Risk Assessment Process," 17 February 2022, page 1: "Over the course of
+    about 7 hours, the attack resulted in assaults on approximately 140 police officers, including
+    about 80 U.S. Capitol Police (Capitol Police) officers, and about $1.5 million in damages to
+    facilities and infrastructure, according to information from the Department of Justice and the
+    Capitol Police." https://www.gao.gov/assets/gao-22-105001.pdf
+  - GAO-22-104829, "Capitol Attack: Additional Actions Needed to Better Prepare Capitol Police
+    Officers for Violent Demonstrations," 7 March 2022, page 1: "Over the course of about 7 hours, the
+    attackers assaulted police officers, including about 114 U.S. Capitol Police (Capitol Police)
+    officers who reported injuries, and caused about $1.5 million in damages, according to
+    information from the Department of Justice and Capitol Police."
+    https://www.gao.gov/assets/gao-22-104829.pdf
+  - GAO-23-106625, "Capitol Attack: Federal Agencies Identified Some Threats, but Did Not Fully
+    Process and Share Information Prior to January 6, 2021," 28 February 2023, page 1: "The attack
+    resulted in assaults on at least 174 police officers, including 114 Capitol Police and 60 D.C.
+    Metropolitan Police Department officers." https://www.gao.gov/assets/gao-23-106625.pdf
+  - **Settled:** use the 2023 count, at least 174 police officers assaulted, 114 of them Capitol
+    Police and 60 D.C. police. It is GAO's latest count, and its parts add up. The $1.5 million in
+    damage is in both 2022 reports and stands.
+- **How many people lived in 2020 in places with no voting member of Congress.** District of
+  Columbia 689,545, Puerto Rico 3,285,874, Guam 153,836, U.S. Virgin Islands 87,146, American Samoa
+  49,710, Northern Mariana Islands 47,329. Total **4,313,440**, about 4.3 million residents. The
+  District and Puerto Rico figures are from the Census Bureau's 2020 Apportionment Table A, listed
+  under "Who cannot vote" above. The four island-area figures were re-read 2026-10-28 on the Census
+  Bureau's story "2020 Population of U.S. Island Areas Just Under 339,000"
+  (https://www.census.gov/library/stories/2021/10/first-2020-census-united-states-island-areas-data-released-today.html).
+- **Prose:** already right, no change. Part 3, era 10 says "at least 174 police officers. Of them,
+  114 were from the United States Capitol Police and 60 from the police department of Washington,
+  D.C." and "about 4.3 million people", and the era closer says "About 4.3 million people" (T-716).
