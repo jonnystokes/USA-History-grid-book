@@ -148,7 +148,7 @@
 - **antibiotic**: a medicine that kills bacteria (Chapter 26)
 - **Anti-Masonic Party**: the party formed by men who opposed the Freemasons (Chapter 20)
 - **antinomian**: a word that means "against the law," used by Anne Hutchinson's opponents to say her teaching let a saved person ignore the rules (Chapter 29)
-- **antiproton**: a tiny particle with the opposite electric charge of the proton, a particle in the center of every atom (Chapter 13)
+- **antiproton**: a tiny particle with the opposite electric charge of the proton, a particle in the center of every atom (Chapter 9)
 - **antisemitic**: hateful toward Jewish people (Chapter 9)
 - **anti-Semitism**: hatred of Jews (Chapter 29)
 - **antitrust laws**: laws against trusts and other combinations of companies (Chapter 19)
