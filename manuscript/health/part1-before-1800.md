@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 26 of 37 · Health, Disease, and Medicine · 10 eras · about 110 minutes**
+**Chapter 26 of 37 · Health, Disease, and Medicine · 10 eras · about 115 minutes**
 
 **For most of American history nobody knew what caused disease, and after doctors learned how to stop it, the people with the least power were often the last to be protected and the first to be tested on.**
 

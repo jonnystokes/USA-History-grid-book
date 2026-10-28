@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 4 of 37 · Immigration to America · 10 eras · about 105 minutes**
+**Chapter 4 of 37 · Immigration to America · 10 eras · about 100 minutes**
 
 **People came here to stay from almost every country on earth, and from the 1600s on, the people who had come earlier kept deciding who could join them, by law and sometimes by mob violence.**
 

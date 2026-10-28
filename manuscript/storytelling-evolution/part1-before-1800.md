@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 34 of 37 · Storytelling Evolution · 10 eras · about 135 minutes**
+**Chapter 34 of 37 · Storytelling Evolution · 10 eras · about 125 minutes**
 
 **People here have acted out stories for centuries, and in every era someone fought over who was allowed to act, whom an actor could play, and who owned the performance.**
 

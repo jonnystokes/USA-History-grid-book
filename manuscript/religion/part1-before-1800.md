@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 29 of 37 · Religion · 10 eras · about 205 minutes**
+**Chapter 29 of 37 · Religion · 10 eras · about 200 minutes**
 
 **Freedom of worship in the United States grew one fight at a time, and most of those fights were started by people who were being punished for their faith.**
 

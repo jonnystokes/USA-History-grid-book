@@ -939,8 +939,23 @@ def back_target(what, section, m, c):
         o = era_order(section)
         return (c["era_ids"][o], None) if o in c["era_ids"] else (None, f"the chapter has no era {section!r}")
     if what == "glossary":
-        o = era_order(handoff_glossary(c["slug"]).get(name.lower(), ""))
-        o = o if o in c["era_ids"] else find_era(c, name)
+        # a word split by meaning carries a label in brackets ("bond (in court)"): look up the word itself
+        base = re.sub(r"\s*\([^()]*\)\s*$", "", name).strip() or name
+        hg = handoff_glossary(c["slug"])
+        o = era_order(hg.get(name.lower(), "") or hg.get(base.lower(), ""))
+        if o not in c["era_ids"]:
+            o = None
+            for variant in (base, base.replace("-", ""), base.replace("-", " ")):    # "feeble-minded"
+                o = find_era(c, variant)
+                if o:
+                    break
+        if not o:
+            # the chapter may use another form of the word ("ratified", "foundries"): try its stem
+            first = base.split()[0]
+            for n in range(len(first) - 1, max(4, len(first) - 3) - 1, -1):
+                o = find_era(c, first[:n])
+                if o:
+                    break
         return (c["era_ids"][o], None) if o else (None, "the word is not in the chapter's eras")
     if what == "places":
         for key, case in place_keys(name):

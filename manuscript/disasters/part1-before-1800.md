@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 27 of 37 · Disasters and Rescue · 10 eras · about 125 minutes**
+**Chapter 27 of 37 · Disasters and Rescue · 10 eras · about 130 minutes**
 
 **Fires, floods, storms and earthquakes strike suddenly, but people's choices decided how many died and who got help, and most safety rules came only after the deaths.**
 

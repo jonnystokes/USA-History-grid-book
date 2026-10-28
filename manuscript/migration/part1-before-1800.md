@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 5 of 37 · Migration Across America · 10 eras · about 80 minutes**
+**Chapter 5 of 37 · Migration Across America · 10 eras · about 75 minutes**
 
 **Many of the biggest moves across this land were forced or driven. Soldiers marched whole nations west, and slave traders and enslavers forced more than a million enslaved people south. Later, about 6 million Black Southerners went north to get away from mob killings and from Jim Crow laws, the laws that kept Black and white people apart.**
 

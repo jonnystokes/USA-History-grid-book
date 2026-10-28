@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 22 of 37 · War and the Military · 10 eras · about 135 minutes**
+**Chapter 22 of 37 · War and the Military · 10 eras · about 130 minutes**
 
 **Until World War II, sickness killed more American soldiers than weapons did. In almost every war, at home and abroad, soldiers also killed people who could not fight back.**
 

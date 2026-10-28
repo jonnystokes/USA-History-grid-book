@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 36 of 37 · Sports and Play · 10 eras · about 130 minutes**
+**Chapter 36 of 37 · Sports and Play · 10 eras · about 125 minutes**
 
 **From chunkey at Cahokia to Fortnite, American games moved out of open fields and into leagues, arenas and screens run by adults and companies, and at almost every step someone in charge decided who was allowed to play.**
 

@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 30 of 37 · School and Education · 10 eras · about 230 minutes**
+**Chapter 30 of 37 · School and Education · 10 eras · about 225 minutes**
 
 **School in America grew from a reading lesson for a few children into a right for every child. At every step, the adults in charge decided which children could come in and what could be done to them there.**
 

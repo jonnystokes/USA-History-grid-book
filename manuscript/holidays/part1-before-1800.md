@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 37 of 37 · Holidays · 10 eras · about 100 minutes**
+**Chapter 37 of 37 · Holidays · 10 eras · about 95 minutes**
 
 **Many American holidays exist because someone asked for a day and kept asking, and the arguing over some of them is not over.**
 
