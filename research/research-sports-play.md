@@ -42,9 +42,10 @@ count) and games of dexterity (skill). He found "games of pure skill and calcula
 
 ### Chunkey at Cahokia
 - Cahokia, the city near present-day St. Louis, "arose around A.D. 1050" (Archaeology 2009). Jefferson Patterson
-  Park says chunkey "is believed to have originated around 600 A.D." in the Cahokia area and that the city
-  declined around 1500 while "variations were played throughout North America" after (JPPM 2011). The two
-  sources give different starting points: the game (about 600) and the city (about 1050). Keep both.
+  Park says chunkey "is believed to have originated around 600 A.D." in the Cahokia area and that "variations were
+  played throughout North America" after the city fell (JPPM 2011). JPPM's date for the fall, "c. 1500 A.D.", is
+  not used: most of Cahokia's people had left by about 1350, and the city was empty by about 1400 (PATCH T-781
+  below). The two sources give different starting points: the game (about 600) and the city (about 1050). Keep both.
 - How it was played: players rolled a stone disk and threw or slid poles after it, trying to land the pole
   closest to where the stone stopped (JPPM 2011). Stones have "convex edges and concave sides and were
   occasionally perforated in the center" (JPPM 2011).
@@ -69,6 +70,23 @@ count) and games of dexterity (skill). He found "games of pure skill and calcula
   it in the before-1500 cell as a fact about Cahokia. The dated eyewitness on stakes is Adair (era 05).
 - Later eyewitnesses who saw chunkey: the journal of the French frigate at the Mississippi mouth, 1698-99
   (Culin 1907, p. 485, citing Margry v. 4 p. 261); James Adair 1775 (see era 05); George Catlin 1832 (JPPM).
+
+### PATCH 2026-10-28 (T-781): when Cahokia emptied (copied from `research-city-building.md` PATCH T-763; corrects the JPPM "declined around 1500" date above)
+- NPS, "Cahokia Mounds State Historic Site World Heritage Site" (https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm,
+  fetched 2026-10-01, as copied in research-city-building.md): the Mississippian culture of the mounds "flourished
+  between A.D. 1000 and 1350."
+- National Geographic, "This American Indian metropolis was mysteriously abandoned. Archaeologists want to know why"
+  (https://www.nationalgeographic.com/history/history-magazine/article/this-american-indian-metropolis-was-mysteriously-abandoned-archaeologists-want-to-know-why,
+  fetched with curl 2026-10-28, as copied in research-city-building.md): "As many as 15,000 people lived in Cahokia at
+  its peak, some estimate, but by 1400 the city was deserted." and "By the 1400s it was abandoned."
+- JPPM 2011's own words (as copied in research-city-building.md): "Even after the city of Cahokia fell in c. 1500 A.D.,
+  variations were played throughout North America." The page gives no source for the date.
+- Ruling (T-763, followed here): most of Cahokia's people had left by about 1350, and the city was empty by about
+  1400. The JPPM date is not used. JPPM still stands for chunkey being played across North America after the city
+  emptied, and the later eyewitnesses above confirm it.
+- Prose (T-781, era 01, "Chunkey at Cahokia"): "Most of Cahokia's people had left the city by about 1350, and it was
+  empty by about 1400. Staff at the Jefferson Patterson Park and Museum in Maryland say that people across North
+  America went on playing chunkey after that."
 
 ### Lacrosse and stickball (racket games)
 - Names: the Choctaw call their game kapucha toli (stick + play) or ishtaboli (Choctaw Nation; Wikipedia "Choctaw

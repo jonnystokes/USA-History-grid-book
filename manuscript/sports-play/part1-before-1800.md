@@ -52,7 +52,7 @@ The game began about the year 600, in the area around present-day St. Louis. Peo
 
 Timothy Pauketat, an archaeologist at the University of Illinois, thinks messengers from Cahokia carried a chunkey stone in one hand and a war club in the other. In his account, they went out to the lands around the city to make peace or to make agreements with other peoples. He also writes that chunkey played a large part in how Cahokia's people lived together and how they were governed.
 
-Chunkey stones from about 1300 have turned up as far away as Georgia, and in Maryland at sites in Frederick and Montgomery counties. Staff at the Jefferson Patterson Park and Museum in Maryland say Cahokia declined around 1500, and that people went on playing chunkey across North America after that.
+Chunkey stones from about 1300 have turned up as far away as Georgia, and in Maryland at sites in Frederick and Montgomery counties. Most of Cahokia's people had left the city by about 1350, and it was empty by about 1400. Staff at the Jefferson Patterson Park and Museum in Maryland say that people across North America went on playing chunkey after that.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Ball games with sticks" -->

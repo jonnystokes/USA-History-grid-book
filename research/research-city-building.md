@@ -36,7 +36,7 @@
 - The other banks agree: research-native-nations.md line 15 (occupied about 700 to 1400, dispersed by about 1350) and research-migration.md line 33 ("By about 1350 its people had dispersed, and it was largely empty by the 1400s").
 - The outlier: Jefferson Patterson Park and Museum (Maryland), Curator's Choice, "Native American Gaming Stones", by Rebecca Morehouse, MAC Lab State Curator, January 2011 (apps.jefpat.maryland.gov/curatorschoice/CCIssues/2011-01.aspx, fetched with curl 2026-10-28): "Even after the city of Cahokia fell in c. 1500 A.D., variations were played throughout North America." The page is about gaming stones and gives no source for that date (it cites Pauketat 2009 only for where chunkey began).
 - Ruling (T-763): most of Cahokia's people had left by about 1350, and the city was empty by about 1400. The JPPM date of about 1500 is not used. Chapter 6's "The people of Cahokia had scattered and left the city by about 1350" stands unchanged. The Jefferson Patterson Park and Museum line in manuscript/_backmatter/05-places.md no longer gives a date for Cahokia (changed by dispatch).
-- Still carrying "around 1500" (outside T-763, for the director): manuscript/sports-play/part1-before-1800.md line 55 and research-sports-play.md line 46.
+- Still carrying "around 1500" (outside T-763, for the director): manuscript/sports-play/part1-before-1800.md line 55 and research-sports-play.md line 46. Both fixed by T-781 (2026-10-28) to the ruling above.
 - UNESCO's listing (whc.unesco.org/en/list/198/) answered curl with a Cloudflare check page, so it was not read this time.
 
 ## 02 The 1500s
@@ -322,10 +322,19 @@
 - Mohawk crews on these towers: see era 07 sources (NMAI "Booming Out"; History.com).
 
 ### Great Migration settlement (city-form angle; journey → `migration`)
-- ~6 million Black Southerners left 1910–1970; 1910–20 city gains: Chicago +148%, Detroit +611% (also Philadelphia +500%, NY ~doubled — figures verified in research-migration.md; Census "Great Migration" pages).
+- ~6 million Black Southerners left 1910–1970; 1910–20 city gains: Chicago +148%, Detroit +611%, Philadelphia about +59%, New York about +66%; New York's Black population then more than doubled in 1920–30 (Census Bureau tables, PATCH T-781 below, which corrects this line's earlier "Philadelphia +500%, NY ~doubled").
 - **Restrictive covenants:** private deed/contract clauses barring sale or rental to Black families (sometimes also Jews, Asians); spread through the 1920s around Chicago's Black Belt and nationally; effect = overcrowding and a dual housing market. (Chicago Covenants Project; Newberry/Encyclopedia of Chicago; ChiPubLib "Housing and Race in Chicago.") Shelley v. Kraemer (1948) made them unenforceable → `rights-movements`/`government-politics`.
 - **Kitchenettes:** landlords subdivided flats into one-room units with a hotplate, shared bath; Bronzeville held **80,000+ kitchenette units**; higher rent per square foot than white neighborhoods. "Black Belt" → residents' name **Bronzeville**. (Amani C. Morrison, *A Kitchenette to Fit Your Needs* (2026) via Chicago Review of Books; ChiPubLib; WTTW/DuSable histories.) Richard Wright's kitchenette passages (12 Million Black Voices) available for prose color — primary literary source.
 - Harlem as the parallel capital — general; use without numbers or pull numbers from research-migration.md.
+
+### PATCH 2026-10-28 (T-781): Black population of four Northern cities, 1910 to 1930 (copied from `research-migration.md` PATCH T-762; corrects the "Philadelphia +500%, NY ~doubled" figures this section carried)
+- Campbell Gibson and Kay Jung, "Historical Census Statistics on Population Totals by Race, 1790 to 1990, and by Hispanic Origin, 1970 to 1990, for Large Cities and Other Urban Places in the United States," US Census Bureau, Population Division, Working Paper No. 76, February 2005, https://www.census.gov/content/dam/Census/library/working-papers/2005/demo/POP-twps0076.pdf (read 2026-10-28 by T-762; Table 14 Illinois, Table 23 Michigan, Table 33 New York, Table 39 Pennsylvania; Black population at each census):
+  - Chicago: 44,103 (1910), 109,458 (1920), 233,903 (1930). 1910 to 1920: up about 148 percent, about 2.5 times.
+  - Detroit: 5,741 (1910), 40,838 (1920), 120,066 (1930). 1910 to 1920: up about 611 percent, about 7 times.
+  - New York city: 91,709 (1910), 152,467 (1920), 327,706 (1930). 1910 to 1920: up about 66 percent. 1920 to 1930: up about 115 percent, more than doubled.
+  - Philadelphia: 84,459 (1910), 134,229 (1920), 219,599 (1930). 1910 to 1920: up about 59 percent.
+- Correction (T-762): Chicago's 148 percent and Detroit's 611 percent stand. Philadelphia's "about 500 percent" is wrong: the Census table gives about 59 percent for 1910 to 1920. New York's "about 152,000 to 328,000" is the 1920 to 1930 change, not 1910 to 1920.
+- Prose (T-781, era 08, "Where Great Migration families could live"): "Philadelphia's rose about 59 percent, and New York's about 66 percent. In the 1920s New York's Black population more than doubled."
 
 ### Redlining maps (the maps are ours; family impact → home-family; injustice → rights-movements)
 - **HOLC** created 1933 (refinanced Depression mortgages); **1935–1940: "Residential Security" maps for 239 cities**, neighborhoods graded A (green) / B (blue) / C (yellow) / **D (red, "hazardous")**; Black presence described as "infiltration" and effectively guaranteed a red grade. Legacy: ~74% of HOLC-red neighborhoods are low-to-moderate income today; ~64% majority-minority (NCRC 2018 study). Digitized: **Mapping Inequality** (University of Richmond DSL). (NCRC "HOLC 'redlining' maps"; Mapping Inequality; Chicago Fed working paper 2017-12.)

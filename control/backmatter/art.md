@@ -73,7 +73,7 @@
 - squatting: settling on land without any right (1800 to 1850)
 - reservation: land set aside for a Native nation by treaty (1800 to 1850)
 - smallpox: a disease caused by a virus that spread face to face and killed about 3 of every 10 people who caught it (1800 to 1850)
-- vaccination: a shot that protects a person from smallpox (1800 to 1850)
+- vaccination: scratching fluid from a sore of cowpox, a mild disease of cows, into the skin, which protects a person against smallpox (1800 to 1850)
 - ingratitude: not being thankful (1800 to 1850)
 - white flag of truce: a sign that two sides have stopped fighting to talk (1800 to 1850)
 - malaria: a disease spread by mosquitoes that brings fever and chills (1800 to 1850)

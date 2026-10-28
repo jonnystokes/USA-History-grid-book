@@ -348,7 +348,7 @@ Their daughter, Jeanne Jordan, and the filmmaker Steven Ascher made the film abo
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 Americans have argued since 2000 over what goes into their food, who picks it and who can get enough of it. Meanwhile the number of farms kept falling. The 2022 Census of Agriculture, the USDA's count of the country's farms, found 1.9 million farms in the United States, 7 percent fewer than in 2017. It was the first count below 2 million since before the Civil War. In 1935 there had been 6.8 million.
 <!-- /hb-zoom -->

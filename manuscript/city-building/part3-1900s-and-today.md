@@ -98,7 +98,7 @@ Mohawk ironworkers from Kahnawake and Akwesasne worked on the steel of both the 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where Great Migration families could live" -->
-The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 500 percent, and New York's roughly doubled.
+The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 59 percent, and New York's about 66 percent. In the 1920s New York's Black population more than doubled.
 
 Black families who arrived could not live wherever they chose. White property owners kept them out of neighborhoods with restrictive covenants, sections written into the deed of a house, the legal paper that records who owns it. A covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey it too.
 

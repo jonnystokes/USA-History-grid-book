@@ -19,7 +19,7 @@
 - Tsenacomoco: the land of the Powhatan chiefdom (The 1600s)
 - chiefdom: a union of many Native nations under one high chief (The 1600s)
 - muster list: a count of the living and the dead at each settlement (The 1600s)
-- loblollie: a thin porridge boiled in water (The 1600s)
+- loblollie: a thick porridge boiled in water (The 1600s)
 - General Court: the governor of Virginia and his council, sitting together as the colony's highest court (The 1600s)
 - planter: the owner of a plantation (The 1600s)
 - branding: pressing a red-hot iron into the skin. The burn left the letter on the cheek as a scar for life (The 1600s)

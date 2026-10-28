@@ -15,7 +15,7 @@
 - citrus fruit: the family of fruit that includes oranges and lemons (The 1500s)
 - rape: forcing a person to have sex (The 1500s, explained again in 1950 to 2000)
 - archaeologists: scientists who study the past by digging up what people left behind (The 1500s)
-- Starving Time: the winter of 1609 to 1610 at Jamestown, when about 500 colonists fell to about 61 (The 1600s)
+- Starving Time: the winter of 1609 to 1610 at Jamestown. When it began, the colony had about 500 people, about 240 of them inside the fort, and by spring about 60 of the people in the fort were still alive (The 1600s)
 - weroance: a leader (the Paspahegh weroance, or leader) (The 1600s)
 - assembly: Virginia's assembly was the colony's lawmaking body (The 1600s)
 - bushel: a measure that holds about 8 gallons (The 1600s)

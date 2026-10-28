@@ -89,7 +89,7 @@
 - contraband camps: camps run by Union army officials, and later the Freedmen's Bureau, for people who had escaped slavery (1850 to 1900)
 - Freedmen's Bureau: the federal office set up to help freed people (1850 to 1900)
 - smallpox: a disease caused by a virus that spreads from person to person, bringing a fever and a rash that spreads over the skin and turns to scabs (1850 to 1900)
-- vaccinate: to give a shot that protects against a disease (1850 to 1900)
+- vaccinate: to scratch fluid from the sores of cowpox, a mild disease of cows, into the skin, which protects a person against smallpox (1850 to 1900)
 - quarantine: keeping the sick away from the well (1850 to 1900)
 - foundry: a workshop where metal is melted and cast (1850 to 1900)
 - pilot: the man who steered a ship (1850 to 1900)

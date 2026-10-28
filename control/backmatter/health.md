@@ -29,7 +29,7 @@
 - uppowoc: tobacco (The 1500s)
 - paramount chief: a leader over the chiefs of many nations (The 1600s)
 - flux, bloody flux: the old word for diarrhea, and diarrhea with blood in it (The 1600s)
-- Starving Time: the winter of 1609 to 1610 at Jamestown, when only about 60 of about 240 colonists lived (The 1600s)
+- Starving Time: the winter of 1609 to 1610 at Jamestown, when only about 60 of about 240 colonists in the fort lived (The 1600s)
 - leptospirosis: an infection by bacteria that rats carry in their urine (The 1600s)
 - scurvy: a disease caused by too little vitamin C, in which the gums swell and bleed, the teeth loosen, and the person grows too weak to work (The 1600s)
 - bloodletting, letting blood: cutting open a vein, most often in the arm, and letting blood run out into a bowl (The 1600s)
